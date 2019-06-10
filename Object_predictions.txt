@@ -1,0 +1,7 @@
+tvmonitor
+person
+chair
+sofa
+tvmonitor
+person
+keyboard

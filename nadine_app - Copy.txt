@@ -1,0 +1,126 @@
+Tue, 12 December 2017 02:31:40 ### Unknown:how are you?
+Tue, 12 December 2017 02:31:40 ### Nadine:i'm very well. how are you doing?
+Tue, 12 December 2017 02:35:27 ### Unknown:what is your name?
+Tue, 12 December 2017 02:35:27 ### Nadine:my name is sophie
+Tue, 12 December 2017 06:41:55 ### Unknown:how are you?
+Tue, 12 December 2017 06:41:55 ### Nadine:glad to see you
+Tue, 12 December 2017 06:42:30 ### Unknown:who made you?
+Tue, 12 December 2017 06:42:31 ### Nadine:researchers from institute of media innovation in n t u
+Tue, 12 December 2017 06:43:55 ### Unknown:what is the weather like in new delhi
+Tue, 12 December 2017 06:44:01 ### Nadine:currently a new deli at 67 with fog today it'll be partly cloudy with a forecast high of 70 and a low of 50
+Tue, 12 December 2017 06:44:46 ### Unknown:what is the stock price of apple
+Tue, 12 December 2017 06:44:51 ### Nadine:sorry i don't know how to help with that yet but i'm trying to learn
+Tue, 12 December 2017 06:45:13 ### Unknown:what is the stock price of google
+Tue, 12 December 2017 06:45:17 ### Nadine:sorry i'm not sure how to help
+Tue, 12 December 2017 06:45:44 ### Unknown:what is the stock price of amazon
+Tue, 12 December 2017 06:45:48 ### Nadine:sorry i'm not sure how to help with that yet
+Tue, 12 December 2017 06:46:09 ### Unknown:stock price of apple
+Tue, 12 December 2017 06:46:14 ### Nadine:sorry i'm not sure how to help
+Tue, 12 December 2017 06:46:35 ### Unknown:what is the net worth of apple
+Tue, 19 December 2017 11:27:21 ### Unknown:hello
+Tue, 19 December 2017 11:27:52 ### Unknown:what is your name
+Tue, 19 December 2017 11:27:52 ### Nadine:my name is sophie
+Tue, 19 December 2017 11:45:36 ### Unknown:hello
+Tue, 19 December 2017 11:45:51 ### Unknown:who made you
+Tue, 19 December 2017 11:45:52 ### Nadine:researchers from institute of media innovation in n t u
+Tue, 19 December 2017 11:47:22 ### Unknown:hello
+Tue, 19 December 2017 11:47:34 ### Unknown:where are you
+Tue, 19 December 2017 11:47:34 ### Nadine:i am at institute for media innovation
+Tue, 19 December 2017 11:48:17 ### Nadine:hello yasir. you are new to me. nice to meet you.
+Tue, 19 December 2017 11:48:31 ### Yasir:what is the date today
+Tue, 19 December 2017 11:48:35 ### Nadine:it is tuesday the 19th of december 2017
+Tue, 19 December 2017 11:48:49 ### Yasir:who is professor nadia tillman
+Tue, 19 December 2017 11:48:52 ### Nadine:i remember jason said that he is also an associate professor in china
+Tue, 19 December 2017 11:49:17 ### Yasir:what is the
+Tue, 19 December 2017 11:49:22 ### Nadine:sorry what are you asking
+Tue, 19 December 2017 11:52:20 ### Yasir:hello
+Tue, 19 December 2017 11:52:27 ### Nadine:hello nikki. you are new to me. nice to meet you.
+Tue, 19 December 2017 11:52:35 ### Nikki:what is the time
+Tue, 19 December 2017 11:52:39 ### Nadine:it's 11:52
+Tue, 19 December 2017 11:52:44 ### Nadine:hello nitti. you are new to me. nice to meet you.
+Tue, 19 December 2017 11:52:53 ### Nadine:hello nidhi. you are new to me. nice to meet you.
+Tue, 19 December 2017 11:53:11 ### Nidhi:what is the time in minutes
+Tue, 19 December 2017 11:53:16 ### Nadine:sorry i don't understand
+Tue, 19 December 2017 11:53:19 ### Nidhi:sorry i don't understand
+Tue, 19 December 2017 11:53:23 ### Nadine:i remember jason said that his research topic is robotics. i'm sorry
+Tue, 19 December 2017 11:53:28 ### Nidhi:i remember jason statham
+Tue, 19 December 2017 11:53:34 ### Nadine:i remember you said that you don not understand. sorry i don't know how to help with that
+Wed, 20 December 2017 03:54:27 ### Unknown:show me picture of a dog 
+Wed, 20 December 2017 03:54:31 ### Nadine:<voice emotion='happy'>i don't see any chromecast or cast enabled tvs linked to your account you can add devices in the google home app</voice>
+Wed, 20 December 2017 04:10:25 ### Unknown:hello
+Wed, 20 December 2017 04:10:25 ### Nadine:hi nice to see you!
+Wed, 20 December 2017 04:10:48 ### Unknown:show me pictures of a dog
+Wed, 20 December 2017 04:11:21 ### Unknown:show pictures of a dog
+Wed, 20 December 2017 04:29:58 ### Unknown:show pictures of a dog
+Wed, 20 December 2017 04:40:08 ### Unknown:show pictures of a dog
+Wed, 20 December 2017 04:57:10 ### Unknown:show me pictures of nadine
+Wed, 20 December 2017 04:57:12 ### Sophie:PicturePath[http://worldkings.org/Userfiles/Upload/images/Nayang.jpg]
+Thu, 21 December 2017 01:22:45 ### Unknown:show me pictures of nadine robot
+Thu, 21 December 2017 01:23:07 ### Sophie: PicturePath[http://www.telegraph.co.uk/content/dam/science/2016/03/12/nadine_3537222a-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg]
+Thu, 21 December 2017 01:23:40 ### Sophie: PicturePath[https://static.straitstimes.com.sg/sites/default/files/articles/2015/12/30/386.jpg]
+Thu, 21 December 2017 01:23:40 ### Sophie: PicturePath[https://i1.wp.com/www.rightsidenews.com/wp-content/uploads/2016/01/nadine.jpg?resize\u003d489%2C362]
+Thu, 21 December 2017 01:23:41 ### Sophie: PicturePath[https://cdn.stumagz.com/images/56e2b070ec7b5stryimg]
+Thu, 21 December 2017 01:23:43 ### Sophie: PicturePath[http://www.telegraph.co.uk/content/dam/video_previews/h/p/hpyjr3etplcpf7clyzmlg5lrgogwei8i-xlarge.jpg]
+Thu, 21 December 2017 01:41:52 ### Unknown:show me pictures of obama
+Thu, 21 December 2017 01:41:54 ### Sophie: PicturePath[https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_400x400.jpg]
+Thu, 21 December 2017 01:41:54 ### Sophie: PicturePath[https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg]
+Thu, 21 December 2017 01:41:54 ### Sophie: PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/220px-Official_portrait_of_Barack_Obama.jpg]
+Thu, 21 December 2017 01:41:54 ### Sophie: PicturePath[http://media.tmz.com/2015/04/17/barack-obama-200x250.jpg]
+Thu, 21 December 2017 01:41:54 ### Sophie: PicturePath[https://www.whitehouse.gov/wp-content/uploads/2017/12/44_barack_obama1.jpg]
+Thu, 21 December 2017 01:50:09 ### Unknown:hello
+Thu, 21 December 2017 01:51:24 ### Unknown:what is your name
+Thu, 21 December 2017 01:51:25 ### Sophie:my name is sophie
+Thu, 21 December 2017 01:51:53 ### Unknown:who made you
+Thu, 21 December 2017 01:51:54 ### Sophie:researchers from institute of media innovation in n t u
+Thu, 21 December 2017 01:53:02 ### Unknown:language changed to english
+Thu, 21 December 2017 01:53:17 ### Unknown:where are you
+Thu, 21 December 2017 01:53:22 ### Sophie:i am at institute for media innovation
+Thu, 21 December 2017 01:53:33 ### Unknown:what is your name
+Thu, 21 December 2017 01:53:36 ### Sophie:my name is sophie
+Thu, 21 December 2017 01:53:43 ### Unknown:who made you
+Thu, 21 December 2017 01:53:48 ### Sophie:researchers from institute of media innovation in n t u
+Thu, 21 December 2017 01:53:57 ### Unknown:language changed to english
+Thu, 21 December 2017 01:54:46 ### Unknown:where are you
+Thu, 21 December 2017 01:54:51 ### Sophie:i am at institute for media innovation
+Thu, 21 December 2017 01:54:56 ### Unknown:who made you
+Thu, 21 December 2017 01:55:02 ### Sophie:researchers from institute of media innovation in n t u
+Thu, 21 December 2017 01:56:05 ### Unknown:language changed to english
+Thu, 21 December 2017 01:56:15 ### Unknown:how old are you
+Thu, 21 December 2017 01:56:21 ### Sophie:i look thirty but i am only four years old
+Thu, 21 December 2017 01:56:28 ### Unknown:how old are you
+Thu, 21 December 2017 01:56:33 ### Sophie:i look thirty but i am only four years old
+Thu, 21 December 2017 01:57:37 ### Unknown:language changed to english
+Thu, 21 December 2017 01:57:49 ### Unknown:where are you
+Thu, 21 December 2017 01:57:53 ### Sophie:i am at institute for media innovation
+Thu, 21 December 2017 01:58:08 ### Unknown:what is your favorite color
+Thu, 21 December 2017 01:58:14 ### Sophie:i have no favorite color
+Thu, 21 December 2017 01:58:21 ### Unknown:what do you eat
+Thu, 21 December 2017 01:58:26 ### Sophie:as a robot, i only require electricity
+Thu, 21 December 2017 01:59:49 ### Unknown:hello
+Thu, 21 December 2017 02:00:05 ### Unknown:show me pictures of obama
+Thu, 21 December 2017 02:00:07 ### Sophie: PicturePath[https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_400x400.jpg]
+Thu, 21 December 2017 02:00:07 ### Sophie: PicturePath[https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg]
+Thu, 21 December 2017 02:00:07 ### Sophie: PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/220px-Official_portrait_of_Barack_Obama.jpg]
+Thu, 21 December 2017 02:00:07 ### Sophie: PicturePath[http://media.tmz.com/2015/04/17/barack-obama-200x250.jpg]
+Thu, 21 December 2017 02:00:07 ### Sophie: PicturePath[https://www.whitehouse.gov/wp-content/uploads/2017/12/44_barack_obama1.jpg]
+Thu, 21 December 2017 02:00:22 ### Unknown:show me pictures of nivea mishra
+Thu, 21 December 2017 02:00:24 ### Sophie: PicturePath[https://i1.wp.com/anamikamishra.com/wp-content/uploads/2012/10/DSCN7715.jpg?fit\u003d400%2C533\u0026resize\u003d350%2C200]
+Thu, 21 December 2017 02:00:24 ### Sophie: PicturePath[https://cdn.makeupandbeauty.com/wp-content/uploads/2016/07/Nivea-Lip-Butter-Original-Review.jpg]
+Thu, 21 December 2017 02:00:24 ### Sophie: PicturePath[https://cdn.makeupandbeauty.com/wp-content/uploads/2016/07/Nivea-Lip-Butter-Claims.jpg]
+Thu, 21 December 2017 02:00:24 ### Sophie: PicturePath[https://cdn.makeupandbeauty.com/wp-content/uploads/2016/07/Nivea-Gentle-Toner-for-Dry-and-Sensitive-Skin-Review-700x526.jpg]
+Thu, 21 December 2017 02:00:24 ### Sophie: PicturePath[https://cdn.slidesharecdn.com/ss_thumbnails/nivea-091213014145-phpapp02-thumbnail-4.jpg?cb\u003d1260668538]
+Thu, 21 December 2017 02:00:36 ### Unknown:show me pictures of
+Thu, 21 December 2017 02:00:38 ### Unknown:nadia talman
+Thu, 21 December 2017 02:00:39 ### Sophie:<voice emotion='happy'>be direct and clear</voice>
+Thu, 21 December 2017 02:00:56 ### Unknown:show me pictures of nadia talman
+Thu, 21 December 2017 02:00:57 ### Sophie: PicturePath[https://lh6.googleusercontent.com/-FDSZzSBroZ0/AAAAAAAAAAI/AAAAAAAAAJg/_F_ew0YhFcw/photo.jpg]
+Thu, 21 December 2017 02:00:57 ### Sophie: PicturePath[https://lh5.googleusercontent.com/-0AANZZ-TM9Y/AAAAAAAAAAI/AAAAAAAAAEM/Coocxc-MkAs/photo.jpg]
+Thu, 21 December 2017 02:00:57 ### Sophie: PicturePath[https://lh4.googleusercontent.com/-MP2TELmy8ks/AAAAAAAAAAI/AAAAAAAAACc/j-pnuHQEVrY/photo.jpg]
+Thu, 21 December 2017 02:00:57 ### Sophie: PicturePath[https://media-exp1.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAlLAAAAJDY3MzI5MjhlLTRkNGUtNDdiYi1hYzE5LTFlMzQ0ZWUzNDRlMQ.jpg]
+Thu, 21 December 2017 02:00:57 ### Sophie: PicturePath[https://media-exp1.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAL0AAAAJDU3ZDg0Nzc0LWQ1ZjItNDg0OC05Y2Q2LWZmMWE4NjU3YmNiYQ.jpg]
+Thu, 21 December 2017 02:01:10 ### Unknown:show me pictures of dogs
+Thu, 21 December 2017 02:01:11 ### Sophie: PicturePath[https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg]
+Thu, 21 December 2017 02:01:11 ### Sophie: PicturePath[https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg]
+Thu, 21 December 2017 02:01:11 ### Sophie: PicturePath[https://media.mnn.com/assets/images/2014/07/dog-looking-sad.jpg.653x0_q80_crop-smart.jpg]
+Thu, 21 December 2017 02:01:11 ### Sophie: PicturePath[http://cdn1-www.dogtime.com/assets/uploads/gallery/korean-jindo-dog-breed-pictures/puppy-1_680-453.jpg]
+Thu, 21 December 2017 02:01:11 ### Sophie: PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/1200px-Collage_of_Nine_Dogs.jpg]

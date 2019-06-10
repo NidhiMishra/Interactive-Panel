@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    /* Create two equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 50%;
+        padding: 10px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .button {
+      font-size: 30px;
+      margin-bottom: 25px;
+      margin-right: 175px;
+      cursor: pointer;
+      padding: 32px 16px;
+      text-align: center;
+      border-radius: 12px;
+      width: 500px;
+      display: inline-block;
+      background-color: #2874A6;
+    }
+    .button:hover {background-color: #e7e7e7;}
+
+    .dropdown {
+      font-size: 30px;
+      margin-bottom: 25px;
+      margin-right: 175px;
+      cursor: pointer;
+      padding: 32px 16px;
+      text-align: center;
+      border-radius: 12px;
+      background-color: #e7e7e7;
+      width: 500px;
+      display: inline-block;
+      background-color: #2874A6;
+    }
+    .dropdown:hover {background-color: #e7e7e7;}
+
+    #box1 {
+      box-sizing: border-box;
+      width: 400px;
+      height: 200px;
+      padding: 30px;    
+      border: 10px solid blue;
+      border-color: #2874A6;
+      margin-bottom: 25px;
+      margin-right: 50px;
+      cursor: pointer;
+      padding: 32px 16px;
+      text-align: center;
+      border-radius: 12px;
+      display: inline-block;
+    }
+
+    #title1 {
+      color: #2874A6;
+      font-family: verdana;
+      font-size: 400%;
+      text-align:center;
+      margin-top: 150px;
+    }
+
+    #title2 {
+      color: #2874A6;
+      font-family: verdana;
+      font-size: 400%;
+      text-align:center;
+      /*margin-right: 50px;*/
+      /*margin-top: 150px;*/
+    }
+
+    .panel {
+      /*margin-top: 150px;*/
+      margin-right: 175px;
+      margin-bottom: 25px;
+      /*margin-left: 40px;*/
+      width: 500px;
+      height: 200px;
+    }
+    
+    p.ex1 {
+      font-size: 80px;
+      margin-right: 340px;
+      text-align: right;
+    }
+
+    div.scroll {
+      background-color: #00FFFF;
+      height: 100px;
+      overflow: scroll;
+    }
+
+    .alert {
+      padding: 20px;
+      background-color: #f44336;
+      color: white;
+    }
+
+    h1 {
+      color: blue;
+      font-family: verdana;
+      font-size: 400%;
+      text-align:center;
+    }
+    
+    </style>
+
+    <title>Chat</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+
+  </head>
+  
+  <body>
+    
+    <div class="row">
+      
+      <div class="column" id="content" color="#FFFFFF">
+        <a class="navbar-brand nav-back" href="/">  </a>
+        <h1>Chat History</h1>
+        <div class="scroll" id="textContaint" style="height:900px;"
+        ></div>
+      </div>
+      
+      <div class="column" id="informationContaint" color="#DAF7A6">
+        <h1>Interaction Panel</h1>
+
+        <div>
+          <button class="button" onclick="myFunctionTodeliver()" style="float:right;">Parcel/Letter</button>
+        </div>
+
+        <div>
+          <button class="button" onclick="myFunctionToRegister()" style="float:right;">Register Yourself</button>
+        </div>
+        
+        <div>
+            <select class="dropdown" id="lang" onchange="writeFile()" style="float:right;">
+              <option>Language</option>
+              <option>English</option>
+              <option>Chinese</option>
+              <option>Hindi</option>
+              <option>French</option>
+              <option>German</option>
+            </select>
+        </div>
+  
+        <div class="panel panel-primary" style="float:right;">
+          <div class="panel-heading" style="font-size: 20px;">Objects</div>
+          <div class="panel-body" id="ObjectsContent">Panel Content</div>
+        </div>
+
+        <div class="panel panel-primary" style="float:right;">
+          <div class="panel-heading" style="font-size: 20px;">Gestures</div>
+          <div class="panel-body" id="GesturesContent">Panel Content</div>
+        </div>
+        
+      </div>
+        
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+
+      document.getElementById("textContaint").style.backgroundColor = "white";
+      document.getElementById("textContaint").style.border = "thick solid #000000";
+      document.getElementById("informationContaint").style.backgroundColor = "white";
+
+      function myFunctionToRegister() {
+        var personType;
+        var r = confirm("Please press ok if you are staff else press Cancel!");
+        if (r == true) {
+            personType = "staff";
+            alert("Entering you as a staff. Please place your staff card in front of camera for scanning. Thank you!");
+        } else {
+            personType = "visitor";
+            alert("Entering you as a visitor. Please place your IC in front of camera for scanning. Thank you!");
+        }
+        $.ajax({
+            method: "POST",
+            url : "register.php",
+            data: {"personType": personType},
+            success : function (data) {
+                console.log("showPictures button working")
+                // alert(data)
+            }
+          });
+      }
+
+      function myFunctionTodeliver() {
+        alert("Please place your parcel/letter in front of camera for scanning. Thank you!");
+        $.ajax({
+            method: "POST",
+            url : "deliver.php",
+            // data: {"language": $("#lang").val()},
+            success : function () {
+                console.log("deliver button working")
+                // alert(data)
+            }
+          });
+      }
+
+      function writeFile() {
+        $.ajax({
+            method: "POST",
+            url : "languageWrite.php",
+            data: {"language": $("#lang").val()},
+            success : function (data) {
+                console.log("language = ", data)
+                // alert(data)
+            }
+          });
+      }
+      $("document").ready(function(){
+        var curLang = '';
+        setInterval(function(){
+          $.ajax({
+              url : "nadine_app.txt",
+              dataType: "text",
+              success : function (data) {
+                  let a = data.split('\n')
+                  // let start = parseInt($("#fileLength").val())
+                  let codeHtml = ""
+                  for(let i = 0; i < a.length-1; i++){
+                    console.log(`${i} =>`, a[i])
+                    let data = a[i].split('###')
+                    console.log("data = ", data)
+                    let time = data[0]
+                    let chat = data[1].split('**')
+                    console.log("chat = ", chat)
+                    let name = chat[0].trim()
+                    let chatText = chat[1]
+                    let imgBig = ''
+                    if(data[1].indexOf("PicturePath") >= 0){
+                      let imgPath = (data[1].split('[')[1]).split(']')[0]
+                       console.log("imgPath = ", imgPath)
+                      chatText = `<div>
+                                        <img src='${imgPath}'  width="300" height="200">
+                                        <div class="dropdown-content">
+                                            <img src='${imgPath}' width="300" height="200">
+                                        </div>
+                                    '</div>`
+                    }
+                    if(data[1].indexOf("VideoPath") >= 0){
+                      let imgPath = (data[1].split('[')[1]).split(']')[0]
+                      chatText = `<div class="dropdown">
+                                        <img src='${imgPath}'  width="300" height="200">
+                                        <div class="dropdown-content">
+                                            <img src='${imgPath}' width="300" height="200">
+                                        </div>
+                                    '</div>`
+                    }
+
+                    if(name == "Nadine"){
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-8 nadine">
+                          <div class="row">
+                            <div class="col-sm-4 time-nadine">${time}</div>
+                            <div class="col-sm-8" style="font-size:250%">${chatText}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-2 profile">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/Nadine.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    } else if(name == "Sophie"){
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-8 nadine">
+                          <div class="row">
+                            <div class="col-sm-4 time-nadine">${time}</div>
+                            <div class="col-sm-8" style="font-size:250%">${chatText}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-2 profile">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/sophie.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    }
+                    else {
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-2 profile_left">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/default-user-image.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-8 user">
+                          <div class="row">
+                            <div class="col-sm-8" style="font-size:250%">${chatText}</div>
+                            <div class="col-sm-4 time-user">${time}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    }
+                  }
+                  $("#textContaint").html(codeHtml);
+              }
+            });
+          },1000);
+
+          window.setInterval(function() {
+            var elem = document.getElementById('textContaint');
+            elem.scrollTop = elem.scrollHeight;
+          }, 1000);
+        
+      })
+
+      $("document").ready(function(){
+        setInterval(function(){
+          $.ajax({
+              url : ("Action_predictions.txt"),
+              dataType: "text",
+              success : function (data) {
+                let a = data.split('\n')
+                //alert(a)
+                let codeHtml = a[0]
+                for(let i = 1; i < a.length-1; i++) {
+                  codeHtml = codeHtml + ", " + a[i]
+                }
+                // let codeHtml = '"' + data + '"'
+                $("#GesturesContent").html(codeHtml);
+              }
+            });
+          },1000);
+      })
+
+      $("document").ready(function(){
+        setInterval(function(){
+          $.ajax({
+              url : ("Object_predictions.txt"),
+              dataType: "text",
+              success : function (data) {
+                let a = data.split('\n')
+                // alert(a)
+                let codeHtml = a[0]
+                for(let i = 1; i < a.length-1; i++) {
+                  codeHtml = codeHtml + ", " + a[i]
+                }
+                // let codeHtml = '"' + data + '"'
+                $("#ObjectsContent").html(codeHtml);
+              }
+            });
+          },1000);
+      })
+
+    </script>
+
+  </body>
+</html>

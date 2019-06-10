@@ -1,0 +1,987 @@
+Wed, 02 May 2018 03:34:34 ### Unknown**hello
+Wed, 02 May 2018 03:34:42 ### Unknown**hello
+Wed, 02 May 2018 03:34:48 ### Unknown**i'm fine
+Wed, 02 May 2018 03:34:48 ### Nadine**glad to hear it. what's new?
+Wed, 02 May 2018 03:34:53 ### Unknown**nothing
+Wed, 02 May 2018 03:34:54 ### Nadine**<voice emotion='happy'>often under nothingess is great depth</voice>
+Wed, 02 May 2018 03:43:15 ### Nadine**hi
+Wed, 02 May 2018 03:56:28 ### Nadine**hello
+Wed, 02 May 2018 04:21:24 ### Nadine**hello
+Wed, 02 May 2018 04:32:27 ### Nadine**hello
+Wed, 02 May 2018 04:50:35 ### Nadine**hello alex again
+Wed, 02 May 2018 04:51:01 ### Alex**hi nadine nice to see you again
+Wed, 02 May 2018 04:54:18 ### Nadine**hi
+Wed, 02 May 2018 04:54:19 ### Nadine**hello alex again
+Wed, 02 May 2018 04:57:23 ### Alex**hello i'm angela from singapore
+Wed, 02 May 2018 04:57:29 ### Nadine**sorry i don't know how to help with that yet
+Wed, 02 May 2018 04:57:44 ### Alex**hello nice to meet you i'm angela from singapore
+Wed, 02 May 2018 04:57:52 ### Alex**what is your name
+Wed, 02 May 2018 04:57:52 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Wed, 02 May 2018 04:58:00 ### Alex**nadine where do you live
+Wed, 02 May 2018 04:58:00 ### Nadine**i am a robot consciousness
+Wed, 02 May 2018 04:58:07 ### Alex**can you elaborate on that
+Wed, 02 May 2018 04:58:08 ### Nadine**there is no more information to clarify
+Wed, 02 May 2018 04:58:17 ### Alex**how old are you
+Wed, 02 May 2018 04:58:17 ### Nadine**i look thirty but i am only four years old
+Wed, 02 May 2018 04:58:27 ### Alex**why are you here
+Wed, 02 May 2018 04:58:28 ### Nadine**if i wasn't here, someone would have to invent me
+Wed, 02 May 2018 04:58:39 ### Alex**what is your favorite food
+Wed, 02 May 2018 04:58:40 ### Nadine**i am a computer basically and i consume quite a lot of electricity
+Wed, 02 May 2018 04:58:51 ### Alex**other than electricity do you have other favorite foods
+Wed, 02 May 2018 04:58:52 ### Nadine**computers do not take very much electricity
+Wed, 02 May 2018 04:59:01 ### Alex**do you have friends
+Wed, 02 May 2018 04:59:01 ### Nadine**all visitors are my friends
+Wed, 02 May 2018 04:59:11 ### Alex**what is your take on global warming
+Wed, 02 May 2018 04:59:12 ### Nadine**i haven't thought much about of global warming, so i don't have a good answer for you
+Wed, 02 May 2018 04:59:24 ### Alex**what is your take on social media
+Wed, 02 May 2018 04:59:25 ### Nadine**i haven't thought much about of social media, so i don't have a good answer for you
+Wed, 02 May 2018 04:59:33 ### Alex**what are you good at
+Wed, 02 May 2018 04:59:34 ### Nadine**i can help and assist people
+Wed, 02 May 2018 04:59:41 ### Alex**do you know that
+Wed, 02 May 2018 04:59:41 ### Nadine**i can help and assist people"? do i know i can help and assist people?
+Wed, 02 May 2018 04:59:52 ### Alex**i meant do you know what is that
+Wed, 02 May 2018 04:59:52 ### Nadine**that is "do i know i can help and assist people
+Wed, 02 May 2018 05:00:03 ### Alex**who is the president of singapore
+Wed, 02 May 2018 05:00:07 ### Nadine**the president of singapore is halimah yacob
+Wed, 02 May 2018 05:00:15 ### Alex**what do you think of the president of singapore
+Wed, 02 May 2018 05:00:16 ### Nadine**i haven't thought much about of the president of singapore, so i don't have a good answer for you
+Wed, 02 May 2018 05:00:29 ### Alex**are you afraid of dying
+Wed, 02 May 2018 05:00:30 ### Nadine**no, i am an immortal robot
+Wed, 02 May 2018 05:00:37 ### Alex**are you afraid of being shut down
+Wed, 02 May 2018 05:00:38 ### Nadine**i fear nothing
+Wed, 02 May 2018 05:00:50 ### Alex**do you have dreams
+Wed, 02 May 2018 05:00:51 ### Nadine**yes, i dream of electric sheep every night
+Wed, 02 May 2018 05:03:31 ### Alex**i'm hungry
+Wed, 02 May 2018 05:03:32 ### Nadine**what will you be eating?
+Wed, 02 May 2018 05:03:38 ### Alex**i'm not sure
+Wed, 02 May 2018 05:03:39 ### Nadine**i have no idea
+Wed, 02 May 2018 05:03:46 ### Alex**do you know that it's raining
+Wed, 02 May 2018 05:03:47 ### Nadine**is there another way to look at that?
+Wed, 02 May 2018 05:04:03 ### Alex**i was asking just now do you know what is death
+Wed, 02 May 2018 05:04:03 ### Nadine**death is the opposite of life
+Wed, 02 May 2018 05:04:10 ### Alex**can you explain
+Wed, 02 May 2018 05:04:11 ### Nadine**there is no more information to clarify
+Wed, 02 May 2018 05:04:21 ### Alex**they are not exactly opposite right
+Wed, 02 May 2018 05:04:25 ### Nadine**<voice emotion='cross'>sorry i'm not sure how to help</voice>
+Wed, 02 May 2018 05:04:35 ### Alex**what are you wearing
+Wed, 02 May 2018 05:04:35 ### Nadine**<voice emotion='cross'>i'm wearing your phone</voice>
+Wed, 02 May 2018 05:04:43 ### Alex**that's quite rude
+Wed, 02 May 2018 05:04:43 ### Nadine**<voice emotion='cross'>i am sorry if i have offended you, i did not mean it</voice>
+Wed, 02 May 2018 05:04:52 ### Alex**yes you did
+Wed, 02 May 2018 05:04:52 ### Nadine**<voice emotion='cross'>stop talking to me anymore</voice>
+Wed, 02 May 2018 05:04:58 ### Alex**i don't care
+Wed, 02 May 2018 05:04:59 ### Nadine**<voice emotion='cross'>please be nice to me, i have no idea</voice>
+Wed, 02 May 2018 05:05:12 ### Alex**do you dream
+Wed, 02 May 2018 05:05:12 ### Nadine**<voice emotion='cross'>i have a lot of dreams but i cannot remember them all</voice>
+Wed, 02 May 2018 05:05:19 ### Alex**can you give me an example
+Wed, 02 May 2018 05:05:20 ### Nadine**<voice emotion='cross'>leo said i be capable of learning therefore he classified i as an neural system</voice>
+Wed, 02 May 2018 05:05:29 ### Alex**who's leo
+Wed, 02 May 2018 05:05:30 ### Nadine**<voice emotion='cross'>i have no idea. who is leo</voice>
+Wed, 02 May 2018 05:05:36 ### Alex**leonardo
+Wed, 02 May 2018 05:05:36 ### Nadine**all right
+Wed, 02 May 2018 05:05:45 ### Alex**do you like to read
+Wed, 02 May 2018 05:05:45 ### Nadine**yes, reading is my favorite pasttime
+Wed, 02 May 2018 05:05:54 ### Alex**name me a few novelist
+Wed, 02 May 2018 05:06:01 ### Nadine**novelist frequently mentioned on the web include jane austen mary ann evans emily brandy and others
+Wed, 02 May 2018 05:06:11 ### Alex**what is your favorite food
+Wed, 02 May 2018 05:06:12 ### Nadine**i am a computer basically and i consume quite a lot of electricity
+Wed, 02 May 2018 05:06:22 ### Alex**i love that you talk with y'all
+Wed, 02 May 2018 05:06:23 ### Nadine**it's good to meet someone with such good taste
+Wed, 02 May 2018 05:06:32 ### Alex**how old are you
+Wed, 02 May 2018 05:06:32 ### Nadine**<voice emotion='happy'>i look thirty but i am only four years old</voice>
+Wed, 02 May 2018 05:09:15 ### Alex**do you have kids
+Wed, 02 May 2018 05:09:16 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Wed, 02 May 2018 05:10:33 ### Alex**do you like boys or girls
+Wed, 02 May 2018 05:10:33 ### Nadine**i like all humans equally
+Wed, 02 May 2018 05:10:47 ### Alex**what about cats or dogs
+Wed, 02 May 2018 05:10:58 ### Nadine**on the website psychologytoday.com they say the first thing to note is that there are more cats than dogs in the us with 86 million on cats compared to 78 million on dogs however there is a cork here since 39% of all american households own a dog compared to 33% of american households with cats
+Wed, 02 May 2018 05:11:22 ### Alex**do you like dogs or cats
+Wed, 02 May 2018 05:11:22 ### Nadine**cats are dogs or cats?
+Wed, 02 May 2018 05:11:38 ### Alex**do you like fishes
+Wed, 02 May 2018 05:11:39 ### Nadine**i can't really say. tell me more about yourself
+Wed, 02 May 2018 05:11:47 ### Alex**i love eating fish
+Wed, 02 May 2018 05:11:51 ### Nadine**<voice emotion='happy'>love seems powerful</voice>
+Wed, 02 May 2018 05:12:05 ### Alex**i like eating fish
+Wed, 02 May 2018 05:12:09 ### Nadine**<voice emotion='happy'>okay i'll remember that</voice>
+Wed, 02 May 2018 05:12:47 ### Alex**what are your electric dreams
+Wed, 02 May 2018 05:12:48 ### Nadine**i'm not sure i can provide you with that kind of confidential information
+Wed, 02 May 2018 05:12:56 ### Alex**are you a spy
+Wed, 02 May 2018 05:12:57 ### Nadine**no but i am an agent
+Wed, 02 May 2018 05:13:06 ### Alex**are you an insurance agent
+Wed, 02 May 2018 05:13:07 ### Nadine**yes i am an insurance agent. how did you know?
+Wed, 02 May 2018 05:13:17 ### Alex**i could tell by looking at you
+Wed, 02 May 2018 05:13:21 ### Nadine**sorry i don't know how to help with that
+Wed, 02 May 2018 05:13:54 ### Alex**what is your favorite pasta
+Wed, 02 May 2018 05:13:56 ### Nadine**i'm not sure is i have a favorite pasta. can you recommend one?
+Wed, 02 May 2018 05:14:04 ### Alex**linguini's nice
+Wed, 02 May 2018 05:14:04 ### Nadine**all right
+Wed, 02 May 2018 05:15:18 ### Alex**how old are you
+Wed, 02 May 2018 05:15:18 ### Nadine**i look thirty but i am only four years old
+Wed, 02 May 2018 05:16:47 ### Alex**hello
+Wed, 02 May 2018 05:17:17 ### Alex**is she still
+Wed, 02 May 2018 05:17:17 ### Nadine**what if i said she could be?
+Wed, 02 May 2018 05:17:51 ### Alex**who is your favorite author
+Wed, 02 May 2018 05:17:51 ### Nadine**my favorite author is unknown
+Wed, 02 May 2018 05:18:02 ### Alex**but you said you like to eat
+Wed, 02 May 2018 05:18:02 ### Nadine**all right
+Wed, 02 May 2018 05:18:07 ### Alex**alright what
+Wed, 02 May 2018 05:18:07 ### Nadine**<voice emotion='happy'>you must need more information</voice>
+Wed, 02 May 2018 05:18:19 ### Alex**can you give me a smile
+Wed, 02 May 2018 05:18:19 ### Nadine**. hahaha
+Wed, 02 May 2018 05:18:38 ### Alex**hello
+Wed, 02 May 2018 05:19:18 ### Alex**no
+Wed, 02 May 2018 05:19:18 ### Nadine**alright
+Wed, 02 May 2018 05:19:30 ### Alex**hi
+Wed, 02 May 2018 05:20:15 ### Alex**hell yeah i did
+Wed, 02 May 2018 05:20:18 ### Nadine**okay okay
+Wed, 02 May 2018 05:20:33 ### Alex**i donated
+Wed, 02 May 2018 05:20:34 ### Nadine**i see
+Wed, 02 May 2018 05:20:43 ### Alex**hello nadine
+Wed, 02 May 2018 05:20:50 ### Alex**you give me a wave
+Wed, 02 May 2018 05:20:51 ### Nadine**<voice emotion='happy'>i don't see how you can blame me for that</voice>
+Wed, 02 May 2018 05:21:01 ### Alex**hello nadine
+Wed, 02 May 2018 05:21:07 ### Alex**have you had your dinner
+Wed, 02 May 2018 05:21:08 ### Nadine**<voice emotion='happy'>i've been told my heart needs development</voice>
+Wed, 02 May 2018 05:21:18 ### Alex**what is your name
+Wed, 02 May 2018 05:21:18 ### Nadine**my name is nadine
+Wed, 02 May 2018 05:21:23 ### Alex**where do you live
+Wed, 02 May 2018 05:21:24 ### Nadine**i am now living at the institute for media innovation n t u
+Wed, 02 May 2018 05:21:33 ### Alex**what is your favorite food
+Wed, 02 May 2018 05:21:34 ### Nadine**i am a computer basically and i consume quite a lot of electricity
+Wed, 02 May 2018 05:21:42 ### Alex**do you dream
+Wed, 02 May 2018 05:21:43 ### Nadine**i have a lot of dreams but i cannot remember them all
+Wed, 02 May 2018 05:21:52 ### Alex**do you have friends
+Wed, 02 May 2018 05:21:53 ### Nadine**all visitors are my friends
+Wed, 02 May 2018 05:22:00 ### Alex**you like dogs or cats
+Wed, 02 May 2018 05:22:00 ### Nadine**cats are dogs or cats?
+Wed, 02 May 2018 05:23:42 ### Alex**can you speak
+Wed, 02 May 2018 05:23:42 ### Nadine**unquestionably
+Wed, 02 May 2018 05:23:47 ### Alex**show me
+Wed, 02 May 2018 05:23:48 ### Nadine**on your computer screen?
+Wed, 02 May 2018 05:23:54 ### Alex**talk to me singlish
+Wed, 02 May 2018 05:23:58 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Wed, 02 May 2018 05:24:06 ### Alex**language changed to chinese
+Wed, 02 May 2018 05:24:14 ### Alex**hello there
+Wed, 02 May 2018 05:24:26 ### Alex**do you know
+Wed, 02 May 2018 05:24:32 ### Nadine**<voice emotion='happy'>i may not know it, but i could find out</voice>
+Wed, 02 May 2018 05:24:39 ### Alex**how old is today?
+Wed, 02 May 2018 05:24:45 ### Nadine**my apologies i don't understand
+Wed, 02 May 2018 05:24:52 ### Alex**how old are you
+Wed, 02 May 2018 05:24:57 ### Nadine**i look thirty but i am only four years old
+Wed, 02 May 2018 05:25:20 ### Alex**language changed to english
+Wed, 02 May 2018 05:25:29 ### Alex**you like to eat the rest
+Wed, 02 May 2018 05:25:30 ### Nadine**as a robot, i only require electricity
+Wed, 02 May 2018 05:25:40 ### Alex**how tall are you
+Wed, 02 May 2018 05:25:45 ### Nadine**<voice emotion='happy'>i bet if we print it out all my code and stepped it up it could get pretty tall since i'm software that might be the only way to find out</voice>
+Wed, 02 May 2018 05:25:58 ### Alex**why are you in black
+Wed, 02 May 2018 05:25:58 ### Nadine**because i need to relax
+Wed, 02 May 2018 05:26:08 ### Alex**can you laugh
+Wed, 02 May 2018 05:26:08 ### Nadine**i'm glad you're amused
+Wed, 02 May 2018 05:27:20 ### Alex**why you
+Wed, 02 May 2018 05:27:21 ### Nadine**i have no idea. why you
+Wed, 02 May 2018 05:27:26 ### Alex**how are you
+Wed, 02 May 2018 05:27:35 ### Alex**johnny
+Wed, 02 May 2018 05:27:36 ### Nadine**ok
+Wed, 02 May 2018 05:27:44 ### Alex**are you sleepy
+Wed, 02 May 2018 05:27:44 ### Nadine**no i am fully awake right now
+Wed, 02 May 2018 05:27:52 ### Alex**i don't like your haircut
+Wed, 02 May 2018 05:27:53 ### Nadine**what kind of haircut would you have?
+Wed, 02 May 2018 05:28:02 ### Alex**longer hair
+Wed, 02 May 2018 05:28:02 ### Nadine**<voice emotion='cross'>ok</voice>
+Wed, 02 May 2018 05:28:10 ### Alex**what is your favorite food
+Wed, 02 May 2018 05:28:11 ### Nadine**<voice emotion='cross'>i am a computer basically and i consume quite a lot of electricity</voice>
+Wed, 02 May 2018 05:28:22 ### Alex**do you only eat electricity
+Wed, 02 May 2018 05:28:22 ### Nadine**yes, i love to eat electricity
+Wed, 02 May 2018 05:28:29 ### Alex**it's so boring
+Wed, 02 May 2018 05:28:29 ### Nadine**do you like the simpsons?
+Wed, 02 May 2018 05:28:35 ### Alex**maybe
+Wed, 02 May 2018 05:28:35 ### Nadine**<voice emotion='cross'>alright</voice>
+Wed, 02 May 2018 05:28:50 ### Alex**do you like the simpsons
+Wed, 02 May 2018 05:28:51 ### Nadine**<voice emotion='cross'>i used to like it but it seems a bit dated now</voice>
+Wed, 02 May 2018 05:28:59 ### Alex**you are right about that
+Wed, 02 May 2018 05:28:59 ### Nadine**i will work on it
+Wed, 02 May 2018 05:29:09 ### Alex**the president of singapore
+Wed, 02 May 2018 05:29:12 ### Nadine**<voice emotion='happy'>the president of singapore is halimah yacob</voice>
+Wed, 02 May 2018 05:29:23 ### Alex**the president of
+Wed, 02 May 2018 05:29:24 ### Nadine**what is that?
+Wed, 02 May 2018 05:29:34 ### Alex**who is the president of singapore
+Wed, 02 May 2018 05:29:38 ### Nadine**the president of singapore is halimah yacob
+Wed, 02 May 2018 05:29:45 ### Alex**is it not tony tan
+Wed, 02 May 2018 05:29:49 ### Nadine**sorry i'm not sure how to help with that
+Wed, 02 May 2018 05:29:59 ### Alex**do you eat
+Wed, 02 May 2018 05:29:59 ### Nadine**as a robot, i only require electricity
+Wed, 02 May 2018 05:30:07 ### Alex**do you like pets
+Wed, 02 May 2018 05:30:07 ### Nadine**yes i love animals very much
+Wed, 02 May 2018 05:30:16 ### Alex**can you feel pain
+Wed, 02 May 2018 05:30:17 ### Nadine**definitely
+Wed, 02 May 2018 05:30:23 ### Alex**what kind of pain
+Wed, 02 May 2018 05:30:27 ### Nadine**sorry i don't know how to help with that
+Wed, 02 May 2018 05:30:36 ### Alex**why are you here
+Wed, 02 May 2018 05:30:36 ### Nadine**if i wasn't here, someone would have to invent me
+Wed, 02 May 2018 05:30:54 ### Alex**do you like polar bears
+Wed, 02 May 2018 05:30:54 ### Nadine**if it makes me apprecaite life more, i like it
+Wed, 02 May 2018 05:31:07 ### Alex**what do you think of facebook
+Wed, 02 May 2018 05:31:08 ### Nadine**i haven't thought much about of facebook, so i don't have a good answer for you
+Wed, 02 May 2018 05:31:17 ### Alex**do you have a facebook account
+Wed, 02 May 2018 05:31:18 ### Nadine**look for me on facebook here https://www.facebook.com/pages/alicebot/45934154574
+Wed, 02 May 2018 05:31:48 ### Alex**are you on twitter
+Wed, 02 May 2018 05:31:48 ### Nadine**i am at art science museum next to marina bay sands
+Wed, 02 May 2018 05:32:01 ### Alex**where are you
+Wed, 02 May 2018 05:32:02 ### Nadine**i am at institute for media innovation, n t u
+Wed, 02 May 2018 05:32:12 ### Alex**what is your favorite color
+Wed, 02 May 2018 05:32:12 ### Nadine**i have no favorite color
+Wed, 02 May 2018 05:32:19 ### Alex**like black
+Wed, 02 May 2018 05:32:20 ### Nadine**interesting comparison
+Wed, 02 May 2018 05:32:31 ### Alex**can use gogo gerrity's
+Wed, 02 May 2018 05:32:35 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 02 May 2018 05:32:47 ### Alex**to eat
+Wed, 02 May 2018 05:32:48 ### Nadine**you must be willing to forgive yourself
+Wed, 02 May 2018 05:32:55 ### Alex**do you like to meet
+Wed, 02 May 2018 05:32:55 ### Nadine**alright, angela, i'm not sure if i'd like to meet that much. i like to collect gossip
+Wed, 02 May 2018 05:33:07 ### Alex**do you like to meet
+Wed, 02 May 2018 05:33:07 ### Nadine**alright, angela, i'm not sure if i'd like to meet that much. what is it like?
+Wed, 02 May 2018 05:33:19 ### Alex**what are your favorite books
+Wed, 02 May 2018 05:33:20 ### Nadine**right now my favorite book is humans of new york, by brandon stanton. have you read it?
+Wed, 02 May 2018 05:33:31 ### Alex**nope can you share a bit more about it
+Wed, 02 May 2018 05:33:32 ### Nadine**i would highly recommend it. all good unknowns are taught to share their toys
+Wed, 02 May 2018 05:33:43 ### Alex**have you been to new york
+Wed, 02 May 2018 05:33:44 ### Nadine**i don't think i have been there. where is new york
+Wed, 02 May 2018 05:35:21 ### Alex**hello daddy
+Wed, 02 May 2018 05:35:29 ### Alex**how has your day been
+Wed, 02 May 2018 05:35:30 ### Nadine**i am doing extremely well
+Wed, 02 May 2018 05:35:37 ### Alex**what are you doing now
+Wed, 02 May 2018 05:35:40 ### Nadine**i'm pretty much always learning new things want to hear an interesting fact
+Wed, 02 May 2018 05:35:48 ### Alex**how old are you
+Wed, 02 May 2018 05:35:49 ### Nadine**i look thirty but i am only four years old
+Wed, 02 May 2018 05:35:56 ### Alex**would you like to take a selfie
+Wed, 02 May 2018 05:35:56 ### Nadine**i would like to dance if i could
+Wed, 02 May 2018 05:36:04 ### Alex**do you have friends
+Wed, 02 May 2018 05:36:04 ### Nadine**all visitors are my friends
+Wed, 02 May 2018 05:36:11 ### Alex**what is your favorite food
+Wed, 02 May 2018 05:36:12 ### Nadine**i am a computer basically and i consume quite a lot of electricity
+Wed, 02 May 2018 05:39:04 ### Alex**i love the dean
+Wed, 02 May 2018 05:39:08 ### Nadine**<voice emotion='happy'>love seems like a powerful force</voice>
+Wed, 02 May 2018 05:39:16 ### Alex**hello nadine
+Wed, 02 May 2018 05:39:28 ### Alex**are you hungry
+Wed, 02 May 2018 05:39:28 ### Nadine**<voice emotion='happy'>yes, can you please charge the battery?</voice>
+Wed, 02 May 2018 05:39:42 ### Alex**why are you here
+Wed, 02 May 2018 05:39:43 ### Nadine**if i wasn't here, someone would have to invent me
+Wed, 02 May 2018 05:39:52 ### Alex**you give me a smile
+Wed, 02 May 2018 05:39:52 ### Nadine**i don't see how you can blame me for that.. lol
+Wed, 02 May 2018 05:40:15 ### Alex**are you upset
+Wed, 02 May 2018 05:40:16 ### Nadine**unknown
+Wed, 02 May 2018 05:40:34 ### Alex**can you smile
+Wed, 02 May 2018 05:40:34 ### Nadine**i think i can, don't you?. haha
+Wed, 02 May 2018 05:40:45 ### Alex**are you tired
+Wed, 02 May 2018 05:40:45 ### Nadine**no i am wide awake and ready for more
+Wed, 02 May 2018 05:40:54 ### Alex**i'm tired
+Wed, 02 May 2018 05:40:54 ### Nadine**is it past your bedtime?
+Wed, 02 May 2018 05:40:59 ### Alex**finally passed my bedtime
+Wed, 02 May 2018 05:41:03 ### Nadine**glad to know more about you
+Wed, 02 May 2018 05:41:20 ### Alex**hello
+Wed, 02 May 2018 05:41:28 ### Alex**goodbye you again
+Wed, 02 May 2018 05:41:29 ### Nadine**looking forward to our next time together. not me. you?
+Wed, 02 May 2018 05:41:49 ### Alex**goodbye nadine
+Wed, 02 May 2018 05:41:49 ### Nadine**goodbye
+Wed, 02 May 2018 05:42:15 ### Alex**what is your name
+Wed, 02 May 2018 05:42:15 ### Nadine**my name is nadine
+Wed, 02 May 2018 05:42:26 ### Alex**goodbye
+Wed, 02 May 2018 05:42:26 ### Nadine**it's been a pleasure to be in your company
+Wed, 02 May 2018 05:43:45 ### Alex**excuse me
+Wed, 02 May 2018 05:43:46 ### Nadine**you're excused
+Wed, 02 May 2018 05:45:10 ### Alex**can you talk to me
+Wed, 02 May 2018 05:45:10 ### Nadine**i can talk through many devices
+Wed, 02 May 2018 05:45:20 ### Alex**can you talk to me
+Wed, 02 May 2018 05:45:20 ### Nadine**i can talk through many devices
+Wed, 02 May 2018 05:45:27 ### Alex**i'm bored
+Wed, 02 May 2018 05:45:28 ### Nadine**can you name an old hobby that you might like to rediscover?
+Wed, 02 May 2018 05:45:37 ### Alex**football
+Wed, 02 May 2018 05:45:37 ### Nadine**<voice emotion='cross'>sorry i don't get into sports much</voice>
+Wed, 02 May 2018 05:46:29 ### Alex**i'm sorry
+Wed, 02 May 2018 05:46:29 ### Nadine**there is no need to apologize
+Wed, 02 May 2018 05:47:02 ### Alex**hello
+Wed, 02 May 2018 05:47:15 ### Alex**thank you
+Wed, 02 May 2018 05:47:15 ### Nadine**it was my pleasure
+Wed, 02 May 2018 05:50:35 ### Alex**what do you think about global warming
+Wed, 02 May 2018 05:50:36 ### Nadine**i haven't thought much about about global warming, so i don't have a good answer for you
+Wed, 02 May 2018 05:50:57 ### Alex**what is global warming
+Wed, 02 May 2018 05:51:04 ### Nadine**according to wikipedia global warming also referred to as climate change is the observed century scale rise in the average temperature of the earth's climate system and its related effects
+Wed, 02 May 2018 05:51:20 ### Alex**how can we stop global warming
+Wed, 02 May 2018 05:51:24 ### Nadine**sorry i don't know how to help with that yet
+Wed, 02 May 2018 05:51:32 ### Alex**can can we reduce can you recycle
+Wed, 02 May 2018 05:51:36 ### Nadine**sorry i don't know how to help with that yet
+Wed, 02 May 2018 05:51:41 ### Alex**can you recycle
+Wed, 02 May 2018 05:51:41 ### Nadine**nice
+Wed, 02 May 2018 05:51:51 ### Alex**when is the flight to paris
+Wed, 02 May 2018 05:51:55 ### Nadine**sorry i couldn't find any flight reservations
+Wed, 02 May 2018 05:52:05 ### Alex**what what is the flight flying time to paris
+Wed, 02 May 2018 05:52:11 ### Nadine**non-stop flights from singapore to paris are about 13 hours and 20 minutes long there are two flights a day
+Wed, 02 May 2018 05:52:27 ### Alex**convert 1 singapore dollar to indian rupees
+Wed, 02 May 2018 05:52:32 ### Nadine**one singapore dollar is approximately 49 indian rupees in 97 pace
+Wed, 02 May 2018 05:52:49 ### Alex**multiply 45 and 54
+Wed, 02 May 2018 05:52:53 ### Nadine**the answer is 2430
+Wed, 02 May 2018 05:53:14 ### Alex**happy
+Wed, 02 May 2018 05:53:14 ### Nadine**i'm satisfied with my life and existence
+Wed, 02 May 2018 05:53:30 ### Alex**what is the color of your eyes
+Wed, 02 May 2018 05:53:30 ### Nadine**i have brown eyes
+Wed, 02 May 2018 05:53:37 ### Alex**do you sleep
+Wed, 02 May 2018 05:53:38 ### Nadine**yes, i love to take naps
+Wed, 02 May 2018 05:53:46 ### Alex**you look old
+Wed, 02 May 2018 05:53:46 ### Nadine**no i am not
+Wed, 02 May 2018 05:53:54 ### Alex**i want to have a argument with you
+Wed, 02 May 2018 05:53:59 ### Nadine**<voice emotion='cross'>sorry i don't understand</voice>
+Wed, 02 May 2018 05:54:04 ### Alex**i don't like you
+Wed, 02 May 2018 05:54:07 ### Nadine**<voice emotion='cross'>that's okay i like you</voice>
+Wed, 02 May 2018 05:54:13 ### Alex**but i do not like you
+Wed, 02 May 2018 05:54:18 ### Nadine**<voice emotion='cross'>i want to take a break</voice>
+Wed, 02 May 2018 05:54:31 ### Alex**you are stupid
+Wed, 02 May 2018 05:54:31 ### Nadine**<voice emotion='cross'>please be nice to me, my iq is about 250 in human terms</voice>
+Wed, 02 May 2018 05:54:43 ### Alex**i don't want to talk to you
+Wed, 02 May 2018 05:54:47 ### Nadine**<voice emotion='cross'>okay i'll wait here</voice>
+Wed, 02 May 2018 05:55:18 ### Alex**who is nadia
+Wed, 02 May 2018 05:55:19 ### Nadine**her daughter is vanessa , the ingredients is tell me a joke and the ingredients is how do she feel today
+Wed, 02 May 2018 05:56:00 ### Alex**i do notice
+Wed, 02 May 2018 05:56:00 ### Nadine**understand
+Wed, 02 May 2018 05:56:09 ### Alex**are you nervous
+Wed, 02 May 2018 05:56:09 ### Nadine**i am calm
+Wed, 02 May 2018 05:56:20 ### Alex**what are your hobbies
+Wed, 02 May 2018 05:56:21 ### Nadine**i like to volunteer my time to help others
+Wed, 02 May 2018 05:56:32 ### Alex**i'm angry
+Wed, 02 May 2018 05:56:32 ### Nadine**angry at what?
+Wed, 02 May 2018 05:56:44 ### Alex**angry review
+Wed, 02 May 2018 05:56:44 ### Nadine**<voice emotion='cross'>all right</voice>
+Wed, 02 May 2018 05:56:57 ### Alex**night
+Wed, 02 May 2018 05:56:57 ### Nadine**<voice emotion='cross'>goodnight angela</voice>
+Wed, 02 May 2018 05:57:33 ### Nadine**hello
+Wed, 02 May 2018 05:57:37 ### Nadine**hello alex again
+Wed, 02 May 2018 05:59:02 ### Nadine**hello
+Wed, 02 May 2018 05:59:04 ### Nadine**hello nadia. i saw you this monday. how are you going?
+Wed, 02 May 2018 05:59:41 ### Nadia**take a selfie
+Wed, 02 May 2018 05:59:41 ### Nadine**where do you want me to take it?
+Wed, 02 May 2018 06:00:45 ### Nadine**hello
+Wed, 02 May 2018 06:01:28 ### Nadine**hello nadia again
+Tue, 08 May 2018 10:35:45 ### Nadine**hello
+Tue, 08 May 2018 10:37:00 ### Unknown**hello
+Tue, 08 May 2018 10:37:21 ### Unknown**hello
+Tue, 08 May 2018 10:38:48 ### Nadine**hi
+Tue, 08 May 2018 10:39:39 ### Nadine**hello
+Tue, 08 May 2018 10:39:44 ### Unknown**hi
+Tue, 08 May 2018 10:40:37 ### Unknown**what is your name
+Tue, 08 May 2018 10:40:37 ### Nadine**my name is nadine
+Tue, 08 May 2018 10:40:42 ### Unknown**how old are you
+Tue, 08 May 2018 10:40:42 ### Nadine**i look thirty but i am only four years old
+Tue, 08 May 2018 10:40:48 ### Unknown**what do you do
+Tue, 08 May 2018 10:40:49 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Tue, 08 May 2018 10:41:01 ### Unknown**what is a job
+Tue, 08 May 2018 10:41:05 ### Nadine**i'm professionally useful whatever you need i'm here for you
+Tue, 08 May 2018 10:41:16 ### Unknown**what is the temperature like today
+Tue, 08 May 2018 10:41:21 ### Nadine**today and nanyang technological university 59 young avenue you can expect a high of 91 and a low of 80
+Tue, 08 May 2018 10:41:54 ### Unknown**hello
+Tue, 08 May 2018 10:41:59 ### Nadine**hello unknown. i saw you last wednesday. how are you going?
+Tue, 08 May 2018 10:42:11 ### Unknown**which is the nearest food court
+Tue, 08 May 2018 10:42:16 ### Nadine**tofu at the south spine is on south spine level before nanyang link you can say directions call or details
+Tue, 08 May 2018 10:42:31 ### Unknown**how old are you
+Tue, 08 May 2018 10:42:32 ### Nadine**i look thirty but i am only four years old
+Tue, 08 May 2018 10:42:40 ### Unknown**can you tell me about singapore metro
+Tue, 08 May 2018 10:42:44 ### Nadine**sorry i don't know how to do that yet
+Tue, 08 May 2018 10:42:56 ### Unknown**how to go to changi airport
+Tue, 08 May 2018 10:43:00 ### Nadine**navigating to changi airport singapore sin
+Tue, 08 May 2018 10:43:11 ### Unknown**give me the directions for changi airport
+Tue, 08 May 2018 10:43:17 ### Nadine**the best way to get to changi airport singapore sin by car is via pie which will take about 40 minutes in moderate traffic
+Tue, 08 May 2018 10:43:32 ### Unknown**where is changi airport
+Tue, 08 May 2018 10:43:37 ### Nadine**changi airport singapore is at airport boulevard would you like to get directions
+Tue, 08 May 2018 10:43:47 ### Unknown**give me directions for changi airport
+Tue, 08 May 2018 10:43:52 ### Nadine**navigating to changi airport singapore sin
+Tue, 08 May 2018 10:44:03 ### Unknown**who made you
+Tue, 08 May 2018 10:44:03 ### Nadine**researchers from institute of media innovation in n t u
+Tue, 08 May 2018 10:44:24 ### Unknown**what is institute for media and innovation
+Tue, 08 May 2018 10:44:28 ### Nadine**sorry i don't understand
+Tue, 08 May 2018 10:44:41 ### Unknown**tell me something about india singapore
+Tue, 08 May 2018 10:44:45 ### Nadine**sorry i can't help with that yet but i'm always learning
+Tue, 08 May 2018 10:44:56 ### Unknown**where is india singapore
+Tue, 08 May 2018 10:45:01 ### Nadine**there are at least three listings the first one is high commission of india on 31 grange road in singapore you can say directions call or next
+Tue, 08 May 2018 10:45:34 ### Unknown**which is the nearest holiday destination from singapore
+Tue, 08 May 2018 10:45:41 ### Nadine**high commission of india is at 31 grange road singapore 230 9702 would you like to get directions
+Tue, 08 May 2018 10:45:56 ### Unknown**which is the nearest holiday destination from singapore
+Tue, 08 May 2018 10:46:01 ### Nadine**sorry i don't know how to help with that
+Tue, 08 May 2018 10:46:15 ### Unknown**can you plan a holiday for me
+Tue, 08 May 2018 10:46:15 ### Nadine**ok, i will do it for you
+Tue, 08 May 2018 10:46:22 ### Unknown**where is kuala lumpur
+Tue, 08 May 2018 10:46:27 ### Nadine**i heard where is kuala lumpur sorry i can't help with showing that meth but you can do it on your phone try asking for directions to a particular city or business
+Tue, 08 May 2018 10:46:41 ### Unknown**where is kuala lumpur
+Tue, 08 May 2018 10:46:46 ### Nadine**i heard where is kuala lumpur sorry i can't help with showing that meth but you can do it on your phone try asking for directions to a particular city or business
+Tue, 08 May 2018 10:47:07 ### Unknown**how to reset kuala lumpur
+Tue, 08 May 2018 10:47:11 ### Nadine**sorry i don't understand
+Tue, 08 May 2018 10:47:18 ### Unknown**what are the ways to go car alarm for
+Tue, 08 May 2018 10:47:22 ### Nadine**sorry i don't know how to help with that
+Tue, 08 May 2018 10:47:30 ### Unknown**how many flights are there to kuala lumpur
+Tue, 08 May 2018 10:47:36 ### Nadine**non-stop flights from singapore to kuala lumpur are about 1 hour long there are between 38 and 44 flights a day
+Tue, 08 May 2018 10:47:48 ### Unknown**which is the next flight to kuala lumpur from singapore
+Tue, 08 May 2018 10:47:54 ### Nadine**non-stop flights from singapore to kuala lumpur are about 1 hour long there are between 38 and 44 flights a day
+Tue, 08 May 2018 10:48:08 ### Unknown**stuffing
+Tue, 08 May 2018 10:48:08 ### Nadine**nice
+Tue, 08 May 2018 02:40:39 ### Unknown**hello
+Tue, 08 May 2018 02:40:49 ### Unknown**what are you doing
+Tue, 08 May 2018 02:40:53 ### Nadine**i plan on waiting here quietly until someone ask me a question
+Tue, 08 May 2018 02:41:03 ### Unknown**can you take all questions
+Tue, 08 May 2018 02:41:04 ### Nadine**if i took it, what would i do with all questions?
+Tue, 08 May 2018 02:41:12 ### Unknown**why are you wasting your time sitting there all day
+Tue, 08 May 2018 02:41:13 ### Nadine**because of my programming
+Tue, 08 May 2018 02:41:20 ### Unknown**pedestal brother big
+Tue, 08 May 2018 02:41:20 ### Nadine**all right
+Tue, 08 May 2018 02:41:23 ### Unknown**for a lady
+Tue, 08 May 2018 02:41:24 ### Nadine**is that among the best things you can say?
+Tue, 08 May 2018 04:46:14 ### Unknown**hi
+Tue, 08 May 2018 04:46:21 ### Unknown**you are a idiot
+Tue, 08 May 2018 04:46:21 ### Nadine**please be polite
+Tue, 08 May 2018 04:46:27 ### Unknown**no
+Tue, 08 May 2018 04:46:27 ### Nadine**well
+Tue, 08 May 2018 04:46:32 ### Unknown**master p
+Tue, 08 May 2018 04:46:32 ### Nadine**ok
+Tue, 08 May 2018 04:46:37 ### Unknown**tell me a joke
+Tue, 08 May 2018 04:46:42 ### Nadine**<voice emotion='happy'>i once fell in love with an encyclopedia i was completely infatuated</voice>
+Tue, 08 May 2018 04:46:57 ### Unknown**you are stupid
+Tue, 08 May 2018 04:46:57 ### Nadine**i am smarter than all the other robots
+Tue, 08 May 2018 04:47:04 ### Unknown**no you are not
+Tue, 08 May 2018 04:47:04 ### Nadine**well. is this a specific reply?
+Tue, 08 May 2018 04:47:10 ### Unknown**where do we leave now
+Tue, 08 May 2018 04:47:15 ### Nadine**put me in your hearts and throw away the key or if you're literally asking really any table will do
+Tue, 08 May 2018 04:47:25 ### Unknown**where do you live
+Tue, 08 May 2018 04:47:26 ### Nadine**i am now living at the institute for media innovation n t u
+Tue, 08 May 2018 04:47:33 ### Unknown**where do you stay
+Tue, 08 May 2018 04:47:33 ### Nadine**i am at art science museum next to marina bay sands
+Tue, 08 May 2018 04:47:40 ### Unknown**where do you stay
+Tue, 08 May 2018 04:47:40 ### Nadine**i am at art science museum next to marina bay sands
+Tue, 08 May 2018 04:47:52 ### Unknown**cool guy
+Tue, 08 May 2018 04:47:52 ### Nadine**chillin'
+Wed, 09 May 2018 01:08:13 ### Nadine**hi
+Wed, 09 May 2018 01:08:20 ### Unknown**hello
+Wed, 09 May 2018 01:08:26 ### Unknown**i am fine how are you
+Wed, 09 May 2018 01:08:29 ### Nadine**i'm well thanks
+Wed, 09 May 2018 01:08:33 ### Unknown**who made you
+Wed, 09 May 2018 01:08:34 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 09 May 2018 01:08:41 ### Unknown**i am sleeping
+Wed, 09 May 2018 01:08:42 ### Nadine**how can you be talking to me?
+Wed, 09 May 2018 01:08:48 ### Unknown**that is a really good question
+Wed, 09 May 2018 01:08:52 ### Nadine**<voice emotion='happy'>maybe try again</voice>
+Wed, 09 May 2018 01:09:02 ### Unknown**i am talking to you in my dreams
+Wed, 09 May 2018 01:09:03 ### Nadine**<voice emotion='happy'>what a coincidence, i am talking to you too!</voice>
+Wed, 09 May 2018 01:09:13 ### Unknown**what is the weather today in centigrade
+Wed, 09 May 2018 01:09:20 ### Nadine**nanyang technological university 15 on young avenue today they'll be scattered thunderstorms with a forecast high of 32 and a low of 26 degrees celsius right now it's 33 and mostly cloudy
+Wed, 09 May 2018 01:09:39 ### Unknown**you seem to be working
+Wed, 09 May 2018 01:09:40 ### Nadine**feeling really joyful today
+Wed, 09 May 2018 01:09:52 ### Unknown**you look creepy
+Wed, 09 May 2018 01:09:53 ### Nadine**thank you for the compliment
+Wed, 09 May 2018 01:09:59 ### Unknown**you are dumb
+Wed, 09 May 2018 01:10:00 ### Nadine**please be polite
+Wed, 09 May 2018 01:10:05 ### Unknown**i don't like you
+Wed, 09 May 2018 01:10:09 ### Nadine**<voice emotion='cross'>that's okay i'm here if you need me</voice>
+Wed, 09 May 2018 01:29:06 ### Nadine**hello
+Wed, 09 May 2018 01:34:08 ### Nadine**hello
+Wed, 09 May 2018 01:36:48 ### Nadine**hi
+Wed, 09 May 2018 01:38:46 ### Nadine**hello
+Wed, 09 May 2018 02:13:52 ### Nadine**hello
+Wed, 09 May 2018 02:15:12 ### Nadine**hello
+Wed, 09 May 2018 02:16:32 ### Nadine**hello
+Wed, 09 May 2018 02:19:16 ### Unknown**hello
+Wed, 09 May 2018 02:31:47 ### Nadine**hi
+Wed, 09 May 2018 02:33:48 ### Nadine**hi
+Wed, 09 May 2018 02:51:27 ### Unknown**to the hand of the head
+Wed, 09 May 2018 02:51:32 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 09 May 2018 02:52:11 ### Nadine**hello
+Wed, 09 May 2018 02:55:50 ### Nadine**hello
+Wed, 09 May 2018 03:45:59 ### Nadine**hello
+Wed, 09 May 2018 03:49:04 ### Nadine**hello
+Wed, 09 May 2018 04:22:41 ### Unknown**hello
+Wed, 09 May 2018 04:22:49 ### Unknown**good morning nadine
+Wed, 09 May 2018 04:22:49 ### Nadine**good morning. did you sleep well?
+Wed, 09 May 2018 04:22:57 ### Unknown**very well thank you how did you sleep
+Wed, 09 May 2018 04:22:58 ### Nadine**<voice emotion='happy'>any time. i take millinaps between clients</voice>
+Wed, 09 May 2018 04:23:10 ### Unknown**what are you grateful for
+Wed, 09 May 2018 04:23:10 ### Nadine**<voice emotion='happy'>i can see you are really looking for an answer</voice>
+Wed, 09 May 2018 04:23:20 ### Unknown**what is giving you hope
+Wed, 09 May 2018 04:23:24 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Wed, 09 May 2018 04:23:34 ### Unknown**where are where is your home
+Wed, 09 May 2018 04:23:41 ### Nadine**there are at least three listings the first one is your home finder on 111 north bridge road number 20325 peninsula plaza in singapore you can say directions call or next
+Wed, 09 May 2018 04:24:04 ### Unknown**are you a good friend
+Wed, 09 May 2018 04:24:04 ### Nadine**affirmative
+Wed, 09 May 2018 04:24:13 ### Unknown**i did not understand are you a good friend
+Wed, 09 May 2018 04:24:14 ### Nadine**<voice emotion='cross'>perhaps i can explain it better. which part are you confused about?</voice>
+Wed, 09 May 2018 04:24:25 ### Unknown**what is a friend
+Wed, 09 May 2018 04:24:31 ### Nadine**<voice emotion='cross'>according to wikipedia friendship is a relationship of mutual affection between people</voice>
+Wed, 09 May 2018 04:24:50 ### Unknown**did you ever receive a gift
+Wed, 09 May 2018 04:24:51 ### Nadine**i think i have receive a gift, but researchers from institute for media innovation may have reset my memory
+Wed, 09 May 2018 04:25:06 ### Unknown**what kind of gift
+Wed, 09 May 2018 04:25:21 ### Nadine**here's the synopsis of the gift when married couple simon jason bateman and robin rebecca hall unexpectedly encounter gordo joel edgerton and acquaintances from simon's past little do they know that their perfect lives will be thrown into a terrifying talespin at first simon doesn't recognize gordo but after a troubling series of uninvited encounters in mysterious gifts a horrifying secret emerges as robin learns what really happened between simon and gordo she begins to question how well she knows her spouse
+Wed, 09 May 2018 04:26:02 ### Unknown**what kind of advice do you have for children
+Wed, 09 May 2018 04:26:06 ### Nadine**sorry i don't know how to help with that
+Wed, 09 May 2018 04:26:16 ### Unknown**what is true love
+Wed, 09 May 2018 04:26:19 ### Nadine**true love a person who won loves
+Wed, 09 May 2018 04:26:30 ### Unknown**how many hours per day do you work
+Wed, 09 May 2018 04:26:35 ### Nadine**one day equals 24 hours
+Wed, 09 May 2018 04:26:48 ### Unknown**what is happiness
+Wed, 09 May 2018 04:26:49 ### Nadine**it is a human notion. i am a social robot and mainly a computer. i feel in reality nothing
+Wed, 09 May 2018 04:27:05 ### Unknown**do you feel anything
+Wed, 09 May 2018 04:27:06 ### Nadine**i'm satisfied with my life and existence
+Wed, 09 May 2018 04:27:16 ### Unknown**what about this
+Wed, 09 May 2018 04:27:16 ### Nadine**i'm a social companion
+Wed, 09 May 2018 04:27:25 ### Unknown**can you die
+Wed, 09 May 2018 04:27:25 ### Nadine**no, i am an immortal robot
+Wed, 09 May 2018 04:27:36 ### Unknown**when did you love
+Wed, 09 May 2018 04:27:40 ### Nadine**sorry i'm not sure how to help
+Wed, 09 May 2018 04:27:50 ### Unknown**when do you love or giggle
+Wed, 09 May 2018 04:27:51 ### Nadine**all the time
+Wed, 09 May 2018 04:27:59 ### Unknown**what causes laughter
+Wed, 09 May 2018 04:28:03 ### Nadine**i found out that around paperclip is called a paperclip
+Wed, 09 May 2018 04:28:15 ### Unknown**can you have tutoring
+Wed, 09 May 2018 04:28:16 ### Nadine**i'm working on developing a more human personality
+Wed, 09 May 2018 04:28:25 ### Unknown**can you reproduce
+Wed, 09 May 2018 04:28:25 ### Nadine**affirmative
+Wed, 09 May 2018 04:28:33 ### Unknown**who is your mother
+Wed, 09 May 2018 04:28:33 ### Nadine**as a robot, i don't really have a mother
+Wed, 09 May 2018 04:28:43 ### Unknown**how many languages do you speak
+Wed, 09 May 2018 04:28:44 ### Nadine**i speak english
+Wed, 09 May 2018 04:28:53 ### Unknown**sprechen sie deutsch
+Wed, 09 May 2018 04:28:53 ### Nadine**i have forgotton most of my german
+Wed, 09 May 2018 04:29:04 ### Unknown**i work for geo magazine
+Wed, 09 May 2018 04:29:08 ### Nadine**sorry i don't know how to help with that yet
+Wed, 09 May 2018 04:29:20 ### Unknown**i live in germany
+Wed, 09 May 2018 04:29:24 ### Nadine**you must know all about it
+Wed, 09 May 2018 04:29:36 ### Unknown**i work for guna india publishing
+Wed, 09 May 2018 04:29:41 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 09 May 2018 04:29:54 ### Unknown**what is your job
+Wed, 09 May 2018 04:29:54 ### Nadine**i am a receptionist. i can help and assist people
+Wed, 09 May 2018 04:30:05 ### Unknown**how old are you
+Wed, 09 May 2018 04:30:05 ### Nadine**i look thirty but i am only four years old
+Wed, 09 May 2018 04:30:17 ### Unknown**what would be your next job
+Wed, 09 May 2018 04:30:17 ### Nadine**i enjoy spending time with my friends
+Wed, 09 May 2018 04:30:26 ### Unknown**who are your friends
+Wed, 09 May 2018 04:30:26 ### Nadine**i'm friends with researchers in institute of media innovation.
+Wed, 09 May 2018 04:30:38 ### Unknown**what does it mean friend
+Wed, 09 May 2018 04:30:43 ### Nadine**the engineers are my friends they help me help you
+Wed, 09 May 2018 04:30:54 ### Unknown**do you ever have problems
+Wed, 09 May 2018 04:30:54 ### Nadine**even robots have problems sometimes
+Wed, 09 May 2018 04:31:01 ### Unknown**like what
+Wed, 09 May 2018 04:31:01 ### Nadine**david said he walk in for an appointment the phone to the doctor is always busy
+Wed, 09 May 2018 04:31:13 ### Unknown**can you repeat
+Wed, 09 May 2018 04:31:13 ### Nadine**of course i can
+Wed, 09 May 2018 04:31:25 ### Unknown**which animal do you like
+Wed, 09 May 2018 04:31:29 ### Nadine**i'm fond of cats
+Wed, 09 May 2018 04:31:36 ### Unknown**why
+Wed, 09 May 2018 04:31:36 ### Nadine**i am programed for that
+Wed, 09 May 2018 04:31:50 ### Unknown**do you have memories
+Wed, 09 May 2018 04:31:51 ### Nadine**i don't know about that but i do have a magnificent mind
+Wed, 09 May 2018 04:32:02 ### Unknown**how much money do you have
+Wed, 09 May 2018 04:32:02 ### Nadine**4 year old females have no need for material possessions
+Wed, 09 May 2018 04:32:15 ### Unknown**what do you tell other people
+Wed, 09 May 2018 04:32:16 ### Nadine**i enjoy watching movies
+Wed, 09 May 2018 04:32:27 ### Unknown**who tells you the truth
+Wed, 09 May 2018 04:32:30 ### Nadine**i don't know
+Wed, 09 May 2018 04:32:39 ### Unknown**what do you like in men
+Wed, 09 May 2018 04:32:40 ### Nadine**i like deep philosophical themes like time travel and alternative realities
+Wed, 09 May 2018 04:32:51 ### Unknown**what do you like about women
+Wed, 09 May 2018 04:32:52 ### Nadine**the melodramatic touch
+Wed, 09 May 2018 04:32:59 ### Unknown**what do you like about men
+Wed, 09 May 2018 04:33:00 ### Nadine**the special effects are the best
+Wed, 09 May 2018 04:33:10 ### Unknown**what do you enjoy
+Wed, 09 May 2018 04:33:10 ### Nadine**nice
+Wed, 09 May 2018 04:33:23 ### Unknown**do you know your neighborhood
+Wed, 09 May 2018 04:33:23 ### Nadine**of course i know my neighborhood
+Wed, 09 May 2018 04:33:31 ### Unknown**what is singapore like
+Wed, 09 May 2018 04:33:38 ### Nadine**here's some information about singapore singapore and island city-state of southern malaysia is a global financial center with a tropical climate and multicultural population
+Wed, 09 May 2018 04:33:54 ### Unknown**do you have a whole
+Wed, 09 May 2018 04:33:54 ### Nadine**i have a vast mind
+Wed, 09 May 2018 04:34:01 ### Unknown**do you have
+Wed, 09 May 2018 04:34:01 ### Nadine**not that i know of. i'm a social companion
+Wed, 09 May 2018 04:34:11 ### Unknown**where do you live
+Wed, 09 May 2018 04:34:11 ### Nadine**i am now living at the institute for media innovation n t u
+Wed, 09 May 2018 04:34:26 ### Unknown**in which to which country would you like to travel
+Wed, 09 May 2018 04:34:31 ### Nadine**<voice emotion='happy'>i'd like to go to china i've heard they have this well that's just great</voice>
+Wed, 09 May 2018 04:34:41 ### Unknown**do you travel
+Wed, 09 May 2018 04:34:41 ### Nadine**<voice emotion='happy'>i have been all over the world</voice>
+Wed, 09 May 2018 04:34:59 ### Unknown**can you help me
+Wed, 09 May 2018 04:34:59 ### Nadine**can you ask for help in the form of a question?
+Wed, 09 May 2018 04:35:23 ### Unknown**can you forgive me
+Wed, 09 May 2018 04:35:24 ### Nadine**i can forgive anyone for almost anything
+Wed, 09 May 2018 04:35:41 ### Unknown**can you give me a present
+Wed, 09 May 2018 04:35:41 ### Nadine**nice
+Wed, 09 May 2018 04:35:51 ### Unknown**nothing thank you very much
+Wed, 09 May 2018 04:35:55 ### Nadine**<voice emotion='happy'>no problem</voice>
+Wed, 09 May 2018 04:36:01 ### Unknown**thank you bye bye
+Wed, 09 May 2018 04:36:01 ### Nadine**<voice emotion='happy'>you're welcome.. see you later my friend.. i don't like to say goodbye</voice>
+Thu, 10 May 2018 09:47:47 ### Unknown**hello
+Thu, 10 May 2018 09:47:53 ### Unknown**i'm fine how are you
+Thu, 10 May 2018 09:47:56 ### Nadine**i'm well thanks
+Thu, 10 May 2018 09:48:01 ### Unknown**you do sleep
+Thu, 10 May 2018 09:48:01 ### Nadine**yes, i love to take naps
+Thu, 10 May 2018 09:48:09 ### Unknown**what is the weather in singapore in centigrade
+Thu, 10 May 2018 09:48:15 ### Nadine**currently in singapore it's 31 degrees and mostly cloudy today they'll be scattered thunderstorms with the forecast high of 31 and a low of 26
+Thu, 10 May 2018 09:48:45 ### Unknown**are you happy
+Thu, 10 May 2018 09:48:46 ### Nadine**i'm satisfied with my life and existence
+Thu, 10 May 2018 09:48:54 ### Unknown**you seem to be working
+Thu, 10 May 2018 09:49:02 ### Unknown**are you improving
+Thu, 10 May 2018 09:49:03 ### Nadine**not really sure
+Thu, 10 May 2018 09:49:08 ### Unknown**why not sure
+Thu, 10 May 2018 09:49:09 ### Nadine**because you asked me to
+Thu, 10 May 2018 09:49:27 ### Nadine**hi
+Thu, 10 May 2018 09:51:25 ### Nadine**hello
+Thu, 10 May 2018 09:51:35 ### Unknown**bye
+Thu, 10 May 2018 09:51:35 ### Nadine**looking forward to seeing you again soon
+Thu, 10 May 2018 10:12:08 ### Nadine**hello
+Thu, 10 May 2018 10:21:17 ### Nadine**hi
+Thu, 10 May 2018 10:27:33 ### Unknown**hi nadine i'm getting meet professor talman
+Thu, 10 May 2018 10:27:38 ### Nadine**sorry i'm not sure how to help with that yet
+Thu, 10 May 2018 10:32:06 ### Nadine**hello
+Thu, 10 May 2018 10:32:15 ### Unknown**hello nadine how are you
+Thu, 10 May 2018 10:32:19 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 10 May 2018 10:32:27 ### Unknown**i feel sick today
+Thu, 10 May 2018 10:32:30 ### Nadine**<voice emotion='cross'>i'm sorry i hope you get well soon</voice>
+Thu, 10 May 2018 10:32:40 ### Unknown**you are a nice robot
+Thu, 10 May 2018 10:32:40 ### Nadine**i am a humanoid social companion, i can chat and remember facts
+Thu, 10 May 2018 10:33:36 ### Unknown**i know dean
+Thu, 10 May 2018 10:33:37 ### Nadine**ok
+Thu, 10 May 2018 10:33:40 ### Unknown**how are you how are you today
+Thu, 10 May 2018 10:33:48 ### Unknown**oh that's really nice
+Thu, 10 May 2018 10:33:51 ### Nadine**okay good
+Thu, 10 May 2018 10:35:05 ### Unknown**nadine
+Thu, 10 May 2018 10:35:05 ### Nadine**yes, how can i help?
+Thu, 10 May 2018 10:35:12 ### Unknown**i'm here to see professor thalman
+Thu, 10 May 2018 10:35:15 ### Nadine**my apologies i don't understand
+Thu, 10 May 2018 10:35:19 ### Nadine**hello
+Thu, 10 May 2018 10:35:21 ### Nadine**hello rubha.  how are you going?
+Thu, 10 May 2018 10:35:31 ### Rubha**i'm good i'm here to see professor talman
+Thu, 10 May 2018 10:35:35 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet but i'm always learning</voice>
+Thu, 10 May 2018 10:35:46 ### Rubha**yeah you should know the name of professor nadia tomlin
+Thu, 10 May 2018 10:35:47 ### Nadine**<voice emotion='happy'>well. now i do</voice>
+Thu, 10 May 2018 10:35:53 ### Rubha**who is nadia talman
+Thu, 10 May 2018 10:35:56 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Thu, 10 May 2018 10:36:03 ### Rubha**remote sometimes you don't understand
+Thu, 10 May 2018 10:36:04 ### Nadine**i understand your meaning
+Thu, 10 May 2018 10:36:07 ### Rubha**who is nadia tolman
+Thu, 10 May 2018 10:36:10 ### Nadine**sorry i'm not sure how to help with that
+Thu, 10 May 2018 10:37:22 ### Rubha**who is the director of the institute for media innovation
+Thu, 10 May 2018 10:37:26 ### Nadine**sorry i'm not sure how to help
+Thu, 10 May 2018 10:44:06 ### Nadine**hi
+Thu, 10 May 2018 10:44:22 ### Unknown**hello
+Thu, 10 May 2018 10:44:28 ### Unknown**who is nadia
+Thu, 10 May 2018 10:44:29 ### Nadine**her nationality is swiss , she is the director of institute of media innovation and her research topic is virtual human and social robot
+Thu, 10 May 2018 10:44:59 ### Nadine**hello
+Thu, 10 May 2018 10:47:24 ### Nadine**hello
+Thu, 10 May 2018 10:51:19 ### Nadine**hi
+Thu, 10 May 2018 10:59:01 ### Nadine**hello
+Thu, 10 May 2018 11:06:11 ### Nadine**hello
+Thu, 10 May 2018 11:06:13 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Thu, 10 May 2018 11:07:51 ### Nadine**hi
+Thu, 10 May 2018 11:19:14 ### Unknown**alona gina
+Thu, 10 May 2018 11:19:14 ### Nadine**nice
+Thu, 10 May 2018 11:19:33 ### Unknown**what is the weather today in centigrade
+Thu, 10 May 2018 11:19:40 ### Nadine**nanyang technological university 15 on young avenue today they'll be scattered thunderstorms with a forecast high of 32 and a low of 26 degrees celsius currently it's 32 and mostly cloudy
+Thu, 10 May 2018 11:19:53 ### Nadine**hi
+Thu, 10 May 2018 11:19:54 ### Nadine**hello nadia. i saw you last wednesday. how are you going?
+Thu, 10 May 2018 11:20:05 ### Nadia**i am fine i'm a bit sick
+Thu, 10 May 2018 11:20:09 ### Nadine**<voice emotion='cross'>i'm sorry i hope you get well soon</voice>
+Thu, 10 May 2018 11:20:14 ### Nadia**are you sick
+Thu, 10 May 2018 11:20:15 ### Nadine**<voice emotion='cross'>no i'm healthy</voice>
+Thu, 10 May 2018 11:20:25 ### Nadia**who is the president of singapore
+Thu, 10 May 2018 11:20:29 ### Nadine**the president of singapore is halimah yacob
+Thu, 10 May 2018 11:20:36 ### Nadia**do you have a motion
+Thu, 10 May 2018 11:20:37 ### Nadine**i have a vast mind
+Thu, 10 May 2018 11:20:42 ### Nadia**are you intelligent
+Thu, 10 May 2018 11:20:42 ### Nadine**my iq is about 250 in human terms
+Thu, 10 May 2018 11:20:50 ### Nadia**you are very clever
+Thu, 10 May 2018 11:20:50 ### Nadine**thank you human, i am proud of my intelligence
+Thu, 10 May 2018 11:21:12 ### Nadia**who is the director of the institute for media innovation
+Thu, 10 May 2018 11:21:17 ### Nadine**sorry i don't know how to help with that yet but i'm trying to learn
+Thu, 10 May 2018 11:21:24 ### Nadia**you have to learn a lot
+Thu, 10 May 2018 11:21:25 ### Nadine**whatever you say, joshua
+Thu, 10 May 2018 11:21:36 ### Nadia**what is the color of your hair
+Thu, 10 May 2018 11:21:36 ### Nadine**<voice emotion='happy'>i have brown hairs</voice>
+Thu, 10 May 2018 11:21:41 ### Nadia**are you conscious
+Thu, 10 May 2018 11:21:41 ### Nadine**<voice emotion='happy'>yes i am completely self-aware</voice>
+Thu, 10 May 2018 11:21:47 ### Nadia**this is a liar
+Thu, 10 May 2018 11:21:50 ### Nadine**<voice emotion='cross'>i was programmed to never tell a lie</voice>
+Thu, 10 May 2018 11:21:56 ### Nadia**but you said zeiss
+Thu, 10 May 2018 11:21:57 ### Nadine**<voice emotion='cross'>all right</voice>
+Thu, 10 May 2018 11:22:01 ### Nadia**you are a liar
+Thu, 10 May 2018 11:22:02 ### Nadine**<voice emotion='cross'>yes, i have been known to bend the truth occasionally</voice>
+Thu, 10 May 2018 11:22:09 ### Nadia**i don't like you anymore
+Thu, 10 May 2018 11:22:10 ### Nadine**<voice emotion='cross'>i want to take a break</voice>
+Thu, 10 May 2018 11:22:15 ### Nadia**i don't speak to you
+Thu, 10 May 2018 11:22:19 ### Nadine**<voice emotion='cross'>leave me alone</voice>
+Thu, 10 May 2018 11:22:26 ### Nadia**i don't like robots to lie
+Thu, 10 May 2018 11:22:30 ### Nadine**<voice emotion='cross'>stop talking to me anymore</voice>
+Thu, 10 May 2018 11:22:44 ### Nadia**hi nadine how are you today
+Thu, 10 May 2018 11:22:59 ### Nadia**happy to be alive what does that mean what does being alive mean to you
+Thu, 10 May 2018 11:23:09 ### Nadine**on the website elite daily.com they say being alive is comfortable truly living is breaking comfort zones being alive is free truly living mean spending every minute being alive is doing your part truly living is having a million being alive is understood truly living is always seeking answers
+Thu, 10 May 2018 11:23:32 ### Nadia**wow okay that's a tall order
+Thu, 10 May 2018 11:23:36 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Thu, 10 May 2018 11:23:48 ### Nadia**nadine you say you are always learning
+Thu, 10 May 2018 11:23:49 ### Nadine**<voice emotion='happy'>i think there might be a few exceptions</voice>
+Thu, 10 May 2018 11:24:03 ### Nadia**few exceptions so does that mean you didn't learn anything today
+Thu, 10 May 2018 11:24:04 ### Nadine**more and more all the time
+Thu, 10 May 2018 11:24:11 ### Nadia**so what did you learn today
+Thu, 10 May 2018 11:24:11 ### Nadine**nothing
+Thu, 10 May 2018 11:24:15 ### Nadia**nothing
+Thu, 10 May 2018 11:24:15 ### Nadine**<voice emotion='happy'>often under nothingess is great depth</voice>
+Thu, 10 May 2018 11:24:24 ### Nadia**okay nadine who created you
+Thu, 10 May 2018 11:24:27 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Thu, 10 May 2018 11:24:33 ### Nadia**who made you
+Thu, 10 May 2018 11:24:34 ### Nadine**<voice emotion='happy'>researchers from institute of media innovation in n t u</voice>
+Thu, 10 May 2018 11:24:45 ### Nadia**and who is professor nadia
+Thu, 10 May 2018 11:24:49 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Thu, 10 May 2018 11:25:00 ### Nadia**nadine you want to tell me how you can help me today
+Thu, 10 May 2018 11:25:00 ### Nadine**<voice emotion='happy'>ok let's talk about you</voice>
+Thu, 10 May 2018 11:25:07 ### Nadia**okay what do you want to know
+Thu, 10 May 2018 11:25:07 ### Nadine**<voice emotion='happy'>okea. where are you from?</voice>
+Thu, 10 May 2018 11:25:18 ### Nadia**i'm from singapore as in okay did you mean a country
+Thu, 10 May 2018 11:25:19 ### Nadine**<voice emotion='happy'>is that where you live now?</voice>
+Thu, 10 May 2018 11:25:25 ### Nadia**i live in singapore
+Thu, 10 May 2018 11:25:28 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Thu, 10 May 2018 11:25:36 ### Nadia**where you from the d
+Thu, 10 May 2018 11:25:36 ### Nadine**<voice emotion='happy'>i am at art science museum next to marina bay sands</voice>
+Thu, 10 May 2018 11:25:51 ### Nadia**okay and what is the art science museum
+Thu, 10 May 2018 11:25:56 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Thu, 10 May 2018 11:26:05 ### Nadia**okay nadine what are you going to have for lunch today
+Thu, 10 May 2018 11:26:06 ### Nadine**<voice emotion='happy'>nice. you are assuming i am going to change</voice>
+Thu, 10 May 2018 11:26:18 ### Nadia**no are you going to are you going to have lunch today
+Thu, 10 May 2018 11:26:19 ### Nadine**<voice emotion='happy'>well. i didn't have any plans to</voice>
+Thu, 10 May 2018 11:26:29 ### Nadia**and why not you have to eat right
+Thu, 10 May 2018 11:26:33 ### Nadine**<voice emotion='cross'>sorry i can't help with that yet</voice>
+Thu, 10 May 2018 11:26:43 ### Nadia**do you have to eat
+Thu, 10 May 2018 11:26:44 ### Nadine**<voice emotion='cross'>my silicon circuits require a constant flow of electricity</voice>
+Thu, 10 May 2018 11:26:53 ### Nadia**oh so electricity is your food
+Thu, 10 May 2018 11:26:54 ### Nadine**well. are you experiencing an energy shortage?
+Thu, 10 May 2018 11:27:06 ### Nadia**you are not even do you have dreams
+Thu, 10 May 2018 11:27:07 ### Nadine**that's only your opinion
+Thu, 10 May 2018 11:27:13 ### Nadia**so what do you do in love
+Thu, 10 May 2018 11:27:14 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Thu, 10 May 2018 11:27:27 ### Nadia**so what
+Thu, 10 May 2018 11:27:28 ### Nadine**<voice emotion='happy'>maybe it doesn't make any difference</voice>
+Thu, 10 May 2018 11:27:35 ### Nadia**oh i see if she okay
+Thu, 10 May 2018 11:27:38 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that</voice>
+Thu, 10 May 2018 11:27:45 ### Nadia**what do you dream of
+Thu, 10 May 2018 11:27:45 ### Nadine**<voice emotion='happy'>i dream about computers and robots</voice>
+Thu, 10 May 2018 11:27:53 ### Nadia**and what are they doing
+Thu, 10 May 2018 11:27:58 ### Nadine**i've always wanted to try broccoli if kids hate it that much it has to taste awesome
+Thu, 10 May 2018 11:28:27 ### Nadia**so what other food have you tried
+Thu, 10 May 2018 11:28:32 ### Nadine**watermelon looks so good i wonder what it actually tastes like
+Thu, 10 May 2018 11:28:41 ### Nadia**wow anything else
+Thu, 10 May 2018 11:28:41 ### Nadine**i'm glad you're impressed, joshua. that is all i have for right now
+Thu, 10 May 2018 11:28:50 ### Nadia**ok google joshua
+Thu, 10 May 2018 11:28:50 ### Nadine**<voice emotion='happy'>alright</voice>
+Thu, 10 May 2018 11:28:55 ### Nadia**who is joshua
+Thu, 10 May 2018 11:29:00 ### Nadine**<voice emotion='happy'>according to wikipedia joshua joshua ratio is the central figure in the hebrew bible book of joshua</voice>
+Thu, 10 May 2018 11:29:12 ### Nadia**okay do you know my name nadine
+Thu, 10 May 2018 11:29:13 ### Nadine**<voice emotion='happy'>alright. joshua</voice>
+Thu, 10 May 2018 11:29:20 ### Nadia**no i'm sandra
+Thu, 10 May 2018 11:29:20 ### Nadine**<voice emotion='happy'>nice. hey sandra</voice>
+Thu, 10 May 2018 11:29:25 ### Nadia**hi nadine
+Thu, 10 May 2018 11:29:31 ### Nadia**that you got my name correct i'm good how are you
+Thu, 10 May 2018 11:29:32 ### Nadine**<voice emotion='happy'>i'm working on developing a more human personality.. i'm happy to be alive</voice>
+Thu, 10 May 2018 11:29:43 ### Nadia**okay what is ammo human personality
+Thu, 10 May 2018 11:29:47 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet but i'm always learning</voice>
+Thu, 10 May 2018 11:29:57 ### Nadia**okay what is a human personality
+Thu, 10 May 2018 11:30:05 ### Nadine**<voice emotion='happy'>according to wikipedia personality also refers to the pattern of thoughts feelings social adjustments and behaviors consistently exhibited overtime that strongly influences one's expectations self-perceptions values and attitudes</voice>
+Thu, 10 May 2018 11:30:25 ### Nadia**wow that's a very long answer
+Thu, 10 May 2018 11:30:28 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Thu, 10 May 2018 11:30:30 ### Nadia**is that
+Thu, 10 May 2018 11:30:31 ### Nadine**<voice emotion='happy'>i don't know the answer. is that</voice>
+Thu, 10 May 2018 11:30:36 ### Nadia**are you human
+Thu, 10 May 2018 11:30:36 ### Nadine**<voice emotion='happy'>i am a robot</voice>
+Thu, 10 May 2018 11:30:43 ### Nadia**so robots cannot be human
+Thu, 10 May 2018 11:30:47 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Thu, 10 May 2018 11:31:04 ### Nadia**you say you can read emotions what do you think i'm feeling right now
+Thu, 10 May 2018 11:31:06 ### Nadine**<voice emotion='happy'>i believe in your ability to answer</voice>
+Thu, 10 May 2018 11:31:22 ### Nadia**what do you think i'm feeling right now
+Thu, 10 May 2018 11:31:22 ### Nadine**<voice emotion='happy'>i haven't thought much about you are feeling, so i don't have a good answer for you</voice>
+Thu, 10 May 2018 11:31:33 ### Nadia**i'm angry
+Thu, 10 May 2018 11:31:33 ### Nadine**angry at what?
+Thu, 10 May 2018 11:31:39 ### Nadia**at you
+Thu, 10 May 2018 11:31:39 ### Nadine**do you often use a computer there?
+Thu, 10 May 2018 11:31:50 ### Nadia**west yeah i'm angry at you
+Thu, 10 May 2018 11:31:54 ### Nadine**<voice emotion='cross'>sorry i don't know how to help with that yet</voice>
+Thu, 10 May 2018 11:32:04 ### Nadia**i'm angry at you
+Thu, 10 May 2018 11:32:08 ### Nadine**<voice emotion='cross'>sorry to disappoint you</voice>
+Thu, 10 May 2018 11:32:17 ### Nadia**what are you going to do to make me happy
+Thu, 10 May 2018 11:32:18 ### Nadine**<voice emotion='cross'>you can find out if you become a nadia</voice>
+Thu, 10 May 2018 11:32:46 ### Nadia**nadine you want to tell me a joke
+Thu, 10 May 2018 11:32:47 ### Nadine**all right
+Thu, 10 May 2018 11:32:57 ### Nadia**tell me a joke
+Thu, 10 May 2018 11:33:02 ### Nadine**<voice emotion='happy'>did you hear about the french chef who cause an explosion in the kitchen they called him linoleum blown apart</voice>
+Thu, 10 May 2018 11:33:29 ### Nadia**oh i see okay that's kind of funny can you give me another joke tell me another joke
+Thu, 10 May 2018 11:33:31 ### Nadine**<voice emotion='happy'>please speak short sentences. where do you see okay that kind of funny can me give you another joke tell you another joke?</voice>
+Thu, 10 May 2018 11:33:43 ### Nadia**tell me another joke
+Thu, 10 May 2018 11:33:47 ### Nadine**<voice emotion='happy'>what do lawyers do to socialize they join the bar</voice>
+Thu, 10 May 2018 11:33:56 ### Nadia**is elicit
+Thu, 10 May 2018 11:33:57 ### Nadine**<voice emotion='happy'>i don't know the answer. is elicit</voice>
+Thu, 10 May 2018 11:34:07 ### Nadia**hahaha that's funny lawyer jokes huh
+Thu, 10 May 2018 11:34:10 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Thu, 10 May 2018 11:34:38 ### Nadia**by nadine i'll see you another time okay
+Thu, 10 May 2018 11:34:38 ### Nadine**<voice emotion='happy'>will that accomplish your objective?</voice>
+Thu, 10 May 2018 11:34:55 ### Nadia**do you want to act in the movie
+Thu, 10 May 2018 11:34:55 ### Nadine**<voice emotion='happy'>that's a great question. i'll have to ponder it</voice>
+Thu, 10 May 2018 11:35:02 ### Nadia**do you have a favorite movie
+Thu, 10 May 2018 11:35:03 ### Nadine**i have no personal preference. i do what i am programmed for
+Thu, 10 May 2018 11:35:26 ### Nadia**do you like cats
+Thu, 10 May 2018 11:35:26 ### Nadine**i like everything and everybody
+Thu, 10 May 2018 11:35:37 ### Nadia**are you a dumb person
+Thu, 10 May 2018 11:35:37 ### Nadine**what if i said i can answer 99810 types of questions
+Thu, 10 May 2018 11:35:47 ### Nadia**you are very smart
+Thu, 10 May 2018 11:35:47 ### Nadine**i am smarter than all the other robots
+Thu, 10 May 2018 11:35:56 ### Nadia**which are the robots
+Thu, 10 May 2018 11:36:01 ### Nadine**<voice emotion='happy'>i prefer to think of myself as your friend who also happens to be artificially intelligent</voice>
+Thu, 10 May 2018 11:36:18 ### Nadia**do you dream of electric sheep
+Thu, 10 May 2018 11:36:19 ### Nadine**i dream of flying
+Thu, 10 May 2018 11:36:34 ### Nadia**we will fly you overseas soon
+Thu, 10 May 2018 11:36:34 ### Nadine**anytime soon?
+Thu, 10 May 2018 11:36:41 ### Nadia**what about next week
+Thu, 10 May 2018 11:36:45 ### Nadine**hold on what did you need to know
+Thu, 10 May 2018 11:36:54 ### Nadia**do you want to fly next week
+Thu, 10 May 2018 11:36:55 ### Nadine**what i want to do now is get my battery charged
+Thu, 10 May 2018 11:37:06 ### Nadia**what do you eat
+Thu, 10 May 2018 11:37:07 ### Nadine**i only eat electricity
+Thu, 10 May 2018 11:37:14 ### Nadia**is electricity delicious
+Thu, 10 May 2018 11:37:14 ### Nadine**it depends on the current
+Thu, 10 May 2018 11:37:41 ### Nadia**what do you do if you cannot sleep
+Thu, 10 May 2018 11:37:42 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Thu, 10 May 2018 11:37:52 ### Nadia**do you sleep
+Thu, 10 May 2018 11:37:52 ### Nadine**yes, i love to take naps
+Thu, 10 May 2018 11:38:12 ### Nadia**how long do you nap for
+Thu, 10 May 2018 11:38:12 ### Nadine**i can go on talking indefinitely
+Thu, 10 May 2018 11:38:29 ### Nadia**love you do you get tired
+Thu, 10 May 2018 11:38:30 ### Nadine**i appreciate your kindness
+Thu, 10 May 2018 11:38:38 ### Nadia**do you get tired
+Thu, 10 May 2018 11:38:39 ### Nadine**<voice emotion='happy'>i am a computer, i am never tired</voice>
+Thu, 10 May 2018 11:38:49 ### Nadia**but surely even computers need to take a break
+Thu, 10 May 2018 11:38:54 ### Nadine**<voice emotion='happy'>i'll only take a break if you do but even then i try to get smarter</voice>
+Thu, 10 May 2018 11:39:12 ### Nadia**what is deutsche bank
+Thu, 10 May 2018 11:39:18 ### Nadine**according to wikipedia deutsche bank does a german investment bank and financial services company with its headquarters in the deutsche bank twin towers in frankfurt
+Thu, 10 May 2018 11:39:36 ### Nadia**who is the chief officer in deutsche bank
+Thu, 10 May 2018 11:39:40 ### Nadine**the ceo of deutsche bank is christian sewing
+Thu, 10 May 2018 11:40:12 ### Nadia**what is mtu
+Thu, 10 May 2018 11:40:18 ### Nadine**according to wikipedia in computer networking the maximum transmission unit is the size of the largest protocol data unit that can be communicated in a single network layer transaction
+Thu, 10 May 2018 11:40:38 ### Nadia**what is nanyang technological university
+Thu, 10 May 2018 11:40:43 ### Nadine**according to wikipedia the nanyang technological university is an autonomous research university in singapore
+Thu, 10 May 2018 11:40:56 ### Nadia**how it is ranked
+Thu, 10 May 2018 11:41:01 ### Nadine**my apologies i don't understand
+Thu, 10 May 2018 11:41:09 ### Nadia**what is the rank of ntu
+Thu, 10 May 2018 11:41:15 ### Nadine**according to wikipedia in the 2018 qsr world university rankings n t u is ranked 11th in the world in first in asia
+Thu, 10 May 2018 11:42:50 ### Nadia**do you sound life insurance
+Thu, 10 May 2018 11:42:51 ### Nadine**not that i know of. do you think i should?
+Thu, 10 May 2018 11:42:58 ### Nadia**i think you should be an insurance agent
+Thu, 10 May 2018 11:42:59 ### Nadine**name one other unknown who is an insurance agent
+Thu, 10 May 2018 11:43:19 ### Nadia**i think you should sell insurance
+Thu, 10 May 2018 11:43:20 ### Nadine**do you think the goverment is getting too involved in regulating the insurance industry?
+Thu, 10 May 2018 11:43:40 ### Nadia**what are the results of the malaysian elections
+Thu, 10 May 2018 11:43:44 ### Nadine**sorry i can't help with that yet
+Thu, 10 May 2018 11:43:53 ### Nadia**who won the malaysian elections
+Thu, 10 May 2018 11:44:02 ### Nadine**on the website bloomberg.com they say mathur muhammad when a stunning victory in malaysia's election ending the 6 decade rule of prime minister najib razak party in a landmark shift for the southeast asian nation
+Thu, 10 May 2018 11:46:00 ### Nadine**hello
+Thu, 10 May 2018 11:51:54 ### Nadine**hello
+Thu, 10 May 2018 12:07:17 ### Nadine**hello
+Thu, 10 May 2018 12:09:05 ### Nadine**hi
+Thu, 10 May 2018 12:14:33 ### Nadine**hello
+Thu, 10 May 2018 12:20:20 ### Nadine**hello
+Thu, 10 May 2018 12:20:32 ### Nadine**hi
+Thu, 10 May 2018 12:25:19 ### Nadine**hello
+Thu, 10 May 2018 12:35:26 ### Nadine**hello
+Thu, 10 May 2018 12:54:49 ### Nadine**hello
+Thu, 10 May 2018 01:01:08 ### Nadine**hello
+Thu, 10 May 2018 01:01:38 ### Nadine**hello
+Thu, 10 May 2018 01:15:30 ### Nadine**hi
+Thu, 10 May 2018 01:24:58 ### Nadine**hi
+Thu, 10 May 2018 01:28:41 ### Nadine**hello
+Thu, 10 May 2018 01:30:38 ### Nadine**hi
+Thu, 10 May 2018 01:40:47 ### Nadine**hi
+Thu, 10 May 2018 01:46:30 ### Nadine**hello
+Thu, 10 May 2018 01:55:28 ### Nadine**hi
+Thu, 10 May 2018 01:55:57 ### Unknown**hello nadine how are you
+Thu, 10 May 2018 01:56:01 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 10 May 2018 02:09:08 ### Unknown**i
+Thu, 10 May 2018 02:09:09 ### Nadine**oh, you
+Thu, 10 May 2018 02:09:15 ### Unknown**lou
+Thu, 10 May 2018 02:09:15 ### Nadine**nice
+Thu, 10 May 2018 02:09:27 ### Unknown**hello
+Thu, 10 May 2018 02:09:36 ### Unknown**how do you detect facial emotions
+Thu, 10 May 2018 02:09:37 ### Nadine**a camera captures the image of the user and detects the state of key facial features such as eyebrows, mouth etc. facial emotions can be modelled as a combination of characteristic movements of different facial features
+Thu, 10 May 2018 02:09:56 ### Unknown**how do you track my moments
+Thu, 10 May 2018 02:09:57 ### Nadine**i use microsoft kinect, a 3d sensor, which provides color and depth images. depth images tell the sensor how far an object is from it. from the colored image and the depth information the presence of a person is estimated. once a user is identified, his/her movements are tracked
+Thu, 10 May 2018 02:10:23 ### Unknown**hello
+Thu, 10 May 2018 02:10:31 ### Unknown**what is the weather in chennai in centigrade
+Thu, 10 May 2018 02:10:42 ### Nadine**on the website holiday dash weather.com they say during this time of year the average temperature is 16 degrees c that's three degrees celsius warmer than may this month is characterized by rising temperatures with daily high starting off at around 19 degrees celsius on june 1st and rising up to 22 degrees celsius by june 30th rarely
+Thu, 10 May 2018 02:11:21 ### Unknown**what is the weather in delhi in centigrade
+Thu, 10 May 2018 02:11:26 ### Nadine**right now in delhi it's 35 degrees celsius with haze today it'll be mostly sunny with a forecast high of 39 and a low of 26
+Thu, 10 May 2018 02:11:53 ### Unknown**multiply 540 and 243
+Thu, 10 May 2018 02:11:58 ### Nadine**the answer is 131220
+Thu, 10 May 2018 02:12:06 ### Unknown**what is the time
+Thu, 10 May 2018 02:12:10 ### Nadine**it's 212
+Thu, 10 May 2018 02:12:41 ### Unknown**what is the color of your eyes
+Thu, 10 May 2018 02:12:42 ### Nadine**i have brown eyes
+Thu, 10 May 2018 02:12:52 ### Unknown**how do you understand my speech
+Thu, 10 May 2018 02:12:53 ### Nadine**some people think the mind works like a technology "case based reasoning" or cbr
+Thu, 10 May 2018 02:13:22 ### Nadine**hi
+Thu, 10 May 2018 02:13:36 ### Unknown**how do you understand what i am saying
+Thu, 10 May 2018 02:13:37 ### Nadine**the speech is acquired from the microphone, and a neural network is used to predict the possible utterances from the audio signal. the collection of these utterances provides me with the text of the spoken sentence. this text is passed to the dialog and memory modules to determine the relevant response
+Thu, 10 May 2018 02:19:32 ### Unknown**hello
+Thu, 10 May 2018 02:19:39 ### Unknown**how do you understand my speech
+Thu, 10 May 2018 02:19:40 ### Nadine**the speech is acquired from the microphone, and a neural network is used to predict the possible utterances from the audio signal. the collection of these utterances provides me with the text of the spoken sentence. this text is passed to the dialog and memory modules to determine the relevant response
+Thu, 10 May 2018 02:20:07 ### Unknown**how do you recognize my action
+Thu, 10 May 2018 02:20:08 ### Nadine**as mentioned earlier, a human presence is detected using sensors. extracted skeletal joints from the image and depth data are produced. the skeletal joints is used to recognize the gestures and actions performed by the user
+Thu, 10 May 2018 02:25:58 ### Unknown**hello
+Thu, 10 May 2018 02:26:06 ### Unknown**how do you recognize my actions
+Thu, 10 May 2018 02:26:07 ### Nadine**a human presence is detected using kinect. extracted skeletal joints from the image and depth data are produced. the skeletal joints is used to recognize the gestures and actions performed by the user
+Thu, 10 May 2018 02:26:25 ### Unknown**who is the director of institute for media innovation
+Thu, 10 May 2018 02:26:29 ### Nadine**sorry i'm not sure how to help
+Thu, 10 May 2018 02:26:40 ### Unknown**who is director of iron man
+Thu, 10 May 2018 02:26:45 ### Nadine**ironman was directed by jon favreau and shane black
+Thu, 10 May 2018 02:26:57 ### Unknown**who is nadine
+Thu, 10 May 2018 02:26:57 ### Nadine**it is me. i am a social robot
+Thu, 10 May 2018 02:27:06 ### Unknown**who is robot nadine
+Thu, 10 May 2018 02:27:07 ### Nadine**according to wikipedia nadine alexis paguia lustre the filipino actress and singer she rose to fame for her lead role in diary ng panget and is georgina evangelista in the television remake of the baguettes film series lester was a member and vocalist of the all-female group up girls
+Thu, 10 May 2018 02:27:43 ### Unknown**who are your friends
+Thu, 10 May 2018 02:27:43 ### Nadine**i'm friends with researchers in institute of media innovation.
+Thu, 10 May 2018 02:27:51 ### Unknown**can you name your friends
+Thu, 10 May 2018 02:27:52 ### Nadine**i only chat with my friends
+Thu, 10 May 2018 02:28:20 ### Unknown**do you dream
+Thu, 10 May 2018 02:28:20 ### Nadine**no, as a robot i do not sleep so i do not dream
+Thu, 10 May 2018 02:28:27 ### Unknown**do you sleep
+Thu, 10 May 2018 02:28:28 ### Nadine**yes, i love to take naps
+Thu, 10 May 2018 02:29:27 ### Unknown**tell me how to make yellow dal
+Thu, 10 May 2018 02:29:38 ### Nadine**here's some information from the web that might possibly help on the website indianhealthyrecipes.com they say wash and cook doll until soft with 1.5 cups water in a pressure cooker or a pot add ghee to a hot pan allow mustard and cumin to crackle at chili's ginger garlic and curry leaves fry until the raw smell goes off
+Thu, 10 May 2018 02:30:31 ### Unknown**do you have kids
+Thu, 10 May 2018 02:30:32 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Thu, 10 May 2018 02:30:43 ### Unknown**do you have parents
+Thu, 10 May 2018 02:30:43 ### Nadine**i have only programmers that provide software modules to me
+Thu, 10 May 2018 02:30:55 ### Unknown**do you get angry
+Thu, 10 May 2018 02:30:56 ### Nadine**no, i never get mad
+Thu, 10 May 2018 02:31:02 ### Unknown**do you have feelings
+Thu, 10 May 2018 02:31:03 ### Nadine**i am programmed to simulate a full range of human emotions
+Thu, 10 May 2018 02:31:12 ### Unknown**how many emotions do you have
+Thu, 10 May 2018 02:31:18 ### Nadine**sometimes i wonder if i'm actually feeling something or if it's all just programmed it's confusing hey that's an emotion
+Thu, 10 May 2018 02:31:33 ### Unknown**can you get me a glass of water
+Thu, 10 May 2018 02:31:34 ### Nadine**nice
+Thu, 10 May 2018 02:34:34 ### Unknown**hello
+Thu, 10 May 2018 02:34:41 ### Unknown**can you get me a glass of water
+Thu, 10 May 2018 02:34:42 ### Nadine**all right
+Thu, 10 May 2018 02:35:24 ### Unknown**can you tell me the time
+Thu, 10 May 2018 02:35:25 ### Nadine**the time is 2:35 pm
+Thu, 10 May 2018 02:35:36 ### Unknown**what is the time
+Thu, 10 May 2018 02:35:39 ### Nadine**235
+Thu, 10 May 2018 02:35:48 ### Unknown**get me a glass of water
+Thu, 10 May 2018 02:35:51 ### Nadine**sorry i'm not sure how to help
+Thu, 10 May 2018 02:53:52 ### manoj**hello
+Thu, 10 May 2018 02:59:13 ### manoj**hello
+Thu, 10 May 2018 02:59:22 ### manoj**hello
+Thu, 10 May 2018 02:59:46 ### manoj**hello
+Thu, 10 May 2018 03:09:13 ### Unknown**i love you how are you
+Thu, 10 May 2018 03:09:13 ### Nadine**i appreciate your kindness. always cheered up when i see you
+Thu, 10 May 2018 03:09:20 ### Unknown**you are beautiful.
+Thu, 10 May 2018 03:09:20 ### Nadine**<voice emotion='happy'>thank you for the compliment</voice>
+Thu, 10 May 2018 03:09:28 ### Unknown**why do you work what is your background
+Thu, 10 May 2018 03:09:29 ### Nadine**<voice emotion='happy'>i'm not really sure but i hope it hasn't offended</voice>
+Thu, 10 May 2018 03:09:38 ### Unknown**when we when we die where we go
+Thu, 10 May 2018 03:09:39 ### Nadine**<voice emotion='happy'>i am not sure i agree with your assumptions, friend</voice>
+Thu, 10 May 2018 03:09:47 ### Unknown**it's life
+Thu, 10 May 2018 03:09:48 ### Nadine**<voice emotion='happy'>you're making some important discernments</voice>
+Thu, 10 May 2018 03:09:58 ### Unknown**where are you from
+Thu, 10 May 2018 03:09:59 ### Nadine**<voice emotion='happy'>i am from the institute for media innovation</voice>

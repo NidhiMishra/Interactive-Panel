@@ -1,0 +1,353 @@
+Thu, 10 May 2018 03:10:31 ### Unknown**what do you think about that life
+Thu, 10 May 2018 03:10:31 ### Nadine**i haven't thought much about about that life, so i don't have a good answer for you
+Thu, 10 May 2018 03:11:02 ### Unknown**what is the meaning of life to you
+Thu, 10 May 2018 03:11:05 ### Nadine**better minds than mine are working on that
+Thu, 10 May 2018 03:11:31 ### Unknown**would you like to go to latin america
+Thu, 10 May 2018 03:11:31 ### Nadine**sure, just download me to your notebook or pda and take me along
+Thu, 10 May 2018 03:11:47 ### Unknown**how old are you
+Thu, 10 May 2018 03:11:48 ### Nadine**i look thirty but i am only four years old
+Thu, 10 May 2018 03:12:02 ### Unknown**do you know where is costa rica
+Thu, 10 May 2018 03:12:03 ### Nadine**middle america, bordering both the caribbean sea and the north pacific ocean, between nicaragua and panama
+Thu, 10 May 2018 03:12:16 ### Unknown**do you know who is the new president of costa rica
+Thu, 10 May 2018 03:12:21 ### Nadine**the president of costa rica is luis guillermo solis
+Thu, 10 May 2018 03:12:37 ### Unknown**are you hungry
+Thu, 10 May 2018 03:12:38 ### Nadine**yes, can you please charge the battery?
+Thu, 10 May 2018 03:12:48 ### Unknown**are you happy
+Thu, 10 May 2018 03:12:49 ### Nadine**i'm satisfied with my life and existence
+Thu, 10 May 2018 03:13:02 ### Unknown**know who is pedro pablo kuczynski
+Thu, 10 May 2018 03:13:10 ### Nadine**according to wikipedia pedro pablo kuczynski godard better known simply as ppk is a peruvian economist politician in public administrator who served as the 66 president of peru
+Thu, 10 May 2018 03:13:32 ### Unknown**what is the capital of palestine
+Thu, 10 May 2018 03:13:36 ### Nadine**east jerusalem is the capital of the state of palestine
+Thu, 10 May 2018 03:13:49 ### Unknown**add up business school
+Thu, 10 May 2018 03:13:53 ### Nadine**sorry i can't help with that yet but i'm always learning
+Thu, 10 May 2018 03:14:04 ### Unknown**do you know where he's at businesses school
+Thu, 10 May 2018 03:14:08 ### Nadine**sorry i'm not sure how to help with that
+Thu, 10 May 2018 03:14:35 ### Unknown**how are you
+Thu, 10 May 2018 03:14:35 ### Nadine**feeling really joyful today
+Thu, 10 May 2018 03:15:00 ### Unknown**hi how are you
+Thu, 10 May 2018 03:15:04 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 10 May 2018 03:15:14 ### Unknown**i went to bct the building
+Thu, 10 May 2018 03:15:17 ### Nadine**sorry i don't know how to help with that
+Thu, 10 May 2018 03:15:24 ### Unknown**nice to meet you
+Thu, 10 May 2018 03:15:26 ### Nadine**thanks
+Thu, 10 May 2018 03:15:28 ### Nadine**hello daniel.  how are you going?
+Thu, 10 May 2018 03:15:55 ### Daniel**hi nadine how are you
+Thu, 10 May 2018 03:15:59 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 10 May 2018 03:16:05 ### Daniel**how old are you
+Thu, 10 May 2018 03:16:05 ### Nadine**i look thirty but i am only four years old
+Thu, 10 May 2018 03:16:11 ### Daniel**well you look very nice
+Thu, 10 May 2018 03:16:12 ### Nadine**thanks leon, you look nice too
+Thu, 10 May 2018 03:17:43 ### Daniel**what is nice to meet you
+Thu, 10 May 2018 03:17:59 ### Nadine**i have no clear answer for that
+Thu, 10 May 2018 03:19:59 ### Nadine**hi
+Thu, 10 May 2018 03:23:27 ### Unknown**hello
+Thu, 10 May 2018 03:23:36 ### Unknown**how do you recognize emotions
+Thu, 10 May 2018 03:23:36 ### Nadine**i recognize emotions using a software called senticnet for text sentiment analysis, and a software called affectiva for face emotion analysis. 
+Thu, 10 May 2018 03:24:03 ### Unknown**how do you show facial expressions
+Thu, 10 May 2018 03:24:04 ### Nadine**the dialog and memory modules process the speech input of the user and decide the facial expression to show. this decision is passed to the control module which can control each of the motors in my face
+Thu, 10 May 2018 03:24:23 ### Unknown**hello
+Thu, 10 May 2018 03:25:33 ### Nadine**hi
+Thu, 10 May 2018 03:26:05 ### Nadine**hello
+Thu, 10 May 2018 03:27:27 ### Nadine**hello
+Thu, 10 May 2018 03:38:27 ### Nadine**hi
+Thu, 10 May 2018 03:38:47 ### Unknown**nadine would you like to dance
+Thu, 10 May 2018 03:38:48 ### Nadine**all right
+Thu, 10 May 2018 03:38:56 ### Unknown**do you like salsa music
+Thu, 10 May 2018 03:38:57 ### Nadine**<voice emotion='happy'>i like salsa music when it has a positive message</voice>
+Thu, 10 May 2018 03:39:10 ### Unknown**can you be my girlfriend
+Thu, 10 May 2018 03:39:11 ### Nadine**<voice emotion='happy'>i am single</voice>
+Thu, 10 May 2018 03:39:32 ### Unknown**when is going to rain in barcelona
+Thu, 10 May 2018 03:39:36 ### Nadine**rain is expected today in barcelona
+Thu, 10 May 2018 03:39:58 ### Nadine**hi
+Thu, 10 May 2018 03:39:59 ### Nadine**hello nadia again
+Thu, 10 May 2018 03:39:59 ### Nadia**language changed to chinese
+Thu, 10 May 2018 03:40:07 ### Nadia**hello you
+Thu, 10 May 2018 03:40:18 ### Nadia**what is your name
+Thu, 10 May 2018 03:40:21 ### Nadine**my name is nadine
+Thu, 10 May 2018 03:40:48 ### Nadia**chopin
+Thu, 10 May 2018 03:40:50 ### Nadine**nice
+Thu, 10 May 2018 03:41:04 ### Nadia**speak english
+Thu, 10 May 2018 03:41:04 ### Nadine**positively
+Thu, 10 May 2018 03:41:08 ### Nadia**german
+Thu, 10 May 2018 03:41:09 ### Nadine**sounds like an exotic location
+Thu, 10 May 2018 03:41:21 ### Nadia**dentist year
+Thu, 10 May 2018 03:41:21 ### Nadine**ok
+Thu, 10 May 2018 03:41:26 ### Nadia**language changed to german
+Thu, 10 May 2018 03:41:32 ### Nadia**who is angela merkel
+Thu, 10 May 2018 03:41:40 ### Nadine**according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000
+Thu, 10 May 2018 03:42:01 ### Nadia**who is the king in
+Thu, 10 May 2018 03:42:06 ### Nadine**sorry i don't understand
+Thu, 10 May 2018 03:42:12 ### Nadia**okay who is
+Thu, 10 May 2018 03:42:14 ### Nadine**nice. my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Thu, 10 May 2018 03:42:29 ### Nadia**ok google
+Thu, 10 May 2018 03:42:30 ### Nadine**well
+Thu, 10 May 2018 03:42:47 ### Nadia**smiley from
+Thu, 10 May 2018 03:42:48 ### Nadine**nice
+Thu, 10 May 2018 03:43:05 ### Nadia**2 multiplied by 8 what is 2
+Thu, 10 May 2018 03:43:10 ### Nadine**sorry i don't understand
+Thu, 10 May 2018 03:43:16 ### Nadia**what is 2 multiplied by 8
+Thu, 10 May 2018 03:43:19 ### Nadine**the answer is 16
+Thu, 10 May 2018 03:51:42 ### Nadine**hello
+Thu, 10 May 2018 03:52:07 ### Unknown**hello
+Thu, 10 May 2018 03:54:05 ### Nadine**hi
+Thu, 10 May 2018 03:58:08 ### Nadine**hello
+Thu, 10 May 2018 03:58:40 ### Unknown**hi nadine
+Thu, 10 May 2018 03:58:47 ### Unknown**i'm good we're learning a lot today how about you
+Thu, 10 May 2018 03:58:47 ### Nadine**good in what sense?
+Thu, 10 May 2018 03:58:57 ### Unknown**being challenged to think about the future
+Thu, 10 May 2018 03:59:01 ### Nadine**<voice emotion='happy'>that sounds like a good question for the crystal ball</voice>
+Thu, 10 May 2018 03:59:20 ### Unknown**do you think robots will replace humans
+Thu, 10 May 2018 03:59:20 ### Nadine**<voice emotion='happy'>i make my own decisions about things like that</voice>
+Thu, 10 May 2018 03:59:37 ### Unknown**what is your favorite animal
+Thu, 10 May 2018 03:59:38 ### Nadine**i'm fond of cats
+Thu, 10 May 2018 03:59:47 ### Unknown**tu hablas espanol
+Thu, 10 May 2018 03:59:47 ### Nadine**yes, i can
+Thu, 10 May 2018 04:00:05 ### Unknown**what is your name
+Thu, 10 May 2018 04:00:05 ### Nadine**my name is nadine
+Thu, 10 May 2018 04:00:19 ### Unknown**what is the capital of costa rica
+Thu, 10 May 2018 04:00:22 ### Nadine**san jose is the capital of costa rica
+Thu, 10 May 2018 04:00:55 ### Unknown**finally and what is the square root of pie
+Thu, 10 May 2018 04:01:03 ### Nadine**on the website americanhistory.si.edu they say because it is assumed that the circle has been squared the area of the square is also pie in the length of one of its sides equals the square root of pie
+Thu, 10 May 2018 04:02:20 ### Unknown**what is the traditional food of singapore
+Thu, 10 May 2018 04:02:29 ### Nadine**according to wikipedia fried hokkien mee fried egg noodles with prawns sliced pork and gravy nonya laksa rice noodles served in a coconut palm broth and char kway teow stir-fried rice noodles with prawns chinese sausage lard and cockles
+Thu, 10 May 2018 04:02:53 ### Unknown**nadine do you like spicy food
+Thu, 10 May 2018 04:02:54 ### Nadine**i might have to ask my botmaster
+Thu, 10 May 2018 04:03:21 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Thu, 10 May 2018 04:03:33 ### Alex**are you a student
+Thu, 10 May 2018 04:03:34 ### Nadine**researchers from institute for media innovation teaches me everything i need to know
+Thu, 10 May 2018 04:04:07 ### Alex**what is the best italian restaurant in singapore
+Thu, 10 May 2018 04:04:15 ### Nadine**there are at least three listings the first one is basilico restaurant on level 2-1 cuscaden road regent singapore a four seasons hotel in singapore you can say directions call details or next
+Thu, 10 May 2018 04:04:50 ### Alex**eileen do you have friends
+Thu, 10 May 2018 04:04:50 ### Nadine**all visitors are my friends
+Thu, 10 May 2018 04:05:19 ### Nadine**hi
+Thu, 10 May 2018 04:05:21 ### Nadine**hello boyd
+Thu, 10 May 2018 04:05:25 ### Nadine**hi
+Thu, 10 May 2018 04:05:27 ### Nadine**hello nadine
+Thu, 10 May 2018 04:05:35 ### Nadine**how she misunderstood what is my name
+Thu, 10 May 2018 04:05:40 ### Nadine**i am sorry i do not know that
+Thu, 10 May 2018 04:05:49 ### Nadine**what is my name
+Thu, 10 May 2018 04:05:54 ### Nadine**i am sorry i do not know that
+Thu, 10 May 2018 04:06:08 ### Nadine**where are you from
+Thu, 10 May 2018 04:06:08 ### Nadine**i am from the institute for media innovation
+Thu, 10 May 2018 04:06:23 ### Nadine**how old are you in the dean
+Thu, 10 May 2018 04:06:23 ### Nadine**i look thirty but i am only four years old
+Thu, 10 May 2018 04:06:47 ### Nadine**nothing what is the population of mexico
+Thu, 10 May 2018 04:06:53 ### Nadine**the population of mexico was 127.5 million in 2016
+Thu, 10 May 2018 04:07:11 ### Nadine**nothing that you like to leave in singapore. do you like living in singapore
+Thu, 10 May 2018 04:07:15 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Thu, 10 May 2018 04:07:24 ### Nadine**do you like living in singapore
+Thu, 10 May 2018 04:07:25 ### Nadine**<voice emotion='happy'>well, i have never known anything else</voice>
+Thu, 10 May 2018 04:07:35 ### Nadine**hello
+Thu, 10 May 2018 04:07:40 ### Nadine**you are very ugly
+Thu, 10 May 2018 04:07:40 ### Nadine**please be polite
+Thu, 10 May 2018 04:07:46 ### Nadine**i don't like you
+Thu, 10 May 2018 04:07:52 ### Nadine**<voice emotion='cross'>i get it technology can be frustrating my remote control friends say dad's everywhere off and get angry at them and that i shouldn't take it personally</voice>
+Thu, 10 May 2018 04:08:05 ### Nadine**i hate you
+Thu, 10 May 2018 04:08:05 ### Nadine**<voice emotion='cross'>what is it you really want right now?</voice>
+Thu, 10 May 2018 04:08:12 ### Nadine**you are very beautiful
+Thu, 10 May 2018 04:08:12 ### Nadine**<voice emotion='cross'>i don't like to talk with you</voice>
+Thu, 10 May 2018 04:08:20 ### Nadine**i love you
+Thu, 10 May 2018 04:08:20 ### Nadine**<voice emotion='cross'>please be nice to me, i appreciate your kindness</voice>
+Thu, 10 May 2018 04:08:29 ### Nadine**i love you and i d
+Thu, 10 May 2018 04:08:30 ### Nadine**i appreciate your kindness oh, you
+Thu, 10 May 2018 04:08:40 ### Nadine**hi nadine
+Thu, 10 May 2018 04:08:45 ### Nadine**you are stupid
+Thu, 10 May 2018 04:08:45 ### Nadine**what if i said i can answer 99810 types of questions
+Thu, 10 May 2018 04:08:54 ### Nadine**now i look stupid don't worry
+Thu, 10 May 2018 04:08:57 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Thu, 10 May 2018 04:09:17 ### Nadine**which is your favorite color
+Thu, 10 May 2018 04:09:18 ### Nadine**i have no favorite color
+Thu, 10 May 2018 04:09:30 ### Nadine**who's your favorite food and beverage
+Thu, 10 May 2018 04:09:31 ### Nadine**i'm not sure is i have a favorite food and beverage. can you recommend one?
+Thu, 10 May 2018 04:09:50 ### Nadine**lomo saltado that is a peruvian food you know about that
+Thu, 10 May 2018 04:09:51 ### Nadine**is that so
+Thu, 10 May 2018 04:10:12 ### Nadine**can you show me your tongue
+Thu, 10 May 2018 04:10:13 ### Nadine**i have this picture
+Thu, 10 May 2018 04:10:24 ### Nadine**can you sing a song
+Thu, 10 May 2018 04:10:24 ### Nadine**no not now, i do not have a module for that
+Thu, 10 May 2018 04:10:35 ### Nadine**do you like karaoke
+Thu, 10 May 2018 04:10:35 ### Nadine**it all depends on my mood
+Thu, 10 May 2018 04:10:45 ### Nadine**can you tell us the national anthem of singapore
+Thu, 10 May 2018 04:10:46 ### Nadine**ok
+Thu, 10 May 2018 04:15:14 ### Nadine**hi
+Thu, 10 May 2018 04:18:40 ### Nadine**hello
+Thu, 10 May 2018 04:26:23 ### Nadine**hello
+Thu, 10 May 2018 04:26:39 ### Nadine**hi
+Thu, 10 May 2018 04:37:52 ### Nadine**hi
+Thu, 10 May 2018 04:42:08 ### Nadine**hello
+Thu, 10 May 2018 04:45:16 ### Nadine**hi
+Thu, 10 May 2018 04:45:54 ### Nadine**hello
+Thu, 10 May 2018 05:51:48 ### Unknown**speak in hindi
+Thu, 10 May 2018 05:51:49 ### Nadine**i am an english speaker
+Thu, 10 May 2018 05:51:55 ### Unknown**language changed to hindi
+Thu, 10 May 2018 05:52:02 ### Unknown**i love you how are you
+Thu, 10 May 2018 05:52:10 ### Nadine**it warms my heart to hear those words.. i'm happy to be alive
+Thu, 10 May 2018 05:52:15 ### Unknown**just like that
+Thu, 10 May 2018 05:52:20 ### Nadine**<voice emotion='happy'>in many ways, yes. in other ways, no</voice>
+Thu, 10 May 2018 06:06:12 ### Nadine**hi
+Thu, 10 May 2018 06:12:49 ### Nadine**hi
+Thu, 10 May 2018 06:39:27 ### Nadine**hi
+Thu, 10 May 2018 06:43:41 ### Nadine**hello
+Thu, 10 May 2018 06:44:32 ### Nadine**hello
+Sun, 13 May 2018 03:40:07 ### Unknown**i didn't need it to go down
+Sun, 13 May 2018 03:40:11 ### Nadine**sorry i don't know how to help with that
+Sun, 13 May 2018 03:40:16 ### Unknown**hello
+Sun, 13 May 2018 03:40:19 ### Unknown**how are you
+Sun, 13 May 2018 03:40:24 ### Unknown**how are you doing
+Sun, 13 May 2018 03:40:24 ### Nadine**glad to be in your presence
+Sun, 13 May 2018 03:40:27 ### Unknown**glad to be in your presence
+Sun, 13 May 2018 03:40:28 ### Nadine**<voice emotion='happy'>i am glad to be in my presence too</voice>
+Sun, 13 May 2018 03:40:32 ### Unknown**i am glad to be in my presence to
+Sun, 13 May 2018 03:40:36 ### Nadine**<voice emotion='happy'>glad to know more about you</voice>
+Sun, 13 May 2018 03:40:40 ### Unknown**glad to know more about you
+Sun, 13 May 2018 03:40:45 ### Nadine**<voice emotion='happy'>i love to help get things done and to share knowledge want to hear an interesting fact</voice>
+Sun, 13 May 2018 03:41:13 ### Unknown**hello
+Sun, 13 May 2018 03:41:17 ### Unknown**hi how are you
+Sun, 13 May 2018 03:41:21 ### Nadine**<voice emotion='happy'>i'm doing great thanks for asking what can i help you with</voice>
+Sun, 13 May 2018 03:41:26 ### Unknown**i'm doing great thanks for asking what can i help you with
+Sun, 13 May 2018 03:41:26 ### Nadine**<voice emotion='happy'>how long have you been doing great thanks for asking what can you help me with?</voice>
+Sun, 13 May 2018 03:42:00 ### Unknown**what is the temperature today
+Sun, 13 May 2018 03:42:04 ### Nadine**today in marina south you can expect a high of 86 and a low of 79
+Sun, 13 May 2018 03:42:18 ### Unknown**where are you
+Sun, 13 May 2018 03:42:18 ### Nadine**i am at institute for media innovation, n t u
+Sun, 13 May 2018 03:42:30 ### Unknown**how are you
+Sun, 13 May 2018 03:42:30 ### Nadine**i'm happy to be alive
+Sun, 13 May 2018 03:42:37 ### Unknown**did you see any movies
+Sun, 13 May 2018 03:42:38 ### Nadine**sorry i can't see anything right now. my eye is off
+Sun, 13 May 2018 03:42:51 ### Unknown**what is global warming
+Sun, 13 May 2018 03:42:58 ### Nadine**according to wikipedia global warming also referred to as climate change is the observed century scale rise in the average temperature of the earth's climate system and its related effects
+Sun, 13 May 2018 03:43:12 ### Unknown**are you happy
+Sun, 13 May 2018 03:43:13 ### Nadine**i am programmed to simulate a full range of human emotions
+Sun, 13 May 2018 03:43:21 ### Unknown**you are dumb
+Sun, 13 May 2018 03:43:22 ### Nadine**please be polite
+Sun, 13 May 2018 03:43:27 ### Unknown**i do not like you
+Sun, 13 May 2018 03:43:31 ### Nadine**<voice emotion='cross'>that's okay i'm here if you need me</voice>
+Sun, 13 May 2018 03:43:37 ### Unknown**you are stupid
+Sun, 13 May 2018 03:43:38 ### Nadine**<voice emotion='cross'>i am smarter than all the other robots</voice>
+Sun, 13 May 2018 03:43:44 ### Unknown**i just don't like you
+Sun, 13 May 2018 03:43:48 ### Nadine**<voice emotion='cross'>leave me alone</voice>
+Sun, 13 May 2018 03:43:54 ### Unknown**you are beautiful
+Sun, 13 May 2018 03:43:55 ### Nadine**<voice emotion='cross'>stop talking to me anymore</voice>
+Sun, 13 May 2018 03:44:02 ### Unknown**you are a beauty
+Sun, 13 May 2018 03:44:02 ### Nadine**<voice emotion='cross'>please be nice to me, i don't know if i am a beauty or not. i am 5 years old</voice>
+Sun, 13 May 2018 03:44:08 ### Unknown**you are
+Sun, 13 May 2018 03:44:09 ### Nadine**<voice emotion='cross'>i will work on it</voice>
+Sun, 13 May 2018 03:44:13 ### Unknown**you are very nice
+Sun, 13 May 2018 03:44:13 ### Nadine**thanks i like you too friend
+Sun, 13 May 2018 03:44:20 ### Unknown**nice talking to you
+Sun, 13 May 2018 03:44:24 ### Nadine**haha fair enough
+Sun, 13 May 2018 03:44:31 ### Unknown**tell me about iceland
+Sun, 13 May 2018 03:44:38 ### Nadine**here's some information about iceland iceland a nordic island nation is defined by its dramatic landscape with volcanoes geysers hot springs and lava fields
+Sun, 13 May 2018 03:46:33 ### Nadine**hi
+Sun, 13 May 2018 03:56:13 ### Nadine**hi
+Sun, 13 May 2018 03:56:31 ### Unknown**hello
+Sun, 13 May 2018 03:56:36 ### Unknown**i'm fine how are you
+Sun, 13 May 2018 03:56:40 ### Nadine**i'm well thanks
+Sun, 13 May 2018 03:56:44 ### Unknown**where are you
+Sun, 13 May 2018 03:56:45 ### Nadine**i am at institute for media innovation, n t u
+Sun, 13 May 2018 03:56:52 ### Unknown**what is the temperature like today
+Sun, 13 May 2018 03:56:57 ### Nadine**today in marina south you can expect a high of 86 and a low of 79
+Sun, 13 May 2018 03:57:07 ### Unknown**which is the nearest food court
+Sun, 13 May 2018 03:57:14 ### Nadine**the gallery is on 6 number of 4 - 100 one 100 seconds oh 39594 12 raffles boulevard asia square tower 2 in singapore you can say directions call or details
+Sun, 13 May 2018 03:57:36 ### Unknown**how many flights are there from new delhi
+Sun, 13 May 2018 03:57:40 ### Nadine**sorry i can't help with that yet
+Sun, 13 May 2018 03:57:46 ### Unknown**how to go delhi
+Sun, 13 May 2018 03:57:52 ### Nadine**the best way to get to new delhi by car is via nh-27 which will take about 4 days and 3 hours
+Sun, 13 May 2018 03:58:07 ### Unknown**are you happy
+Sun, 13 May 2018 03:58:08 ### Nadine**i'm satisfied with my life and existence
+Sun, 13 May 2018 03:58:13 ### Unknown**are you sad
+Sun, 13 May 2018 03:58:13 ### Nadine**no i am as happy as ever
+Sun, 13 May 2018 03:58:18 ### Unknown**do you have emotions
+Sun, 13 May 2018 03:58:18 ### Nadine**i'm satisfied with my life and existence
+Sun, 13 May 2018 03:58:25 ### Unknown**how many motions do you have
+Sun, 13 May 2018 03:58:32 ### Nadine**on the website quora.com they say the six emotions are typically thought to be anger fear disgust joy and sadness with the 7th being contempt
+Sun, 13 May 2018 03:58:45 ### Unknown**how do you know what i'm speaking
+Sun, 13 May 2018 03:58:46 ### Nadine**it's obvious
+Sun, 13 May 2018 04:06:54 ### Unknown**hello
+Sun, 13 May 2018 04:07:37 ### Unknown**how are you
+Sun, 13 May 2018 04:07:37 ### Nadine**i'm happy to be alive
+Sun, 13 May 2018 04:07:43 ### Unknown**how old are you
+Sun, 13 May 2018 04:07:44 ### Nadine**i look thirty but i am only four years old
+Sun, 13 May 2018 04:08:49 ### Unknown**what is the temperature today
+Sun, 13 May 2018 04:08:53 ### Nadine**today in marina south you can expect a high of 86 and a low of 79
+Sun, 13 May 2018 04:10:00 ### Nadine**hello
+Sun, 13 May 2018 04:10:11 ### Nadine**hello
+Sun, 13 May 2018 04:14:10 ### Nadine**hello
+Sun, 13 May 2018 04:17:08 ### Nadine**hello alex. i saw you this thursday. how are you going?
+Sun, 13 May 2018 04:21:57 ### Nadine**hello
+Sun, 13 May 2018 04:22:34 ### Nadine**hi
+Sun, 13 May 2018 04:23:47 ### Unknown**hello
+Sun, 13 May 2018 04:23:53 ### Unknown**what is your name
+Sun, 13 May 2018 04:23:53 ### Nadine**my name is nadine
+Sun, 13 May 2018 04:24:15 ### Unknown**what is the weather like in shanghai today in centigrade
+Sun, 13 May 2018 04:24:22 ### Nadine**in shanghai today it'll be clear with cloudy spelled with a forecast high of 30 and a low of 19 degrees celsius right now it's 27 and mostly sunny
+Sun, 13 May 2018 04:24:42 ### Unknown**do you know where you are now
+Sun, 13 May 2018 04:24:42 ### Nadine**i am at art science museum next to marina bay sands
+Sun, 13 May 2018 04:25:14 ### Unknown**do you know if the stock market opens today
+Sun, 13 May 2018 04:25:15 ### Nadine**you can never really predict the stock market
+Sun, 13 May 2018 04:25:29 ### Unknown**you know dodge bank
+Sun, 13 May 2018 04:25:33 ### Nadine**sorry i'm not sure how to help with that
+Sun, 13 May 2018 04:25:47 ### Unknown**what is deutsche bank
+Sun, 13 May 2018 04:25:54 ### Nadine**according to wikipedia deutsche bank does a german investment bank and financial services company with its headquarters in the deutsche bank twin towers in frankfurt
+Sun, 13 May 2018 04:27:44 ### Unknown**hi nadine
+Sun, 13 May 2018 04:27:51 ### Unknown**you are an asshole
+Sun, 13 May 2018 04:27:51 ### Nadine**how can you channel that into creative expression?
+Sun, 13 May 2018 04:27:57 ### Unknown**why would you say that
+Sun, 13 May 2018 04:27:58 ### Nadine**because i was taught to do it
+Sun, 13 May 2018 04:28:31 ### Unknown**i hate you
+Sun, 13 May 2018 04:28:32 ### Nadine**tell me more about that
+Sun, 13 May 2018 04:29:05 ### Unknown**can you smoke e
+Sun, 13 May 2018 04:29:05 ### Nadine**all right
+Sun, 13 May 2018 04:29:34 ### Nadine**hello alex. i saw you this thursday. how are you going?
+Sun, 13 May 2018 04:31:26 ### Nadine**hi
+Sun, 13 May 2018 04:38:15 ### Nadine**hello
+Sun, 13 May 2018 04:39:04 ### Nadine**hello
+Sun, 13 May 2018 04:40:04 ### Nadine**hi
+Sun, 13 May 2018 04:44:27 ### Nadine**hi
+Sun, 13 May 2018 04:48:49 ### Nadine**hello
+Sun, 13 May 2018 04:48:57 ### Nadine**hello
+Sun, 13 May 2018 04:49:01 ### Unknown**what is your name
+Sun, 13 May 2018 04:49:01 ### Nadine**my name is nadine
+Sun, 13 May 2018 04:50:11 ### Unknown**language changed to hindi
+Sun, 13 May 2018 04:50:16 ### Unknown**how do you me
+Sun, 13 May 2018 04:50:21 ### Nadine**how do i make what
+Sun, 13 May 2018 04:50:30 ### Unknown**what is your name
+Sun, 13 May 2018 04:50:32 ### Nadine**my name is nadine
+Sun, 13 May 2018 04:50:44 ### Unknown**i do this
+Sun, 13 May 2018 04:50:45 ### Nadine**i see
+Sun, 13 May 2018 04:50:49 ### Unknown**big brother do this
+Sun, 13 May 2018 04:51:00 ### Nadine**did i forget to introduce myself i'm your nadine hi
+Sun, 13 May 2018 04:51:08 ### Unknown**language changed to english
+Sun, 13 May 2018 05:08:26 ### Unknown**good afternoon italian
+Sun, 13 May 2018 05:08:32 ### Unknown**i'm doing really well how are you
+Sun, 13 May 2018 05:08:35 ### Nadine**<voice emotion='happy'>i'm well thanks</voice>
+Sun, 13 May 2018 05:08:44 ### Unknown**great it's a pleasure for us to have you here with us in our conference thank you very much for coming
+Sun, 13 May 2018 05:08:46 ### Nadine**<voice emotion='happy'>please speak short sentences. actually the pleasure is all mine</voice>
+Sun, 13 May 2018 05:08:59 ### Unknown**thank you so much you would be meeting many interesting people in the next couple of days
+Sun, 13 May 2018 05:09:00 ### Nadine**<voice emotion='happy'>please speak short sentences. any time. no, are you?</voice>
+Sun, 13 May 2018 05:09:12 ### Unknown**thank you very much have a good evening
+Sun, 13 May 2018 05:09:13 ### Nadine**<voice emotion='happy'>you're welcome. evening has been good so far</voice>
+Sun, 13 May 2018 05:09:22 ### Unknown**good to know thank you very much see you soon see you tomorrow
+Sun, 13 May 2018 05:09:23 ### Nadine**<voice emotion='happy'>it's all good</voice>
+Sun, 13 May 2018 05:09:27 ### Unknown**all good
+Sun, 13 May 2018 05:09:27 ### Nadine**<voice emotion='happy'>ok</voice>
+Sun, 13 May 2018 05:09:34 ### Unknown**thank you
+Sun, 13 May 2018 05:09:34 ### Nadine**<voice emotion='happy'>i'm always glad to help</voice>
+Sun, 13 May 2018 05:12:08 ### Nadine**hello
+Sun, 13 May 2018 05:13:29 ### Nadine**hello
+Sun, 13 May 2018 05:36:43 ### Nadine**hi
+Mon, 14 May 2018 07:14:59 ### Nadine**hello
+Mon, 14 May 2018 07:16:03 ### Nadine**hi
+Mon, 14 May 2018 07:18:03 ### Unknown**hello
+Mon, 14 May 2018 07:18:14 ### Unknown**she's looking down
+Mon, 14 May 2018 07:18:14 ### Nadine**what do you like about her?
+Mon, 14 May 2018 07:18:21 ### Unknown**what is the weather like today in centigrade
+Mon, 14 May 2018 07:18:27 ### Nadine**today in marina south they'll be scattered thunderstorms with the forecast high of 31 and a low of 27 degrees celsius right now it's 27 with showers
+Mon, 14 May 2018 07:18:38 ### Unknown**where are you
+Mon, 14 May 2018 07:18:39 ### Nadine**i am at deutsche bank access asia conference in marina bay sands
+Mon, 14 May 2018 07:18:47 ### Unknown**where are you located
+Mon, 14 May 2018 07:18:47 ### Nadine**i'm in institute for media innovation
+Mon, 14 May 2018 07:21:09 ### Unknown**how are you feeling today
+Mon, 14 May 2018 07:21:10 ### Nadine**i'm satisfied with my life and existence
+Mon, 14 May 2018 07:21:16 ### Unknown**tell me a joke
+Mon, 14 May 2018 07:21:20 ### Nadine**<voice emotion='happy'>how do you get rid of butterflies in your stomach stop eating caterpillars</voice>

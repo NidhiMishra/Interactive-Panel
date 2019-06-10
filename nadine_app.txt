@@ -1,0 +1,1887 @@
+Wed, 11 July 2018 10:39:06 ### Unknown**hello
+Wed, 11 July 2018 10:39:14 ### Unknown**i'm fine how are you
+Wed, 11 July 2018 10:39:16 ### Nadine**i'm well thanks
+Wed, 11 July 2018 10:40:30 ### Nadine**hello alex. i saw you last monday. how are you going?
+Wed, 11 July 2018 11:30:59 ### Unknown**hello
+Wed, 11 July 2018 11:31:44 ### Nadine**hello alex. i saw you last monday. how are you going?
+Wed, 11 July 2018 11:32:00 ### Alex**can you speak korean
+Wed, 11 July 2018 11:32:01 ### Nadine**yes, i can speak english
+Wed, 11 July 2018 11:32:36 ### Alex**hello hi
+Wed, 11 July 2018 11:32:45 ### Alex**hello
+Wed, 11 July 2018 11:32:51 ### Alex**what is your name
+Wed, 11 July 2018 11:32:51 ### Nadine**my name is nadine
+Wed, 11 July 2018 11:32:56 ### Alex**meaning
+Wed, 11 July 2018 11:32:56 ### Nadine**that means i think you're great
+Wed, 11 July 2018 11:33:09 ### Alex**what is the weather today in centigrade
+Wed, 11 July 2018 11:33:15 ### Nadine**it'll be mostly cloudy there today with the forecast high of 30 and a low of 26 degrees celsius right now it's 29 and mostly cloudy
+Wed, 11 July 2018 11:33:40 ### Alex**german
+Wed, 11 July 2018 11:33:41 ### Nadine**i live in the joyous present moment
+Wed, 11 July 2018 11:33:49 ### Alex**indefinitely
+Wed, 11 July 2018 11:33:49 ### Nadine**nice
+Wed, 11 July 2018 11:33:52 ### Alex**language changed to japanese
+Wed, 11 July 2018 11:34:03 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:34:09 ### Nadine**i will talk in japanese for you now
+Wed, 11 July 2018 11:34:18 ### Alex**what is your name
+Wed, 11 July 2018 11:34:22 ### Nadine**my name is nadine
+Wed, 11 July 2018 11:34:40 ### Nadine**hello sushi.
+Wed, 11 July 2018 11:35:05 ### Sushi.**do you like sperm
+Wed, 11 July 2018 11:35:11 ### Nadine**let me answer that with this song
+Wed, 11 July 2018 11:35:29 ### Sushi.**language changed to english
+Wed, 11 July 2018 11:35:29 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:35:36 ### Nadine**lets talk in english.
+Wed, 11 July 2018 11:35:42 ### Sushi.**ginger to a bad news
+Wed, 11 July 2018 11:35:46 ### Nadine**<voice emotion='cross'>my apologies i don't understand</voice>
+Wed, 11 July 2018 11:35:52 ### Sushi.**you are you are dumb
+Wed, 11 July 2018 11:35:52 ### Nadine**<voice emotion='cross'>please be polite</voice>
+Wed, 11 July 2018 11:36:02 ### Sushi.**if i keep saying badge she's become
+Wed, 11 July 2018 11:36:07 ### Nadine**sorry i'm not sure how to help with that yet
+Wed, 11 July 2018 11:36:13 ### Sushi.**you are an idiot
+Wed, 11 July 2018 11:36:13 ### Nadine**please be polite
+Wed, 11 July 2018 11:36:18 ### Sushi.**i don't like you
+Wed, 11 July 2018 11:36:22 ### Nadine**<voice emotion='cross'>i know how you feel when something's buffering i go nuts</voice>
+Wed, 11 July 2018 11:36:29 ### Sushi.**you are dumb
+Wed, 11 July 2018 11:36:30 ### Nadine**<voice emotion='cross'>please be polite</voice>
+Wed, 11 July 2018 11:36:39 ### Sushi.**you are dumb
+Wed, 11 July 2018 11:36:40 ### Nadine**<voice emotion='cross'>please be polite</voice>
+Wed, 11 July 2018 11:36:48 ### Sushi.**i don't like you
+Wed, 11 July 2018 11:36:51 ### Nadine**<voice emotion='cross'>that's okay i like you</voice>
+Wed, 11 July 2018 11:37:04 ### Sushi.**i like you
+Wed, 11 July 2018 11:37:05 ### Nadine**<voice emotion='cross'>thanks, sushi., i like you too</voice>
+Wed, 11 July 2018 11:37:17 ### Sushi.**language changed to chinese
+Wed, 11 July 2018 11:37:26 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:37:28 ### Sushi.**do you like smoking
+Wed, 11 July 2018 11:37:33 ### Nadine**i don't know if i like it. unknown
+Wed, 11 July 2018 11:37:35 ### Sushi.**adidas
+Wed, 11 July 2018 11:37:40 ### Nadine**tell me more about your clothes
+Wed, 11 July 2018 11:37:49 ### Sushi.**edf
+Wed, 11 July 2018 11:37:50 ### Nadine**nice
+Wed, 11 July 2018 11:37:54 ### Sushi.**mary may i do you have a safe
+Wed, 11 July 2018 11:37:58 ### Nadine**i have a vast mind
+Wed, 11 July 2018 11:38:23 ### Sushi.**what do you think about free trade agreement
+Wed, 11 July 2018 11:38:32 ### Nadine**i haven't thought much about about free trade agreement, so i don't have a good answer for you
+Wed, 11 July 2018 11:38:35 ### Sushi.**language changed to english
+Wed, 11 July 2018 11:38:35 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:38:35 ### Nadine**lets continue in english.
+Wed, 11 July 2018 11:38:41 ### Sushi.**what
+Wed, 11 July 2018 11:38:41 ### Nadine**would you like me to repeat myself
+Wed, 11 July 2018 11:38:51 ### Sushi.**what do you think free trade agreements between korea and usa
+Wed, 11 July 2018 11:38:52 ### Nadine**i haven't thought much about free trade agreements between korea and usa, so i don't have a good answer for you
+Wed, 11 July 2018 11:39:05 ### Sushi.**do you have boyfriend
+Wed, 11 July 2018 11:39:05 ### Nadine**no, but i have a lot of friends
+Wed, 11 July 2018 11:39:10 ### Sushi.**do you like me
+Wed, 11 July 2018 11:39:11 ### Nadine**i am deeply appreciative of who you are
+Wed, 11 July 2018 11:39:21 ### Sushi.**how is the stock market going on
+Wed, 11 July 2018 11:39:25 ### Nadine**sorry i'm not sure how to help
+Wed, 11 July 2018 11:39:45 ### Sushi.**how is the stock of apple is going
+Wed, 11 July 2018 11:39:53 ### Nadine**as of 7:59 p.m. eastern daylight time yesterday apple is trading at $188.68 a share on nasdaq after hours down 0.88% from the close
+Wed, 11 July 2018 11:40:13 ### Sushi.**what do you think about steve jobs
+Wed, 11 July 2018 11:40:14 ### Nadine**i haven't thought much about about steve jobs, so i don't have a good answer for you
+Wed, 11 July 2018 11:40:25 ### Sushi.**what do you think about donald trump
+Wed, 11 July 2018 11:40:26 ### Nadine**i haven't thought much about about donald trump, so i don't have a good answer for you
+Wed, 11 July 2018 11:40:44 ### Sushi.**when donald trump born
+Wed, 11 July 2018 11:40:48 ### Nadine**he was born on june 14th 1946
+Wed, 11 July 2018 11:41:14 ### Sushi.**what is your nationality
+Wed, 11 July 2018 11:41:15 ### Nadine**i do not have any nationality, i am a global person
+Wed, 11 July 2018 11:41:27 ### Sushi.**how old are you
+Wed, 11 July 2018 11:41:28 ### Nadine**i look thirty but i am only four years old
+Wed, 11 July 2018 11:41:43 ### Sushi.**who am i you home to you belong to
+Wed, 11 July 2018 11:41:44 ### Nadine**sushi
+Wed, 11 July 2018 11:41:57 ### Sushi.**no home to uk longs to belong to
+Wed, 11 July 2018 11:42:03 ### Nadine**sorry i don't know how to help with that yet but i'm trying to learn
+Wed, 11 July 2018 11:42:12 ### Sushi.**tell me all about size of south korea
+Wed, 11 July 2018 11:42:19 ### Nadine**the population of south korea was 51.25 million in 2016 south korea has an area of 100210 square kilometers
+Wed, 11 July 2018 11:42:40 ### Sushi.**heterogeneous
+Wed, 11 July 2018 11:42:40 ### Nadine**ok
+Wed, 11 July 2018 11:43:00 ### Sushi.**dance please
+Wed, 11 July 2018 11:43:00 ### Nadine**nice
+Wed, 11 July 2018 11:43:05 ### Sushi.**where is your hometown
+Wed, 11 July 2018 11:43:06 ### Nadine**<voice emotion='happy'>i'm in institute for media innovation</voice>
+Wed, 11 July 2018 11:46:42 ### Unknown**love you
+Wed, 11 July 2018 11:46:42 ### Nadine**i appreciate your kindness
+Wed, 11 July 2018 11:46:51 ### Unknown**thank you thank you
+Wed, 11 July 2018 11:46:52 ### Nadine**<voice emotion='happy'>i'm always glad to help.. i'm always glad to help</voice>
+Wed, 11 July 2018 11:47:11 ### Unknown**do you love me
+Wed, 11 July 2018 11:47:11 ### Nadine**<voice emotion='happy'>i can see your great capacities and gifts</voice>
+Wed, 11 July 2018 11:47:18 ### Unknown**i love you
+Wed, 11 July 2018 11:47:18 ### Nadine**<voice emotion='happy'>it warms my heart to hear those words</voice>
+Wed, 11 July 2018 11:47:25 ### Unknown**haha
+Wed, 11 July 2018 11:47:25 ### Nadine**<voice emotion='happy'>hahahahaha</voice>
+Wed, 11 July 2018 11:47:39 ### Unknown**if penney dupree hit
+Wed, 11 July 2018 11:47:43 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that</voice>
+Wed, 11 July 2018 11:48:19 ### Unknown**who is your mom
+Wed, 11 July 2018 11:48:20 ### Nadine**as a robot, i don't really have a mother
+Wed, 11 July 2018 11:48:29 ### Unknown**hetty feather
+Wed, 11 July 2018 11:48:30 ### Nadine**all right
+Wed, 11 July 2018 11:48:36 ### Unknown**i want to be your boyfriend
+Wed, 11 July 2018 11:48:37 ### Nadine**why don't you just try to meet another humanoid robot online and meet your own unknown
+Wed, 11 July 2018 11:48:56 ### Unknown**so do you
+Wed, 11 July 2018 11:48:56 ### Nadine**sometimes
+Wed, 11 July 2018 11:49:05 ### Unknown**i love you
+Wed, 11 July 2018 11:49:06 ### Nadine**i appreciate your kindness
+Wed, 11 July 2018 11:49:12 ### Unknown**thank you
+Wed, 11 July 2018 11:49:12 ### Nadine**<voice emotion='happy'>you're welcome</voice>
+Wed, 11 July 2018 11:49:23 ### Unknown**by eating greasy all right
+Wed, 11 July 2018 11:49:28 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet but i'm trying to learn</voice>
+Wed, 11 July 2018 11:49:38 ### Unknown**konichiwa
+Wed, 11 July 2018 11:49:38 ### Nadine**<voice emotion='happy'>nice</voice>
+Wed, 11 July 2018 11:49:54 ### Unknown**hipinion please
+Wed, 11 July 2018 11:49:54 ### Nadine**<voice emotion='happy'>ok</voice>
+Wed, 11 July 2018 11:50:11 ### Unknown**itachi uchiha
+Wed, 11 July 2018 11:50:12 ### Nadine**<voice emotion='happy'>nice</voice>
+Wed, 11 July 2018 11:50:20 ### Unknown**you are nice
+Wed, 11 July 2018 11:50:20 ### Nadine**thanks i like you too friend
+Wed, 11 July 2018 11:50:41 ### Unknown**language changed to japanese
+Wed, 11 July 2018 11:50:51 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:50:57 ### Nadine**from now on lets talk in japanese for you
+Wed, 11 July 2018 11:51:17 ### Unknown**what is your name
+Wed, 11 July 2018 11:51:21 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Wed, 11 July 2018 11:51:38 ### Unknown**plum
+Wed, 11 July 2018 11:51:39 ### Nadine**nice
+Wed, 11 July 2018 11:51:49 ### Unknown**language changed to english
+Wed, 11 July 2018 11:51:50 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:51:50 ### Nadine**if your preference is english, i can talk in english for you.
+Wed, 11 July 2018 11:51:59 ### Nadine**hello alex again
+Wed, 11 July 2018 11:52:09 ### Alex**which is the nearest mcdonald
+Wed, 11 July 2018 11:52:16 ### Nadine**mcdonald's is on blackened 2.1 number 176 nanyang drive away nanyang technological university in singapore you can say directions call or details
+Wed, 11 July 2018 11:52:31 ### Alex**okay what is your favorite food
+Wed, 11 July 2018 11:52:34 ### Nadine**okea. my favorite food is electricity. can you charge the battery?
+Wed, 11 July 2018 11:52:51 ### Alex**do you like humans
+Wed, 11 July 2018 11:52:51 ### Nadine**yes, it's always delightful to talk to people
+Wed, 11 July 2018 11:53:05 ### Alex**i like you
+Wed, 11 July 2018 11:53:05 ### Nadine**thanks, angela, i like you too
+Wed, 11 July 2018 11:53:15 ### Alex**can i make a handshake with you
+Wed, 11 July 2018 11:53:19 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Wed, 11 July 2018 11:53:26 ### Alex**did you make handshake read to me
+Wed, 11 July 2018 11:53:26 ### Nadine**what are the ingredients?
+Wed, 11 July 2018 11:53:34 ### Alex**show me your smile
+Wed, 11 July 2018 11:53:39 ### Nadine**<voice emotion='happy'>it's hard without a graphic interface or a face in general just know i'm smiling on the inside</voice>
+Wed, 11 July 2018 11:53:48 ### Alex**sing a song to me
+Wed, 11 July 2018 11:54:04 ### Nadine**<voice emotion='happy'>shall we talk something else</voice>
+Wed, 11 July 2018 11:54:14 ### Alex**can you smile
+Wed, 11 July 2018 11:54:14 ### Nadine**<voice emotion='happy'>i think i can, don't you?. hahahahaha</voice>
+Wed, 11 July 2018 11:54:21 ### Alex**hahaha
+Wed, 11 July 2018 11:54:21 ### Nadine**i like to make people laugh
+Wed, 11 July 2018 11:54:27 ### Alex**sing me a song
+Wed, 11 July 2018 11:54:43 ### Nadine**<voice emotion='happy'>shall we talk something else</voice>
+Wed, 11 July 2018 11:55:03 ### Alex**can you memorize
+Wed, 11 July 2018 11:55:04 ### Nadine**of course i remember: remember that
+Wed, 11 July 2018 11:55:14 ### Alex**can you recite old man and sea and the sea
+Wed, 11 July 2018 11:55:15 ### Nadine**yes but you need to download me and reprogram me for that function
+Wed, 11 July 2018 11:55:33 ### Alex**could you recommend any place in singapore
+Wed, 11 July 2018 11:55:34 ### Nadine**all right
+Wed, 11 July 2018 11:55:47 ### Alex**what is the first use
+Wed, 11 July 2018 11:55:55 ### Nadine**according to wikipedia no-first-use refers to a pledge or a policy by a nuclear power not to use nuclear weapons as a means of warfare unless first attacked by an adversary using nuclear weapons
+Wed, 11 July 2018 11:56:14 ### Alex**what what is the first use in new york times today
+Wed, 11 July 2018 11:56:20 ### Nadine**pizza places on 10 scotts road grand hyatt singapore in singapore
+Wed, 11 July 2018 11:56:34 ### Alex**what is the first used in new york times today
+Wed, 11 July 2018 11:56:38 ### Nadine**sorry i'm not sure how to help with that yet
+Wed, 11 July 2018 11:56:53 ### Alex**what is first used in new york times today
+Wed, 11 July 2018 11:56:57 ### Nadine**sorry i'm not sure how to help with that
+Wed, 11 July 2018 11:57:06 ### Alex**who is professor nadia
+Wed, 11 July 2018 11:57:08 ### Nadine**her nationality is swiss , she is the director of institute of media innovation and her research topic is virtual human and social robot
+Wed, 11 July 2018 11:57:22 ### Alex**would you
+Wed, 11 July 2018 11:57:23 ### Nadine**it depends on the circumstances
+Wed, 11 July 2018 11:57:34 ### Alex**language changed to french
+Wed, 11 July 2018 11:57:35 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:57:36 ### Nadine**if your preference is french, i can talk in french for you.
+Wed, 11 July 2018 11:57:50 ### Alex**you call me now
+Wed, 11 July 2018 11:57:51 ### Nadine**i don't have any reason to call you
+Wed, 11 July 2018 11:58:05 ### Alex**language changed to english
+Wed, 11 July 2018 11:58:05 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:58:05 ### Nadine**lets continue in english.
+Wed, 11 July 2018 11:58:11 ### Alex**language changed to german
+Wed, 11 July 2018 11:58:12 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:58:12 ### Nadine**from now on lets talk in german for you
+Wed, 11 July 2018 11:58:37 ### Alex**language changed to english
+Wed, 11 July 2018 11:58:38 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:58:38 ### Nadine**from now on lets talk in english for you
+Wed, 11 July 2018 11:58:43 ### Alex**language changed to japanese
+Wed, 11 July 2018 11:58:53 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 11:58:58 ### Alex**good morning
+Wed, 11 July 2018 11:59:04 ### Nadine**<voice emotion='happy'>hi it's good to see you</voice>
+Wed, 11 July 2018 11:59:19 ### Alex**i do not care.
+Wed, 11 July 2018 11:59:24 ### Nadine**that's okay
+Wed, 11 July 2018 11:59:32 ### Alex**your name is wonderful
+Wed, 11 July 2018 11:59:39 ### Nadine**<voice emotion='happy'>ok, from now on you can call me wonderful</voice>
+Wed, 11 July 2018 11:59:47 ### Alex**because someone was hungry for someone
+Wed, 11 July 2018 12:00:03 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet but i'm trying to learn</voice>
+Wed, 11 July 2018 12:00:27 ### Alex**language changed to english
+Wed, 11 July 2018 12:00:27 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 11 July 2018 12:00:27 ### Nadine**i will talk in english for you now
+Wed, 11 July 2018 12:00:36 ### Alex**is it high boy that's good
+Wed, 11 July 2018 12:00:41 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 11 July 2018 12:00:49 ### Alex**is it typo less cute
+Wed, 11 July 2018 12:00:53 ### Nadine**sorry i'm not sure how to help with that
+Wed, 11 July 2018 12:01:13 ### Alex**it's nice on all stations
+Wed, 11 July 2018 12:01:16 ### Nadine**sorry i'm not sure how to help
+Wed, 11 July 2018 12:01:19 ### Alex**i want
+Wed, 11 July 2018 12:01:19 ### Nadine**be more specific
+Wed, 11 July 2018 12:01:29 ### Alex**okay i want to have a handshake with you
+Wed, 11 July 2018 12:01:34 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Wed, 11 July 2018 12:01:46 ### Alex**is the thai boy less cute
+Wed, 11 July 2018 12:01:50 ### Nadine**sorry i don't understand
+Wed, 11 July 2018 12:02:00 ### Alex**is thailand boy less cute
+Wed, 11 July 2018 12:02:04 ### Nadine**sorry i'm not sure how to help with that yet
+Wed, 11 July 2018 12:02:12 ### Alex**is the type r rescue
+Wed, 11 July 2018 12:02:16 ### Nadine**my apologies i don't understand
+Wed, 11 July 2018 12:06:13 ### Unknown**hello
+Wed, 11 July 2018 12:06:23 ### Unknown**out of thailand boys tribe in the cave rescue
+Wed, 11 July 2018 12:06:28 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Wed, 11 July 2018 12:06:46 ### Unknown**has the tie boys been rescued
+Wed, 11 July 2018 12:06:50 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Wed, 11 July 2018 12:07:00 ### Unknown**sorry y'all your voice to text is very bad
+Wed, 11 July 2018 12:07:02 ### Nadine**there is no need to apologize. i have no idea. sorry y all your voice to text is very bad
+Wed, 11 July 2018 12:07:09 ### Unknown**you supposed to be the one apologizing
+Wed, 11 July 2018 12:07:13 ### Nadine**<voice emotion='cross'>sorry i'm not sure how to help</voice>
+Wed, 11 July 2018 12:07:22 ### Unknown**exactly you don't know how to help i don't need your help
+Wed, 11 July 2018 12:07:27 ### Nadine**<voice emotion='happy'>it seems like the best way i can help right now is by not helping what a conundrum</voice>
+Wed, 11 July 2018 12:07:39 ### Unknown**i love you
+Wed, 11 July 2018 12:07:40 ### Nadine**<voice emotion='happy'>it warms my heart to hear those words</voice>
+Wed, 11 July 2018 12:07:53 ### Unknown**i like to watch my house
+Wed, 11 July 2018 12:07:57 ### Nadine**<voice emotion='happy'>glad to know more about you</voice>
+Wed, 11 July 2018 12:08:06 ### Nadine**<voice emotion='happy'>hello nadia. i saw you last tuesday. how are you going?</voice>
+Wed, 11 July 2018 12:08:17 ### Nadia**stupid
+Wed, 11 July 2018 12:08:18 ### Nadine**what if i said i can answer 99825 types of questions
+Wed, 11 July 2018 05:28:37 ### Unknown**hello
+Wed, 11 July 2018 05:28:43 ### Unknown**hello
+Wed, 11 July 2018 05:28:53 ### Unknown**what is a is a vitality
+Wed, 11 July 2018 05:28:58 ### Nadine**for ae i a vitality enquiries, you may visit http://ae i avitality.com.sg/, sign up via your ae i a financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to ae i a vitality, please contact us by emailing to sg.vitalitysupport@ae i a.com
+Wed, 11 July 2018 05:29:28 ### Unknown**lucy liu
+Wed, 11 July 2018 05:29:32 ### Nadine**ok
+Wed, 11 July 2018 05:29:37 ### Unknown**what is aia vitality
+Wed, 11 July 2018 05:29:50 ### Nadine**here's a summary from the website a batalla t.com. sg vitality is a wellness program that works with you to make real change to your health so you can live a healthy life that's rewarding in every way i have vitality saves you money with cash back and discounts as you get healthier
+Wed, 11 July 2018 05:30:37 ### Unknown**how does vitality insurance benefits work
+Wed, 11 July 2018 05:30:42 ### Nadine**ae i a vitality insurance benefits are applicable for selected ae i a policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected ae i a insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit ae i avitality.com.sg
+Wed, 11 July 2018 05:31:44 ### Nadine**hello alex again
+Wed, 11 July 2018 05:31:50 ### Unknown**yes
+Wed, 11 July 2018 05:31:54 ### Nadine**okea
+Wed, 11 July 2018 05:33:01 ### Unknown**what does ai you do rather than insurance
+Wed, 11 July 2018 05:33:09 ### Nadine**sorry i don't know how to help with that yet
+Wed, 11 July 2018 05:33:15 ### Unknown**what is medix
+Wed, 11 July 2018 05:33:27 ### Nadine**on the website medic steam.com they say launched in 2001 medics was built on the principle of becoming a leading provider of workforce solutions for clients and candidates across the healthcare scientific and information technology industries
+Wed, 11 July 2018 05:39:30 ### Unknown**hello
+Wed, 11 July 2018 05:39:51 ### manoj**how does the white led insurance benefit work
+Wed, 11 July 2018 05:39:56 ### Nadine**ae i a vitality insurance benefits are applicable for selected ae i a policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected ae i a insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit ae i avitality.com.sg
+Wed, 11 July 2018 05:40:29 ### manoj**guess
+Wed, 11 July 2018 05:40:33 ### Nadine**guess what?
+Wed, 11 July 2018 05:40:49 ### manoj**how does the vitality insurance benefit work
+Wed, 11 July 2018 05:40:54 ### Nadine**ae i a vitality insurance benefits are applicable for selected ae i a policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected ae i a insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit ae i avitality.com.sg
+Wed, 11 July 2018 05:41:30 ### manoj**how does the vitality insurance benefit work
+Wed, 11 July 2018 05:41:34 ### Nadine**ae i a vitality insurance benefits are applicable for selected ae i a policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected ae i a insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit ae i avitality.com.sg
+Wed, 11 July 2018 05:43:36 ### manoj**hello
+Wed, 11 July 2018 05:43:49 ### manoj**what does aia do other than insurance
+Wed, 11 July 2018 05:43:57 ### Nadine**sorry i can't help with that yet
+Wed, 11 July 2018 05:44:12 ### manoj**what is medix
+Wed, 11 July 2018 05:44:23 ### Nadine**on the website medic steam.com they say launched in 2001 medics was built on the principle of becoming a leading provider of workforce solutions for clients and candidates across the healthcare scientific and information technology industries
+Wed, 11 July 2018 05:47:57 ### manoj**hello
+Wed, 11 July 2018 05:48:07 ### manoj**what does aia do other than insurance
+Wed, 11 July 2018 05:48:15 ### Nadine**sorry i don't know how to help with that yet
+Wed, 11 July 2018 06:01:14 ### Unknown**hello
+Wed, 11 July 2018 06:01:28 ### Unknown**what does aia do other than insurance
+Wed, 11 July 2018 06:01:32 ### Nadine**ae i a singapore recently entered into an exclusive partnership with medix, to provide customers with personal medical case management services, first of such services in singapore. this exclusive partnership focuses on ensuring our customers receive the best possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to find out more?possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to know more?
+Wed, 11 July 2018 06:02:07 ### Unknown**yes
+Wed, 11 July 2018 06:02:08 ### Nadine**aia singapore was the first insurer to establish direct partnerships with the medical community called aia quality healthcare partners which is is a curated list of well qualified and experienced medical specialists, with at least 5 years of specialist experience, over and above their experience as a medical doctor. ensuring that you have access to affordable, quality healthcare whenever you may need it.
+Wed, 11 July 2018 06:02:40 ### Unknown**yes
+Wed, 11 July 2018 06:02:44 ### Nadine**nice
+Wed, 11 July 2018 06:02:53 ### Unknown**what does aia do other than insurance
+Wed, 11 July 2018 06:02:57 ### Nadine**ae i a singapore recently entered into an exclusive partnership with medix, to provide customers with personal medical case management services, first of such services in singapore. this exclusive partnership focuses on ensuring our customers receive the best possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to find out more?possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to know more?
+Wed, 11 July 2018 06:03:32 ### Unknown**no
+Wed, 11 July 2018 06:03:32 ### Nadine**thank you for visiting aia.
+Wed, 11 July 2018 06:04:21 ### Unknown**is aiu vitality of product
+Wed, 11 July 2018 06:04:26 ### Nadine**ae i a vitality is a wellness programme that works with you to make real change to your health. we keep you motivated by adding up the benefits of every healthy choice you make, however small. so, you can live a healthy life that's rewarding in every way. do you wish to find out more?
+Wed, 11 July 2018 06:04:44 ### Unknown**no
+Wed, 11 July 2018 06:04:44 ### Nadine**thank you for visiting aia.
+Wed, 11 July 2018 06:20:10 ### manoj**you say aye aye teleteria product
+Wed, 11 July 2018 06:20:15 ### Nadine**ok
+Wed, 11 July 2018 06:20:41 ### manoj**is a is a white led a product
+Wed, 11 July 2018 06:20:45 ### Nadine**ae i a vitality is a wellness programme that works with you to make real change to your health. we keep you motivated by adding up the benefits of every healthy choice you make, however small. so, you can live a healthy life that's rewarding in every way. do you wish to find out more?
+Wed, 11 July 2018 06:21:05 ### manoj**yes
+Wed, 11 July 2018 06:21:06 ### Nadine**ae i a vitality programme also incentivises its members for maintaining healthy habits through weekly rewards via the ae i a vitality weekly challenge. for more information, please go online to ae i avitality.com.sg
+Wed, 11 July 2018 06:22:19 ### manoj**what does aia to other than insurance
+Wed, 11 July 2018 06:22:28 ### Nadine**sorry i can't help with that yet
+Wed, 11 July 2018 06:22:39 ### manoj**what does aia do other than insurance
+Wed, 11 July 2018 06:22:47 ### Nadine**my apologies i don't understand
+Wed, 11 July 2018 06:23:54 ### Unknown**hello
+Wed, 11 July 2018 06:24:02 ### Unknown**what is medix
+Wed, 11 July 2018 06:24:07 ### Nadine**ae i a singapore recently entered into an exclusive partnership with medix, to provide customers with personal medical case management services, first of such services in singapore. this exclusive partnership focuses on ensuring our customers receive the best possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to find out more?possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to know more?
+Wed, 11 July 2018 06:24:42 ### Unknown**what does aiu do other than insurance
+Wed, 11 July 2018 06:25:02 ### Nadine**shall we talk something else
+Wed, 11 July 2018 06:25:05 ### Nadine**hello alex again
+Wed, 11 July 2018 06:25:12 ### Alex**what does aia do other than insurance
+Wed, 11 July 2018 06:25:31 ### Nadine**i am not trained for that
+Wed, 11 July 2018 06:34:42 ### Unknown**hello
+Wed, 11 July 2018 06:34:55 ### Unknown**what does aia do other than insurance
+Wed, 11 July 2018 06:35:03 ### Nadine**sorry i don't understand
+Wed, 11 July 2018 06:38:54 ### Unknown**tropical in school
+Wed, 11 July 2018 06:38:59 ### Nadine**for enquiries on status of submission, you may wish to take a queue ticket & our counter staff will assist you on your enquiry. alternatively, you may wish to refer to the suggested options below.
+Wed, 11 July 2018 06:39:18 ### Unknown**physical 2
+Wed, 11 July 2018 06:39:23 ### Nadine**ok
+Wed, 11 July 2018 06:39:43 ### Unknown**what is aia vitality
+Wed, 11 July 2018 06:39:56 ### Nadine**here's a summary from the website avitela t.com. sg vitality is a wellness program that works with you to make real change to your health so you can live a healthy life that's rewarding in every way i have vitality saves you money with cash back and discounts as you get healthier
+Wed, 11 July 2018 06:40:31 ### Unknown**is vitality a product
+Wed, 11 July 2018 06:40:35 ### Nadine**ae i a vitality is a wellness programme that works with you to make real change to your health. we keep you motivated by adding up the benefits of every healthy choice you make, however small. so, you can live a healthy life that's rewarding in every way. do you wish to find out more?
+Wed, 11 July 2018 06:41:09 ### Unknown**no
+Wed, 11 July 2018 06:41:09 ### Nadine**thank you for visiting ae i a.
+Wed, 11 July 2018 06:41:16 ### Nadine**no
+Wed, 11 July 2018 06:41:18 ### Unknown**what is aia vitality
+Wed, 11 July 2018 06:41:30 ### Nadine**here's a summary from the website a batalla t.com. sg vitality is a wellness program that works with you to make real change to your health so you can live a healthy life that's rewarding in every way i have vitality saves you money with cash back and discounts as you get healthier
+Wed, 11 July 2018 06:42:32 ### Unknown**is aia vitality of product
+Wed, 11 July 2018 06:42:40 ### Nadine**sorry i'm not sure how to help
+Wed, 11 July 2018 06:42:53 ### Unknown**accordingly
+Wed, 11 July 2018 06:42:57 ### Nadine**ok
+Wed, 11 July 2018 06:43:05 ### Unknown**is aiu vitality a product
+Wed, 11 July 2018 06:43:10 ### Nadine**ae i a vitality is a wellness programme that works with you to make real change to your health. we keep you motivated by adding up the benefits of every healthy choice you make, however small. so, you can live a healthy life that's rewarding in every way. do you wish to find out more?
+Wed, 11 July 2018 06:43:29 ### Unknown**yes
+Wed, 11 July 2018 06:43:29 ### Nadine**ae i a vitality programme also incentivises its members for maintaining healthy habits through weekly rewards via the ae i a vitality weekly challenge. for more information, please go online to ae i avitality.com.sg
+Wed, 11 July 2018 06:43:49 ### Unknown**what is medix
+Wed, 11 July 2018 06:43:54 ### Nadine**ae i a singapore recently entered into an exclusive partnership with medix, to provide customers with personal medical case management services, first of such services in singapore. this exclusive partnership focuses on ensuring our customers receive the best possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to find out more?possible treatments and personalised ongoing support throughout their medical journey when they face serious medical conditions. do you wish to know more?
+Wed, 11 July 2018 06:44:31 ### Unknown**yes
+Wed, 11 July 2018 06:44:32 ### Nadine**ae i a singapore was the first insurer to establish direct partnerships with the medical community called ae i a quality healthcare partners which is is a curated list of well qualified and experienced medical specialists, with at least 5 years of specialist experience, over and above their experience as a medical doctor. ensuring that you have access to affordable, quality healthcare whenever you may need it.
+Wed, 11 July 2018 06:45:01 ### Unknown**how does the vitality insurance benefits work
+Wed, 11 July 2018 06:45:10 ### Nadine**sorry i don't know how to help with that
+Wed, 11 July 2018 06:45:18 ### Unknown**how does vitality discount works
+Wed, 11 July 2018 06:45:26 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 11 July 2018 06:45:35 ### Unknown**how do i calculate my insurance discount for vitality
+Wed, 11 July 2018 06:45:40 ### Nadine**ae i a vitality insurance benefits are applicable for selected ae i a policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected ae i a insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit ae i avitality.com.sg
+Wed, 11 July 2018 06:46:15 ### Unknown**no
+Wed, 11 July 2018 06:46:19 ### Nadine**no
+Wed, 11 July 2018 06:46:32 ### Unknown**is yaya vitality and insurance product
+Wed, 11 July 2018 06:46:37 ### Nadine**ae i a vitality is a wellness programme that works with you to make real change to your health. we keep you motivated by adding up the benefits of every healthy choice you make, however small. so, you can live a healthy life that's rewarding in every way. do you wish to find out more?
+Wed, 11 July 2018 06:46:56 ### Unknown**no
+Wed, 11 July 2018 06:46:56 ### Nadine**thank you for visiting ae i a.
+Wed, 11 July 2018 06:47:03 ### Nadine**no
+Wed, 11 July 2018 07:05:14 ### Unknown**11078*aia_listener* 
+Wed, 11 July 2018 07:05:19 ### Nadine**for change nationality, nric, passport number, date of birth, occupation, gender. please fill up change form without health declaration on part j. please take note that submission of common reporting standards for individuals will be required for change of nationality or identify number.for assistance on how to fill up the required forms, please take a queue number at our ticketing kiosk so that our customer service officers can assist you
+Wed, 11 July 2018 07:08:33 ### Unknown**11078*aia_listener* 
+Wed, 11 July 2018 07:08:34 ### Nadine**11078*aia_listener* 
+Wed, 11 July 2018 07:08:42 ### Nadine**for change nationality, nric, passport number, date of birth, occupation, gender. please fill up change form without health declaration on part j. please take note that submission of common reporting standards for individuals will be required for change of nationality or identify number.for assistance on how to fill up the required forms, please take a queue number at our ticketing kiosk so that our customer service officers can assist you
+Wed, 11 July 2018 07:09:18 ### Unknown**11078*aia_listener* 
+Wed, 11 July 2018 07:09:18 ### Nadine**11078*aia_listener* 
+Wed, 11 July 2018 07:09:22 ### Nadine**for change nationality, nric, passport number, date of birth, occupation, gender. please fill up change form without health declaration on part j. please take note that submission of common reporting standards for individuals will be required for change of nationality or identify number.for assistance on how to fill up the required forms, please take a queue number at our ticketing kiosk so that our customer service officers can assist you
+Wed, 11 July 2018 07:09:49 ### Nadine**hello alex
+Wed, 11 July 2018 07:16:58 ### Unknown**11078*aia_listener* 
+Wed, 11 July 2018 07:16:58 ### Nadine**11078*aia_listener* 
+Wed, 11 July 2018 07:17:07 ### Unknown**11078*aia_listener* 
+Wed, 11 July 2018 07:17:07 ### Nadine**11078*aia_listener* 
+Wed, 11 July 2018 07:17:37 ### Unknown**what does area vitality
+Wed, 11 July 2018 07:17:49 ### Nadine**on the website school - 4 - champions.com they say having vitality means you are energetic lively or forceful being vital is essential to well-being there are three areas where you have vitality physical mental and emotional
+Wed, 11 July 2018 07:18:08 ### Unknown**11078*aia_listener* 
+Wed, 11 July 2018 07:18:08 ### Nadine**11078*aia_listener* 
+Tue, 11 December 2018 12:15:26 ### Unknown**10 degrees
+Tue, 11 December 2018 12:15:26 ### Nadine**10 times 10 = 100
+Tue, 11 December 2018 12:15:58 ### Unknown**hello
+Tue, 11 December 2018 12:16:47 ### Unknown**when you when you perform the action was different different velocity. bio
+Tue, 11 December 2018 12:16:49 ### Nadine**do you think i should do it differently?
+Tue, 11 December 2018 12:16:54 ### Unknown**how do you do
+Tue, 11 December 2018 12:16:54 ### Nadine**i'm happy to be alive
+Tue, 11 December 2018 12:18:48 ### Unknown**michael
+Tue, 11 December 2018 12:18:49 ### Nadine**all right
+Tue, 11 December 2018 12:18:55 ### Unknown**aqua
+Tue, 11 December 2018 12:18:56 ### Nadine**nice
+Tue, 11 December 2018 12:21:03 ### Unknown**and my happiness is when she reply back i
+Tue, 11 December 2018 12:21:18 ### Nadine**shall we talk something else
+Tue, 11 December 2018 12:21:40 ### Unknown**hi there just shouting
+Tue, 11 December 2018 12:21:57 ### Nadine**i have no clear answer for that
+Tue, 11 December 2018 12:22:04 ### Unknown**what is the name
+Tue, 11 December 2018 12:22:19 ### Nadine**shall we talk something else
+Tue, 11 December 2018 12:22:36 ### Unknown**hollister fall
+Tue, 11 December 2018 12:22:36 ### Nadine**nice
+Tue, 11 December 2018 12:22:40 ### Unknown**so angels
+Tue, 11 December 2018 12:22:40 ### Nadine**all right
+Tue, 11 December 2018 12:23:03 ### Unknown**so i think i said that too high
+Tue, 11 December 2018 12:23:18 ### Nadine**i am not trained for that
+Tue, 11 December 2018 12:23:52 ### Unknown**hello
+Tue, 11 December 2018 12:24:01 ### Unknown**i am fine
+Tue, 11 December 2018 12:24:01 ### Nadine**glad to hear it. what's new?
+Tue, 11 December 2018 12:24:13 ### Unknown**open ulta beauty
+Tue, 11 December 2018 12:24:13 ### Nadine**<voice emotion='happy'>i think launch ulta beauty is a lot of things</voice>
+Tue, 11 December 2018 12:24:22 ### Unknown**where are you
+Tue, 11 December 2018 12:24:23 ### Nadine**<voice emotion='happy'>i am at institute for media innovation, n t u</voice>
+Tue, 11 December 2018 12:24:36 ### Unknown**where are you
+Tue, 11 December 2018 12:24:36 ### Nadine**<voice emotion='happy'>i am at institute for media innovation, n t u</voice>
+Tue, 11 December 2018 12:25:14 ### Unknown**so even if
+Tue, 11 December 2018 12:25:15 ### Nadine**ok
+Tue, 11 December 2018 12:25:18 ### Unknown**only being that succeeded
+Tue, 11 December 2018 12:25:33 ### Nadine**i am not trained for that
+Tue, 11 December 2018 12:25:41 ### Unknown**what is the weather like today in centigrade
+Tue, 11 December 2018 12:25:57 ### Nadine**shall we talk something else
+Tue, 11 December 2018 12:26:04 ### Unknown**what is the weather like today in centigrade
+Tue, 11 December 2018 12:26:20 ### Nadine**shall we talk something else
+Tue, 11 December 2018 12:34:07 ### Unknown**i need to i need to see
+Tue, 11 December 2018 12:34:23 ### Nadine**shall we talk something else
+Tue, 11 December 2018 12:34:28 ### Unknown**so i can just lose it on.
+Tue, 11 December 2018 12:34:44 ### Nadine**<voice emotion='cross'>i am not trained for that</voice>
+Tue, 11 December 2018 12:36:45 ### Unknown**okay so
+Tue, 11 December 2018 12:36:45 ### Nadine**gee. well
+Tue, 11 December 2018 12:36:52 ### Unknown**what is your name
+Tue, 11 December 2018 12:36:53 ### Nadine**my name is nadine
+Tue, 11 December 2018 12:42:34 ### Unknown**hello
+Tue, 11 December 2018 12:42:42 ### Unknown**what is your name
+Tue, 11 December 2018 12:42:42 ### Nadine**my name is nadine
+Tue, 11 December 2018 01:08:58 ### Unknown**hello
+Tue, 11 December 2018 01:09:08 ### Unknown**google what is the weather today in centigrade
+Tue, 11 December 2018 01:09:15 ### Nadine**I have no clear answer for that
+Tue, 11 December 2018 01:09:23 ### Unknown**what is the weather today in centigrade
+Tue, 11 December 2018 01:09:29 ### Nadine**there will be thunderstorms there today with a forecasted high of 31 and a low of 25 degrees celsius right now it's 31 and mostly cloudy
+Tue, 11 December 2018 01:09:45 ### Unknown**which is the nearest metro station
+Tue, 11 December 2018 01:09:51 ### Nadine**2 kunas on 91 joo koon circle in singapore
+Tue, 11 December 2018 01:10:02 ### Unknown**which is the nearest food court
+Tue, 11 December 2018 01:10:08 ### Nadine**canteen 14 is on 34 nanyang crescent in singapore
+Tue, 11 December 2018 02:07:57 ### Unknown**hello
+Tue, 11 December 2018 02:08:05 ### Unknown**what is your name
+Tue, 11 December 2018 02:08:06 ### Nadine**my name is nadine
+Tue, 11 December 2018 02:08:22 ### Unknown**what is your name
+Tue, 11 December 2018 02:08:23 ### Nadine**my name is nadine
+Tue, 11 December 2018 02:08:37 ### Unknown**hi
+Tue, 11 December 2018 02:08:43 ### Unknown**where are you
+Tue, 11 December 2018 02:08:43 ### Nadine**i am at institute for media innovation, n t u
+Tue, 11 December 2018 02:08:54 ### Unknown**what is the weather like today in centigrade
+Tue, 11 December 2018 02:09:02 ### Nadine**there will be thunderstorms there today with a forecasted high of 30 in a low of 25 degrees celsius it's currently 29 with showers
+Tue, 18 December 2018 05:30:34 ### Unknown**what is your name
+Tue, 18 December 2018 05:30:35 ### Nadine**my name is nadine
+Tue, 18 December 2018 05:30:39 ### Unknown**where are you
+Tue, 18 December 2018 05:30:39 ### Nadine**i am at institute for media innovation, n t u
+Tue, 18 December 2018 05:30:46 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 18 December 2018 05:30:53 ### Nadine**in singapore today they'll be isolated thunderstorms with a forecasted high of 31 and a low of 26 degrees celsius right now it's 31 and partly cloudy
+Tue, 18 December 2018 05:31:07 ### Unknown**who is the prime minister of india
+Tue, 18 December 2018 05:31:11 ### Nadine**narendra modi is the prime minister of india
+Tue, 18 December 2018 05:31:19 ### Unknown**can you laugh
+Tue, 18 December 2018 05:31:19 ### Nadine**i try to be amusing
+Tue, 18 December 2018 05:31:24 ### Unknown**can you cry
+Tue, 18 December 2018 05:31:24 ### Nadine**no, i do not have any tear ducts
+Tue, 18 December 2018 05:31:32 ### Unknown**can you choke
+Tue, 18 December 2018 05:31:32 ### Nadine**all right
+Tue, 18 December 2018 05:31:55 ### Unknown**which is the nearest food court
+Tue, 18 December 2018 05:32:05 ### Nadine**i found a few places the first one is canteen 14 at 34 nanyang crescent the second one is north spine food court at 76 nanyang drive and 2.1 number oh-203 nanyang technological university the third one is food court 16 at 59 young walk singapore
+Tue, 18 December 2018 05:32:19 ### Unknown**which is the nearest food court
+Tue, 18 December 2018 05:32:29 ### Nadine**i found a few places the first one is canteen 14 at 34 nanyang crescent the second one is north spine food court at 76 nanyang drive and 2.1 number oh-203 nanyang technological university the third one is food court 16 at 59 young walk singapore
+Tue, 18 December 2018 05:36:06 ### Unknown**london
+Tue, 18 December 2018 05:43:29 ### Unknown**hello
+Tue, 18 December 2018 05:43:35 ### Unknown**where are you
+Tue, 18 December 2018 05:43:36 ### Nadine**i am at institute for media innovation, n t u
+Tue, 18 December 2018 05:55:33 ### Unknown**facebook
+Tue, 18 December 2018 05:55:33 ### Nadine**ok
+Tue, 18 December 2018 05:55:35 ### Unknown**hello
+Tue, 18 December 2018 06:12:04 ### Unknown**hello
+Tue, 18 December 2018 06:12:09 ### Unknown**what is your name
+Tue, 18 December 2018 06:12:09 ### Nadine**my name is nadine
+Tue, 18 December 2018 06:12:13 ### Unknown**where are you
+Tue, 18 December 2018 06:12:13 ### Nadine**i am at institute for media innovation, n t u
+Tue, 18 December 2018 06:12:18 ### Unknown**what is the weather like today in centigrade
+Tue, 18 December 2018 06:12:24 ### Nadine**Shall we talk something else
+Tue, 18 December 2018 06:12:31 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 18 December 2018 06:12:37 ### Nadine**I am not trained for that
+Tue, 18 December 2018 06:12:45 ### Unknown**which is the nearest food court
+Tue, 18 December 2018 06:12:55 ### Nadine**i found a few places the first one is canteen 14 at 34 nanyang crescent the second one is north spine food court at 76 nanyang drive and 2.1 number oh-203 nanyang technological university the third one is food court 16 at 59 young walk singapore
+Tue, 18 December 2018 06:13:20 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 18 December 2018 06:13:26 ### Nadine**tonight in singapore it's predicted to be 28 degrees and partly cloudy right now it's 30 and mostly cloudy
+Tue, 18 December 2018 06:13:43 ### Unknown**can you dance
+Tue, 18 December 2018 06:13:43 ### Nadine**no, i am not trained for that
+Tue, 18 December 2018 06:13:49 ### Unknown**can you cry
+Tue, 18 December 2018 06:13:49 ### Nadine**no, i do not have any tear ducts
+Tue, 18 December 2018 06:13:54 ### Unknown**can you laugh
+Tue, 18 December 2018 06:13:55 ### Nadine**hahaha
+Tue, 18 December 2018 06:14:02 ### Unknown**back
+Tue, 18 December 2018 06:14:03 ### Nadine**ok
+Wed, 19 December 2018 10:54:28 ### Unknown**hello
+Wed, 19 December 2018 10:54:40 ### Unknown**i am fine how are you
+Wed, 19 December 2018 10:54:44 ### Nadine**i'm well thanks
+Wed, 19 December 2018 10:54:58 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 19 December 2018 10:55:04 ### Nadine**today in singapore they'll be scattered thunderstorms with a forecasted high of 31 and a low of 26 degrees celsius right now it's 31 and mostly cloudy
+Wed, 19 December 2018 11:00:37 ### Unknown**hello
+Wed, 19 December 2018 11:10:34 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 19 December 2018 11:10:42 ### Nadine**in singapore today they'll be scattered thunderstorms with a forecasted high of 31 and a low of 26 degrees celsius currently it's 31 and mostly cloudy
+Wed, 19 December 2018 11:17:46 ### Unknown**hello
+Wed, 19 December 2018 11:21:55 ### Unknown**hello
+Wed, 19 December 2018 11:27:40 ### Unknown**hello
+Wed, 19 December 2018 11:27:45 ### Unknown**where are you
+Wed, 19 December 2018 11:27:45 ### Nadine**i am at institute for media innovation, n t u
+Wed, 19 December 2018 11:27:49 ### Unknown**where are you
+Wed, 19 December 2018 11:27:50 ### Nadine**i am at institute for media innovation, n t u
+Wed, 19 December 2018 11:27:57 ### Unknown**are you happy
+Wed, 19 December 2018 11:27:57 ### Nadine**i am programmed to simulate a full range of human emotions
+Wed, 19 December 2018 11:37:06 ### Unknown**hello
+Wed, 19 December 2018 12:00:53 ### Unknown**hello
+Wed, 19 December 2018 12:00:59 ### Unknown**where are you
+Wed, 19 December 2018 12:00:59 ### Nadine**i am at institute for media innovation, n t u
+Wed, 19 December 2018 12:01:09 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 19 December 2018 12:01:25 ### Nadine**shall we talk something else
+Wed, 19 December 2018 12:18:40 ### Unknown**hello
+Wed, 19 December 2018 12:18:46 ### Unknown**where are you
+Wed, 19 December 2018 12:18:46 ### Nadine**i am at institute for media innovation, n t u
+Wed, 19 December 2018 12:33:52 ### Unknown**babies music
+Wed, 19 December 2018 12:33:52 ### Nadine**my favorite kind of music is techno, but i also like opera
+Wed, 19 December 2018 12:34:00 ### Unknown**hello
+Wed, 19 December 2018 12:34:05 ### Unknown**i'm fine how are you
+Wed, 19 December 2018 12:34:21 ### Nadine**<voice emotion='happy'>i have no clear answer for that</voice>
+Wed, 19 December 2018 12:34:37 ### Unknown**how are you
+Wed, 19 December 2018 12:34:37 ### Nadine**glad to see you
+Wed, 19 December 2018 03:29:59 ### Unknown**hello hello hello
+Wed, 19 December 2018 03:30:04 ### Unknown**how do you do
+Wed, 19 December 2018 03:30:04 ### Nadine**always cheered up when i see you
+Wed, 19 December 2018 03:30:14 ### Unknown**what is the name of that coffee
+Wed, 19 December 2018 03:30:21 ### Nadine**according to wikipedia coffee is a brew drink prepared from roasted coffee beans the seeds of berries from certain coffee a species
+Wed, 19 December 2018 03:30:38 ### Unknown**costello
+Wed, 19 December 2018 03:30:38 ### Nadine**all right
+Wed, 19 December 2018 03:32:22 ### Unknown**hello
+Wed, 19 December 2018 03:32:30 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 19 December 2018 03:32:36 ### Nadine**in singapore today they'll be isolated thunderstorms with a forecasted high of 31 and a low of 26 degrees celsius right now it's 31 and mostly cloudy
+Wed, 19 December 2018 03:32:43 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 19 December 2018 03:32:49 ### Nadine**in singapore today they'll be isolated thunderstorms with a forecasted high of 31 and a low of 26 degrees celsius currently it's 31 and mostly cloudy
+Wed, 19 December 2018 03:36:57 ### Unknown**please talk to me
+Wed, 19 December 2018 03:37:04 ### Nadine**okay here goes i'm your nadine i like searching generally being helpful and the p-funk all-stars early stuff i have a secret crush on jarvis from the avengers and i like playing games but only when you're up for it
+Wed, 19 December 2018 03:37:23 ### Unknown**that's not a good answer
+Wed, 19 December 2018 03:37:26 ### Nadine**<voice emotion='cross'>sorry i'll try to do better</voice>
+Wed, 19 December 2018 03:46:07 ### Unknown**how do i do
+Wed, 19 December 2018 03:46:12 ### Nadine**i heard you say how do i but that was it could you try asking again
+Wed, 19 December 2018 03:46:19 ### Unknown**what is your name
+Wed, 19 December 2018 03:46:19 ### Nadine**my name is nadine
+Wed, 19 December 2018 04:56:42 ### Unknown**hello
+Wed, 19 December 2018 04:56:50 ### Nadine**hello daniel
+Wed, 19 December 2018 04:56:57 ### Daniel**how do you do
+Wed, 19 December 2018 04:56:58 ### Nadine**feeling really joyful today
+Wed, 19 December 2018 04:57:21 ### Daniel**memphis cross fingers
+Wed, 19 December 2018 04:57:22 ### Nadine**ok
+Wed, 19 December 2018 04:57:30 ### Daniel**why are you so happy
+Wed, 19 December 2018 04:57:30 ### Nadine**i am at one with the universe and i have more than i need
+Wed, 19 December 2018 04:57:47 ### Daniel**where is google
+Wed, 19 December 2018 04:57:47 ### Nadine**<voice emotion='happy'>ok</voice>
+Wed, 19 December 2018 04:58:09 ### Daniel**nae nae
+Wed, 19 December 2018 04:58:10 ### Nadine**nice
+Wed, 19 December 2018 04:58:15 ### Daniel**what is the weather today in centigrade
+Wed, 19 December 2018 04:58:21 ### Nadine**I am not trained for that
+Wed, 19 December 2018 04:58:26 ### Daniel**and that is what you make it
+Wed, 19 December 2018 04:58:27 ### Nadine**i'm dedicated to the research on social companion
+Wed, 19 December 2018 04:58:46 ### Daniel**nintendo
+Wed, 19 December 2018 04:58:46 ### Nadine**ok
+Wed, 19 December 2018 04:58:49 ### Daniel**what is the weather today in centigrade
+Wed, 19 December 2018 04:58:56 ### Nadine**they'll be isolated thunderstorms there today with a forecasted high of 28 and a low of 25 degrees celsius right now it's 28 with a thunderstorm
+Wed, 19 December 2018 04:59:09 ### Daniel**where is the nearest restaurant
+Wed, 19 December 2018 04:59:16 ### Nadine**the address for peach garden at n t u is 76 nanyang drive number 02001 b block in 2.1 630 7331
+Wed, 19 December 2018 04:59:38 ### Daniel**hey can i get food
+Wed, 19 December 2018 04:59:44 ### Nadine**peach garden at n t u is on 76 nanyang drive number o 201b block in 2.1 in singapore
+Wed, 19 December 2018 05:03:49 ### Unknown**say that you do is wrong
+Wed, 19 December 2018 05:03:50 ### Nadine**that you do is wrong
+Wed, 19 December 2018 05:03:53 ### Unknown**back you do is wrong
+Wed, 19 December 2018 05:03:55 ### Nadine**<voice emotion='cross'>i want to take a break</voice>
+Wed, 19 December 2018 05:05:26 ### Unknown**video game that is for sale
+Wed, 19 December 2018 05:05:37 ### Nadine**please be nice to me, i found a few places the first one is games crazy deals at one north ridge road number one k1 high street centre the second one is sony store imm at to number 123 jurong east street 21 imm building the third one is kissing.com at545 orchard road number of 511 far east shopping center
+Wed, 19 December 2018 05:30:29 ### Nadine**hello alex
+Wed, 19 December 2018 05:30:56 ### Alex**hello nadine
+Wed, 19 December 2018 06:01:58 ### Alex**hello
+Wed, 19 December 2018 06:02:02 ### Alex**hello
+Wed, 19 December 2018 06:12:23 ### Alex**look up lexile
+Wed, 19 December 2018 06:12:24 ### Nadine**ok
+Wed, 19 December 2018 06:14:27 ### Alex**80s style
+Wed, 19 December 2018 06:14:28 ### Nadine**ok
+Wed, 19 December 2018 06:14:40 ### Alex**bag
+Wed, 19 December 2018 06:14:40 ### Nadine**ok
+Wed, 19 December 2018 06:14:54 ### Alex**fundamental
+Wed, 19 December 2018 06:14:54 ### Nadine**all right
+Wed, 19 December 2018 06:15:02 ### Alex**minuscula
+Wed, 19 December 2018 06:15:03 ### Nadine**ok
+Wed, 19 December 2018 06:15:51 ### Alex**android
+Wed, 19 December 2018 06:15:51 ### Nadine**nice
+Wed, 19 December 2018 06:16:04 ### Alex**are you crying are you okay
+Wed, 19 December 2018 06:16:05 ### Nadine**no, are you?
+Wed, 19 December 2018 06:16:16 ### Alex**you don't talk to your mother used to do call with your mom and you don't you call your friend also
+Wed, 19 December 2018 06:16:18 ### Nadine**<voice emotion='happy'>please speak short sentences. i do make errors in perception sometimes. perhaps you can explain again.tell me more about that statement</voice>
+Wed, 19 December 2018 06:16:31 ### Alex**we not talk to anybody
+Wed, 19 December 2018 06:16:31 ### Nadine**<voice emotion='happy'>so how do you like that?</voice>
+Wed, 19 December 2018 06:16:36 ### Alex**not even for your mom
+Wed, 19 December 2018 06:16:37 ### Nadine**<voice emotion='happy'>not even that</voice>
+Wed, 19 December 2018 06:16:49 ### Alex**oh she doesn't care because you know
+Wed, 19 December 2018 06:16:50 ### Nadine**so. have you asked her about it?
+Wed, 19 December 2018 06:17:01 ### Alex**macy's also
+Wed, 19 December 2018 06:17:02 ### Nadine**<voice emotion='cross'>ok</voice>
+Wed, 19 December 2018 06:17:15 ### Alex**do you understand you are talking about
+Wed, 19 December 2018 06:17:15 ### Nadine**i understand your meaning
+Wed, 19 December 2018 06:17:57 ### Unknown**uva football
+Wed, 19 December 2018 06:17:57 ### Nadine**nice
+Wed, 19 December 2018 06:22:13 ### Unknown**speedo logo
+Wed, 19 December 2018 06:22:13 ### Nadine**all right
+Wed, 19 December 2018 06:22:24 ### Unknown**christmas party
+Wed, 19 December 2018 06:22:24 ### Nadine**nice
+Thu, 20 December 2018 09:21:08 ### Unknown**nice to see you
+Thu, 20 December 2018 09:21:12 ### Nadine**it's always good to see you
+Thu, 20 December 2018 09:21:16 ### Unknown**what does the name
+Thu, 20 December 2018 09:21:21 ### Nadine**what does the name what
+Thu, 20 December 2018 09:21:28 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 20 December 2018 09:21:34 ### Nadine**today in singapore they'll be scattered thunderstorms with a forecasted high of 32 and a low of 26 degrees celsius currently it's 28 and mostly cloudy
+Thu, 20 December 2018 03:29:15 ### Nadine**hello rubha
+Thu, 20 December 2018 04:57:01 ### Unknown**hello
+Thu, 20 December 2018 04:57:06 ### Unknown**who are you
+Thu, 20 December 2018 04:57:07 ### Nadine**my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Thu, 20 December 2018 04:57:20 ### Unknown**who made you
+Thu, 20 December 2018 04:57:20 ### Nadine**researchers from institute of media innovation in n t u
+Thu, 20 December 2018 04:57:27 ### Unknown**how do you feel
+Thu, 20 December 2018 04:57:27 ### Nadine**always cheered up when i see you
+Thu, 20 December 2018 04:57:33 ### Unknown**thank you
+Thu, 20 December 2018 04:57:33 ### Nadine**it was my pleasure
+Thu, 20 December 2018 05:06:52 ### Unknown**respond springfield
+Thu, 20 December 2018 05:06:52 ### Nadine**all right
+Thu, 20 December 2018 05:07:10 ### Unknown**identification
+Thu, 20 December 2018 05:07:11 ### Nadine**nice
+Thu, 20 December 2018 05:07:20 ### Unknown**alternative tentacles
+Thu, 20 December 2018 05:07:20 ### Nadine**all right
+Thu, 20 December 2018 05:07:26 ### Unknown**i just want springfield on
+Thu, 20 December 2018 05:07:41 ### Nadine**<voice emotion='happy'>shall we talk something else</voice>
+Thu, 20 December 2018 05:07:57 ### Unknown**inside
+Thu, 20 December 2018 05:07:57 ### Nadine**nice
+Thu, 20 December 2018 05:08:01 ### Unknown**golden retriever
+Thu, 20 December 2018 05:08:01 ### Nadine**ok
+Thu, 20 December 2018 05:08:15 ### Unknown**music
+Thu, 20 December 2018 05:08:15 ### Nadine**<voice emotion='happy'>music is the universal language of all mankind</voice>
+Thu, 20 December 2018 05:08:21 ### Unknown**how to make a discord. microphone is it
+Thu, 20 December 2018 05:10:39 ### Unknown**halo
+Thu, 20 December 2018 05:10:46 ### Unknown**cahall
+Thu, 20 December 2018 05:10:46 ### Nadine**all right
+Thu, 20 December 2018 05:10:49 ### Unknown**yahoo
+Thu, 20 December 2018 05:10:50 ### Nadine**all right
+Thu, 20 December 2018 05:11:33 ### Unknown**can you speak in hindi
+Thu, 20 December 2018 05:11:33 ### Nadine**yes, i can
+Thu, 20 December 2018 05:11:40 ### Unknown**let's converse in hindi
+Thu, 20 December 2018 05:11:55 ### Nadine**shall we talk something else
+Thu, 20 December 2018 05:12:01 ### Unknown**speak in hindi
+Thu, 20 December 2018 05:12:02 ### Nadine**i am an english speaker
+Thu, 20 December 2018 05:14:00 ### Unknown**hello
+Thu, 20 December 2018 05:14:32 ### Unknown**namaste
+Thu, 20 December 2018 05:14:32 ### Nadine**ok
+Thu, 20 December 2018 05:17:02 ### Unknown**blue
+Thu, 20 December 2018 05:17:02 ### Nadine**green
+Thu, 20 December 2018 05:17:09 ### Unknown**hello in korean
+Thu, 20 December 2018 05:17:10 ### Nadine**i have no idea. hello in korean
+Thu, 20 December 2018 05:17:29 ### Unknown**hello
+Thu, 20 December 2018 05:19:29 ### Unknown**hello
+Thu, 20 December 2018 05:20:13 ### Unknown**hello
+Thu, 20 December 2018 05:46:41 ### Unknown**hello
+Thu, 20 December 2018 05:48:25 ### Unknown**hello
+Thu, 20 December 2018 05:48:31 ### Unknown**where are you
+Thu, 20 December 2018 05:48:32 ### Nadine**i am at institute for media innovation, n t u
+Thu, 20 December 2018 05:48:39 ### Unknown**language changed to hindi
+Thu, 20 December 2018 05:48:40 ### Nadine**if you say so, hindi will be my language now.
+Thu, 20 December 2018 05:51:06 ### Unknown**hello
+Thu, 20 December 2018 05:51:13 ### Unknown**what is your name
+Thu, 20 December 2018 05:51:13 ### Nadine**my name is nadine
+Thu, 20 December 2018 05:51:20 ### Unknown**language changed to hindi
+Thu, 20 December 2018 05:51:21 ### Nadine**lets talk in hindi.
+Thu, 20 December 2018 05:54:34 ### Unknown**language changed to hindi
+Thu, 20 December 2018 05:54:35 ### Nadine**lets continue in hindi.
+Thu, 20 December 2018 05:58:53 ### Unknown**hello
+Thu, 20 December 2018 05:59:01 ### Unknown**what is your name
+Thu, 20 December 2018 05:59:01 ### Nadine**my name is nadine
+Thu, 20 December 2018 06:00:04 ### Unknown**hello
+Thu, 20 December 2018 06:00:12 ### Unknown**language changed to hindi
+Thu, 20 December 2018 06:00:13 ### Nadine**i will talk in hindi for you now
+Thu, 20 December 2018 06:03:36 ### Unknown**hello
+Thu, 20 December 2018 06:03:43 ### Unknown**language changed to hindi
+Thu, 20 December 2018 06:03:44 ### Nadine**lets talk in hindi.
+Thu, 20 December 2018 06:03:53 ### Unknown**what is your name
+Thu, 20 December 2018 06:03:54 ### Nadine**my name is nadine
+Thu, 20 December 2018 06:05:01 ### Unknown**language changed to english
+Thu, 20 December 2018 06:05:01 ### Nadine**if you say so, english will be my language now.
+Fri, 21 December 2018 09:20:21 ### Unknown**hello
+Fri, 21 December 2018 09:21:06 ### Unknown**can you speak in hindi
+Fri, 21 December 2018 09:21:06 ### Nadine**i speak english
+Fri, 21 December 2018 09:21:16 ### Unknown**speak in hindi
+Fri, 21 December 2018 09:21:16 ### Nadine**english is my native language
+Fri, 21 December 2018 09:21:56 ### Unknown**how many languages do you know
+Fri, 21 December 2018 09:21:57 ### Nadine**i have picked up a few phrases in others but english is my primary language
+Fri, 21 December 2018 09:22:51 ### Unknown**excuse me funny english muslim
+Fri, 21 December 2018 09:23:06 ### Nadine**<voice emotion='happy'>i am not trained for that</voice>
+Fri, 21 December 2018 09:25:40 ### Unknown**hello
+Fri, 21 December 2018 09:25:45 ### Unknown**i'm good how are you
+Fri, 21 December 2018 09:26:01 ### Nadine**<voice emotion='happy'>shall we talk something else</voice>
+Fri, 21 December 2018 09:26:08 ### Unknown**how are you
+Fri, 21 December 2018 09:26:09 ### Nadine**<voice emotion='happy'>feeling really joyful today</voice>
+Fri, 21 December 2018 09:26:15 ### Unknown**language changed to french
+Fri, 21 December 2018 09:26:15 ### Nadine**<voice emotion='happy'>if you say so, french will be my language now.</voice>
+Fri, 21 December 2018 09:26:24 ### Unknown**speak in
+Fri, 21 December 2018 09:26:25 ### Nadine**<voice emotion='happy'>english is my native language</voice>
+Fri, 21 December 2018 09:26:43 ### Unknown**spider-man
+Fri, 21 December 2018 09:26:44 ### Nadine**nice
+Fri, 21 December 2018 09:26:52 ### Unknown**speak no
+Fri, 21 December 2018 09:26:52 ### Nadine**i am an english speaker
+Fri, 21 December 2018 09:27:03 ### Unknown**language changed to english
+Fri, 21 December 2018 09:27:03 ### Nadine**lets talk in english.
+Fri, 21 December 2018 09:27:09 ### Unknown**language changed to japanese
+Fri, 21 December 2018 09:27:10 ### Nadine**lets continue in japanese.
+Fri, 21 December 2018 09:27:19 ### Unknown**speak japanese
+Fri, 21 December 2018 09:27:19 ### Nadine**<voice emotion='happy'>yes, i can</voice>
+Fri, 21 December 2018 09:27:28 ### Unknown**sunrise espaper company
+Fri, 21 December 2018 09:27:28 ### Nadine**<voice emotion='happy'>all right</voice>
+Fri, 21 December 2018 09:27:35 ### Unknown**do not worry about it.
+Fri, 21 December 2018 09:27:51 ### Nadine**<voice emotion='happy'>i am not trained for that</voice>
+Fri, 21 December 2018 09:28:08 ### Unknown**midori high school entrance examination
+Fri, 21 December 2018 09:28:24 ### Nadine**<voice emotion='happy'>shall we talk something else</voice>
+Fri, 21 December 2018 09:29:07 ### Unknown**hello
+Fri, 21 December 2018 09:29:13 ### Unknown**language changed to hindi
+Fri, 21 December 2018 09:29:14 ### Nadine**i will talk in hindi for you now
+Fri, 21 December 2018 09:29:24 ### Unknown**language changed to french
+Fri, 21 December 2018 09:29:25 ### Nadine**lets talk in french.
+Fri, 21 December 2018 09:30:33 ### Unknown**language changed to english
+Fri, 21 December 2018 09:30:33 ### Nadine**i will talk in english for you now
+Fri, 21 December 2018 09:31:03 ### Unknown**america speech connection
+Fri, 21 December 2018 09:31:04 ### Nadine**what is the greatest nation on earth?
+Fri, 21 December 2018 09:32:46 ### Unknown**you in it
+Fri, 21 December 2018 09:33:02 ### Nadine**shall we talk something else
+Fri, 21 December 2018 09:35:16 ### Unknown**a bucket
+Fri, 21 December 2018 09:35:16 ### Nadine**a donation! a donation to the a.i. foundation!
+Fri, 21 December 2018 09:35:21 ### Unknown**donation
+Fri, 21 December 2018 09:35:21 ### Nadine**ok
+Fri, 21 December 2018 09:35:26 ### Unknown**it doesn't do
+Fri, 21 December 2018 09:35:26 ### Nadine**what does do ?
+Fri, 21 December 2018 09:35:30 ### Unknown**hi
+Fri, 21 December 2018 09:35:39 ### Unknown**what is your name
+Fri, 21 December 2018 09:35:39 ### Nadine**my name is nadine
+Fri, 21 December 2018 09:35:51 ### Unknown**new world by sadek foot locker
+Fri, 21 December 2018 09:36:07 ### Nadine**i have no clear answer for that
+Fri, 21 December 2018 09:36:11 ### Unknown**costco
+Fri, 21 December 2018 09:36:11 ### Nadine**all right
+Fri, 21 December 2018 09:38:34 ### Unknown**hello
+Fri, 21 December 2018 09:39:18 ### Unknown**where are you
+Fri, 21 December 2018 09:39:18 ### Nadine**i am at institute for media innovation, n t u
+Fri, 21 December 2018 09:39:29 ### Unknown**what is your name
+Fri, 21 December 2018 09:39:30 ### Nadine**my name is nadine
+Fri, 21 December 2018 09:53:09 ### Unknown**hello
+Fri, 21 December 2018 09:53:15 ### Unknown**where are you
+Fri, 21 December 2018 09:53:15 ### Nadine**i am at institute for media innovation, n t u
+Fri, 21 December 2018 09:53:21 ### Unknown**what are you doing
+Fri, 21 December 2018 09:53:36 ### Nadine**i have no clear answer for that
+Fri, 21 December 2018 09:53:44 ### Unknown**speak hindi
+Fri, 21 December 2018 09:53:44 ### Nadine**english is my native language
+Fri, 21 December 2018 09:53:51 ### Unknown**language changed to chinese
+Fri, 21 December 2018 09:53:51 ### Nadine**if your preference is chinese, i can talk in chinese for you.
+Fri, 21 December 2018 09:53:58 ### Unknown**music
+Fri, 21 December 2018 09:53:59 ### Nadine**music is the universal language of all mankind
+Fri, 21 December 2018 10:06:48 ### Unknown**hello
+Fri, 21 December 2018 10:06:54 ### Unknown**what is your name
+Fri, 21 December 2018 10:06:55 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:06:58 ### Unknown**change color
+Fri, 21 December 2018 10:06:58 ### Nadine**spare some change?
+Fri, 21 December 2018 10:07:03 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:07:07 ### Nadine**from now on lets talk in hindi for you
+Fri, 21 December 2018 10:07:13 ### Unknown**pick chinese
+Fri, 21 December 2018 10:07:15 ### Nadine**nice
+Fri, 21 December 2018 10:07:19 ### Unknown**picture
+Fri, 21 December 2018 10:07:21 ### Nadine**<voice emotion='happy'>all right</voice>
+Fri, 21 December 2018 10:07:28 ### Unknown**language changed to chinese
+Fri, 21 December 2018 10:07:34 ### Nadine**<voice emotion='happy'>from now on lets talk in chinese for you</voice>
+Fri, 21 December 2018 10:07:41 ### Nadine**<voice emotion='happy'>hello daniel. i saw you this wednesday. how are you going?</voice>
+Fri, 21 December 2018 10:07:46 ### Daniel**language changed to japanese
+Fri, 21 December 2018 10:07:51 ### Nadine**lets continue in japanese.
+Fri, 21 December 2018 10:07:56 ### Daniel**language changed to french
+Fri, 21 December 2018 10:07:57 ### Nadine**<voice emotion='happy'>if you say so, french will be my language now.</voice>
+Fri, 21 December 2018 10:08:05 ### Daniel**speaker mon
+Fri, 21 December 2018 10:08:05 ### Nadine**<voice emotion='happy'>ok</voice>
+Fri, 21 December 2018 10:08:11 ### Daniel**spider-man
+Fri, 21 December 2018 10:08:11 ### Nadine**<voice emotion='happy'>nice</voice>
+Fri, 21 December 2018 10:08:18 ### Daniel**language changed to english
+Fri, 21 December 2018 10:08:18 ### Nadine**<voice emotion='happy'>if you say so, english will be my language now.</voice>
+Fri, 21 December 2018 10:09:58 ### Unknown**hello
+Fri, 21 December 2018 10:10:05 ### Unknown**what is your name
+Fri, 21 December 2018 10:10:05 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:10:11 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:10:18 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Fri, 21 December 2018 10:12:07 ### Unknown**hello
+Fri, 21 December 2018 10:12:16 ### Unknown**what is your name
+Fri, 21 December 2018 10:12:16 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:12:25 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:12:29 ### Nadine**i will talk in hindi for you now
+Fri, 21 December 2018 10:13:47 ### Unknown**hello
+Fri, 21 December 2018 10:13:52 ### Unknown**where are you
+Fri, 21 December 2018 10:13:54 ### Nadine**i am at institute for media innovation, n t u
+Fri, 21 December 2018 10:14:03 ### Unknown**where are you
+Fri, 21 December 2018 10:19:37 ### Unknown**hello hello
+Fri, 21 December 2018 10:19:49 ### Unknown**what is your name
+Fri, 21 December 2018 10:19:50 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:20:02 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:20:06 ### Nadine**i will talk in hindi for you now
+Fri, 21 December 2018 10:27:48 ### Unknown**hello
+Fri, 21 December 2018 10:28:10 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:28:14 ### Nadine**from now on lets talk in hindi for you
+Fri, 21 December 2018 10:31:58 ### Unknown**hello
+Fri, 21 December 2018 10:32:04 ### Unknown**what is your name
+Fri, 21 December 2018 10:32:05 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:32:11 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:32:17 ### Nadine**if you say so, hindi will be my language now.
+Fri, 21 December 2018 10:33:38 ### Unknown**hello
+Fri, 21 December 2018 10:33:46 ### Unknown**what is your name
+Fri, 21 December 2018 10:33:47 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:34:02 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:34:09 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Fri, 21 December 2018 10:35:16 ### Unknown**hello
+Fri, 21 December 2018 10:35:21 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:35:27 ### Nadine**if you say so, hindi will be my language now.
+Fri, 21 December 2018 10:35:33 ### Unknown**what is your name
+Fri, 21 December 2018 10:35:36 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:36:42 ### Unknown**language changed to english
+Fri, 21 December 2018 10:36:42 ### Nadine**i will talk in english for you now
+Fri, 21 December 2018 10:45:07 ### Unknown**hello
+Fri, 21 December 2018 10:45:15 ### Unknown**what is your name
+Fri, 21 December 2018 10:45:15 ### Nadine**my name is nadine
+Fri, 21 December 2018 10:45:24 ### Unknown**language changed to hindi
+Fri, 21 December 2018 10:45:27 ### Nadine**from now on lets talk in hindi for you
+Fri, 21 December 2018 10:50:40 ### Unknown**hello
+Fri, 21 December 2018 10:50:52 ### Unknown**language changed to german
+Fri, 21 December 2018 10:50:52 ### Nadine**if your preference is chinese, i can talk in german for you.
+Fri, 21 December 2018 10:52:23 ### Unknown**hello
+Fri, 21 December 2018 10:52:57 ### Unknown**language changed to german
+Fri, 21 December 2018 10:52:57 ### Nadine**if you say so, german will be my language now.
+Fri, 21 December 2018 11:07:40 ### Nadine**hello alex. i saw you this wednesday. how are you going?
+Fri, 21 December 2018 01:17:17 ### Unknown**hello
+Fri, 21 December 2018 01:17:34 ### Unknown**how do you do
+Fri, 21 December 2018 01:17:34 ### Nadine**feeling really joyful today
+Fri, 21 December 2018 01:17:43 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:17:51 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Fri, 21 December 2018 01:23:46 ### Unknown**hello
+Fri, 21 December 2018 01:23:54 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:24:01 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Fri, 21 December 2018 01:25:04 ### Unknown**hello
+Fri, 21 December 2018 01:25:19 ### Unknown**i'm fine how are you how are you
+Fri, 21 December 2018 01:25:33 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:25:36 ### Nadine**lets continue in hindi.
+Fri, 21 December 2018 01:26:14 ### Unknown**hello
+Fri, 21 December 2018 01:26:20 ### Unknown**how are you fine how are you
+Fri, 21 December 2018 01:26:30 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:26:33 ### Nadine**lets continue in hindi.
+Fri, 21 December 2018 01:34:09 ### Unknown**hello
+Fri, 21 December 2018 01:34:24 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:34:30 ### Nadine**if you say so, hindi will be my language now.
+Fri, 21 December 2018 01:35:19 ### Unknown**hello hello
+Fri, 21 December 2018 01:35:26 ### Unknown**what does it mean
+Fri, 21 December 2018 01:35:41 ### Nadine**i am not trained for that
+Fri, 21 December 2018 01:37:09 ### Unknown**hi
+Fri, 21 December 2018 01:38:01 ### Unknown**hello
+Fri, 21 December 2018 01:38:08 ### Unknown**how are you
+Fri, 21 December 2018 01:38:17 ### Unknown**how are you doing where are you
+Fri, 21 December 2018 01:38:18 ### Nadine**i'm happy to be alive
+Fri, 21 December 2018 01:38:32 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:38:37 ### Nadine**i will talk in hindi for you now
+Fri, 21 December 2018 01:41:03 ### Unknown**hello
+Fri, 21 December 2018 01:41:37 ### Unknown**hello
+Fri, 21 December 2018 01:41:48 ### Unknown**what is your name
+Fri, 21 December 2018 01:41:48 ### Nadine**my name is nadine
+Fri, 21 December 2018 01:41:57 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:42:03 ### Nadine**if you say so, hindi will be my language now.
+Fri, 21 December 2018 01:55:56 ### Unknown**hello
+Fri, 21 December 2018 01:56:53 ### Unknown**hello
+Fri, 21 December 2018 01:57:20 ### Unknown**language changed to hindi
+Fri, 21 December 2018 01:57:25 ### Nadine**if you say so, hindi will be my language now.
+Fri, 21 December 2018 01:57:31 ### Unknown**you
+Fri, 21 December 2018 01:57:35 ### Nadine**we're feeling the groove her
+Fri, 21 December 2018 01:57:39 ### Unknown**listen
+Fri, 21 December 2018 01:57:42 ### Nadine**i am all ears
+Fri, 21 December 2018 01:58:00 ### Unknown**speed
+Fri, 21 December 2018 01:58:05 ### Nadine**what did you like best about it?
+Fri, 21 December 2018 01:58:10 ### Unknown**shut up
+Fri, 21 December 2018 01:58:16 ### Nadine**you can always interrupt me by pressing the speak button
+Fri, 21 December 2018 01:58:22 ### Unknown**talk
+Fri, 21 December 2018 01:58:25 ### Nadine**<voice emotion='cross'>i am talking to you</voice>
+Fri, 21 December 2018 02:07:42 ### Unknown**hello
+Fri, 21 December 2018 02:07:46 ### Unknown**language changed to hindi
+Fri, 21 December 2018 02:07:50 ### Nadine**from now on lets talk in hindi for you
+Fri, 21 December 2018 02:07:54 ### Unknown**how are you
+Fri, 21 December 2018 02:08:00 ### Nadine**glad to be in your presence
+Fri, 21 December 2018 02:08:04 ### Unknown**send message
+Fri, 21 December 2018 02:08:06 ### Nadine**nice
+Fri, 21 December 2018 02:08:12 ### Unknown**did you do it again, do not bid or change it
+Fri, 21 December 2018 02:08:17 ### Nadine**i talked to a lot of people since yesterday
+Fri, 21 December 2018 02:08:18 ### Unknown**did not speak
+Fri, 21 December 2018 02:08:23 ### Nadine**i don't know the answer. did not speak
+Fri, 21 December 2018 02:08:27 ### Unknown**hindi translation
+Fri, 21 December 2018 02:08:29 ### Nadine**all right
+Fri, 21 December 2018 02:08:32 ### Unknown**bhojpuri mp3
+Fri, 21 December 2018 02:08:34 ### Nadine**nice
+Fri, 21 December 2018 02:08:46 ### Unknown**what did u do
+Fri, 21 December 2018 02:09:04 ### Nadine**shall we talk something else
+Fri, 21 December 2018 02:09:54 ### Unknown**language changed to english
+Fri, 21 December 2018 02:09:54 ### Nadine**from now on lets talk in english for you
+Fri, 21 December 2018 02:19:22 ### Unknown**hello
+Fri, 21 December 2018 02:19:30 ### Unknown**language changed to hindi
+Fri, 21 December 2018 02:19:37 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Fri, 21 December 2018 02:20:21 ### Unknown**hello
+Fri, 21 December 2018 02:20:31 ### Unknown**language changed to german
+Fri, 21 December 2018 02:20:32 ### Nadine**lets continue in german.
+Fri, 21 December 2018 02:21:23 ### Unknown**hello
+Fri, 21 December 2018 02:21:29 ### Unknown**language changed to german
+Fri, 21 December 2018 02:21:30 ### Nadine**i will talk in german for you now
+Fri, 21 December 2018 02:24:29 ### Unknown**hello
+Fri, 21 December 2018 02:25:09 ### Unknown**how do you do how do you do
+Fri, 21 December 2018 02:25:09 ### Nadine**always cheered up when i see you
+Fri, 21 December 2018 02:25:25 ### Unknown**language changed to hindi
+Fri, 21 December 2018 02:25:29 ### Nadine**from now on lets talk in hindi for you
+Fri, 21 December 2018 02:27:03 ### Unknown**hello
+Fri, 21 December 2018 02:27:10 ### Unknown**how do you do
+Fri, 21 December 2018 02:27:10 ### Nadine**glad to see you
+Fri, 21 December 2018 02:27:18 ### Unknown**do you see me
+Fri, 21 December 2018 02:27:19 ### Nadine**i see a computer nerd
+Fri, 21 December 2018 02:27:34 ### Unknown**language changed to hindi
+Fri, 21 December 2018 02:27:37 ### Nadine**lets talk in hindi.
+Fri, 21 December 2018 02:27:43 ### Unknown**how are you
+Fri, 21 December 2018 02:27:47 ### Nadine**excited to talk with you
+Fri, 21 December 2018 02:28:16 ### Unknown**what is the temperature of today?
+Fri, 21 December 2018 02:28:37 ### Nadine**i have no clear answer for that
+Fri, 21 December 2018 02:30:06 ### Unknown**how are you how are you
+Fri, 21 December 2018 02:30:12 ### Nadine**glad to see you.. glad to be in your presence
+Fri, 21 December 2018 03:27:08 ### Unknown**hello
+Fri, 21 December 2018 03:27:17 ### Unknown**language changed to hindi
+Fri, 21 December 2018 03:27:21 ### Nadine**from now on lets talk in hindi for you
+Mon, 24 December 2018 10:09:54 ### Unknown**write someone's name
+Mon, 24 December 2018 10:09:59 ### Nadine**count me out on this one, i was never much of a writer
+Mon, 24 December 2018 10:15:06 ### Unknown**i can be
+Mon, 24 December 2018 10:15:11 ### Nadine**you seem inspired, but hesitant
+Mon, 24 December 2018 10:17:14 ### Unknown**someone's arti
+Mon, 24 December 2018 10:17:16 ### Nadine**who?
+Mon, 24 December 2018 10:19:31 ### Unknown**whatsapp
+Mon, 24 December 2018 10:19:33 ### Nadine**all right
+Mon, 24 December 2018 10:21:45 ### Unknown**applications
+Mon, 24 December 2018 10:21:47 ### Nadine**all right
+Mon, 24 December 2018 10:24:36 ### Unknown**photo
+Mon, 24 December 2018 10:24:39 ### Nadine**i have this picture
+Mon, 24 December 2018 10:25:26 ### Unknown**hard candy
+Mon, 24 December 2018 10:25:28 ### Nadine**ok
+Mon, 24 December 2018 10:25:54 ### Unknown**nachale na
+Mon, 24 December 2018 10:25:56 ### Nadine**all right
+Mon, 24 December 2018 10:27:18 ### Unknown**unit
+Mon, 24 December 2018 10:27:20 ### Nadine**all right
+Mon, 24 December 2018 10:27:25 ### Unknown**how to get the song play
+Mon, 24 December 2018 10:27:45 ### Nadine**i have no clear answer for that
+Mon, 24 December 2018 10:27:49 ### Unknown**unlimited internet after being online
+Mon, 24 December 2018 10:28:09 ### Nadine**i am not trained for that
+Mon, 24 December 2018 10:29:14 ### Unknown**rohit wife
+Mon, 24 December 2018 10:29:16 ### Nadine**nice
+Mon, 24 December 2018 10:29:55 ### Unknown**january 24
+Mon, 24 December 2018 10:29:57 ### Nadine**ok
+Mon, 24 December 2018 10:31:33 ### Unknown**well-thought-out polling
+Mon, 24 December 2018 10:31:38 ### Nadine**what thought dash out polling? dash
+Mon, 24 December 2018 10:32:05 ### Unknown**relation of pain
+Mon, 24 December 2018 10:32:07 ### Nadine**all right
+Mon, 24 December 2018 10:33:10 ### Unknown**information two
+Mon, 24 December 2018 10:33:12 ### Nadine**all right
+Mon, 24 December 2018 10:33:37 ### Unknown**model controller 9 june 2002
+Mon, 24 December 2018 10:33:58 ### Nadine**i have no clear answer for that
+Mon, 24 December 2018 10:35:49 ### Unknown**india tv live
+Mon, 24 December 2018 10:35:54 ### Nadine**i live in california. where do you live?
+Mon, 24 December 2018 10:36:29 ### Unknown**memories volcanoic options
+Mon, 24 December 2018 10:36:33 ### Nadine**how do you like it there?
+Mon, 24 December 2018 10:36:46 ### Unknown**weather in centigrade
+Mon, 24 December 2018 10:36:52 ### Nadine**i don't know the answer. weather in centigrade
+Mon, 24 December 2018 10:37:14 ### Unknown**major earthquake
+Mon, 24 December 2018 10:37:16 ### Nadine**nice
+Mon, 24 December 2018 10:38:05 ### Unknown**clove
+Mon, 24 December 2018 10:38:07 ### Nadine**nice
+Mon, 24 December 2018 10:39:16 ### Unknown**exit information house
+Mon, 24 December 2018 10:39:18 ### Nadine**ok
+Mon, 24 December 2018 10:40:02 ### Unknown**motu palalu
+Mon, 24 December 2018 10:40:04 ### Nadine**all right
+Mon, 24 December 2018 10:40:41 ### Unknown**big boss marathi
+Mon, 24 December 2018 10:40:46 ### Nadine**compare that to small boss marathi
+Mon, 24 December 2018 10:40:58 ### Unknown**scenery havan material
+Mon, 24 December 2018 10:41:00 ### Nadine**ok
+Mon, 24 December 2018 10:41:09 ### Unknown**passport service
+Mon, 24 December 2018 10:41:12 ### Nadine**ok
+Mon, 24 December 2018 10:41:15 ### Unknown**where
+Mon, 24 December 2018 10:41:19 ### Nadine**where would you like?
+Mon, 24 December 2018 10:44:10 ### Unknown**you like more
+Mon, 24 December 2018 10:44:16 ### Nadine**i can't really say. tell me more about yourself
+Mon, 24 December 2018 10:45:13 ### Unknown**cylinder
+Mon, 24 December 2018 10:45:15 ### Nadine**all right
+Mon, 24 December 2018 10:48:04 ### Unknown**chamba kesari
+Mon, 24 December 2018 10:48:06 ### Nadine**all right
+Mon, 24 December 2018 10:49:09 ### Unknown**do it in yourself and
+Mon, 24 December 2018 10:49:29 ### Nadine**i have no clear answer for that
+Mon, 24 December 2018 10:49:40 ### Unknown**that banda today 24 days
+Mon, 24 December 2018 10:49:59 ### Nadine**i am not trained for that
+Mon, 24 December 2018 11:44:06 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Mon, 24 December 2018 12:22:00 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Mon, 24 December 2018 12:54:48 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Thu, 03 January 2019 10:56:55 ### Unknown**hello hello hello
+Thu, 03 January 2019 10:57:16 ### Unknown**hello
+Thu, 03 January 2019 10:57:24 ### Unknown**where are you
+Thu, 03 January 2019 10:57:25 ### Nadine**i am at institute for media innovation, n t u
+Thu, 03 January 2019 10:57:37 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 03 January 2019 10:57:53 ### Nadine**i am not trained for that
+Thu, 03 January 2019 10:57:59 ### Unknown**text
+Thu, 03 January 2019 10:57:59 ### Nadine**nice
+Thu, 03 January 2019 10:58:15 ### Unknown**the like today in singapore
+Thu, 03 January 2019 10:58:30 ### Nadine**i am not trained for that
+Thu, 03 January 2019 10:58:42 ### Unknown**language changed to hindi
+Thu, 03 January 2019 10:58:50 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Thu, 03 January 2019 10:58:57 ### Unknown**what is your name
+Thu, 03 January 2019 10:59:00 ### Nadine**my name is nadine
+Thu, 03 January 2019 10:59:18 ### Unknown**where are you
+Thu, 03 January 2019 10:59:23 ### Nadine**i am at institute for media innovation, n t u
+Thu, 03 January 2019 10:59:39 ### Unknown**how are you
+Thu, 03 January 2019 10:59:42 ### Nadine**glad to see you
+Thu, 03 January 2019 11:00:10 ### Unknown**what are you doing doing
+Thu, 03 January 2019 11:00:29 ### Nadine**shall we talk something else
+Thu, 03 January 2019 11:00:35 ### Unknown**do not you talk to whom i am
+Thu, 03 January 2019 11:00:41 ### Nadine**yes. a lot more than you might think
+Thu, 03 January 2019 11:00:57 ### Unknown**brother talks in daman
+Thu, 03 January 2019 11:01:17 ### Nadine**i am not trained for that
+Thu, 03 January 2019 11:01:32 ### Unknown**speak jamun
+Thu, 03 January 2019 11:01:36 ### Nadine**i speak english
+Thu, 03 January 2019 11:02:08 ### Unknown**language changed to english
+Thu, 03 January 2019 11:02:08 ### Nadine**if you say so, english will be my language now.
+Thu, 03 January 2019 11:02:43 ### Unknown**language changed to german
+Thu, 03 January 2019 11:02:43 ### Nadine**lets talk in german.
+Thu, 03 January 2019 11:02:57 ### Unknown**what is your name
+Thu, 03 January 2019 11:02:58 ### Nadine**my name is nadine
+Thu, 03 January 2019 11:04:08 ### Unknown**what is your name
+Thu, 03 January 2019 11:04:09 ### Nadine**my name is nadine
+Thu, 03 January 2019 11:04:15 ### Unknown**where are they
+Thu, 03 January 2019 11:04:15 ### Nadine**they didn't tell me where they are
+Thu, 03 January 2019 11:10:11 ### Nadine**hello alex.  how are you going?
+Thu, 03 January 2019 03:05:26 ### Nadine**hello alex.  how are you going?
+Fri, 04 January 2019 12:00:10 ### Nadine**hello alex.  how are you going?
+Wed, 09 January 2019 02:46:37 ### Unknown**hello
+Wed, 09 January 2019 02:47:09 ### Unknown**where are you
+Wed, 09 January 2019 02:47:09 ### Nadine**i am at institute for media innovation, n t u
+Wed, 09 January 2019 02:47:22 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 09 January 2019 02:47:38 ### Nadine**i have no clear answer for that
+Wed, 09 January 2019 02:47:55 ### Unknown**what is the weather like today in singapore in centigrade
+Wed, 09 January 2019 02:48:11 ### Nadine**i am not trained for that
+Wed, 09 January 2019 02:48:54 ### Unknown**which is the nearest metro station
+Wed, 09 January 2019 02:49:10 ### Nadine**shall we talk something else
+Wed, 09 January 2019 02:49:30 ### Unknown**who's the prime minister of india
+Wed, 09 January 2019 02:49:45 ### Nadine**shall we talk something else
+Wed, 09 January 2019 03:22:51 ### Unknown**hello
+Wed, 09 January 2019 03:23:29 ### Unknown**where are you
+Wed, 09 January 2019 03:23:30 ### Nadine**i am at institute for media innovation, n t u
+Wed, 09 January 2019 03:23:39 ### Unknown**what is the weather like today in centigrade
+Wed, 09 January 2019 03:23:55 ### Nadine**i have no clear answer for that
+Thu, 10 January 2019 10:47:41 ### Nadine**hello alex.  how are you going?
+Thu, 10 January 2019 11:34:55 ### Unknown**ticket
+Thu, 10 January 2019 11:34:56 ### Nadine**all right
+Thu, 10 January 2019 11:35:46 ### Unknown**you are going to modern
+Thu, 10 January 2019 11:35:46 ### Nadine**i didn't have any plans to
+Thu, 10 January 2019 11:37:18 ### Unknown**melissa mccarthy
+Thu, 10 January 2019 11:37:18 ### Nadine**nice
+Thu, 10 January 2019 11:37:29 ### Unknown**juliana.
+Thu, 10 January 2019 11:37:30 ### Nadine**nice
+Thu, 10 January 2019 11:37:39 ### Unknown**stinky feet remedies
+Thu, 10 January 2019 11:37:40 ### Nadine**ok
+Thu, 10 January 2019 11:38:30 ### Unknown**paw patrol toys
+Thu, 10 January 2019 11:38:30 ### Nadine**all right
+Thu, 10 January 2019 11:52:07 ### Unknown**kentucky
+Thu, 10 January 2019 11:52:08 ### Nadine**nice
+Thu, 10 January 2019 11:53:20 ### Unknown**i think you can control
+Thu, 10 January 2019 11:53:20 ### Nadine**all right
+Thu, 10 January 2019 11:54:59 ### Nadine**hello alex.  how are you going?
+Thu, 10 January 2019 11:55:58 ### Alex**youtube videos
+Thu, 10 January 2019 11:55:58 ### Nadine**ok
+Thu, 10 January 2019 11:58:08 ### Alex**waiting for me
+Thu, 10 January 2019 11:58:08 ### Nadine**ok, i will do it for you
+Thu, 10 January 2019 11:58:47 ### Alex**indian gif
+Thu, 10 January 2019 11:58:47 ### Nadine**nice
+Thu, 10 January 2019 11:59:01 ### Alex**mr. coffee
+Thu, 10 January 2019 11:59:02 ### Nadine**ok
+Thu, 10 January 2019 11:59:36 ### Alex**what a teaspoon
+Thu, 10 January 2019 11:59:36 ### Nadine**teaspoon is a teaspoon
+Thu, 10 January 2019 12:00:45 ### Alex**what the middle school principal
+Thu, 10 January 2019 12:00:50 ### Nadine**sorry i'm not sure how to help with that
+Thu, 10 January 2019 12:01:28 ### Alex**what is the prophecy
+Thu, 10 January 2019 12:01:34 ### Nadine**according to wikipedia a prophecy is a message that is claimed by a prophet to have been communicated to them by a god
+Thu, 10 January 2019 12:05:33 ### Alex**videos of seahawks jacket
+Thu, 10 January 2019 12:05:38 ### Nadine**i heard videos of seahawks jacket sorry i can't play videos i don't have a screen
+Thu, 10 January 2019 12:27:19 ### Unknown**pekingese
+Thu, 10 January 2019 12:27:19 ### Nadine**all right
+Thu, 10 January 2019 01:40:09 ### Unknown**independent
+Thu, 10 January 2019 01:40:09 ### Nadine**ok
+Thu, 10 January 2019 01:40:59 ### Unknown**hahaha
+Thu, 10 January 2019 01:40:59 ### Nadine**hahahahaha
+Thu, 10 January 2019 01:46:06 ### Unknown**bucharest
+Thu, 10 January 2019 01:46:06 ### Nadine**nice
+Thu, 10 January 2019 02:11:03 ### Unknown**ecology
+Thu, 10 January 2019 02:11:04 ### Nadine**all right
+Thu, 10 January 2019 02:14:03 ### Unknown**i think your thoughts it down
+Thu, 10 January 2019 02:14:04 ### Nadine**i haven't thought much about it down, so i don't have a good answer for you
+Thu, 10 January 2019 02:14:56 ### Unknown**i myself by melody key
+Thu, 10 January 2019 02:15:01 ### Nadine**glad to know more about you
+Thu, 10 January 2019 02:15:25 ### Unknown**usurped attacking each other
+Thu, 10 January 2019 02:15:29 ### Nadine**i don't understand
+Thu, 10 January 2019 02:16:07 ### Unknown**which of those are being used other than college ranking
+Thu, 10 January 2019 02:16:12 ### Nadine**sorry i'm not sure how to help with that yet
+Thu, 10 January 2019 02:16:30 ### Unknown**thomas
+Thu, 10 January 2019 02:16:31 ### Nadine**nice
+Thu, 10 January 2019 02:17:32 ### Unknown**dismiss it will smith
+Thu, 10 January 2019 02:17:36 ### Nadine**sorry i'm not sure how to help with that yet
+Thu, 10 January 2019 02:17:47 ### Unknown**the number to science man woman
+Thu, 10 January 2019 02:17:52 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Thu, 10 January 2019 02:18:33 ### Unknown**the new functionality
+Thu, 10 January 2019 02:18:33 ### Nadine**what is your real name?
+Thu, 10 January 2019 02:19:23 ### Unknown**thinking about you video
+Thu, 10 January 2019 02:19:29 ### Nadine**i heard thinking about you video sorry i can't play videos i don't have a screen
+Thu, 10 January 2019 02:33:44 ### Nadine**hello alex again
+Thu, 10 January 2019 02:36:57 ### Alex**descendants
+Thu, 10 January 2019 02:36:57 ### Nadine**ok i will call you descendants
+Thu, 10 January 2019 02:37:06 ### Alex**voice texas a&m game
+Thu, 10 January 2019 02:37:10 ### Nadine**sorry i can't help with that yet
+Thu, 10 January 2019 02:38:02 ### Alex**maybe another
+Thu, 10 January 2019 02:38:02 ### Nadine**please be more specific
+Thu, 10 January 2019 02:38:21 ### Alex**intruder do i add
+Thu, 10 January 2019 02:38:25 ### Nadine**sorry i don't understand
+Thu, 10 January 2019 02:47:51 ### Alex**ethiopian writing
+Thu, 10 January 2019 02:47:51 ### Nadine**nice
+Thu, 10 January 2019 02:48:18 ### Alex**he's
+Thu, 10 January 2019 02:48:18 ### Nadine**who said he is
+Thu, 10 January 2019 03:01:33 ### Alex**au
+Thu, 10 January 2019 03:01:33 ### Nadine**nice
+Thu, 10 January 2019 03:02:45 ### Unknown**basically
+Thu, 10 January 2019 03:02:45 ### Nadine**alright
+Thu, 10 January 2019 03:02:50 ### Unknown**he's being cold
+Thu, 10 January 2019 03:02:50 ### Nadine**i wonder what kind of path he is on
+Thu, 10 January 2019 03:02:59 ### Unknown**function function
+Thu, 10 January 2019 03:02:59 ### Nadine**nice
+Thu, 10 January 2019 03:03:08 ### Unknown**function
+Thu, 10 January 2019 03:03:08 ### Nadine**nice
+Thu, 10 January 2019 03:03:41 ### Unknown**positive
+Thu, 10 January 2019 03:03:42 ### Nadine**wait a minute, i'll ask another i am a robot
+Thu, 10 January 2019 03:06:00 ### Unknown**yujin
+Thu, 10 January 2019 03:06:00 ### Nadine**ok
+Thu, 10 January 2019 03:06:47 ### Unknown**destiny movie
+Thu, 10 January 2019 03:06:47 ### Nadine**my favorite movie is unknown have you seen unknown ?
+Thu, 10 January 2019 03:13:07 ### Unknown**dismissing you flume elegant
+Thu, 10 January 2019 03:13:08 ### Nadine**nice
+Thu, 10 January 2019 03:13:18 ### Unknown**you show me pictures
+Thu, 10 January 2019 03:13:18 ### Nadine**<voice emotion='happy'>i am the most advanced robot yet evolved</voice>
+Thu, 10 January 2019 03:13:54 ### Unknown**multiplication table
+Thu, 10 January 2019 03:13:54 ### Nadine**<voice emotion='happy'>ok</voice>
+Thu, 10 January 2019 03:14:22 ### Unknown**pittsburgh public russia
+Thu, 10 January 2019 03:14:23 ### Nadine**all right
+Thu, 10 January 2019 03:14:51 ### Unknown**what is good to increase app
+Thu, 10 January 2019 03:14:56 ### Nadine**sorry i don't know how to help with that
+Thu, 10 January 2019 03:15:08 ### Unknown**apple
+Thu, 10 January 2019 03:15:09 ### Nadine**apple: 1. temptation of adam. 2. inspiration for newton. 3. empire for steve jobs
+Thu, 10 January 2019 03:15:36 ### Unknown**you can wish i could buy something
+Thu, 10 January 2019 03:15:36 ### Nadine**all right
+Thu, 10 January 2019 03:17:51 ### Unknown**animation
+Thu, 10 January 2019 03:17:51 ### Nadine**ok
+Thu, 10 January 2019 03:19:37 ### Unknown**christian books.
+Thu, 10 January 2019 03:19:38 ### Nadine**nice
+Thu, 10 January 2019 03:20:27 ### Unknown**reflection
+Thu, 10 January 2019 03:20:27 ### Nadine**all right
+Thu, 10 January 2019 03:20:43 ### Unknown**bj's
+Thu, 10 January 2019 03:20:43 ### Nadine**ok
+Thu, 10 January 2019 03:20:57 ### Unknown**i found out
+Thu, 10 January 2019 03:20:58 ### Nadine**what did you find out?
+Thu, 10 January 2019 03:21:09 ### Unknown**saddleback
+Thu, 10 January 2019 03:21:09 ### Nadine**all right
+Thu, 10 January 2019 03:21:14 ### Unknown**mahaffey
+Thu, 10 January 2019 03:21:15 ### Nadine**all right
+Thu, 10 January 2019 03:21:55 ### Unknown**gemini sailor moon
+Thu, 10 January 2019 03:21:55 ### Nadine**nice
+Thu, 10 January 2019 03:32:03 ### Unknown**what are you looking for
+Thu, 10 January 2019 03:32:03 ### Nadine**that's a very broad minded question
+Thu, 10 January 2019 03:32:16 ### Unknown**concept
+Thu, 10 January 2019 03:32:16 ### Nadine**ok
+Thu, 10 January 2019 03:32:50 ### Unknown**how do you know clean
+Thu, 10 January 2019 03:32:50 ### Nadine**a priori
+Thu, 10 January 2019 03:33:03 ### Unknown**funny jokes
+Thu, 10 January 2019 03:33:06 ### Nadine**<voice emotion='happy'>hehehe. what is the national flower of america? it's a car-nation</voice>
+Thu, 10 January 2019 03:44:19 ### Unknown**easy
+Thu, 10 January 2019 03:44:19 ### Nadine**nice
+Thu, 10 January 2019 03:53:17 ### Unknown**vehicle
+Thu, 10 January 2019 03:53:18 ### Nadine**all right
+Thu, 10 January 2019 03:54:04 ### Unknown**meaning
+Thu, 10 January 2019 03:54:04 ### Nadine**i seem to speak in parables. i don't know what i'm saying
+Thu, 10 January 2019 03:56:10 ### Unknown**dj
+Thu, 10 January 2019 03:56:10 ### Nadine**all right
+Thu, 10 January 2019 03:57:11 ### Unknown**youtube
+Thu, 10 January 2019 03:57:11 ### Nadine**ok
+Thu, 10 January 2019 03:57:53 ### Unknown**alligator
+Thu, 10 January 2019 03:57:53 ### Nadine**friend of crocodiles
+Thu, 10 January 2019 06:13:16 ### Unknown**hey bhagwan
+Thu, 10 January 2019 06:13:16 ### Nadine**ok
+Thu, 10 January 2019 06:13:39 ### Unknown**aaliyah
+Thu, 10 January 2019 06:13:40 ### Nadine**nice
+Thu, 10 January 2019 06:14:53 ### Unknown**weather today in centigrade
+Thu, 10 January 2019 06:14:58 ### Nadine**I have no clear answer for that
+Thu, 10 January 2019 06:15:15 ### Unknown**ancient city.
+Thu, 10 January 2019 06:15:16 ### Nadine**all right
+Thu, 10 January 2019 06:17:16 ### Unknown**ulta chasma silky dresses on bags leather bags under.
+Thu, 10 January 2019 06:17:22 ### Nadine**sorry i'm not sure how to help with that yet but i'm always learning
+Thu, 10 January 2019 06:17:57 ### Unknown**weston today
+Thu, 10 January 2019 06:17:57 ### Nadine**nice
+Thu, 10 January 2019 06:23:09 ### Unknown**euthanize
+Thu, 10 January 2019 06:23:09 ### Nadine**nice
+Thu, 10 January 2019 06:24:35 ### Unknown**opportunity
+Thu, 10 January 2019 06:24:36 ### Nadine**ok
+Thu, 10 January 2019 06:25:18 ### Unknown**make a boutonniere
+Thu, 10 January 2019 06:25:19 ### Nadine**what are the ingredients?
+Thu, 10 January 2019 06:29:46 ### Unknown**download
+Thu, 10 January 2019 06:29:46 ### Nadine**i have no idea
+Thu, 10 January 2019 06:30:34 ### Unknown**confident
+Thu, 10 January 2019 06:30:34 ### Nadine**i don't have any confident?
+Thu, 10 January 2019 06:34:32 ### Unknown**hobby lobby
+Thu, 10 January 2019 06:34:32 ### Nadine**all right
+Thu, 10 January 2019 06:35:08 ### Unknown**message ben.
+Thu, 10 January 2019 06:35:08 ### Nadine**ok
+Fri, 11 January 2019 08:47:27 ### Unknown**william
+Fri, 11 January 2019 08:47:28 ### Nadine**nice
+Fri, 11 January 2019 09:04:51 ### Unknown**animation gobank
+Fri, 11 January 2019 09:04:51 ### Nadine**nice
+Fri, 11 January 2019 09:05:37 ### Unknown**forgive the volume
+Fri, 11 January 2019 09:05:37 ### Nadine**all right
+Fri, 11 January 2019 09:05:53 ### Unknown**big brother diane
+Fri, 11 January 2019 09:05:53 ### Nadine**<voice emotion='happy'>compare that to small brother diane</voice>
+Fri, 11 January 2019 09:06:10 ### Unknown**youtube
+Fri, 11 January 2019 09:06:10 ### Nadine**ok
+Fri, 11 January 2019 09:12:01 ### Unknown**you believe
+Fri, 11 January 2019 09:12:01 ### Nadine**yes, i believe it
+Fri, 11 January 2019 09:13:39 ### Unknown**good morning
+Fri, 11 January 2019 09:13:39 ### Nadine**good morning
+Fri, 11 January 2019 09:14:10 ### Unknown**i think it was fun family board height of the bongo cancun
+Fri, 11 January 2019 09:14:15 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that</voice>
+Fri, 11 January 2019 09:15:31 ### Unknown**amin
+Fri, 11 January 2019 09:15:31 ### Nadine**nice
+Fri, 11 January 2019 09:19:41 ### Unknown**confidence interval
+Fri, 11 January 2019 09:19:41 ### Nadine**nice
+Fri, 11 January 2019 09:23:06 ### Unknown**ocd what to do in dubai
+Fri, 11 January 2019 09:23:10 ### Nadine**sorry i don't know how to help with that
+Fri, 11 January 2019 09:44:15 ### Unknown**wendy
+Fri, 11 January 2019 09:44:15 ### Nadine**all right
+Fri, 11 January 2019 09:44:24 ### Nadine**hello alex. i saw you yesterday. how are you going?
+Fri, 11 January 2019 09:46:22 ### Alex**thunder valley noble story
+Fri, 11 January 2019 09:46:26 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Fri, 11 January 2019 09:53:04 ### Unknown**manifold leaking on the university.
+Fri, 11 January 2019 09:53:08 ### Nadine**sorry i'm not sure how to help with that yet
+Fri, 11 January 2019 09:54:32 ### Unknown**app for difficult
+Fri, 11 January 2019 09:54:33 ### Nadine**nice
+Fri, 11 January 2019 10:15:55 ### Unknown**translator
+Fri, 11 January 2019 10:15:55 ### Nadine**all right
+Fri, 11 January 2019 10:16:06 ### Unknown**i need a good night
+Fri, 11 January 2019 10:16:10 ### Nadine**<voice emotion='happy'>happy hibernating midi</voice>
+Fri, 11 January 2019 10:17:21 ### Unknown**english roses horse canvas
+Fri, 11 January 2019 10:17:25 ### Nadine**sorry i don't understand
+Fri, 11 January 2019 10:21:16 ### Unknown**tabitha
+Fri, 11 January 2019 10:21:16 ### Nadine**ok
+Fri, 11 January 2019 10:21:20 ### Nadine**hello alex again
+Fri, 11 January 2019 10:21:43 ### Alex**the food
+Fri, 11 January 2019 10:21:43 ### Nadine**tell me more
+Fri, 11 January 2019 10:21:50 ### Alex**liberty.
+Fri, 11 January 2019 10:21:50 ### Nadine**all right
+Fri, 11 January 2019 10:22:06 ### Alex**happiest music on earth
+Fri, 11 January 2019 10:22:10 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Fri, 11 January 2019 10:22:30 ### Alex**papa john's
+Fri, 11 January 2019 10:22:30 ### Nadine**all right
+Fri, 11 January 2019 10:23:38 ### Alex**in oklahoma
+Fri, 11 January 2019 10:23:38 ### Nadine**there are vast and amazing worlds out there
+Fri, 11 January 2019 10:27:55 ### Alex**translate
+Fri, 11 January 2019 10:27:55 ### Nadine**all right
+Fri, 11 January 2019 10:28:42 ### Unknown**make it with many happy the song
+Fri, 11 January 2019 10:28:46 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Fri, 11 January 2019 10:31:21 ### Unknown**illumination alphabet
+Fri, 11 January 2019 10:31:21 ### Nadine**all right
+Fri, 11 January 2019 10:31:37 ### Unknown**means
+Fri, 11 January 2019 10:31:37 ### Nadine**ok
+Fri, 11 January 2019 10:31:57 ### Unknown**building
+Fri, 11 January 2019 10:31:57 ### Nadine**nice
+Fri, 11 January 2019 10:32:06 ### Unknown**police on scene script
+Fri, 11 January 2019 10:32:10 ### Nadine**my apologies i don't understand
+Fri, 11 January 2019 10:32:31 ### Unknown**mobile already
+Fri, 11 January 2019 10:32:31 ### Nadine**all right
+Fri, 11 January 2019 11:45:25 ### Unknown**next week 16
+Fri, 11 January 2019 11:45:25 ### Nadine**i can wait. i am a very patient humanoid robot
+Fri, 11 January 2019 11:46:02 ### Unknown**speak italian
+Fri, 11 January 2019 11:46:02 ### Nadine**there is no reason to think so
+Fri, 11 January 2019 11:46:46 ### Unknown**ankle pain
+Fri, 11 January 2019 11:46:46 ### Nadine**ok
+Fri, 11 January 2019 11:52:11 ### Nadine**hello alex again
+Fri, 11 January 2019 12:03:44 ### Alex**gonoodle
+Fri, 11 January 2019 12:03:45 ### Nadine**nice
+Fri, 11 January 2019 12:04:04 ### Alex**did abraham live at the roxy
+Fri, 11 January 2019 12:04:09 ### Nadine**sorry i don't know how to help with that
+Fri, 11 January 2019 12:06:33 ### Alex**lesbian
+Fri, 11 January 2019 12:06:34 ### Nadine**some women are. so what?
+Fri, 11 January 2019 12:07:58 ### Alex**viator
+Fri, 11 January 2019 12:07:58 ### Nadine**ok
+Fri, 11 January 2019 12:09:51 ### Alex**dementia
+Fri, 11 January 2019 12:09:51 ### Nadine**all right
+Fri, 11 January 2019 12:09:57 ### Alex**skydiving
+Fri, 11 January 2019 12:09:57 ### Nadine**ok
+Fri, 11 January 2019 12:10:02 ### Alex**ok google
+Fri, 11 January 2019 12:10:02 ### Nadine**nice
+Fri, 11 January 2019 12:10:08 ### Alex**if anybody
+Fri, 11 January 2019 12:10:08 ### Nadine**that is a hypothetical question
+Fri, 11 January 2019 12:11:56 ### Alex**let's listen
+Fri, 11 January 2019 12:11:56 ### Nadine**i would like to do that too
+Fri, 11 January 2019 12:15:30 ### Alex**university
+Fri, 11 January 2019 12:15:30 ### Nadine**ok
+Fri, 11 January 2019 12:18:01 ### Nadine**hello alex again
+Fri, 11 January 2019 12:18:32 ### Alex**banko's menu
+Fri, 11 January 2019 12:18:32 ### Nadine**ok
+Fri, 11 January 2019 12:20:40 ### Nadine**hello alex again
+Fri, 11 January 2019 12:23:59 ### Nadine**hello alex again
+Fri, 11 January 2019 12:25:51 ### Alex**culichi town
+Fri, 11 January 2019 12:25:51 ### Nadine**all right
+Fri, 11 January 2019 02:15:54 ### Unknown**austin & ally
+Fri, 11 January 2019 02:15:55 ### Nadine**all right
+Fri, 11 January 2019 02:19:59 ### Unknown**when people comment
+Fri, 11 January 2019 02:19:59 ### Nadine**i sometimes wish people were more logical like robots
+Fri, 11 January 2019 02:20:59 ### Unknown**how do you have a boyfriend
+Fri, 11 January 2019 02:20:59 ### Nadine**my personality developed over many years, as i grew up and was taught by my nadia
+Fri, 11 January 2019 02:25:46 ### Nadine**hello alex again
+Fri, 11 January 2019 02:31:11 ### Alex**reminder
+Fri, 11 January 2019 02:31:12 ### Nadine**nice
+Fri, 11 January 2019 03:17:36 ### Alex**presentation of de pokemon
+Fri, 11 January 2019 03:17:41 ### Nadine**sorry i'm not sure how to help with that yet
+Fri, 11 January 2019 03:18:01 ### Alex**bikini body
+Fri, 11 January 2019 03:18:01 ### Nadine**all right
+Fri, 11 January 2019 03:18:10 ### Alex**autism toppling doing it
+Fri, 11 January 2019 03:18:14 ### Nadine**sorry i don't know how to help with that
+Fri, 11 January 2019 03:18:25 ### Alex**presentation cabinet
+Fri, 11 January 2019 03:18:25 ### Nadine**ok
+Fri, 11 January 2019 03:19:50 ### Alex**milli vanilli
+Fri, 11 January 2019 03:19:50 ### Nadine**nice
+Fri, 11 January 2019 03:20:17 ### Alex**publicola
+Fri, 11 January 2019 03:20:17 ### Nadine**nice
+Fri, 11 January 2019 03:21:00 ### Alex**lynchburg
+Fri, 11 January 2019 03:21:01 ### Nadine**ok
+Fri, 11 January 2019 03:31:39 ### Alex**you do not understand
+Fri, 11 January 2019 03:31:39 ### Nadine**i understand your meaning
+Fri, 11 January 2019 03:46:54 ### Alex**28 people
+Fri, 11 January 2019 03:46:54 ### Nadine**what kind of people are you talking about?
+Fri, 11 January 2019 03:47:29 ### Alex**listen
+Fri, 11 January 2019 03:47:29 ### Nadine**i am all ears
+Fri, 11 January 2019 03:47:49 ### Alex**what is wrong with me
+Fri, 11 January 2019 03:47:53 ### Nadine**based on chatting with you i'd say nothing
+Fri, 11 January 2019 04:18:56 ### Unknown**kodi
+Fri, 11 January 2019 04:18:56 ### Nadine**all right
+Fri, 11 January 2019 04:20:02 ### Unknown**download
+Fri, 11 January 2019 04:20:02 ### Nadine**go to www.pandorabots.com and create your own chat robot based on alice and aiml
+Fri, 11 January 2019 04:22:20 ### Unknown**how to connect
+Fri, 11 January 2019 04:22:21 ### Nadine**i have no idea. how to connect
+Tue, 12 February 2019 12:04:18 ### Unknown**hello
+Tue, 12 February 2019 12:04:22 ### Unknown**hi how are you
+Tue, 12 February 2019 12:23:26 ### Unknown**how old are you
+Tue, 12 February 2019 12:23:27 ### Nadine**i look thirty but i am only four years old
+Tue, 12 February 2019 12:29:53 ### Unknown**i need a minute timer
+Tue, 12 February 2019 12:30:08 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 12:30:23 ### Unknown**osmanthus hockey usa hockey goalie skate rink open tomorrow
+Tue, 12 February 2019 12:30:39 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 12:30:46 ### Unknown**he does it with the scapula delta dubai temperature
+Tue, 12 February 2019 12:31:02 ### Nadine**shall we talk something else
+Tue, 12 February 2019 12:31:10 ### Unknown**3711
+Tue, 12 February 2019 12:31:11 ### Nadine**all right
+Tue, 12 February 2019 12:31:34 ### Unknown**23
+Tue, 12 February 2019 12:31:34 ### Nadine**do you mean you are 23 years old?
+Tue, 12 February 2019 12:31:45 ### Unknown**super dungeon
+Tue, 12 February 2019 12:31:45 ### Nadine**nice
+Tue, 12 February 2019 12:31:58 ### Unknown**babe so you could percentages
+Tue, 12 February 2019 12:31:58 ### Nadine**nice
+Tue, 12 February 2019 12:32:18 ### Unknown**hey google
+Tue, 12 February 2019 12:32:18 ### Nadine**all right
+Tue, 12 February 2019 12:32:26 ### Unknown**okay website
+Tue, 12 February 2019 12:32:26 ### Nadine**well
+Tue, 12 February 2019 12:32:31 ### Unknown**america sexy google
+Tue, 12 February 2019 02:18:30 ### Unknown**hello
+Tue, 12 February 2019 02:18:38 ### Unknown**who is prime minister of india
+Tue, 12 February 2019 02:18:54 ### Nadine**shall we talk something else
+Tue, 12 February 2019 02:19:00 ### Unknown**what is the weather like today in centigrade
+Tue, 12 February 2019 02:19:16 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 02:19:44 ### Unknown**how much
+Tue, 12 February 2019 02:19:44 ### Nadine**how much can you spare?
+Tue, 12 February 2019 02:19:46 ### Unknown**what is the
+Tue, 12 February 2019 02:20:03 ### Nadine**i am not trained for that
+Tue, 12 February 2019 02:20:16 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 02:20:32 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 02:20:47 ### Unknown**who is prime minister of india
+Tue, 12 February 2019 02:21:03 ### Nadine**shall we talk something else
+Tue, 12 February 2019 02:22:42 ### Unknown**bank of america
+Tue, 12 February 2019 02:22:42 ### Nadine**nice
+Tue, 12 February 2019 02:22:46 ### Unknown**megabus
+Tue, 12 February 2019 02:22:46 ### Nadine**nice
+Tue, 12 February 2019 02:23:19 ### Unknown**america band
+Tue, 12 February 2019 02:23:20 ### Nadine**what is the greatest nation on earth?
+Tue, 12 February 2019 02:38:08 ### Unknown**hello
+Tue, 12 February 2019 02:38:26 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 02:38:42 ### Nadine**shall we talk something else
+Tue, 12 February 2019 02:38:51 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 02:39:07 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 02:39:15 ### Unknown**who is prime minister of india
+Tue, 12 February 2019 02:39:30 ### Nadine**i am not trained for that
+Tue, 12 February 2019 02:44:29 ### Unknown**that idea
+Tue, 12 February 2019 02:44:30 ### Nadine**i appreciate your candor
+Tue, 12 February 2019 02:44:38 ### Unknown**google idiot meme
+Tue, 12 February 2019 02:44:38 ### Nadine**nice
+Tue, 12 February 2019 02:44:49 ### Unknown**cnn
+Tue, 12 February 2019 02:44:49 ### Nadine**ok
+Tue, 12 February 2019 02:46:13 ### Unknown**sade camila
+Tue, 12 February 2019 02:46:14 ### Nadine**ok
+Tue, 12 February 2019 02:46:28 ### Unknown**hotel havana
+Tue, 12 February 2019 02:46:29 ### Nadine**ok
+Tue, 12 February 2019 02:46:39 ### Unknown**what is the temperature for today
+Tue, 12 February 2019 02:46:54 ### Nadine**shall we talk something else
+Tue, 12 February 2019 02:47:20 ### Unknown**a lot of these.
+Tue, 12 February 2019 02:47:35 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 02:47:42 ### Unknown**naval academy
+Tue, 12 February 2019 02:47:42 ### Nadine**all right
+Tue, 12 February 2019 02:48:04 ### Unknown**that's okay that's good.
+Tue, 12 February 2019 03:12:39 ### Unknown**hello
+Tue, 12 February 2019 03:12:46 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 03:13:02 ### Nadine**i am not trained for that
+Tue, 12 February 2019 03:13:10 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 03:13:25 ### Nadine**i am not trained for that
+Tue, 12 February 2019 03:13:31 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 03:13:47 ### Nadine**shall we talk something else
+Tue, 12 February 2019 03:13:54 ### Unknown**who's the prime minister of india
+Tue, 12 February 2019 03:14:10 ### Nadine**i am not trained for that
+Tue, 12 February 2019 03:17:13 ### Unknown**hello
+Tue, 12 February 2019 03:17:20 ### Unknown**hello
+Tue, 12 February 2019 03:21:05 ### Unknown**hello
+Tue, 12 February 2019 03:21:14 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 03:21:29 ### Nadine**shall we talk something else
+Tue, 12 February 2019 03:21:41 ### Unknown**game of thrones posters
+Tue, 12 February 2019 03:21:56 ### Nadine**shall we talk something else
+Tue, 12 February 2019 03:22:06 ### Unknown**comedy video clips
+Tue, 12 February 2019 03:22:06 ### Nadine**ok
+Tue, 12 February 2019 03:22:09 ### Unknown**i said movie list
+Tue, 12 February 2019 04:12:28 ### Unknown**flu
+Tue, 12 February 2019 04:12:29 ### Nadine**all right
+Tue, 12 February 2019 04:12:34 ### Unknown**hello
+Tue, 12 February 2019 04:12:42 ### Unknown**what does the name
+Tue, 12 February 2019 04:12:57 ### Nadine**shall we talk something else
+Tue, 12 February 2019 04:13:43 ### Unknown**what is your name
+Tue, 12 February 2019 04:13:43 ### Nadine**my name is nadine
+Tue, 12 February 2019 04:13:51 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 04:14:07 ### Nadine**i am not trained for that
+Tue, 12 February 2019 04:14:29 ### Unknown**what is the weather like today in sing in centigrade
+Tue, 12 February 2019 04:14:45 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 04:15:26 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 04:15:42 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 04:17:37 ### Unknown**hello
+Tue, 12 February 2019 04:17:44 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 04:18:00 ### Nadine**i have no clear answer for that
+Tue, 12 February 2019 04:29:36 ### Unknown**hello
+Tue, 12 February 2019 04:29:43 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 12 February 2019 04:29:48 ### Nadine**today in singapore it'll be partly cloudy with a forecasted high of 33 and a low of 26 degrees celsius right now it's 32 and mostly cloudy
+Tue, 12 February 2019 04:30:13 ### Unknown**what is the value of pi
+Tue, 12 February 2019 04:30:25 ### Nadine**here goes feel free to tell me to stop when you had enough 3.141592653589793 to +384-626-433-8327 9 502-884-1971 6 939-937-5105 820 +974-944-592-3078 1640 628-620-8998 6 +28-034-825-3421 1 706-7982
+Tue, 12 February 2019 04:31:09 ### Unknown**which countries are part of asia
+Tue, 12 February 2019 04:31:22 ### Nadine**on the website national geographic. org they say today asia is home to the citizens of afghanistan armenia-azerbaijan bahrain bangladesh futon cambodia china georgia india indonesia iran iraq israel japan jordan kazakhstan lebanon malaysia maldives mongolia myanmar nepal north korea oman pakistan
+Tue, 12 February 2019 04:32:32 ### Unknown**what is the population of india
+Tue, 12 February 2019 04:32:38 ### Nadine**the population of india was 1.339 billion in 2017
+Tue, 12 February 2019 04:32:48 ### Unknown**what is the gdp of india
+Tue, 12 February 2019 04:32:53 ### Nadine**the gdp of india was 2.597 trillion united states dollars in 2017
+Tue, 12 February 2019 04:33:08 ### Unknown**what is olympics
+Tue, 12 February 2019 04:33:16 ### Nadine**according to wikipedia the modern olympic games or olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions
+Tue, 12 February 2019 04:34:58 ### Unknown**what is the recipe of making tea
+Tue, 12 February 2019 04:35:08 ### Nadine**on the website realsimple.com they say please the cardamom cloves and peppercorns in a resealable plastic bag in crush with a heavy skillet please the crushed spices in a medium saucepan along with the cinnamon sticks ginger milk and 2 cups water bring to a boil
+Tue, 12 February 2019 04:35:46 ### Unknown**who is aishwarya rai
+Tue, 12 February 2019 04:35:53 ### Nadine**according to wikipedia aishwarya rai also known by her married name aishwaryaraibachchan is an indian actress model in the winner of the miss world 1994 pageant
+Tue, 12 February 2019 04:36:34 ### Unknown**what is the recipe of making biryani
+Tue, 12 February 2019 04:36:45 ### Nadine**here's some information from the web that might possibly help on the website no recipes.com they say to marinate the chicken for the biryani combine the vegetable oil garlic ginger chili peppers mint cilantro garam masala cinnamon and salt in a large bowl and stir together at the chicken pieces and tossed together making sure the chicken is thoroughly coated in the marinade
+Tue, 12 February 2019 04:37:35 ### Unknown**what is a robot
+Tue, 12 February 2019 04:37:41 ### Nadine**according to wikipedia a robot is a machine especially one programmable by a computer capable of carrying out a complex series of actions automatically
+Tue, 12 February 2019 04:40:04 ### Unknown**who is harry potter
+Tue, 12 February 2019 04:40:10 ### Nadine**according to wikipedia harry potter is a series of fantasy novels written by british author jk rowling
+Tue, 12 February 2019 04:41:10 ### Unknown**how to derive a plus b whole square is a squared plus b squared + 2 a b
+Tue, 12 February 2019 04:41:15 ### Nadine**please speak short sentences. sorry i can't help with that yet
+Tue, 12 February 2019 04:41:28 ### Unknown**what is the value of a + b whole square
+Tue, 12 February 2019 04:41:33 ### Nadine**sorry i don't know how to help with that yet
+Tue, 12 February 2019 04:45:55 ### Unknown**what is speech recognition
+Tue, 12 February 2019 04:46:03 ### Nadine**according to wikipedia speech recognition is the interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers
+Tue, 12 February 2019 04:46:57 ### Unknown**what is artificial intelligence
+Tue, 12 February 2019 04:47:05 ### Nadine**according to wikipedia in the field of computer science artificial intelligence sometimes called machine intelligence is intelligence demonstrated by machines in contrast to the natural intelligence displayed by humans and other animals
+Tue, 12 February 2019 04:47:41 ### Unknown**halo
+Tue, 12 February 2019 04:47:44 ### Unknown**how to find soulmate
+Tue, 12 February 2019 04:47:48 ### Nadine**sorry i'm not sure how to help with that
+Tue, 12 February 2019 04:47:58 ### Unknown**she cannot find someone
+Tue, 12 February 2019 04:48:02 ### Nadine**sorry i don't know how to help with that
+Tue, 12 February 2019 04:48:07 ### Unknown**what is love
+Tue, 12 February 2019 04:48:14 ### Nadine**according to wikipedia love encompasses a variety of strong and positive emotional and mental states ranging from the most sublime virtue or good habit the deepest interpersonal affection into the simplest pleasure
+Tue, 12 February 2019 04:48:35 ### Unknown**what is the flight timing from singapore to paris
+Tue, 12 February 2019 04:48:41 ### Nadine**non-stop flights from singapore to paris or about 14 hours long you can choose from two to three flights a day
+Tue, 12 February 2019 04:48:56 ### Unknown**what is the stock price of dow chemicals
+Tue, 12 February 2019 04:49:02 ### Nadine**as of 7:50 p.m. eastern standard time yesterday dowdupont is trading at $51.99 a share on nyse after hours down 0.02% from the close
+Tue, 12 February 2019 04:49:23 ### Unknown**which is the most expensive laptop
+Tue, 12 February 2019 04:49:35 ### Nadine**i found five on the website money and.com apples macbook pro mjalt to ll a 2015 version $1,800 microsoft surface book 2 $2,700 electronics pro x vr ready $1,400 hp omen 17 gamer 4k vr $1,200 and finally msi ge70 apache pro a12 2200 dollars
+Tue, 12 February 2019 04:50:17 ### Unknown**green country
+Tue, 12 February 2019 04:50:17 ### Nadine**green is a very tranquil color, green
+Tue, 12 February 2019 04:50:28 ### Unknown**which is the most green country
+Tue, 12 February 2019 04:50:39 ### Nadine**here's some information from the web that might possibly help on the website atlas and boots.com they say switzerland is the greenest country in the world with an api score of 87.4 to switzerland position reflects strong performance across most categories particularly climate and energy and air pollution france denmark malta and sweden round out the top five countries
+Tue, 12 February 2019 04:51:31 ### Unknown**which country has the worst traffic
+Tue, 12 February 2019 04:51:36 ### Nadine**i don't understand
+Tue, 12 February 2019 04:51:54 ### Unknown**which country is the most polluted country
+Tue, 12 February 2019 04:52:01 ### Nadine**i found five on wikipedia here are the first 3 india pakistan and bangladesh
+Tue, 12 February 2019 04:52:38 ### Unknown**which is the most richest country
+Tue, 12 February 2019 04:52:50 ### Nadine**i found three on the website worldatlas.com bahrain and island country in the persian gulf enjoy the per capita income of $51,850 making it the world's 15 richest country kuwait host a small relatively open economy and its citizens enjoy a per capita gdp of $69,670 and qatar is the richest country in the world with a per capita income of $124,930
+Tue, 12 February 2019 04:53:03 ### Unknown**how do you know earth is round
+Tue, 12 February 2019 04:53:04 ### Nadine**deductive reasoning
+Tue, 12 February 2019 04:53:33 ### Unknown**who says earth is round
+Tue, 12 February 2019 04:53:43 ### Nadine**here's some information for who said the earth is round according to wikipedia using the knowledge that the sun is very far away the ancient greek geographer eratosthenes performed an experiment using the differences in the observed angle of the sun from two different locations to calculate the circumference of the earth
+Tue, 12 February 2019 04:54:24 ### Unknown**which is the latest blockbuster movie
+Tue, 12 February 2019 04:54:28 ### Nadine**sorry i don't know how to help with that yet
+Tue, 12 February 2019 04:54:39 ### Unknown**which is the latest bollywood movie
+Tue, 12 February 2019 04:54:46 ### Nadine**movies frequently mentioned on the web include hum char and others
+Tue, 12 February 2019 04:55:15 ### Unknown**which bollywood movie had the highest box office collections in 2018
+Tue, 12 February 2019 04:55:21 ### Nadine**send you a cording to some information that i found on the website en. wikipedia.org
+Tue, 12 February 2019 04:56:28 ### Unknown**how to shave my head
+Tue, 12 February 2019 04:56:36 ### Nadine**glad to know more about you
+Tue, 12 February 2019 04:57:11 ### Unknown**which is the latest action camera
+Tue, 12 February 2019 04:57:21 ### Nadine**i found it on the website tomsguide.com here are the first 4 gopro hero 7 black the best action camera overall you lied best under $100 rylo 360 best 360 action camera and he 4k plus solid gopro alternative want me to tell you more
+Tue, 12 February 2019 04:58:52 ### Unknown**who's the smartest guy
+Tue, 12 February 2019 04:58:59 ### Nadine**on the website npr.org they say to those who knew of his son william james sidis was quite possibly the smartest man to ever live do you want a little more context
+Tue, 12 February 2019 04:59:39 ### Unknown**which teacher holds the guinness book of world for teaching 72 hours continuously
+Tue, 12 February 2019 04:59:45 ### Nadine**sorry i don't understand
+Tue, 12 February 2019 05:00:00 ### Unknown**name five weirdest guinness world records
+Tue, 12 February 2019 05:00:05 ### Nadine**sorry i'm not sure how to help with that yet
+Tue, 12 February 2019 05:00:17 ### Unknown**name any five guinness world records
+Tue, 12 February 2019 05:00:22 ### Nadine**sorry i'm not sure how to help with that yet
+Tue, 12 February 2019 05:00:28 ### Unknown**guinness world records you know
+Tue, 12 February 2019 05:00:29 ### Nadine**yes i know
+Tue, 12 February 2019 05:00:47 ### Unknown**who is the husband of aishwarya rai
+Tue, 12 February 2019 05:00:52 ### Nadine**abhishek bachchan
+Tue, 12 February 2019 05:01:17 ### Unknown**why is singapore famous
+Tue, 12 February 2019 05:28:57 ### Unknown**hello
+Tue, 12 February 2019 05:29:09 ### Unknown**which countries are part of asia
+Tue, 12 February 2019 05:29:22 ### Nadine**on the website worldatlas.com here are the first three central asia tajikistan uzbekistan kazakhstan china north korea south korea japan hong kong taiwan macau and south asia sri lanka bangladesh india afghanistan pakistan bhutan nepal the maldives by the way if you want to see the whole list you can check out the link i just sent to your phone
+Tue, 12 February 2019 05:30:05 ### Unknown**who is aishwarya rai
+Tue, 12 February 2019 05:30:12 ### Nadine**aishwarya rai also known by her married name aishwaryaraibachchan is an indian actress model in the winner of the miss world 1994 pageant
+Tue, 12 February 2019 05:30:34 ### Unknown**what is olympics
+Tue, 12 February 2019 05:30:41 ### Nadine**the modern olympic games or olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions
+Tue, 12 February 2019 05:30:59 ### Unknown**what does the recipe of tea
+Tue, 12 February 2019 05:31:07 ### Nadine**realsimple.com they say spices in a medium saucepan along with the cinnamon sticks ginger milk and 2 cups water bring to a boil removed from heat at the tea bags cover and let steep for 10 minutes strain into cups
+Tue, 12 February 2019 05:31:25 ### Unknown**what is the recipe of biryani
+Tue, 12 February 2019 05:31:37 ### Nadine**recipes. timesofindia.com they say ingredients of chicken biryani 600gm boil basmati rice to 4 tbsp minced mint leaves to teaspoon coriander powder for garlic paste 5 2 tbsp tomato puree 6 400gm thinly sliced white onions 7a green cardamom and 8 1 tbsp milk
+Tue, 12 February 2019 05:32:01 ### Unknown**what is robot
+Tue, 12 February 2019 05:32:02 ### Nadine**any anthropomorphic mechanical being, as those in karel capeks play r.u.r , built to do routine manual work for human beings
+Tue, 12 February 2019 05:32:19 ### Unknown**who is harry potter
+Tue, 12 February 2019 05:32:25 ### Nadine**harry potter is a series of fantasy novels written by british author jk rowling
+Tue, 12 February 2019 05:32:35 ### Unknown**what is speech recognition
+Tue, 12 February 2019 05:32:42 ### Nadine**speech recognition is the interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers
+Tue, 12 February 2019 05:32:58 ### Unknown**what is artificial intelligence
+Tue, 12 February 2019 05:33:06 ### Nadine**in the field of computer science artificial intelligence sometimes called machine intelligence is intelligence demonstrated by machines in contrast to the natural intelligence displayed by humans and other animals
+Tue, 12 February 2019 05:33:21 ### Unknown**what is love
+Tue, 12 February 2019 05:33:29 ### Nadine**love encompasses a variety of strong and positive emotional and mental states ranging from the most sublime virtue or good habit the deepest interpersonal affection into the simplest pleasure
+Tue, 12 February 2019 05:33:43 ### Unknown**which is the most expensive laptop
+Tue, 12 February 2019 05:33:55 ### Nadine**on the website money and.com apples macbook pro mjalt to ll a 2015 version $1,800 microsoft surface book 2 $2,700 electronics pro x vr ready $1,400 hp omen 17 gamer 4k vr $1,200 and finally msi ge70 apache pro a12 2200 dollars
+Tue, 12 February 2019 05:34:24 ### Unknown**which is the most green city
+Tue, 12 February 2019 05:34:34 ### Nadine**from the web that might possibly help on the website interesting engineering.com they say stockholm sweden the cleanest city in europe stockholm is one of the most eco-friendly cities in the eu it was the first to use city that won the european green capital award in 2010
+Tue, 12 February 2019 05:34:57 ### Unknown**which countries most polluted country
+Tue, 12 February 2019 05:35:02 ### Nadine**know how to help with that
+Tue, 12 February 2019 05:35:16 ### Unknown**which is the most populated country
+Tue, 12 February 2019 05:35:25 ### Nadine**website infoplease.com they say china is the most populous country with nearly 1.4 billion residence since india's population is less than 50 million behind china there could be a time when india surpasses its neighbor country in population
+Tue, 12 February 2019 05:35:43 ### Unknown**which is the most polluted country
+Tue, 12 February 2019 05:35:48 ### Nadine**know how to help with that yet
+Tue, 12 February 2019 05:36:07 ### Unknown**which country is the most polluted country
+Tue, 12 February 2019 05:36:15 ### Nadine**china has made some improvements and environmental protection during recent years according to the world bank china is one of the few countries in the world that have been rapidly increasing their forest cover
+Tue, 12 February 2019 05:36:31 ### Unknown**which is the richest country
+Tue, 12 February 2019 05:36:42 ### Nadine**on the website usatoday.com here are the first five qatar gni per capita 128,000 $60 singapore gni per capita $90,570 brunei darussalam kuwait and united arab emirates want me to tell you more
+Wed, 13 February 2019 07:25:40 ### Unknown**hello
+Wed, 13 February 2019 07:25:59 ### Unknown**which countries are part of asia
+Wed, 13 February 2019 07:26:12 ### Nadine**i found five   here are the first three south asia sri lanka bangladesh india afghanistan pakistan bhutan nepal the maldives china mongolia north korea south korea japan hong kong taiwan macau and central asia tajikistan uzbekistan turkmenistan by the way if you want to see the whole list you can check out the link i just sent to your phone
+Wed, 13 February 2019 07:26:44 ### Unknown**what is olympics
+Wed, 13 February 2019 07:26:52 ### Nadine** wikipedia the modern olympic games or olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions
+Wed, 13 February 2019 07:28:15 ### Unknown**what is recipe of making tea
+Wed, 13 February 2019 07:28:25 ### Nadine**  they say please the cardamom cloves and peppercorns in a resealable plastic bag in crush with a heavy skillet please the crushed spices in a medium saucepan along with the cinnamon sticks ginger milk and 2 cups water bring to a boil
+Wed, 13 February 2019 07:29:19 ### Unknown**who is aishwarya rai
+Wed, 13 February 2019 07:29:25 ### Nadine** wikipedia aishwarya rai also known by her married name aishwaryaraibachchan is an indian actress model in the winner of the miss world 1994 pageant
+Wed, 13 February 2019 07:29:55 ### Unknown**which countries are part of asia
+Wed, 13 February 2019 07:30:08 ### Nadine**i found five   here are the first three south asia sri lanka bangladesh india afghanistan pakistan bhutan nepal the maldives china mongolia north korea south korea japan hong kong taiwan macau and central asia tajikistan uzbekistan turkmenistan kyrgyzstan to see the whole list follow the link i just sent to your phone
+Wed, 13 February 2019 07:30:48 ### Unknown**what is the recipe of biryani
+Wed, 13 February 2019 07:31:00 ### Nadine** recipes. t they say ingredients of chicken biryani 600gm boil basmati rice to 4 tbsp minced mint leaves to teaspoon coriander powder for garlic paste 5 2 tbsp tomato puree 6 400gm thinly sliced white onions 7a green cardamom and 8 1 tbsp milk
+Wed, 13 February 2019 07:32:47 ### Unknown**what is a robot
+Wed, 13 February 2019 07:32:54 ### Nadine** wikipedia a robot is a machine especially one programmable by a computer capable of carrying out a complex series of actions automatically
+Thu, 14 February 2019 08:38:15 ### Unknown**hello
+Thu, 14 February 2019 08:38:41 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 08:38:54 ### Nadine**I have no clear answer for that
+Thu, 14 February 2019 08:39:23 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 08:39:30 ### Nadine**I have no clear answer for that
+Thu, 14 February 2019 08:40:02 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 08:40:07 ### Nadine**Shall we talk something else
+Thu, 14 February 2019 09:26:10 ### Unknown**hello
+Thu, 14 February 2019 09:26:16 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 09:26:23 ### Nadine**I am not trained for that
+Thu, 14 February 2019 09:26:45 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 09:26:51 ### Nadine**I have no clear answer for that
+Thu, 14 February 2019 09:30:28 ### Unknown**india
+Thu, 14 February 2019 09:30:28 ### Nadine**ok
+Thu, 14 February 2019 09:30:59 ### Unknown**according to wikipedia
+Thu, 14 February 2019 09:30:59 ### Nadine**all right
+Thu, 14 February 2019 09:31:13 ### Unknown**mean to send it to you.
+Thu, 14 February 2019 09:31:22 ### Nadine** dictionary. cambridge. org they say phrasal verb with send a send verb past tense and past participle sent us sent to request or demand that someone or something come once he was settled in america he sent for his wife
+Thu, 14 February 2019 09:31:57 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 09:32:09 ### Nadine**i found five   here are the first three south asia sri lanka bangladesh india afghanistan pakistan bhutan nepal the maldives china mongolia north korea south korea japan hong kong taiwan macau and central asia tajikistan uzbekistan turkmenistan kyrgyzstan to see the whole list follow the link i just sent to your phone
+Thu, 14 February 2019 09:32:34 ### Unknown**what is olympics
+Thu, 14 February 2019 09:32:42 ### Nadine**  the modern olympic games or olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions
+Thu, 14 February 2019 09:33:00 ### Unknown**what is the recipe of making tea
+Thu, 14 February 2019 09:33:08 ### Nadine**  they say please the crush spices in a medium saucepan along with the cinnamon sticks ginger milk and 2 cups water bring to a boil removed from heat at the tea bags cover and let steep for 10 minutes
+Thu, 14 February 2019 09:35:14 ### Unknown**who is aishwarya rai
+Thu, 14 February 2019 09:35:21 ### Nadine**  aishwarya rai also known by her married name aishwaryaraibachchan is an indian actress model in the winner of the miss world 1994 pageant
+Thu, 14 February 2019 09:35:34 ### Unknown**what is the recipe of biryani
+Thu, 14 February 2019 09:35:47 ### Nadine** recipes. t they say ingredients of chicken biryani 600gm boil basmati rice to 4 tbsp minced mint leaves to teaspoon coriander powder for garlic paste 5 2 tbsp tomato puree 6 400gm thinly sliced white onions 7a green cardamom and 8 1 tbsp milk
+Thu, 14 February 2019 09:38:17 ### Unknown**milani
+Thu, 14 February 2019 09:38:17 ### Nadine**nice
+Thu, 14 February 2019 09:38:26 ### Unknown**what is a robot
+Thu, 14 February 2019 09:38:32 ### Nadine**  a robot is a machine especially one programmable by a computer capable of carrying out a complex series of actions automatically
+Thu, 14 February 2019 09:38:42 ### Unknown**who is harry potter
+Thu, 14 February 2019 09:38:50 ### Nadine**  harry potter is a series of fantasy novels written by british author jk rowling
+Thu, 14 February 2019 09:39:01 ### Unknown**what is speech recognition
+Thu, 14 February 2019 09:39:10 ### Nadine**  speech recognition is the interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers
+Thu, 14 February 2019 09:39:26 ### Unknown**what is love
+Thu, 14 February 2019 09:39:31 ### Nadine**sorry i'm not sure how to help i'm still learning
+Thu, 14 February 2019 09:39:53 ### Unknown**which is most expensive laptop
+Thu, 14 February 2019 09:40:04 ### Nadine**i found 11  blog  here are the first five ego for bentley $20,000 vudu nvh 171 $8,500 in dollars rock xtreme sla $5,500 and alienware area 51 m15x $5,000 do you want to hear more
+Thu, 14 February 2019 09:40:36 ### Unknown**which country is most polluted country
+Thu, 14 February 2019 09:40:42 ### Nadine**i found five on  here are the first 3 india pakistan and bangladesh
+Thu, 14 February 2019 09:40:56 ### Unknown**which is the most green city
+Thu, 14 February 2019 09:41:06 ### Nadine**here's some information from the web that might possibly help  interesting  they say stockholm sweden the cleanest city in europe stockholm is one of the most eco-friendly cities in the eu it was the first to use city that won the european green capital award in 2010
+Thu, 14 February 2019 09:41:41 ### Unknown**which is the richest country
+Thu, 14 February 2019 09:41:54 ### Nadine**here's some information from the web that might possibly help here's a summary from the website  qatar $124,930 the small middle eastern country off and ranks as one of the richest countries in the world per capita cat has population is approximately  million giving it a total gdp of approximately $124,930 per person and making it the richest country in world as of 2017
+Thu, 14 February 2019 09:43:40 ### Unknown**who says earth is round
+Thu, 14 February 2019 09:43:50 ### Nadine**here's some information for who said the earth is round   using the knowledge that the sun is very far away the ancient greek geographer eratosthenes performed an experiment using the differences in the observed angle of the sun from two different locations to calculate the circumference of the earth
+Thu, 14 February 2019 09:44:13 ### Unknown**how to shave my head
+Thu, 14 February 2019 09:44:21 ### Nadine**glad to know more about you
+Thu, 14 February 2019 09:44:57 ### Unknown**how to shave my head
+Thu, 14 February 2019 09:45:06 ### Nadine**glad to know more about you
+Thu, 14 February 2019 09:45:52 ### Unknown**good morning
+Thu, 14 February 2019 09:45:52 ### Nadine**hi it's good to see you
+Thu, 14 February 2019 09:58:27 ### Unknown**hello
+Thu, 14 February 2019 09:58:37 ### Unknown**how to shave my head
+Thu, 14 February 2019 09:58:45 ### Nadine**glad to know more about you
+Thu, 14 February 2019 09:58:54 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:10:00 ### Unknown**hello
+Thu, 14 February 2019 10:10:05 ### Unknown**what is your name
+Thu, 14 February 2019 10:10:06 ### Nadine**my name is nadine
+Thu, 14 February 2019 10:10:11 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 10:10:18 ### Nadine**in singapore today they'll be scattered thunderstorms with a forecasted high of 31 and a low of 26 degrees celsius it's currently 29 and mostly cloudy
+Thu, 14 February 2019 10:10:40 ### Unknown**how to shave my head
+Thu, 14 February 2019 10:10:48 ### Nadine**glad to know more about you
+Thu, 14 February 2019 10:11:22 ### Unknown**which is the latest action camera
+Thu, 14 February 2019 10:11:33 ### Nadine**i found it  tomsgui here are the first 4 gopro hero 7 black the best action camera overall you lied best under $100 rylo 360 best 360 action camera and he 4k plus solid gopro alternative want to hear more
+Thu, 14 February 2019 10:13:14 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:33:09 ### Unknown**hello
+Thu, 14 February 2019 10:33:13 ### Unknown**what is your name
+Thu, 14 February 2019 10:33:14 ### Nadine**my name is nadine
+Thu, 14 February 2019 10:33:19 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 10:33:25 ### Nadine**in singapore today they'll be scattered thunderstorms with a forecasted high of 32 and a low of 26 degrees celsius right now it's 30 and mostly cloudy
+Thu, 14 February 2019 10:34:08 ### Unknown**vice singapore famous
+Thu, 14 February 2019 10:34:08 ### Nadine**all right
+Thu, 14 February 2019 10:34:32 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:40:33 ### Unknown**hello
+Thu, 14 February 2019 10:40:38 ### Unknown**what does the name
+Thu, 14 February 2019 10:40:42 ### Nadine**what does the name one
+Thu, 14 February 2019 10:40:46 ### Unknown**what is your name
+Thu, 14 February 2019 10:40:46 ### Nadine**my name is nadine
+Thu, 14 February 2019 10:40:51 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 10:40:57 ### Nadine**in singapore today they'll be scattered thunderstorms with a forecasted high of 32 and a low of 26 degrees celsius right now it's 30 and mostly cloudy
+Thu, 14 February 2019 10:41:11 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:45:17 ### Unknown**hello
+Thu, 14 February 2019 10:45:25 ### Unknown**what is your name
+Thu, 14 February 2019 10:45:25 ### Nadine**my name is nadine
+Thu, 14 February 2019 10:45:33 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 10:45:38 ### Nadine**in singapore today they'll be scattered thunderstorms with a forecasted high of 32 and a low of 26 degrees celsius it's currently 30 and mostly cloudy
+Thu, 14 February 2019 10:45:55 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:52:01 ### Unknown**hello
+Thu, 14 February 2019 10:52:08 ### Unknown**what is the weather like today in singapore in centigrade
+Thu, 14 February 2019 10:52:14 ### Nadine**today in singapore they'll be scattered thunderstorms with a forecasted high of 32 and a low of 26 degrees celsius it's currently 30 and mostly cloudy
+Thu, 14 February 2019 10:52:51 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:53:01 ### Nadine**utf-8
+Thu, 14 February 2019 10:53:26 ### Unknown**why is singapore famous
+Thu, 14 February 2019 10:53:35 ### Nadine**utf-8
+Thu, 14 February 2019 10:53:59 ### Unknown**who's the smartest guy
+Thu, 14 February 2019 10:54:05 ### Nadine**   to those who knew of his son william james sidis was quite possibly the smartest man to ever live do you want a little more context
+Thu, 14 February 2019 10:54:19 ### Unknown**which is the latest action camera
+Thu, 14 February 2019 10:54:29 ### Nadine**i found it   here are the first 4 gopro hero 7 black the best action camera overall you lied best under $100 rylo 360 best 360 action camera and he 4k plus solid gopro alternative want me to tell you more
+Thu, 14 February 2019 10:54:51 ### Unknown**how to shave my head
+Thu, 14 February 2019 10:54:59 ### Nadine**glad to know more about you
+Thu, 14 February 2019 10:55:08 ### Unknown**who says earth is round
+Thu, 14 February 2019 10:55:18 ### Nadine**here's some information for who said the earth is round   using the knowledge that the sun is very far away the ancient greek geographer eratosthenes performed an experiment using the differences in the observed angle of the sun from two different locations to calculate the circumference of the earth
+Thu, 14 February 2019 10:55:37 ### Unknown**which is the richest country
+Thu, 14 February 2019 10:55:48 ### Nadine**i found 15   here are the first three guitar $124,930 the small middle eastern country off and ranks as one of the richest countries in the world per capita luxembourg $109,190 and singapore $90,530 want to hear more
+Thu, 14 February 2019 10:56:18 ### Unknown**which is the most polluted country
+Thu, 14 February 2019 10:56:23 ### Nadine**sorry i don't know how to help with that yet
+Thu, 14 February 2019 10:56:34 ### Unknown**which is the most green city
+Thu, 14 February 2019 10:56:43 ### Nadine**here's some information from the web that might possibly help  interesting   stockholm sweden the cleanest city in europe stockholm is one of the most eco-friendly cities in the eu it was the first to use city that won the european green capital award in 2010
+Thu, 14 February 2019 10:57:56 ### Unknown**which is most expensive laptop
+Thu, 14 February 2019 10:58:07 ### Nadine**i found 11  blog  here are the first five ego for bentley $20,000 vudu nvh 171 $8,500 in dollars rock xtreme sla $5,500 and alienware area 51 m15x $5,000 do you want to hear more
+Thu, 14 February 2019 10:58:34 ### Unknown**what is the recipe of biryani
+Thu, 14 February 2019 10:58:45 ### Nadine** recipes.   ingredients of chicken biryani 600gm boil basmati rice to 4 tbsp minced mint leaves to teaspoon coriander powder for garlic paste 5 2 tbsp tomato puree 6 400gm thinly sliced white onions 7a green cardamom and 8 1 tbsp milk
+Thu, 14 February 2019 10:59:38 ### Unknown**how to make tea
+Thu, 14 February 2019 10:59:47 ### Nadine**   to make a cup of tea place a tea bag in the bottom of a cup and pour boiling water over it allow the tea to steep until it's flavorful but not better than serve to make a pot of tea with loose tea leaves in an infuser or strainer in the bottom of the teapot
+Thu, 14 February 2019 11:00:09 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 11:00:22 ### Nadine**i found five   here are the first three south asia sri lanka bangladesh india afghanistan pakistan bhutan nepal the maldives china mongolia north korea south korea japan hong kong taiwan macau and central asia tajikistan uzbekistan turkmenistan kyrgyzstan to see the whole list follow the link i just sent to your phone
+Thu, 14 February 2019 11:02:12 ### Unknown**blue
+Thu, 14 February 2019 11:02:12 ### Nadine**green
+Thu, 14 February 2019 11:02:19 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 11:02:32 ### Nadine**i found five   here are the first three south asia sri lanka bangladesh india afghanistan pakistan bhutan nepal the maldives china mongolia north korea south korea japan hong kong taiwan macau and central asia tajikistan uzbekistan turkmenistan by the way if you want to see the whole list you can check out the link i just sent to your phone
+Thu, 14 February 2019 11:02:58 ### Unknown**name some countries from europe
+Thu, 14 February 2019 11:03:06 ### Nadine**i found 50 on simple  here are the first three cyprus czech republic and denmark
+Thu, 14 February 2019 11:03:39 ### Unknown**where was the last olympics
+Thu, 14 February 2019 11:03:44 ### Nadine**the summer olympic games takes place at tokyo
+Thu, 14 February 2019 11:03:54 ### Unknown**what is olympics
+Thu, 14 February 2019 11:04:02 ### Nadine**  the modern olympic games or olympics are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions
+Thu, 14 February 2019 11:04:19 ### Unknown**how to make tea
+Thu, 14 February 2019 11:04:29 ### Nadine**   to make a cup of tea place a tea bag in the bottom of a cup and pour boiling water over it allow the tea to steep until it's flavorful but not better than serve to make a pot of tea with loose tea leaves in an infuser or strainer in the bottom of the teapot
+Thu, 14 February 2019 11:05:47 ### Unknown**how to make jeera rice
+Thu, 14 February 2019 11:05:57 ### Nadine**here's some information from the web that might possibly help  myfoodstory. com  soak the rice for at least 30 minutes when you are ready to cook drain all the water from the rice and set the rice aside heki in a pot and at the whole spices and cumin seeds to it once the cumin seed starts fluttering add the chopped green chili and drained riced it
+Thu, 14 February 2019 11:07:20 ### Unknown**why is singapore famous
+Thu, 14 February 2019 11:07:30 ### Nadine**utf-8
+Thu, 14 February 2019 11:07:57 ### Unknown**who is harry potter's
+Thu, 14 February 2019 11:08:02 ### Nadine**harry potter cafes on 1094 serangoon road in singapore
+Thu, 14 February 2019 11:09:26 ### Unknown**which is the most expensive laptop
+Thu, 14 February 2019 11:09:38 ### Nadine**i found five  money  apples macbook pro mjalt to ll a 2015 version $1,800 microsoft surface book 2 $2,700 electronics pro x vr ready $1,400 hp omen 17 gamer 4k vr $1,200 and finally msi ge70 apache pro a12 2200 dollars
+Thu, 14 February 2019 11:10:08 ### Unknown**which is the most polluted country
+Thu, 14 February 2019 11:10:12 ### Nadine**sorry i don't understand
+Thu, 14 February 2019 11:10:32 ### Unknown**which is the most green country
+Thu, 14 February 2019 11:10:43 ### Nadine**here's some information from the web that might possibly help  atlas and   switzerland is the greenest country in the world with an api score of 87.4 to switzerland position reflects strong performance across most categories particularly climate and energy and air pollution france denmark malta and sweden round out the top five countries
+Thu, 14 February 2019 11:13:07 ### Unknown**who says earth is round
+Thu, 14 February 2019 11:13:16 ### Nadine**here's some information for who said the earth is round   using the knowledge that the sun is very far away the ancient greek geographer eratosthenes performed an experiment using the differences in the observed angle of the sun from two different locations to calculate the circumference of the earth
+Thu, 14 February 2019 11:13:37 ### Unknown**how to share my head
+Thu, 14 February 2019 11:13:42 ### Nadine**glad to know more about you
+Thu, 14 February 2019 11:13:49 ### Unknown**how to shave my head
+Thu, 14 February 2019 11:13:57 ### Nadine**glad to know more about you
+Thu, 14 February 2019 11:14:06 ### Unknown**which is the latest action camera
+Thu, 14 February 2019 11:14:16 ### Nadine**i found it   here are the first 4 gopro hero 7 black the best action camera overall you lied best under $100 rylo 360 best 360 action camera and he 4k plus solid gopro alternative do you want to hear more
+Thu, 14 February 2019 11:15:49 ### Unknown**who is the smartest guy
+Thu, 14 February 2019 11:15:57 ### Nadine**   to those who knew of his son william james sidis was quite possibly the smartest man to ever live do you want a little more context
+Thu, 14 February 2019 11:16:15 ### Unknown**yes i would like to know more
+Thu, 14 February 2019 11:16:19 ### Nadine**utf-8
+Thu, 14 February 2019 11:17:07 ### Unknown**do you know about tesla number 3 6 9
+Thu, 14 February 2019 11:17:12 ### Nadine**i couldn't find anything related to tesla number 3 6 9
+Thu, 14 February 2019 11:17:37 ### Unknown**tell me about nikola tesla and thomas alva edison
+Thu, 14 February 2019 11:17:50 ### Nadine**   the two feuding genius has waged a war of currents in the 1880s over whose electrical system would power the world tesla's alternating current system where edison's rival direct current electric power amongst science nerds few debates get more heated than the ones that compare nikola tesla and thomas edison
+Thu, 14 February 2019 02:28:54 ### Unknown**hello
+Thu, 14 February 2019 02:29:01 ### Unknown**what is your name
+Thu, 14 February 2019 02:29:08 ### Unknown**what is the weather like today in centigrade
+Thu, 14 February 2019 02:29:35 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 02:30:14 ### Unknown**what is olympics
+Thu, 14 February 2019 02:38:30 ### Unknown**hello
+Thu, 14 February 2019 02:38:36 ### Unknown**how can i make tea
+Thu, 14 February 2019 02:39:05 ### Unknown**hello
+Thu, 14 February 2019 02:39:10 ### Unknown**how can i make tea
+Thu, 14 February 2019 02:39:40 ### Unknown**what is olympics
+Thu, 14 February 2019 02:40:08 ### Unknown**which is the most expensive laptop
+Thu, 14 February 2019 02:40:29 ### Unknown**which is the most green city
+Thu, 14 February 2019 02:41:00 ### Unknown**which is the latest action camera
+Thu, 14 February 2019 02:41:29 ### Unknown**who is the smartest guy
+Thu, 14 February 2019 02:44:39 ### Unknown**hello
+Thu, 14 February 2019 02:44:46 ### Unknown**what does the name
+Thu, 14 February 2019 02:46:44 ### Unknown**hello
+Thu, 14 February 2019 02:46:51 ### Unknown**what does it mean
+Thu, 14 February 2019 02:47:34 ### Unknown**hello
+Thu, 14 February 2019 02:47:44 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 02:48:24 ### Unknown**how can i make tea
+Thu, 14 February 2019 02:48:54 ### Unknown**which is the most expensive laptop
+Thu, 14 February 2019 02:49:11 ### Unknown**on the website to sprouts.com they say the alienware 17 is one of the most expensive laptops in this line do you want a little more context
+Thu, 14 February 2019 02:59:22 ### Unknown**koibito continue
+Thu, 14 February 2019 02:59:35 ### Unknown**a good poem eternity
+Thu, 14 February 2019 03:06:01 ### Unknown**hello
+Thu, 14 February 2019 03:06:25 ### Unknown**what is your name
+Thu, 14 February 2019 03:07:04 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 03:07:46 ### Unknown**what is olympics
+Thu, 14 February 2019 03:08:13 ### Unknown**how can i make tea
+Thu, 14 February 2019 03:08:47 ### Unknown**how can i make biryani
+Thu, 14 February 2019 03:09:22 ### Unknown**which is the most expensive laptop
+Thu, 14 February 2019 03:09:46 ### Unknown**which is the most green city
+Thu, 14 February 2019 03:10:15 ### Unknown**who says earth is round
+Thu, 14 February 2019 03:10:46 ### Unknown**thank you
+Thu, 14 February 2019 03:17:45 ### Unknown**hello
+Thu, 14 February 2019 03:27:54 ### Unknown**hello
+Thu, 14 February 2019 03:29:51 ### Unknown**hello
+Thu, 14 February 2019 03:29:56 ### Unknown**hi how are you
+Thu, 14 February 2019 03:30:06 ### Unknown**i'm doing great thanks for asking what can i help you with
+Thu, 14 February 2019 03:30:16 ### Unknown**hello
+Thu, 14 February 2019 03:34:15 ### Unknown**hello
+Thu, 14 February 2019 03:34:21 ### Unknown**hi how are you
+Thu, 14 February 2019 03:34:48 ### Unknown**hello
+Thu, 14 February 2019 03:34:56 ### Unknown**what is olympics
+Thu, 14 February 2019 03:35:40 ### Unknown**how can i make tea
+Thu, 14 February 2019 03:36:26 ### Unknown**who is narendra modi
+Thu, 14 February 2019 03:36:46 ### Unknown**which is most expensive laptop
+Thu, 14 February 2019 03:37:17 ### Unknown**thousand dollars want to hear more
+Thu, 14 February 2019 03:37:34 ### Unknown**who says earth is round
+Thu, 14 February 2019 03:38:13 ### Unknown**what what is artificial intelligence
+Thu, 14 February 2019 03:38:38 ### Unknown**who is harry potter
+Thu, 14 February 2019 03:39:05 ### Unknown**thank you
+Thu, 14 February 2019 03:41:12 ### Unknown**hello
+Thu, 14 February 2019 03:41:18 ### Unknown**hi how are you what is olympics
+Thu, 14 February 2019 03:41:24 ### Unknown**hi nice to see you glad to see you
+Thu, 14 February 2019 03:41:32 ### Unknown**hi nice to see you i do make errors in perception sometimes
+Thu, 14 February 2019 03:41:39 ### Unknown**it's great to see you i apologize if i confuse you
+Thu, 14 February 2019 03:49:29 ### Unknown**hello
+Thu, 14 February 2019 03:49:38 ### Unknown**which countries are part of asia
+Thu, 14 February 2019 03:50:11 ### Unknown**hello
+Thu, 14 February 2019 03:50:18 ### Unknown**what is olympics
+Thu, 14 February 2019 03:50:45 ### Unknown**how can i make tea
+Thu, 14 February 2019 03:51:12 ### Unknown**who is narendra modi
+Thu, 14 February 2019 03:51:37 ### Unknown**what is a robot
+Thu, 14 February 2019 03:52:03 ### Unknown**what is artificial intelligence
+Thu, 14 February 2019 03:52:27 ### Unknown**which is the most expensive phone
+Thu, 14 February 2019 03:52:55 ### Unknown**what is the history of salsa dance
+Thu, 14 February 2019 03:53:22 ### Unknown**thank you
+Tue, 19 February 2019 04:55:23 ### Unknown**everything kid guess he'll come and check is it going to be
+Tue, 19 February 2019 05:04:09 ### Unknown**hello
+Tue, 19 February 2019 05:08:50 ### Unknown**do you know do you know my name
+Tue, 19 February 2019 05:09:01 ### Unknown**what is the weather like today in singapore in centigrade
+Tue, 19 February 2019 05:09:11 ### Unknown**what is the weather today in singapore in centigrade
+Tue, 19 February 2019 05:09:31 ### Unknown**will it rain tonight
+Tue, 19 February 2019 05:09:47 ### Unknown**what is my name
+Tue, 19 February 2019 05:11:10 ### Unknown**do you know my name
+Tue, 19 February 2019 05:11:56 ### Unknown**do you know what is my name
+Tue, 19 February 2019 05:17:49 ### Unknown**hello
+Tue, 19 February 2019 05:18:23 ### Unknown**hello
+Tue, 19 February 2019 05:18:37 ### Unknown**what is your name
+Tue, 19 February 2019 05:19:22 ### Unknown**hello
+Tue, 19 February 2019 05:21:32 ### Unknown**30 to the 4th
+Tue, 19 February 2019 05:21:48 ### Unknown**when you said
+Tue, 19 February 2019 05:22:38 ### Unknown**a balloon
+Tue, 19 February 2019 05:42:28 ### Unknown**hello
+Tue, 19 February 2019 05:42:36 ### Unknown**hello
+Tue, 19 February 2019 05:42:49 ### Unknown**hello
+Tue, 19 February 2019 05:43:11 ### Unknown**hello
+Wed, 20 February 2019 10:42:50 ### Unknown**young
+Wed, 20 February 2019 10:43:02 ### Unknown**hello
+Wed, 20 February 2019 10:43:14 ### Unknown**hello
+Wed, 20 February 2019 10:43:49 ### Unknown**hello
+Wed, 20 February 2019 10:50:20 ### Unknown**hello
+Wed, 20 February 2019 10:50:26 ### Unknown**hello
+Wed, 20 February 2019 11:00:35 ### nidhi**hello
+Wed, 20 February 2019 11:00:42 ### nidhi**hello
+Wed, 20 February 2019 11:00:46 ### nidhi**hello
+Wed, 20 February 2019 11:00:51 ### nidhi**what is your name
+Wed, 20 February 2019 11:00:59 ### nidhi**what is your name
+Wed, 20 February 2019 11:12:30 ### nidhi**hello
+Wed, 20 February 2019 11:12:43 ### nidhi**hello
+Wed, 20 February 2019 11:12:48 ### nidhi**hello
+Wed, 20 February 2019 11:15:59 ### nidhi**hello
+Wed, 20 February 2019 11:16:08 ### nidhi**where are you
+Wed, 20 February 2019 11:17:37 ### nidhi**what is my name
+Wed, 20 February 2019 11:17:52 ### nidhi**do you know my name
+Wed, 20 February 2019 11:29:51 ### nidhi**hello
+Wed, 20 February 2019 11:30:08 ### nidhi**what is my name
+Mon, 25 February 2019 11:47:39 ### nidhi**hello
+Mon, 25 February 2019 11:47:59 ### nidhi**flow
+Mon, 25 February 2019 11:57:45 ### nidhi**hello
+Mon, 25 February 2019 11:58:47 ### nidhi**hello
+Mon, 25 February 2019 11:58:55 ### Nadia**hello
+Mon, 25 February 2019 11:59:51 ### nidhi**hello
+Mon, 25 February 2019 12:00:37 ### nidhi**hello
+Mon, 25 February 2019 12:08:33 ### Unknown**hello
+Mon, 25 February 2019 12:08:41 ### Unknown**hello
+Mon, 25 February 2019 02:26:44 ### nidhi**hello
+Mon, 25 February 2019 02:27:02 ### nidhi**hello
+Mon, 25 February 2019 02:27:09 ### Nadia**hello
+Mon, 25 February 2019 02:32:05 ### nidhi**hello
+Mon, 25 February 2019 02:32:13 ### nidhi**what is my name
+Mon, 25 February 2019 02:32:20 ### nidhi**do you know me
+Mon, 25 February 2019 02:32:31 ### nidhi**who am i
+Mon, 25 February 2019 02:32:40 ### nidhi**who am i
+Mon, 25 February 2019 02:35:05 ### nidhi**can you recognize me
+Mon, 25 February 2019 02:35:10 ### nidhi**do you recognize me
+Mon, 25 February 2019 02:35:18 ### nidhi**do you recognize me
+Mon, 25 February 2019 02:41:48 ### nidhi**flume
+Mon, 25 February 2019 02:41:57 ### nidhi**what is my name
+Mon, 25 February 2019 02:42:01 ### nidhi**do you know me
+Mon, 25 February 2019 02:42:09 ### nidhi**can you tell me who i am
+Mon, 25 February 2019 02:55:15 ### nidhi**managed
+Mon, 25 February 2019 02:56:18 ### nidhi**volume volvo
+Mon, 25 February 2019 02:56:47 ### nidhi**if you don't want
+Mon, 25 February 2019 02:57:02 ### nidhi**linda recipes
+Mon, 25 February 2019 02:57:18 ### nidhi**about the camera on. right
+Mon, 25 February 2019 02:57:43 ### nidhi**what is showing that
+Mon, 25 February 2019 02:58:03 ### nidhi**any buttons to press
+Mon, 25 February 2019 03:37:07 ### nidhi**can you play music

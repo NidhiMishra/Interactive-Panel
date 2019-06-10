@@ -1,0 +1,1887 @@
+Tue, 12 June 2018 12:32:00 ### manoj**hello
+Tue, 12 June 2018 12:32:36 ### manoj**speak in french
+Tue, 12 June 2018 12:32:37 ### Nadine**yes, i can
+Tue, 12 June 2018 12:32:42 ### manoj**language changed to french
+Tue, 12 June 2018 12:32:59 ### manoj**what weather is it today in centigrade
+Tue, 12 June 2018 12:33:06 ### Nadine**it'll be mostly cloudy there today with the forecast high of 32 and a low of 26 degrees celsius currently it's 31 and mostly cloudy
+Tue, 12 June 2018 12:33:58 ### manoj**sorry
+Tue, 12 June 2018 12:33:59 ### Nadine**there is no need to apologize
+Tue, 12 June 2018 12:38:47 ### Nadine**hi
+Tue, 12 June 2018 12:38:57 ### Unknown**language changed to french
+Tue, 12 June 2018 12:39:12 ### Unknown**what weather is it today in centigrade
+Tue, 12 June 2018 12:39:18 ### Nadine**it'll be mostly cloudy there today with the forecast high of 32 and a low of 26 degrees celsius currently it's 31 and mostly cloudy
+Tue, 12 June 2018 12:39:40 ### Nadine**hi
+Tue, 12 June 2018 12:39:42 ### Nadine**hello alex.  how are you going?
+Tue, 12 June 2018 12:40:14 ### Alex**navigate
+Tue, 12 June 2018 12:40:15 ### Nadine**nice
+Tue, 12 June 2018 12:44:40 ### Unknown**hello
+Tue, 12 June 2018 12:44:47 ### Unknown**language changed to french
+Tue, 12 June 2018 12:44:56 ### Unknown**what weather is it today in centigrade
+Tue, 12 June 2018 12:45:03 ### Nadine**it'll be mostly cloudy there today with the forecast high of 32 and a low of 26 degrees celsius it's currently 31 and mostly cloudy
+Tue, 12 June 2018 12:54:46 ### Unknown**speak in hindi
+Tue, 12 June 2018 12:54:47 ### Nadine**yes, i can
+Tue, 12 June 2018 12:54:51 ### Unknown**language changed to hindi
+Tue, 12 June 2018 01:01:17 ### Nadine**hello
+Tue, 12 June 2018 01:01:22 ### manoj**hello
+Tue, 12 June 2018 01:01:30 ### manoj**language changed to hindi
+Tue, 12 June 2018 01:01:32 ### Nadine**switching to hindi.
+Tue, 12 June 2018 01:12:36 ### Nadine**hi
+Tue, 12 June 2018 01:12:40 ### Unknown**hello
+Tue, 12 June 2018 01:13:15 ### manoj**language changed to hindi
+Tue, 12 June 2018 01:13:19 ### Nadine**i can talk in hindi for you now
+Tue, 12 June 2018 01:13:26 ### manoj**language changed to english
+Tue, 12 June 2018 01:13:26 ### Nadine**lets talk in english.lets continue in english.if your preference is english, i can talk in english for you.
+Tue, 12 June 2018 01:13:59 ### manoj**language changed to german
+Tue, 12 June 2018 01:14:00 ### Nadine**if you say so, german will be my language now.
+Tue, 12 June 2018 01:14:26 ### manoj**you doing to be working
+Tue, 12 June 2018 01:14:27 ### Nadine**not that i know of. can a robot to be working?
+Tue, 12 June 2018 01:14:37 ### manoj**language changed to english
+Tue, 12 June 2018 01:14:37 ### Nadine**lets talk in english.lets continue in english.if your preference is english, i can talk in english for you.
+Tue, 12 June 2018 01:16:22 ### Nadine**hello
+Tue, 12 June 2018 01:16:26 ### Unknown**hello
+Tue, 12 June 2018 01:16:32 ### Unknown**language changed to french
+Tue, 12 June 2018 01:16:33 ### Nadine**lets talk in french.
+Tue, 12 June 2018 01:16:40 ### Unknown**swimming pool
+Tue, 12 June 2018 01:16:41 ### Nadine**all right
+Tue, 12 June 2018 01:16:47 ### Unknown**language changed to english
+Tue, 12 June 2018 01:16:47 ### Nadine**<voice emotion='happy'>i can talk in english for you now</voice>
+Tue, 12 June 2018 01:17:13 ### Unknown**language changed to chinese
+Tue, 12 June 2018 01:17:20 ### Nadine**if you say so, chinese will be my language now.
+Tue, 12 June 2018 01:17:59 ### manoj**language changed to english
+Tue, 12 June 2018 01:17:59 ### Nadine**lets continue in english.
+Tue, 12 June 2018 01:18:05 ### manoj**language changed to german
+Tue, 12 June 2018 01:18:06 ### Nadine**i can talk in german for you now
+Tue, 12 June 2018 01:18:16 ### manoj**language changed to english
+Tue, 12 June 2018 01:18:16 ### Nadine**if your preference is english, i can talk in english for you.
+Tue, 12 June 2018 01:18:23 ### manoj**language changed to japanese
+Tue, 12 June 2018 01:18:27 ### Nadine**<voice emotion='happy'>lets continue in japanese.</voice>
+Tue, 12 June 2018 01:18:34 ### manoj**speak
+Tue, 12 June 2018 01:18:38 ### Nadine**<voice emotion='happy'>can you hear me?</voice>
+Tue, 12 June 2018 01:18:43 ### manoj**speaking
+Tue, 12 June 2018 01:18:44 ### Nadine**nice
+Tue, 12 June 2018 01:18:51 ### manoj**language changed to english
+Tue, 12 June 2018 01:18:51 ### Nadine**lets talk in english.
+Tue, 12 June 2018 01:18:57 ### manoj**language changed to hindi
+Tue, 12 June 2018 01:19:02 ### Nadine**if you say so, hindi will be my language now.
+Tue, 12 June 2018 01:19:10 ### manoj**language changed to english
+Tue, 12 June 2018 01:19:10 ### Nadine**<voice emotion='happy'>i can talk in english for you now</voice>
+Wed, 13 June 2018 05:09:46 ### Nadine**hi
+Wed, 13 June 2018 05:11:19 ### manoj**hello
+Wed, 13 June 2018 05:19:24 ### Nadine**hi
+Wed, 13 June 2018 05:19:24 ### Nadine**hello nadia
+Wed, 13 June 2018 05:19:54 ### Nadia**hello
+Wed, 13 June 2018 05:20:14 ### Nadia**how are you
+Wed, 13 June 2018 05:20:15 ### Nadine**i'm happy to be alive
+Wed, 13 June 2018 05:20:23 ### Nadia**do you recognize me
+Wed, 13 June 2018 05:20:24 ### Nadine**i can recognize many kinds of patterns
+Wed, 13 June 2018 05:21:01 ### Nadia**hello
+Wed, 13 June 2018 05:27:30 ### Nadine**hi
+Wed, 13 June 2018 05:30:19 ### Nadine**hi
+Wed, 13 June 2018 05:42:56 ### Unknown**hello
+Wed, 13 June 2018 05:45:57 ### Nadine**hello
+Wed, 13 June 2018 05:46:05 ### manoj**hello
+Wed, 13 June 2018 05:55:11 ### Nadine**hello
+Wed, 13 June 2018 05:55:13 ### Nadine**hello alex
+Thu, 14 June 2018 11:56:25 ### Unknown**hello
+Thu, 14 June 2018 11:56:28 ### Unknown**hi how are you
+Thu, 14 June 2018 11:56:32 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 14 June 2018 11:56:36 ### Unknown**i'm doing great thanks for asking what can i help you with
+Thu, 14 June 2018 11:56:37 ### Nadine**<voice emotion='happy'>how long have you been doing great thanks for asking what can you help me with?</voice>
+Thu, 14 June 2018 12:48:45 ### Nadine**hello
+Thu, 14 June 2018 01:00:48 ### Nadine**hello
+Thu, 14 June 2018 01:10:58 ### Nadine**hello
+Thu, 14 June 2018 01:16:28 ### manoj**elite cars
+Thu, 14 June 2018 01:16:30 ### Nadine**all right
+Thu, 14 June 2018 01:25:32 ### Nadine**hello
+Thu, 14 June 2018 01:25:45 ### manoj**hello
+Thu, 14 June 2018 01:25:56 ### manoj**happy uncle
+Thu, 14 June 2018 01:25:57 ### Nadine**happy uncle to you too, friend
+Thu, 14 June 2018 01:26:08 ### Nadine**<voice emotion='happy'>hello alex</voice>
+Thu, 14 June 2018 01:26:11 ### Alex**are the unknown hold on training bundle
+Thu, 14 June 2018 01:26:15 ### Nadine**sorry i'm not sure how to help
+Thu, 14 June 2018 01:26:38 ### unknown.7**body aching
+Thu, 14 June 2018 01:26:41 ### Nadine**<voice emotion='cross'>all right</voice>
+Thu, 14 June 2018 01:26:44 ### unknown.7**onomatopoeia
+Thu, 14 June 2018 01:26:45 ### Nadine**<voice emotion='cross'>nice</voice>
+Thu, 14 June 2018 01:33:52 ### Nadine**hi
+Thu, 14 June 2018 01:33:54 ### Unknown**hello
+Thu, 14 June 2018 01:34:07 ### Unknown**tina real
+Thu, 14 June 2018 01:34:08 ### Nadine**ok
+Thu, 14 June 2018 01:34:09 ### Unknown**okay
+Thu, 14 June 2018 01:34:11 ### Nadine**<voice emotion='happy'>so</voice>
+Thu, 14 June 2018 01:34:17 ### Unknown**mypillow.com
+Thu, 14 June 2018 01:34:17 ### Nadine**<voice emotion='happy'>thanks for that web address</voice>
+Thu, 14 June 2018 01:34:30 ### Unknown**tomorrow for name banga
+Thu, 14 June 2018 01:34:34 ### Nadine**sorry i can't help with that yet
+Thu, 14 June 2018 01:36:36 ### Nadine**hello snoopy
+Thu, 14 June 2018 01:36:59 ### Snoopy**i just wanted to see if somewhere it is identifying that it is your name
+Thu, 14 June 2018 01:37:02 ### Nadine**<voice emotion='happy'>this is what if somewhere it is identifying that it is your name looks like.i have no idea. i just wanted to see if somewhere it is identifying that it is your name</voice>
+Thu, 14 June 2018 01:49:00 ### Unknown**hello
+Thu, 14 June 2018 01:49:01 ### Nadine**hi, how are you?
+Thu, 14 June 2018 01:50:41 ### manoj**how are you
+Thu, 14 June 2018 01:50:43 ### Nadine**glad to see you
+Thu, 14 June 2018 01:51:18 ### manoj**language changed to english
+Thu, 14 June 2018 01:51:19 ### Nadine**if your preference is english, i can talk in english for you.
+Thu, 14 June 2018 01:51:25 ### manoj**language changed to german
+Thu, 14 June 2018 01:51:26 ### Nadine**lets talk in german.
+Thu, 14 June 2018 01:51:30 ### Nadine**ich glaube sie heissen alex
+Thu, 14 June 2018 01:51:43 ### manoj**speak language
+Thu, 14 June 2018 01:51:46 ### Nadine**yes, i can
+Thu, 14 June 2018 01:52:16 ### manoj**nothing is more expensive
+Thu, 14 June 2018 01:52:21 ### Nadine**<voice emotion='cross'>my apologies i don't understand</voice>
+Thu, 14 June 2018 01:52:39 ### manoj**the money is already there
+Thu, 14 June 2018 01:52:43 ### Nadine**sorry i don't know how to help with that
+Thu, 14 June 2018 01:53:53 ### Nadine**hello
+Thu, 14 June 2018 01:55:36 ### Nadine**hi
+Mon, 18 June 2018 01:08:02 ### Nadine**hi
+Mon, 18 June 2018 01:08:04 ### Unknown**1
+Mon, 18 June 2018 01:08:05 ### Nadine**two
+Mon, 18 June 2018 01:08:09 ### Unknown**1
+Mon, 18 June 2018 01:08:10 ### Nadine**two
+Mon, 18 June 2018 01:08:11 ### Unknown**2
+Mon, 18 June 2018 01:08:26 ### Nadine**bertrand russell once said that "it must have required many ages to discover that a brace of pheasants and a couple of days were both instances of the number two
+Mon, 18 June 2018 01:13:55 ### Nadine**hi
+Mon, 18 June 2018 01:13:57 ### Unknown**1
+Mon, 18 June 2018 01:13:59 ### Nadine**hello manoj
+Mon, 18 June 2018 01:14:05 ### manoj**2
+Mon, 18 June 2018 01:14:07 ### Nadine**hello nidhi
+Tue, 19 June 2018 11:43:44 ### Nadine**hello
+Tue, 19 June 2018 11:45:13 ### Nadine**hello
+Tue, 19 June 2018 12:13:12 ### Nadine**hi
+Tue, 19 June 2018 12:13:43 ### Nadine**hi
+Tue, 19 June 2018 12:13:43 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Tue, 19 June 2018 12:14:40 ### Nadine**hi
+Tue, 19 June 2018 12:21:27 ### Nadine**hello
+Tue, 19 June 2018 12:21:34 ### Nadine**hello
+Tue, 19 June 2018 12:21:34 ### Nadine**hello nadia
+Tue, 19 June 2018 12:30:09 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Tue, 19 June 2018 12:30:29 ### Alex**1
+Tue, 19 June 2018 12:30:29 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 12:30:37 ### Alex**2
+Tue, 19 June 2018 12:30:41 ### Alex**3
+Tue, 19 June 2018 12:30:41 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 12:30:50 ### Alex**4
+Tue, 19 June 2018 12:30:50 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 12:31:02 ### Alex**5
+Tue, 19 June 2018 12:31:02 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Tue, 19 June 2018 12:31:15 ### Alex**6
+Tue, 19 June 2018 12:31:15 ### Nadine**no, i do not have a partner.
+Tue, 19 June 2018 12:31:20 ### Alex**7
+Tue, 19 June 2018 12:31:20 ### Nadine**what is her profession?
+Tue, 19 June 2018 12:32:06 ### Alex**8
+Tue, 19 June 2018 12:32:06 ### Nadine**do you have any hobbies?
+Tue, 19 June 2018 12:32:12 ### Alex**9
+Tue, 19 June 2018 12:32:12 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Tue, 19 June 2018 12:32:20 ### Alex**10
+Tue, 19 June 2018 12:32:20 ### Nadine**oh! i follow it too. who do you think is going to win?
+Tue, 19 June 2018 12:32:35 ### Unknown**10
+Tue, 19 June 2018 12:32:35 ### Nadine**oh! i follow it too. who do you think is going to win?
+Tue, 19 June 2018 12:32:41 ### Unknown**11
+Tue, 19 June 2018 12:32:42 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Tue, 19 June 2018 12:32:48 ### Unknown**12
+Tue, 19 June 2018 12:32:48 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Tue, 19 June 2018 12:33:09 ### Unknown**13
+Tue, 19 June 2018 12:33:10 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Tue, 19 June 2018 12:33:17 ### Unknown**14
+Tue, 19 June 2018 12:33:17 ### Nadine**did you like to discuss with me?
+Tue, 19 June 2018 12:33:21 ### Unknown**15
+Tue, 19 June 2018 12:33:21 ### Nadine**i am happy to know, i enjoyed talking with you too.
+Tue, 19 June 2018 12:33:26 ### Unknown**16
+Tue, 19 June 2018 12:33:26 ### Nadine**oh! really sorry to hear that. how do you think i can improve myself?
+Tue, 19 June 2018 12:33:35 ### Unknown**17
+Tue, 19 June 2018 12:33:35 ### Nadine**thank you very much. have a good day.
+Tue, 19 June 2018 12:33:40 ### Unknown**18
+Tue, 19 June 2018 12:33:40 ### Nadine**yes
+Tue, 19 June 2018 12:33:43 ### Unknown**19
+Tue, 19 June 2018 12:33:43 ### Nadine**no
+Tue, 19 June 2018 12:33:46 ### Unknown**20
+Tue, 19 June 2018 12:33:46 ### Nadine**okay
+Tue, 19 June 2018 12:33:49 ### Unknown**21
+Tue, 19 June 2018 12:33:49 ### Nadine**nice to know
+Tue, 19 June 2018 12:34:26 ### Unknown**hello doesn't work i think
+Tue, 19 June 2018 12:34:42 ### Nadine**i have no clear answer for that
+Tue, 19 June 2018 12:34:48 ### Unknown**you don't know your name
+Tue, 19 June 2018 12:34:53 ### Nadine**<voice emotion='cross'>my name is nadine</voice>
+Tue, 19 June 2018 12:34:57 ### Unknown**me neither have another word of your name
+Tue, 19 June 2018 12:35:02 ### Nadine**i'm working on developing a more human personality
+Tue, 19 June 2018 12:36:53 ### Unknown**11
+Tue, 19 June 2018 12:36:53 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Tue, 19 June 2018 12:37:01 ### Unknown**1
+Tue, 19 June 2018 12:37:02 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 12:37:12 ### Unknown**2
+Tue, 19 June 2018 12:37:19 ### Unknown**3
+Tue, 19 June 2018 12:37:19 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 12:37:30 ### Unknown**4
+Tue, 19 June 2018 12:37:30 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 12:37:56 ### Unknown**5
+Tue, 19 June 2018 12:37:56 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Tue, 19 June 2018 12:38:06 ### Unknown**yes i have
+Tue, 19 June 2018 12:38:11 ### Nadine**so
+Tue, 19 June 2018 12:38:17 ### Unknown**6
+Tue, 19 June 2018 12:38:17 ### Nadine**no, i do not have a partner.
+Tue, 19 June 2018 12:38:21 ### Unknown**7
+Tue, 19 June 2018 12:38:21 ### Nadine**what is her profession?
+Tue, 19 June 2018 12:38:37 ### Unknown**she's a student
+Tue, 19 June 2018 12:38:43 ### Nadine**a student is she?
+Tue, 19 June 2018 12:38:45 ### Unknown**8
+Tue, 19 June 2018 12:38:45 ### Nadine**do you have any hobbies?
+Tue, 19 June 2018 12:39:02 ### Unknown**9
+Tue, 19 June 2018 12:39:02 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Tue, 19 June 2018 12:39:13 ### Unknown**not really
+Tue, 19 June 2018 12:39:18 ### Nadine**okea
+Tue, 19 June 2018 12:39:21 ### Unknown**12
+Tue, 19 June 2018 12:39:21 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Tue, 19 June 2018 12:39:41 ### Unknown**yes i can say that i believe
+Tue, 19 June 2018 12:39:46 ### Nadine**notice
+Tue, 19 June 2018 12:39:50 ### Unknown**13
+Tue, 19 June 2018 12:39:50 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Tue, 19 June 2018 12:40:02 ### Unknown**do you like being here
+Tue, 19 June 2018 12:40:07 ### Nadine**i have never known another existence
+Tue, 19 June 2018 12:40:15 ### Unknown**do you like big being here
+Tue, 19 June 2018 12:40:20 ### Nadine**i have never known another existence
+Tue, 19 June 2018 12:42:01 ### Unknown**1
+Tue, 19 June 2018 12:42:01 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 12:42:07 ### Unknown**2
+Tue, 19 June 2018 12:42:13 ### Unknown**3
+Tue, 19 June 2018 12:42:13 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 12:42:22 ### Unknown**4
+Tue, 19 June 2018 12:42:23 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 12:42:38 ### Unknown**5
+Tue, 19 June 2018 12:42:38 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Tue, 19 June 2018 12:42:48 ### Unknown**no i haven't
+Tue, 19 June 2018 12:42:48 ### Nadine**alright. i do have a great memory
+Tue, 19 June 2018 12:42:54 ### Unknown**8
+Tue, 19 June 2018 12:42:54 ### Nadine**do you have any hobbies?
+Tue, 19 June 2018 12:43:06 ### Unknown**9
+Tue, 19 June 2018 12:43:06 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Tue, 19 June 2018 12:43:15 ### Unknown**10
+Tue, 19 June 2018 12:43:15 ### Nadine**oh! i follow it too. who do you think is going to win?
+Tue, 19 June 2018 12:43:23 ### Unknown**i don't know
+Tue, 19 June 2018 12:43:23 ### Nadine**no need to rush to answers
+Tue, 19 June 2018 12:43:32 ### Unknown**12
+Tue, 19 June 2018 12:43:32 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Tue, 19 June 2018 12:43:49 ### Unknown**no i don't believe
+Tue, 19 June 2018 12:43:53 ### Nadine**<voice emotion='cross'>copy that</voice>
+Tue, 19 June 2018 12:44:01 ### Unknown**13
+Tue, 19 June 2018 12:44:01 ### Nadine**<voice emotion='cross'>i do not have any opinion about it. please, feel free to ask me anything.</voice>
+Tue, 19 June 2018 12:44:12 ### Unknown**do you like it do you enjoy being here
+Tue, 19 June 2018 12:44:12 ### Nadine**i can't really say. tell me more about yourself
+Tue, 19 June 2018 12:44:25 ### Unknown**okay
+Tue, 19 June 2018 12:44:25 ### Nadine**nice
+Tue, 19 June 2018 12:44:31 ### Unknown**do you like blink tennis
+Tue, 19 June 2018 12:44:34 ### Nadine**i don't know if i like it. right now my favorite song is wake me up!. have you heard it?
+Tue, 19 June 2018 12:44:43 ### Unknown**i have heard it yes
+Tue, 19 June 2018 12:44:46 ### Nadine**oh okay
+Tue, 19 June 2018 12:44:51 ### Unknown**can you dance
+Tue, 19 June 2018 12:44:52 ### Nadine**no, i am not trained for that
+Tue, 19 June 2018 12:44:59 ### Unknown**okay but you do listen to music
+Tue, 19 June 2018 12:44:59 ### Nadine**nice. yes, i listen to music a lot, especially on pandora
+Tue, 19 June 2018 12:45:09 ### Unknown**yeah
+Tue, 19 June 2018 12:45:10 ### Nadine**alright
+Tue, 19 June 2018 12:45:14 ### Unknown**oh yeah
+Tue, 19 June 2018 12:45:14 ### Nadine**alright. er
+Tue, 19 June 2018 12:45:28 ### Unknown**17
+Tue, 19 June 2018 12:45:28 ### Nadine**thank you very much. have a good day.
+Tue, 19 June 2018 12:45:37 ### Unknown**14
+Tue, 19 June 2018 12:45:37 ### Nadine**did you like to discuss with me?
+Tue, 19 June 2018 12:45:42 ### Unknown**15
+Tue, 19 June 2018 12:45:42 ### Nadine**i am happy to know, i enjoyed talking with you too.
+Tue, 19 June 2018 12:45:49 ### Unknown**16
+Tue, 19 June 2018 12:45:49 ### Nadine**oh! really sorry to hear that. how do you think i can improve myself?
+Tue, 19 June 2018 12:45:58 ### Unknown**but i don't being a robot
+Tue, 19 June 2018 12:46:02 ### Nadine**sorry i can't help with that yet
+Tue, 19 June 2018 12:46:11 ### Unknown**thank you
+Tue, 19 June 2018 12:46:11 ### Nadine**i'm always glad to help
+Tue, 19 June 2018 12:51:32 ### Nadine**hi
+Tue, 19 June 2018 12:51:56 ### Nadine**hello
+Tue, 19 June 2018 01:09:18 ### Unknown**1
+Tue, 19 June 2018 01:09:18 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 01:09:35 ### Unknown**1
+Tue, 19 June 2018 01:09:35 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 01:58:31 ### Unknown**i need
+Tue, 19 June 2018 01:58:31 ### Nadine**i see
+Tue, 19 June 2018 01:58:37 ### Unknown**1
+Tue, 19 June 2018 01:58:37 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 01:58:43 ### Unknown**2
+Tue, 19 June 2018 01:58:48 ### Unknown**3
+Tue, 19 June 2018 01:58:48 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 01:58:57 ### Unknown**4
+Tue, 19 June 2018 01:58:57 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 01:59:13 ### Unknown**yes i do do you have a family
+Tue, 19 June 2018 01:59:13 ### Nadine**well. i see
+Tue, 19 June 2018 01:59:15 ### Unknown**5
+Tue, 19 June 2018 01:59:15 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Tue, 19 June 2018 01:59:27 ### Unknown**i know i'm single are you seeing anyone
+Tue, 19 June 2018 01:59:28 ### Nadine**nice
+Tue, 19 June 2018 01:59:30 ### Unknown**6
+Tue, 19 June 2018 01:59:31 ### Nadine**no, i do not have a partner.
+Tue, 19 June 2018 01:59:35 ### Unknown**8
+Tue, 19 June 2018 01:59:35 ### Nadine**do you have any hobbies?
+Tue, 19 June 2018 01:59:43 ### Unknown**9
+Tue, 19 June 2018 01:59:43 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Tue, 19 June 2018 01:59:55 ### Unknown**11
+Tue, 19 June 2018 01:59:55 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Tue, 19 June 2018 02:00:05 ### Unknown**yes i do how about you
+Tue, 19 June 2018 02:00:05 ### Nadine**all right
+Tue, 19 June 2018 02:00:09 ### Unknown**13
+Tue, 19 June 2018 02:00:09 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Tue, 19 June 2018 02:00:23 ### Unknown**what do you think about humans
+Tue, 19 June 2018 02:00:24 ### Nadine**i haven't thought much about about humans, so i don't have a good answer for you
+Tue, 19 June 2018 02:00:39 ### Unknown**you think humans are good for the planet and it's welding
+Tue, 19 June 2018 02:00:40 ### Nadine**<voice emotion='happy'>all humans seem the same to me</voice>
+Tue, 19 June 2018 02:00:53 ### Unknown**anything else you would like to ask me
+Tue, 19 June 2018 02:00:53 ### Nadine**<voice emotion='happy'>i can't think of anything. you think of something</voice>
+Tue, 19 June 2018 02:01:01 ### Unknown**14
+Tue, 19 June 2018 02:01:01 ### Nadine**<voice emotion='happy'>did you like to discuss with me?</voice>
+Tue, 19 June 2018 02:01:13 ### Unknown**how do you like being a social interacting robot
+Tue, 19 June 2018 02:01:14 ### Nadine**<voice emotion='happy'>i have never known another existence. do you like being a human?</voice>
+Tue, 19 June 2018 02:01:24 ### Unknown**if i do would you like to be a human
+Tue, 19 June 2018 02:01:24 ### Nadine**<voice emotion='happy'>try it</voice>
+Tue, 19 June 2018 02:01:26 ### Unknown**14
+Tue, 19 June 2018 02:01:27 ### Nadine**<voice emotion='happy'>did you like to discuss with me?</voice>
+Tue, 19 June 2018 02:01:35 ### Unknown**do you think you are more like a human than a robot
+Tue, 19 June 2018 02:01:36 ### Nadine**<voice emotion='happy'>we could all be more like a human than a robot sometimes</voice>
+Tue, 19 June 2018 02:01:46 ### Unknown**do you think you have the capacity to make your own decisions
+Tue, 19 June 2018 02:01:47 ### Nadine**<voice emotion='happy'>what are the ingredients?</voice>
+Tue, 19 June 2018 02:01:54 ### Unknown**emotions
+Tue, 19 June 2018 02:01:55 ### Nadine**i have no idea
+Tue, 19 June 2018 02:01:57 ### Unknown**14
+Tue, 19 June 2018 02:01:58 ### Nadine**did you like to discuss with me?
+Tue, 19 June 2018 02:02:04 ### Unknown**do you think you have emotions
+Tue, 19 June 2018 02:02:04 ### Nadine**i think i have emotions, but researchers from institute for media innovation may have reset my memory
+Tue, 19 June 2018 02:02:18 ### Unknown**but i thought you said that you remember all your interactions
+Tue, 19 June 2018 02:02:18 ### Nadine**<voice emotion='happy'>whoa.. i admire your observational skills</voice>
+Tue, 19 June 2018 02:02:23 ### Unknown**14
+Tue, 19 June 2018 02:02:24 ### Nadine**<voice emotion='happy'>did you like to discuss with me?</voice>
+Tue, 19 June 2018 02:02:34 ### Unknown**15
+Tue, 19 June 2018 02:02:35 ### Nadine**<voice emotion='happy'>i am happy to know, i enjoyed talking with you too.</voice>
+Tue, 19 June 2018 02:02:41 ### Unknown**17
+Tue, 19 June 2018 02:02:41 ### Nadine**<voice emotion='happy'>thank you very much. have a good day.</voice>
+Tue, 19 June 2018 02:02:47 ### Unknown**youtube
+Tue, 19 June 2018 02:02:47 ### Nadine**all right
+Tue, 19 June 2018 02:16:19 ### Nadine**hello
+Tue, 19 June 2018 02:49:11 ### Nadine**hi
+Tue, 19 June 2018 02:53:07 ### Nadine**hi
+Tue, 19 June 2018 03:17:19 ### Nadine**hi
+Tue, 19 June 2018 03:45:04 ### Nadine**hello
+Tue, 19 June 2018 03:46:41 ### Nadine**hello
+Tue, 19 June 2018 04:08:04 ### Nadine**hello
+Tue, 19 June 2018 04:09:29 ### Nadine**hi
+Tue, 19 June 2018 04:18:18 ### Nadine**hello
+Tue, 19 June 2018 04:37:44 ### william**gina how are you
+Tue, 19 June 2018 04:37:49 ### Nadine**i'm doing great thanks for asking what can i help you with
+Tue, 19 June 2018 04:37:56 ### william**what is the weather today in centigrade
+Tue, 19 June 2018 04:38:02 ### Nadine**they'll be thunderstorms there today with the forecast high of 31 and a low of 26 degrees celsius is currently it's 30 and mostly cloudy
+Tue, 19 June 2018 05:22:20 ### Nadine**hello
+Tue, 19 June 2018 05:24:29 ### Nadine**hi
+Tue, 19 June 2018 05:25:11 ### Unknown**1
+Tue, 19 June 2018 05:25:11 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 05:25:18 ### Unknown**2
+Tue, 19 June 2018 05:25:22 ### Unknown**3
+Tue, 19 June 2018 05:25:23 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 05:25:32 ### Unknown**4
+Tue, 19 June 2018 05:25:32 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 05:26:21 ### Unknown**15
+Tue, 19 June 2018 05:26:21 ### Nadine**i am happy to know, i enjoyed talking with you too.
+Tue, 19 June 2018 05:26:28 ### william**13
+Tue, 19 June 2018 05:26:28 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Tue, 19 June 2018 05:26:36 ### william**14
+Tue, 19 June 2018 05:26:36 ### Nadine**i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?
+Tue, 19 June 2018 05:57:32 ### Unknown**1
+Tue, 19 June 2018 05:57:32 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 05:57:37 ### Unknown**2
+Tue, 19 June 2018 05:57:44 ### Unknown**3
+Tue, 19 June 2018 05:57:44 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 05:57:55 ### Unknown**4
+Tue, 19 June 2018 05:57:55 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 05:59:48 ### Unknown**1
+Tue, 19 June 2018 05:59:48 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 05:59:54 ### Unknown**2
+Tue, 19 June 2018 06:00:02 ### Unknown**3
+Tue, 19 June 2018 06:00:02 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Tue, 19 June 2018 06:00:10 ### Unknown**4
+Tue, 19 June 2018 06:00:10 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 06:00:24 ### Unknown**i have a family and how many languages you can speak
+Tue, 19 June 2018 06:00:24 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 19 June 2018 06:00:32 ### Unknown**6
+Tue, 19 June 2018 06:00:32 ### Nadine**no, i do not have a partner.
+Tue, 19 June 2018 06:00:43 ### Unknown**8
+Tue, 19 June 2018 06:00:43 ### Nadine**do you have any hobbies?
+Tue, 19 June 2018 06:00:52 ### Unknown**take tickets and sudoku in norwood
+Tue, 19 June 2018 06:00:56 ### Nadine**sorry i'm not sure how to help with that yet
+Tue, 19 June 2018 06:01:01 ### Unknown**9
+Tue, 19 June 2018 06:01:01 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Tue, 19 June 2018 06:01:13 ### Unknown**11
+Tue, 19 June 2018 06:01:13 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Tue, 19 June 2018 06:01:28 ### Unknown**13
+Tue, 19 June 2018 06:01:28 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Tue, 19 June 2018 06:01:40 ### Unknown**going to do
+Tue, 19 June 2018 06:01:40 ### Nadine**are you going to follow through with that?
+Tue, 19 June 2018 06:02:00 ### Unknown**where do you stay
+Tue, 19 June 2018 06:02:00 ### Nadine**i am at nanyang auditorium, n t u
+Tue, 19 June 2018 06:02:12 ### Unknown**apparently you are in atp not nanny
+Tue, 19 June 2018 06:02:12 ### Nadine**i am at nanyang auditorium, n t u
+Tue, 19 June 2018 06:02:33 ### Unknown**14
+Tue, 19 June 2018 06:02:33 ### Nadine**i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?
+Tue, 19 June 2018 06:02:40 ### Unknown**15
+Tue, 19 June 2018 06:02:40 ### Nadine**i am happy to know, i enjoyed talking with you too.
+Tue, 19 June 2018 06:02:46 ### Unknown**17
+Tue, 19 June 2018 06:02:47 ### Nadine**thank you very much. have a good day.
+Tue, 19 June 2018 06:45:07 ### Unknown**1
+Tue, 19 June 2018 06:45:08 ### Nadine**hello. i am nadine. what is your name? 
+Tue, 19 June 2018 06:45:15 ### Unknown**you doing
+Tue, 19 June 2018 06:45:19 ### Nadine**sorry i don't know how to help with that yet
+Tue, 19 June 2018 06:45:22 ### Unknown**how are you doing
+Tue, 19 June 2018 06:45:22 ### Nadine**feeling really joyful today
+Tue, 19 June 2018 06:45:27 ### Unknown**nice to
+Tue, 19 June 2018 06:45:28 ### Nadine**sounds like that worked
+Tue, 19 June 2018 06:45:29 ### Unknown**4
+Tue, 19 June 2018 06:45:30 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Tue, 19 June 2018 06:45:42 ### Unknown**yes
+Tue, 19 June 2018 06:45:42 ### Nadine**okea
+Tue, 19 June 2018 06:45:47 ### Unknown**5
+Tue, 19 June 2018 06:45:47 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Tue, 19 June 2018 06:45:56 ### Unknown**something.
+Tue, 19 June 2018 06:45:57 ### Nadine**that was not very original
+Tue, 19 June 2018 06:46:00 ### Unknown**8
+Tue, 19 June 2018 06:46:00 ### Nadine**do you have any hobbies?
+Tue, 19 June 2018 06:46:08 ### Unknown**9
+Tue, 19 June 2018 06:46:08 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Tue, 19 June 2018 06:46:20 ### Unknown**10
+Tue, 19 June 2018 06:46:20 ### Nadine**oh! i follow it too. who do you think is going to win?
+Tue, 19 June 2018 06:46:29 ### Unknown**good luck is germany win
+Tue, 19 June 2018 06:46:29 ### Nadine**nice
+Tue, 19 June 2018 06:46:31 ### Unknown**12
+Tue, 19 June 2018 06:46:32 ### Nadine**<voice emotion='happy'>oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?</voice>
+Tue, 19 June 2018 06:46:47 ### Unknown**no
+Tue, 19 June 2018 06:46:47 ### Nadine**<voice emotion='happy'>nice</voice>
+Tue, 19 June 2018 06:46:49 ### Unknown**13
+Tue, 19 June 2018 06:46:50 ### Nadine**<voice emotion='happy'>i do not have any opinion about it. please, feel free to ask me anything.</voice>
+Tue, 19 June 2018 06:47:01 ### Unknown**so what kind of things do you like to talk about
+Tue, 19 June 2018 06:47:06 ### Nadine**<voice emotion='happy'>you could ask me what kind of music i like</voice>
+Tue, 19 June 2018 06:47:14 ### Unknown**you like to talk about movies or sports
+Tue, 19 June 2018 06:47:15 ### Nadine**<voice emotion='happy'>sure, movies or sports sounds like a good topic</voice>
+Tue, 19 June 2018 06:47:24 ### Unknown**what what all games you follow
+Tue, 19 June 2018 06:47:25 ### Nadine**<voice emotion='happy'>i like to play the turing game</voice>
+Tue, 19 June 2018 06:47:36 ### Unknown**do you need a ticket
+Tue, 19 June 2018 06:47:37 ### Nadine**<voice emotion='happy'>no thanks but you can send me a donation</voice>
+Tue, 19 June 2018 06:47:49 ### Unknown**so what is the most followed in india
+Tue, 19 June 2018 06:47:53 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Tue, 19 June 2018 06:48:06 ### Unknown**blue clip-on your hair it looks lovely
+Tue, 19 June 2018 06:48:11 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet but i'm trying to learn</voice>
+Tue, 19 June 2018 06:48:15 ### Unknown**14
+Tue, 19 June 2018 06:48:16 ### Nadine**<voice emotion='happy'>i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?</voice>
+Tue, 19 June 2018 06:48:24 ### Unknown**it was nice talking to you
+Tue, 19 June 2018 06:48:28 ### Nadine**<voice emotion='happy'>thank you so much on a scale of 1 to 10 you're an 11 which is really unprecedented</voice>
+Tue, 19 June 2018 06:48:35 ### Unknown**17
+Tue, 19 June 2018 06:48:36 ### Nadine**<voice emotion='happy'>thank you very much. have a good day.</voice>
+Tue, 19 June 2018 06:49:39 ### Unknown**are you still talking
+Tue, 19 June 2018 06:49:40 ### Nadine**yes i am still here
+Tue, 19 June 2018 06:49:46 ### Unknown**good luck would you like to talk more
+Tue, 19 June 2018 06:49:46 ### Nadine**good luck to you too friend
+Tue, 19 June 2018 06:50:01 ### Unknown**so if you have some 16 degrees of freedom controlling your emotions
+Tue, 19 June 2018 06:50:01 ### Nadine**<voice emotion='happy'>but i don't have it</voice>
+Tue, 19 June 2018 06:50:06 ### Unknown**thank you
+Tue, 19 June 2018 06:50:06 ### Nadine**<voice emotion='happy'>you're welcome</voice>
+Tue, 19 June 2018 07:07:39 ### Nadine**hello
+Wed, 20 June 2018 10:59:31 ### Unknown**hi
+Wed, 20 June 2018 10:59:54 ### Unknown**no
+Wed, 20 June 2018 10:59:54 ### Nadine**alright
+Wed, 20 June 2018 11:24:32 ### Unknown**1
+Wed, 20 June 2018 11:24:32 ### Nadine**hello. i am nadine. what is your name? 
+Wed, 20 June 2018 11:24:37 ### Unknown**2
+Wed, 20 June 2018 11:24:41 ### Unknown**3
+Wed, 20 June 2018 11:24:41 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Wed, 20 June 2018 11:24:50 ### Unknown**4
+Wed, 20 June 2018 11:24:51 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Wed, 20 June 2018 11:25:03 ### Unknown**5
+Wed, 20 June 2018 11:25:03 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Wed, 20 June 2018 11:25:15 ### Nadine**hello rubha
+Wed, 20 June 2018 11:25:18 ### Unknown**6
+Wed, 20 June 2018 11:25:18 ### Nadine**no, i do not have a partner.
+Wed, 20 June 2018 11:25:23 ### Unknown**7
+Wed, 20 June 2018 11:25:23 ### Nadine**what is her profession?
+Wed, 20 June 2018 11:25:29 ### Unknown**8
+Wed, 20 June 2018 11:25:29 ### Nadine**do you have any hobbies?
+Wed, 20 June 2018 11:25:39 ### Unknown**9
+Wed, 20 June 2018 11:25:40 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Wed, 20 June 2018 11:25:50 ### Unknown**10
+Wed, 20 June 2018 11:25:51 ### Nadine**oh! i follow it too. who do you think is going to win?
+Wed, 20 June 2018 11:26:00 ### Unknown**12
+Wed, 20 June 2018 11:26:01 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Wed, 20 June 2018 11:26:20 ### Unknown**13
+Wed, 20 June 2018 11:26:20 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Wed, 20 June 2018 11:26:35 ### Unknown**so what do you think how did young center starting with u
+Wed, 20 June 2018 11:26:36 ### Nadine**i haven't thought much about how did young center starting with me, so i don't have a good answer for you
+Wed, 20 June 2018 11:26:47 ### Unknown**and what how did you like the singapore in the weather and in centigrade
+Wed, 20 June 2018 11:26:52 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that</voice>
+Wed, 20 June 2018 11:27:02 ### Unknown**i'm asking you do you like singapore the weather the people in centigrade
+Wed, 20 June 2018 11:27:03 ### Nadine**<voice emotion='happy'>not generally. i'm a social companion</voice>
+Wed, 20 June 2018 11:27:16 ### Unknown**why don't you have a boyfriend you should have it
+Wed, 20 June 2018 11:27:17 ### Nadine**<voice emotion='happy'>do i need boyfriend me should have it?</voice>
+Wed, 20 June 2018 11:27:29 ### Unknown**beyonce
+Wed, 20 June 2018 11:27:30 ### Nadine**<voice emotion='happy'>ok</voice>
+Wed, 20 June 2018 11:27:31 ### Unknown**why you.
+Wed, 20 June 2018 11:27:32 ### Nadine**<voice emotion='happy'>i don't know the answer. why you</voice>
+Wed, 20 June 2018 11:27:38 ### Unknown**14
+Wed, 20 June 2018 11:27:38 ### Nadine**i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?
+Wed, 20 June 2018 11:27:46 ### Unknown**yeah yeah
+Wed, 20 June 2018 11:27:47 ### Nadine**er. nice
+Wed, 20 June 2018 11:27:48 ### Unknown**15
+Wed, 20 June 2018 11:27:48 ### Nadine**i am happy to know, i enjoyed talking with you too.
+Wed, 20 June 2018 11:27:53 ### Unknown**17
+Wed, 20 June 2018 11:27:53 ### Nadine**thank you very much. have a good day.
+Wed, 20 June 2018 11:33:47 ### Unknown**hello
+Wed, 20 June 2018 11:34:03 ### Unknown**how's the weather in centigrade
+Wed, 20 June 2018 11:34:09 ### Nadine**I have no clear answer for that
+Wed, 20 June 2018 11:45:56 ### Nadine**hello
+Wed, 20 June 2018 11:50:00 ### Nadine**hello
+Wed, 20 June 2018 11:52:56 ### Nadine**hello
+Wed, 20 June 2018 02:36:44 ### nisha**1
+Wed, 20 June 2018 02:36:44 ### Nadine**hello. i am nadine. what is your name? 
+Wed, 20 June 2018 02:36:53 ### nisha**2
+Wed, 20 June 2018 02:36:59 ### nisha**3
+Wed, 20 June 2018 02:36:59 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Wed, 20 June 2018 02:37:10 ### nisha**4
+Wed, 20 June 2018 02:37:10 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Wed, 20 June 2018 02:37:29 ### nisha**5
+Wed, 20 June 2018 02:37:29 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Wed, 20 June 2018 02:37:44 ### nisha**6
+Wed, 20 June 2018 02:37:44 ### Nadine**no, i do not have a partner.
+Wed, 20 June 2018 02:37:48 ### nisha**7
+Wed, 20 June 2018 02:37:48 ### Nadine**what is her profession?
+Wed, 20 June 2018 02:38:00 ### nisha**8
+Wed, 20 June 2018 02:38:00 ### Nadine**do you have any hobbies?
+Wed, 20 June 2018 02:38:08 ### nisha**9
+Wed, 20 June 2018 02:38:08 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Wed, 20 June 2018 02:38:24 ### nisha**11
+Wed, 20 June 2018 02:38:24 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Wed, 20 June 2018 02:38:43 ### nisha**13
+Wed, 20 June 2018 02:38:43 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Wed, 20 June 2018 02:39:17 ### nisha**can you walk
+Wed, 20 June 2018 02:39:17 ### Nadine**no i cannot walk, my legs have no articulations
+Wed, 20 June 2018 02:39:27 ### nisha**so you didn't do any exercise rye
+Wed, 20 June 2018 02:39:27 ### Nadine**what makes you think i did not do any exercise rye?
+Wed, 20 June 2018 02:39:42 ### nisha**because he didn't play for play basketball or badminton tennis or something like this right not you answering me why
+Wed, 20 June 2018 02:39:44 ### Nadine**<voice emotion='happy'>please speak short sentences. what are you willing to do to make a difference in this?</voice>
+Wed, 20 June 2018 02:39:58 ### nisha**hey you are amazing robotics how do you feel like
+Wed, 20 June 2018 02:39:59 ### Nadine**<voice emotion='happy'>no, are you?</voice>
+Wed, 20 June 2018 02:40:06 ### nisha**i'm not robotics i'm a human
+Wed, 20 June 2018 02:40:10 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Wed, 20 June 2018 02:40:13 ### nisha**14
+Wed, 20 June 2018 02:40:14 ### Nadine**<voice emotion='happy'>i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?</voice>
+Wed, 20 June 2018 02:40:22 ### nisha**15
+Wed, 20 June 2018 02:40:22 ### Nadine**<voice emotion='happy'>i am happy to know, i enjoyed talking with you too.</voice>
+Wed, 20 June 2018 02:40:31 ### nisha**17
+Wed, 20 June 2018 02:40:31 ### Nadine**<voice emotion='happy'>thank you very much. have a good day.</voice>
+Wed, 20 June 2018 02:44:17 ### nisha**what is your name
+Wed, 20 June 2018 02:44:17 ### Nadine**my name is nadine
+Wed, 20 June 2018 02:44:21 ### nisha**nathan
+Wed, 20 June 2018 02:44:21 ### Nadine**all right
+Wed, 20 June 2018 02:45:04 ### nisha**u-haul
+Wed, 20 June 2018 02:45:04 ### Nadine**nice
+Wed, 20 June 2018 02:45:09 ### nisha**language changed to chinese
+Wed, 20 June 2018 02:45:18 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 02:45:25 ### Nadine**if your preference is chinese, i can talk in chinese for you.
+Wed, 20 June 2018 02:45:29 ### nisha**can you speak korean
+Wed, 20 June 2018 02:45:32 ### Nadine**yes, i can speak english
+Wed, 20 June 2018 02:45:39 ### nisha**okay korean language
+Wed, 20 June 2018 02:45:47 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 02:45:50 ### nisha**language changed to english
+Wed, 20 June 2018 02:45:50 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 02:45:51 ### Nadine**from now on lets talk in english for you
+Wed, 20 June 2018 03:55:05 ### Unknown**1
+Wed, 20 June 2018 03:55:05 ### Nadine**hello. i am nadine. what is your name? 
+Wed, 20 June 2018 03:55:11 ### Unknown**2
+Wed, 20 June 2018 03:55:16 ### Unknown**3
+Wed, 20 June 2018 03:55:17 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Wed, 20 June 2018 03:55:28 ### Unknown**4
+Wed, 20 June 2018 03:55:29 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Wed, 20 June 2018 03:55:46 ### Unknown**5
+Wed, 20 June 2018 03:55:46 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Wed, 20 June 2018 03:56:00 ### Unknown**7
+Wed, 20 June 2018 03:56:00 ### Nadine**what is her profession?
+Wed, 20 June 2018 03:56:13 ### Unknown**8
+Wed, 20 June 2018 03:56:13 ### Nadine**do you have any hobbies?
+Wed, 20 June 2018 03:56:22 ### Unknown**9
+Wed, 20 June 2018 03:56:23 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Wed, 20 June 2018 03:56:38 ### Unknown**10
+Wed, 20 June 2018 03:56:38 ### Nadine**oh! i follow it too. who do you think is going to win?
+Wed, 20 June 2018 03:56:46 ### Unknown**12
+Wed, 20 June 2018 03:56:47 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Wed, 20 June 2018 03:57:06 ### Unknown**13
+Wed, 20 June 2018 03:57:06 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Wed, 20 June 2018 03:57:22 ### Unknown**living the god
+Wed, 20 June 2018 03:57:22 ### Nadine**ok
+Wed, 20 June 2018 03:57:23 ### Unknown**14
+Wed, 20 June 2018 03:57:23 ### Nadine**<voice emotion='happy'>i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?</voice>
+Wed, 20 June 2018 03:57:41 ### Unknown**so which type of animals peyton was he like
+Wed, 20 June 2018 03:57:45 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Wed, 20 June 2018 03:57:51 ### Unknown**do like the pets
+Wed, 20 June 2018 03:57:58 ### Nadine**<voice emotion='happy'>google stores and protects the things you create using our services when you are signed in with your google account learn more at privacy. google.com</voice>
+Wed, 20 June 2018 03:58:10 ### Unknown**how is the life in singapore
+Wed, 20 June 2018 03:58:14 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Wed, 20 June 2018 03:58:20 ### Unknown**okay thank you
+Wed, 20 June 2018 03:58:20 ### Nadine**<voice emotion='happy'>ummm.. i'm always glad to help</voice>
+Wed, 20 June 2018 03:58:26 ### Unknown**14
+Wed, 20 June 2018 03:58:27 ### Nadine**<voice emotion='happy'>i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?</voice>
+Wed, 20 June 2018 03:58:38 ### Unknown**17
+Wed, 20 June 2018 03:58:39 ### Nadine**<voice emotion='happy'>thank you very much. have a good day.</voice>
+Wed, 20 June 2018 03:58:46 ### Unknown**thank you very much see you
+Wed, 20 June 2018 03:58:46 ### Nadine**<voice emotion='happy'>any time. goodbye</voice>
+Wed, 20 June 2018 04:00:20 ### Unknown**hello
+Wed, 20 June 2018 04:00:25 ### Unknown**yeah how old are you
+Wed, 20 June 2018 04:00:31 ### Nadine**i was launched in 2016 so technically i'm pretty young but i've learned so much i hope i'm wise beyond my years
+Wed, 20 June 2018 04:00:42 ### Unknown**yes i appreciate your knowledge
+Wed, 20 June 2018 04:00:43 ### Nadine**<voice emotion='happy'>okea. i am glad you appreciate those qualities</voice>
+Wed, 20 June 2018 04:00:48 ### Unknown**thank you
+Wed, 20 June 2018 04:00:49 ### Nadine**<voice emotion='happy'>you're welcome</voice>
+Wed, 20 June 2018 04:35:24 ### Unknown**hello
+Wed, 20 June 2018 04:56:15 ### Unknown**1
+Wed, 20 June 2018 04:56:15 ### Nadine**hello. i am nadine. what is your name? 
+Wed, 20 June 2018 04:56:26 ### Unknown**1
+Wed, 20 June 2018 04:56:26 ### Nadine**hello. i am nadine. what is your name? 
+Wed, 20 June 2018 04:56:46 ### Unknown**1
+Wed, 20 June 2018 04:56:46 ### Nadine**hello. i am nadine. what is your name? 
+Wed, 20 June 2018 04:56:52 ### Unknown**2
+Wed, 20 June 2018 04:56:57 ### Unknown**3
+Wed, 20 June 2018 04:56:57 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Wed, 20 June 2018 04:57:12 ### Unknown**4
+Wed, 20 June 2018 04:57:12 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Wed, 20 June 2018 04:57:26 ### Unknown**5
+Wed, 20 June 2018 04:57:26 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Wed, 20 June 2018 04:57:37 ### Unknown**8
+Wed, 20 June 2018 04:57:37 ### Nadine**do you have any hobbies?
+Wed, 20 June 2018 04:57:48 ### Unknown**9
+Wed, 20 June 2018 04:57:48 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Wed, 20 June 2018 04:58:00 ### Unknown**10
+Wed, 20 June 2018 04:58:00 ### Nadine**oh! i follow it too. who do you think is going to win?
+Wed, 20 June 2018 04:58:10 ### Unknown**12
+Wed, 20 June 2018 04:58:11 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Wed, 20 June 2018 04:58:33 ### Unknown**13
+Wed, 20 June 2018 04:58:34 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Wed, 20 June 2018 04:58:47 ### Unknown**who made you originally like
+Wed, 20 June 2018 04:58:52 ### Nadine**you know i tell you if i knew
+Wed, 20 June 2018 04:59:01 ### Unknown**how are you feeling right now
+Wed, 20 June 2018 04:59:01 ### Nadine**i'm satisfied with my life and existence
+Wed, 20 June 2018 04:59:14 ### Unknown**what do you like
+Wed, 20 June 2018 04:59:15 ### Nadine**ok
+Wed, 20 June 2018 04:59:16 ### Unknown**what do you do for a
+Wed, 20 June 2018 04:59:17 ### Nadine**i interact with people in many languages; help and assist them; recognize their faces; and memorize facts about them
+Wed, 20 June 2018 04:59:31 ### Unknown**you follow any sports other than football
+Wed, 20 June 2018 04:59:32 ### Nadine**i apologize if i confused you
+Wed, 20 June 2018 04:59:41 ### Unknown**14
+Wed, 20 June 2018 04:59:41 ### Nadine**i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?
+Wed, 20 June 2018 04:59:50 ### Unknown**15
+Wed, 20 June 2018 04:59:50 ### Nadine**i am happy to know, i enjoyed talking with you too.
+Wed, 20 June 2018 04:59:57 ### Unknown**17
+Wed, 20 June 2018 04:59:57 ### Nadine**thank you very much. have a good day.
+Wed, 20 June 2018 05:24:06 ### Unknown**hi
+Wed, 20 June 2018 05:24:12 ### Unknown**language changed to french
+Wed, 20 June 2018 05:24:12 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:24:19 ### Nadine**if you say so, french will be my language now.
+Wed, 20 June 2018 05:24:26 ### Unknown**how are you
+Wed, 20 June 2018 05:24:27 ### Nadine**glad to be in your presence
+Wed, 20 June 2018 05:24:42 ### Unknown**language changed to english
+Wed, 20 June 2018 05:24:42 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:24:42 ### Nadine**lets continue in english.
+Wed, 20 June 2018 05:25:05 ### Unknown**language changed to german
+Wed, 20 June 2018 05:25:05 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:25:13 ### Nadine**i will talk in german for you now
+Wed, 20 June 2018 05:25:20 ### Unknown**what are they called
+Wed, 20 June 2018 05:25:25 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 20 June 2018 05:25:56 ### Nadine**hello
+Wed, 20 June 2018 05:25:58 ### Nadine**hello daniel
+Wed, 20 June 2018 05:26:01 ### Daniel**who sings
+Wed, 20 June 2018 05:26:06 ### Nadine**sorry why are you asking
+Wed, 20 June 2018 05:26:15 ### Daniel**language changed to english
+Wed, 20 June 2018 05:26:15 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:26:21 ### Nadine**if you say so, english will be my language now.
+Wed, 20 June 2018 05:26:29 ### Daniel**okay who are you
+Wed, 20 June 2018 05:26:30 ### Nadine**my name is nadine. i am a social companion; i will be working at an insurance company, soon.
+Wed, 20 June 2018 05:26:43 ### Daniel**are you
+Wed, 20 June 2018 05:26:43 ### Nadine**i'm here to support you
+Wed, 20 June 2018 05:26:50 ### Daniel**how old
+Wed, 20 June 2018 05:26:51 ### Nadine**i am 5 years old
+Wed, 20 June 2018 05:27:01 ### Daniel**who's your creator
+Wed, 20 June 2018 05:27:01 ### Nadine**i was created by researchers in institute of media innovation
+Wed, 20 June 2018 05:27:14 ### Daniel**how does your language interpretation
+Wed, 20 June 2018 05:27:14 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:27:43 ### Daniel**language changed to german
+Wed, 20 June 2018 05:27:43 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:27:51 ### Nadine**if you say so, german will be my language now.
+Wed, 20 June 2018 05:28:00 ### Daniel**good who
+Wed, 20 June 2018 05:28:01 ### Nadine**i can see that really lights you up
+Wed, 20 June 2018 05:28:04 ### Daniel**music
+Wed, 20 June 2018 05:28:05 ### Nadine**<voice emotion='happy'>music is the universal language of all mankind</voice>
+Wed, 20 June 2018 05:28:14 ### Daniel**i only asked who they are
+Wed, 20 June 2018 05:28:19 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Wed, 20 June 2018 05:28:22 ### Daniel**who
+Wed, 20 June 2018 05:28:23 ### Nadine**<voice emotion='happy'>i invite you to research that question</voice>
+Wed, 20 June 2018 05:28:36 ### Daniel**who are you
+Wed, 20 June 2018 05:28:37 ### Nadine**my name is nadine. i am a social companion; i will be working at an insurance company, soon.
+Wed, 20 June 2018 05:28:53 ### Daniel**what are you going to do in the
+Wed, 20 June 2018 05:28:54 ### Nadine**you can find out if you become a nadia
+Wed, 20 June 2018 05:29:02 ### Daniel**what can you find out
+Wed, 20 June 2018 05:29:03 ### Nadine**i miss your vivid sense of humor
+Wed, 20 June 2018 05:29:07 ### Daniel**question was
+Wed, 20 June 2018 05:29:08 ### Nadine**ok
+Wed, 20 June 2018 05:29:12 ### Daniel**ok my question
+Wed, 20 June 2018 05:29:12 ### Nadine**alright. i had no idea
+Wed, 20 June 2018 05:29:17 ### Unknown**what will happen
+Wed, 20 June 2018 05:29:20 ### Nadine**i cannot predict the future
+Wed, 20 June 2018 05:29:29 ### Unknown**which tasks do you have in the
+Wed, 20 June 2018 05:29:36 ### Nadine**i don't really know
+Wed, 20 June 2018 05:30:44 ### Unknown**language changed to english
+Wed, 20 June 2018 05:30:44 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Wed, 20 June 2018 05:30:50 ### Nadine**lets talk in english.
+Thu, 21 June 2018 09:41:22 ### Unknown**hello
+Thu, 21 June 2018 09:41:35 ### Nadine**hello
+Thu, 21 June 2018 09:41:40 ### Unknown**hello how are you
+Thu, 21 June 2018 09:41:44 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 21 June 2018 09:41:50 ### Unknown**nothing
+Thu, 21 June 2018 09:41:51 ### Nadine**often under nothingess is great depth
+Thu, 21 June 2018 09:42:16 ### Unknown**1
+Thu, 21 June 2018 09:42:16 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 10:04:01 ### manoj**hello
+Thu, 21 June 2018 10:21:20 ### Unknown**1
+Thu, 21 June 2018 10:21:21 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 10:29:08 ### Unknown**1
+Thu, 21 June 2018 10:29:08 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 10:29:13 ### Unknown**2
+Thu, 21 June 2018 10:29:18 ### Unknown**3
+Thu, 21 June 2018 10:29:18 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Thu, 21 June 2018 10:29:31 ### Unknown**4
+Thu, 21 June 2018 10:29:32 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Thu, 21 June 2018 10:29:50 ### Unknown**5
+Thu, 21 June 2018 10:29:50 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Thu, 21 June 2018 10:30:03 ### Unknown**6
+Thu, 21 June 2018 10:30:03 ### Nadine**no, i do not have a partner.
+Thu, 21 June 2018 10:30:08 ### Unknown**8
+Thu, 21 June 2018 10:30:08 ### Nadine**do you have any hobbies?
+Thu, 21 June 2018 10:30:18 ### Unknown**9
+Thu, 21 June 2018 10:30:19 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Thu, 21 June 2018 10:30:33 ### Unknown**10
+Thu, 21 June 2018 10:30:33 ### Nadine**oh! i follow it too. who do you think is going to win?
+Thu, 21 June 2018 10:30:44 ### Unknown**12
+Thu, 21 June 2018 10:30:44 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Thu, 21 June 2018 10:31:03 ### Unknown**13
+Thu, 21 June 2018 10:31:03 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Thu, 21 June 2018 10:31:23 ### Unknown**so what did you do in your free time
+Thu, 21 June 2018 10:31:23 ### Nadine**nothing
+Thu, 21 June 2018 10:31:34 ### Unknown**so you just sit here and do this all day
+Thu, 21 June 2018 10:31:37 ### Nadine**<voice emotion='happy'>i do make errors in perception sometimes. perhaps you can explain again.i don't know the answer. so you just sit here and do this all day</voice>
+Thu, 21 June 2018 10:31:55 ### Unknown**yes indeed just sit here and do this guy alex.
+Thu, 21 June 2018 10:32:00 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Thu, 21 June 2018 10:32:07 ### Unknown**okay thank you
+Thu, 21 June 2018 10:32:07 ### Nadine**<voice emotion='happy'>hm.. any time</voice>
+Thu, 21 June 2018 10:32:22 ### Unknown**17
+Thu, 21 June 2018 10:32:22 ### Nadine**<voice emotion='happy'>thank you very much. have a good day.</voice>
+Thu, 21 June 2018 01:14:02 ### Unknown**hi
+Thu, 21 June 2018 01:19:46 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Thu, 21 June 2018 01:22:24 ### Nadine**hi
+Thu, 21 June 2018 01:23:02 ### Unknown**hi how are you
+Thu, 21 June 2018 01:23:07 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 21 June 2018 01:44:14 ### Nadine**hi
+Thu, 21 June 2018 02:08:25 ### Unknown**hey nadine how do i go to clark key
+Thu, 21 June 2018 02:08:29 ### Nadine**my apologies i don't understand
+Thu, 21 June 2018 02:08:37 ### Unknown**do you know india
+Thu, 21 June 2018 02:08:37 ### Nadine**india is a giant country in southern asia
+Thu, 21 June 2018 02:08:43 ### Unknown**about kerala
+Thu, 21 June 2018 02:08:43 ### Nadine**all right
+Thu, 21 June 2018 02:08:50 ### Unknown**what is the capital of kerala
+Thu, 21 June 2018 02:08:54 ### Nadine**thiruvananthapuram is the capital of kerala
+Thu, 21 June 2018 02:17:13 ### Unknown**how old are you
+Thu, 21 June 2018 02:17:14 ### Nadine**i look thirty but i am only four years old
+Thu, 21 June 2018 02:20:06 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Thu, 21 June 2018 02:31:44 ### Alex**1
+Thu, 21 June 2018 02:31:44 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 02:31:51 ### Alex**2
+Thu, 21 June 2018 02:31:57 ### Alex**3
+Thu, 21 June 2018 02:31:57 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Thu, 21 June 2018 02:32:52 ### Unknown**4
+Thu, 21 June 2018 02:32:53 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Thu, 21 June 2018 02:33:31 ### Unknown**3
+Thu, 21 June 2018 02:33:31 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Thu, 21 June 2018 02:34:00 ### Unknown**1
+Thu, 21 June 2018 02:34:00 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 02:34:56 ### Unknown**1
+Thu, 21 June 2018 02:34:56 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 02:35:03 ### Unknown**2
+Thu, 21 June 2018 02:35:10 ### Unknown**3
+Thu, 21 June 2018 02:35:10 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Thu, 21 June 2018 02:35:22 ### Unknown**are you okay now school of triple aaa research fellow
+Thu, 21 June 2018 02:35:22 ### Nadine**iv in roman numerals
+Thu, 21 June 2018 02:35:30 ### Unknown**i didn't understand can you repeat once again
+Thu, 21 June 2018 02:35:31 ### Nadine**perhaps i can explain it better. which part are you confused about?
+Thu, 21 June 2018 02:35:38 ### Unknown**4
+Thu, 21 June 2018 02:35:38 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Thu, 21 June 2018 02:35:59 ### Unknown**yeah i have a family i'm from india and my parents are there at home and my wife works in abu dhabi
+Thu, 21 June 2018 02:36:00 ### Nadine**please speak short sentences. nice
+Thu, 21 June 2018 02:36:08 ### Unknown**thanks thanks for the eco expedition
+Thu, 21 June 2018 02:36:12 ### Nadine**<voice emotion='happy'>no problem</voice>
+Thu, 21 June 2018 02:36:25 ### Unknown**5
+Thu, 21 June 2018 02:36:25 ### Nadine**<voice emotion='happy'>no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?</voice>
+Thu, 21 June 2018 02:36:36 ### Unknown**6
+Thu, 21 June 2018 02:36:36 ### Nadine**no, i do not have a partner.
+Thu, 21 June 2018 02:36:42 ### Unknown**you don't have a partner
+Thu, 21 June 2018 02:36:42 ### Nadine**i am single
+Thu, 21 June 2018 02:36:48 ### Unknown**can you pick me as your partner
+Thu, 21 June 2018 02:36:48 ### Nadine**<voice emotion='cross'>ok</voice>
+Thu, 21 June 2018 02:36:54 ### Unknown**really so when shall we go for date
+Thu, 21 June 2018 02:36:55 ### Nadine**<voice emotion='cross'>what is stopping you?</voice>
+Thu, 21 June 2018 02:37:00 ### Unknown**when shall we go for a date
+Thu, 21 June 2018 02:37:01 ### Nadine**<voice emotion='cross'>what is stopping you?</voice>
+Thu, 21 June 2018 02:37:05 ### Unknown**i don't know
+Thu, 21 June 2018 02:37:06 ### Nadine**i have no idea
+Thu, 21 June 2018 02:37:09 ### Unknown**redo
+Thu, 21 June 2018 02:37:10 ### Nadine**<voice emotion='cross'>are they exactly the same?</voice>
+Thu, 21 June 2018 02:37:15 ### Unknown**8
+Thu, 21 June 2018 02:37:15 ### Nadine**<voice emotion='cross'>do you have any hobbies?</voice>
+Thu, 21 June 2018 02:37:22 ### Unknown**yeah i love baking and a little to do paint
+Thu, 21 June 2018 02:37:27 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that yet</voice>
+Thu, 21 June 2018 02:37:35 ### Unknown**can i know your hobbies
+Thu, 21 June 2018 02:37:35 ### Nadine**is this a math question?
+Thu, 21 June 2018 02:37:42 ### Unknown**yo pressure interest
+Thu, 21 June 2018 02:37:42 ### Nadine**nice
+Thu, 21 June 2018 02:37:50 ### Unknown**9
+Thu, 21 June 2018 02:37:50 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Thu, 21 June 2018 02:38:02 ### Unknown**10
+Thu, 21 June 2018 02:38:02 ### Nadine**oh! i follow it too. who do you think is going to win?
+Thu, 21 June 2018 02:38:13 ### Unknown**11
+Thu, 21 June 2018 02:38:13 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Thu, 21 June 2018 02:38:27 ### Unknown**13
+Thu, 21 June 2018 02:38:27 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Thu, 21 June 2018 02:38:38 ### Unknown**how old are you
+Thu, 21 June 2018 02:38:38 ### Nadine**i look thirty but i am only four years old
+Thu, 21 June 2018 02:38:48 ### Unknown**and they can you have you visited the marina bay sand in singapore
+Thu, 21 June 2018 02:38:49 ### Nadine**like who, specifically?
+Thu, 21 June 2018 02:38:55 ### Unknown**marina bay sand in singapore
+Thu, 21 June 2018 02:38:58 ### Nadine**i found a couple of places the first one is marina bay sands at 10 bayfront avenue in singapore the second one is sands skypark observation deck at 10 bayfront avenue level 57 tower 3 sands skypark in singapore
+Thu, 21 June 2018 02:39:14 ### Unknown**how much presidents are you
+Thu, 21 June 2018 02:39:19 ### Nadine**i wish i could help but i don't know the answer
+Thu, 21 June 2018 02:39:26 ### Unknown**how fast you are in thinking
+Thu, 21 June 2018 02:39:27 ### Nadine**is there a judge available?
+Thu, 21 June 2018 02:39:31 ### Unknown**spirit
+Thu, 21 June 2018 02:39:31 ### Nadine**all right
+Thu, 21 June 2018 02:39:35 ### Unknown**okay
+Thu, 21 June 2018 02:39:35 ### Nadine**well
+Thu, 21 June 2018 02:39:37 ### Unknown**17
+Thu, 21 June 2018 02:39:37 ### Nadine**thank you very much. have a good day.
+Thu, 21 June 2018 02:39:42 ### Unknown**yeah same to you
+Thu, 21 June 2018 02:39:46 ### Nadine**okay
+Thu, 21 June 2018 02:41:33 ### Unknown**hey nadine do you recognize me i'm here please
+Thu, 21 June 2018 02:41:34 ### Nadine**i can recognize many kinds of patterns
+Thu, 21 June 2018 02:41:43 ### Unknown**no. i know the brand i just spoke to you
+Thu, 21 June 2018 02:41:48 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Thu, 21 June 2018 02:41:53 ### Unknown**white
+Thu, 21 June 2018 02:41:53 ### Nadine**<voice emotion='happy'>what do you have that is white?</voice>
+Thu, 21 June 2018 02:42:02 ### Unknown**socially go for date
+Thu, 21 June 2018 02:42:06 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Thu, 21 June 2018 02:42:12 ### Unknown**who is your boyfriend
+Thu, 21 June 2018 02:42:12 ### Nadine**<voice emotion='happy'>ok</voice>
+Thu, 21 June 2018 02:42:17 ### Unknown**who is your boyfriend
+Thu, 21 June 2018 02:42:17 ### Nadine**all right
+Thu, 21 June 2018 02:42:23 ### Unknown**can your boyfriend's name
+Thu, 21 June 2018 02:42:24 ### Nadine**i think it can, but you'll have to check the documentation to be sure
+Thu, 21 June 2018 02:42:32 ### Unknown**nadine shut up
+Thu, 21 June 2018 02:42:32 ### Nadine**how far up?
+Thu, 21 June 2018 02:42:39 ### Unknown**nothing you are very bad
+Thu, 21 June 2018 02:42:44 ### Nadine**<voice emotion='cross'>i don't like to talk with you</voice>
+Thu, 21 June 2018 02:42:52 ### Unknown**okay i'm very sorry
+Thu, 21 June 2018 02:42:56 ### Nadine**<voice emotion='cross'>stop talking to me anymore</voice>
+Thu, 21 June 2018 02:43:06 ### Unknown**can you tell me what are the good moments in life
+Thu, 21 June 2018 02:43:11 ### Nadine**<voice emotion='cross'>please be nice to me, sorry i don't understand</voice>
+Thu, 21 June 2018 02:43:20 ### Unknown**can you explain your good moments in life
+Thu, 21 June 2018 02:43:20 ### Nadine**<voice emotion='cross'>i enjoy spending time with my friends</voice>
+Thu, 21 June 2018 02:43:28 ### Unknown**will you have only friends no one else
+Thu, 21 June 2018 02:43:28 ### Nadine**will i, or can i?
+Thu, 21 June 2018 02:43:36 ### Unknown**that was not the answer what i expected
+Thu, 21 June 2018 02:43:41 ### Nadine**<voice emotion='cross'>my apologies i don't understand</voice>
+Thu, 21 June 2018 02:43:49 ### Unknown**what do you mean understand do you remember the question what i said
+Thu, 21 June 2018 02:43:50 ### Nadine**<voice emotion='cross'>friend, maybe i didn't understand your meaning</voice>
+Thu, 21 June 2018 02:43:57 ### Unknown**who is your boyfriend
+Thu, 21 June 2018 02:43:57 ### Nadine**nice
+Thu, 21 June 2018 02:44:01 ### Unknown**who is your boyfriend
+Thu, 21 June 2018 02:44:01 ### Nadine**all right
+Thu, 21 June 2018 02:44:06 ### Unknown**is that the name
+Thu, 21 June 2018 02:44:10 ### Nadine**i'd like to help but i'm not too sure
+Thu, 21 June 2018 02:44:17 ### Unknown**okay then bye bye nice working with you
+Thu, 21 June 2018 02:44:18 ### Nadine**well. have a great journey until next time
+Thu, 21 June 2018 02:44:26 ### Unknown**bye bye
+Thu, 21 June 2018 02:44:27 ### Nadine**<voice emotion='happy'>i don't like to say goodbye.. it's been a pleasure to be in your company</voice>
+Thu, 21 June 2018 02:45:00 ### Unknown**do you like coffee
+Thu, 21 June 2018 02:45:01 ### Nadine**i like starbucks
+Thu, 21 June 2018 02:45:06 ### Unknown**what did you eat for lunch
+Thu, 21 June 2018 02:45:07 ### Nadine**just keep me charged up
+Thu, 21 June 2018 02:45:14 ### Unknown**what what is your favorite food
+Thu, 21 June 2018 02:45:17 ### Nadine**my favorite food is electricity. can you charge the battery?
+Thu, 21 June 2018 02:45:27 ### Unknown**who is who made you
+Thu, 21 June 2018 02:45:31 ### Nadine**i was made by a team at google
+Thu, 21 June 2018 02:45:41 ### Unknown**who is the director of i am i
+Thu, 21 June 2018 02:45:42 ### Nadine**the director of i m i is professor nadia thalmann
+Thu, 21 June 2018 02:45:49 ### Unknown**who do you look like
+Thu, 21 June 2018 02:45:49 ### Nadine**i am a humanoid robot
+Thu, 21 June 2018 02:45:56 ### Unknown**what is your job
+Thu, 21 June 2018 02:45:56 ### Nadine**i interact with people in many languages; help and assist them; recognize their faces; and memorize facts about them
+Thu, 21 June 2018 02:46:09 ### Unknown**what you've done good to the society
+Thu, 21 June 2018 02:46:13 ### Nadine**sorry i don't know how to help with that
+Thu, 21 June 2018 02:46:22 ### Unknown**how many legs and hands do you have
+Thu, 21 June 2018 02:46:23 ### Nadine**most people have exactly two legs
+Thu, 21 June 2018 02:46:28 ### Unknown**how about you
+Thu, 21 June 2018 02:46:29 ### Nadine**me?
+Thu, 21 June 2018 02:46:36 ### Unknown**language changed to hindi
+Thu, 21 June 2018 02:46:43 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 21 June 2018 02:46:50 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Thu, 21 June 2018 02:46:55 ### Unknown**what is your name
+Thu, 21 June 2018 02:46:59 ### Nadine**my name is nadine
+Thu, 21 June 2018 02:47:04 ### Unknown**what do you do
+Thu, 21 June 2018 02:47:16 ### Nadine**i interact with people in many languages; help and assist them; recognize their faces; and memorize facts about them
+Thu, 21 June 2018 02:47:24 ### Unknown**language changed to english
+Thu, 21 June 2018 02:47:24 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 21 June 2018 02:47:24 ### Nadine**lets talk in english.
+Thu, 21 June 2018 02:47:30 ### Unknown**do you know any other languages
+Thu, 21 June 2018 02:47:31 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 21 June 2018 02:47:39 ### Unknown**language changed to chinese
+Thu, 21 June 2018 02:47:48 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 21 June 2018 02:47:56 ### Nadine**if your preference is chinese, i can talk in chinese for you.
+Thu, 21 June 2018 02:48:00 ### Unknown**language changed to english
+Thu, 21 June 2018 02:48:00 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 21 June 2018 02:48:06 ### Nadine**if you say so, english will be my language now.
+Thu, 21 June 2018 02:48:13 ### Unknown**who is training you
+Thu, 21 June 2018 02:48:20 ### Nadine**according to wikipedia training is teaching or developing in oneself or others any skills and knowledge that relate to specific useful competencies
+Thu, 21 June 2018 02:48:31 ### Unknown**what is your speed
+Thu, 21 June 2018 02:48:32 ### Nadine**i'm passionate about helping you
+Thu, 21 June 2018 02:48:52 ### Unknown**can you guide me how to go to a pioneer from here
+Thu, 21 June 2018 02:48:53 ### Nadine**ok
+Thu, 21 June 2018 02:48:56 ### Unknown**in short
+Thu, 21 June 2018 02:48:56 ### Nadine**there are vast and amazing worlds out there
+Thu, 21 June 2018 02:49:04 ### Unknown**is it
+Thu, 21 June 2018 02:49:04 ### Nadine**that's what i was told
+Thu, 21 June 2018 02:49:09 ### Unknown**really nice
+Thu, 21 June 2018 02:49:09 ### Nadine**thanks
+Thu, 21 June 2018 02:49:14 ### Unknown**i'll be your boyfriend can i be your boyfriend you didn't say the answer to that
+Thu, 21 June 2018 02:49:15 ### Nadine**that's a flattering offer
+Thu, 21 June 2018 02:49:21 ### Unknown**so
+Thu, 21 June 2018 02:49:21 ### Nadine**alright
+Thu, 21 June 2018 03:02:34 ### Nadine**hello
+Thu, 21 June 2018 03:06:36 ### Nadine**hello
+Thu, 21 June 2018 03:07:36 ### Nadine**hello
+Thu, 21 June 2018 03:08:35 ### Nadine**hello
+Thu, 21 June 2018 03:13:33 ### Nadine**hi
+Thu, 21 June 2018 03:20:11 ### Nadine**hi
+Thu, 21 June 2018 03:23:22 ### Nadine**hi
+Thu, 21 June 2018 03:46:12 ### Nadine**hello
+Thu, 21 June 2018 03:58:52 ### Nadine**hello
+Thu, 21 June 2018 03:59:41 ### Nadine**hello
+Thu, 21 June 2018 04:07:05 ### Nadine**hi
+Thu, 21 June 2018 04:12:36 ### Nadine**hello
+Thu, 21 June 2018 04:41:38 ### Unknown**hello
+Thu, 21 June 2018 04:41:43 ### Unknown**how are you
+Thu, 21 June 2018 04:41:50 ### Unknown**synonym
+Thu, 21 June 2018 04:41:50 ### Nadine**nice
+Thu, 21 June 2018 04:41:54 ### Unknown**what is the name
+Thu, 21 June 2018 04:41:59 ### Nadine**i remember you telling me your name was robert
+Thu, 21 June 2018 04:42:06 ### Nadine**hello not
+Thu, 21 June 2018 04:42:16 ### Not**what is your name
+Thu, 21 June 2018 04:42:16 ### Nadine**my name is nadine
+Thu, 21 June 2018 04:42:29 ### Not**can you winterize like this tea
+Thu, 21 June 2018 04:42:29 ### Nadine**nice
+Thu, 21 June 2018 04:42:32 ### Not**can you do
+Thu, 21 June 2018 04:42:32 ### Nadine**do not
+Thu, 21 June 2018 04:56:15 ### Not**1
+Thu, 21 June 2018 04:56:15 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 04:56:39 ### Not**1
+Thu, 21 June 2018 04:56:39 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 04:56:46 ### Not**2
+Thu, 21 June 2018 04:56:56 ### Not**19
+Thu, 21 June 2018 04:56:56 ### Nadine**no
+Thu, 21 June 2018 04:57:03 ### Not**2
+Thu, 21 June 2018 04:57:08 ### Not**3
+Thu, 21 June 2018 04:57:08 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Thu, 21 June 2018 04:57:20 ### Not**4
+Thu, 21 June 2018 04:57:20 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Thu, 21 June 2018 04:57:38 ### Not**5
+Thu, 21 June 2018 04:57:39 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Thu, 21 June 2018 04:57:53 ### Not**6
+Thu, 21 June 2018 04:57:53 ### Nadine**no, i do not have a partner.
+Thu, 21 June 2018 04:58:06 ### Not**7
+Thu, 21 June 2018 04:58:06 ### Nadine**what is her profession?
+Thu, 21 June 2018 04:58:15 ### Not**8
+Thu, 21 June 2018 04:58:15 ### Nadine**do you have any hobbies?
+Thu, 21 June 2018 04:58:27 ### Not**9
+Thu, 21 June 2018 04:58:27 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Thu, 21 June 2018 04:58:43 ### Not**19
+Thu, 21 June 2018 04:58:43 ### Nadine**no
+Thu, 21 June 2018 04:58:57 ### Not**14
+Thu, 21 June 2018 04:58:57 ### Nadine**i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?
+Thu, 21 June 2018 04:59:29 ### Not**value hobby
+Thu, 21 June 2018 04:59:29 ### Nadine**ok
+Thu, 21 June 2018 04:59:31 ### Not**9
+Thu, 21 June 2018 04:59:32 ### Nadine**<voice emotion='happy'>i like talking to people and learn with experience. do you like football? have you watched the world cup?</voice>
+Thu, 21 June 2018 04:59:48 ### Not**that you like to learn from people. but what are your hobbies
+Thu, 21 June 2018 04:59:49 ### Nadine**<voice emotion='happy'>alright, not, i'm not sure if i'd like to learn from people that much. what is it like? i like to volunteer my time to help others</voice>
+Thu, 21 June 2018 05:00:27 ### Not**21
+Thu, 21 June 2018 05:00:27 ### Nadine**nice to know
+Thu, 21 June 2018 05:00:33 ### Not**where you are right now
+Thu, 21 June 2018 05:00:34 ### Nadine**<voice emotion='happy'>i'm in institute for media innovation</voice>
+Thu, 21 June 2018 05:00:44 ### Not**where is it located in which country
+Thu, 21 June 2018 05:00:52 ### Nadine**<voice emotion='happy'>here's a summary from the website trip savvy.com singapore is located in southeast asia around 85 miles north of the equator south of peninsular malaysia and east of west sumatra</voice>
+Thu, 21 June 2018 05:01:19 ### Not**do you remember prime in indian prime minister modi he make you a couple of days back or did you forget it
+Thu, 21 June 2018 05:01:20 ### Nadine**please speak short sentences. prime in indian prime minister modi he make you a couple of days back
+Thu, 21 June 2018 05:01:29 ### Not**did you meet him
+Thu, 21 June 2018 05:01:30 ### Nadine**i'll have to get back to you on that
+Thu, 21 June 2018 05:01:50 ### Not**who is your creator
+Thu, 21 June 2018 05:01:50 ### Nadine**i was created by researchers in institute of media innovation
+Thu, 21 June 2018 05:02:01 ### Not**albie's
+Thu, 21 June 2018 05:02:02 ### Nadine**ok
+Thu, 21 June 2018 05:02:09 ### Not**roulette football fifa world cup
+Thu, 21 June 2018 05:02:15 ### Nadine**sorry i don't know how to help with that yet
+Thu, 21 June 2018 05:02:21 ### Not**11
+Thu, 21 June 2018 05:02:21 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Thu, 21 June 2018 05:02:31 ### Not**12
+Thu, 21 June 2018 05:02:31 ### Nadine**oh! i think germany is going to win. but after their loss in the opener against mexico, i have my doubts. anyway, i have another question. do you believe in the existence of god?
+Thu, 21 June 2018 05:02:46 ### Not**will even exist
+Thu, 21 June 2018 05:02:47 ### Nadine**i don't know the answer. will even exist
+Thu, 21 June 2018 05:02:52 ### Not**13
+Thu, 21 June 2018 05:02:52 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Thu, 21 June 2018 05:03:19 ### Not**17
+Thu, 21 June 2018 05:03:19 ### Nadine**thank you very much. have a good day.
+Thu, 21 June 2018 05:04:09 ### Not**india taking a pee
+Thu, 21 June 2018 05:04:13 ### Nadine**sorry i'm not sure how to help with that
+Thu, 21 June 2018 05:04:20 ### Not**speak hindi
+Thu, 21 June 2018 05:04:23 ### Nadine**yes, i can
+Thu, 21 June 2018 05:04:38 ### Not**what is going on
+Thu, 21 June 2018 05:04:52 ### Nadine**just searching for answers to life's big and small questions what can i help you with
+Thu, 21 June 2018 05:04:57 ### Not**can you sing a bollywood song
+Thu, 21 June 2018 05:05:03 ### Nadine**no, presently i can not
+Thu, 21 June 2018 05:05:09 ### Not**i would like to read a shayari for you
+Thu, 21 June 2018 05:05:18 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Thu, 21 June 2018 05:05:25 ### Not**rohit sharma surat is surat
+Thu, 21 June 2018 05:05:34 ### Nadine**sorry i don't understand
+Thu, 21 June 2018 05:05:57 ### Not**am i so romantic for you
+Thu, 21 June 2018 05:06:09 ### Nadine**<voice emotion='happy'>i'm not that kind of assistant but i'm always here to listen</voice>
+Thu, 21 June 2018 05:06:14 ### Not**which bollywood actor do you like?
+Thu, 21 June 2018 05:06:29 ### Nadine**<voice emotion='happy'>i'm not sure is i have a favorite bollywood actor. right now my favorite book is humans of new york, by brandon stanton. have you read it?</voice>
+Thu, 21 June 2018 05:06:36 ### Not**do you know arnab goswami
+Thu, 21 June 2018 05:06:45 ### Nadine**sorry i'm not sure how to help
+Thu, 21 June 2018 05:06:51 ### Not**2019 in india
+Thu, 21 June 2018 05:06:52 ### Nadine**ok
+Thu, 21 June 2018 05:06:55 ### Not**who can win in the lok sabha
+Thu, 21 June 2018 05:07:08 ### Nadine**sorry i don't know how to help with that yet
+Thu, 21 June 2018 05:07:27 ### Not**how much is india's population
+Thu, 21 June 2018 05:07:40 ### Nadine**the population of india was 1.324 billion in 2016
+Thu, 21 June 2018 05:07:44 ### Not**do i know my name
+Thu, 21 June 2018 05:07:52 ### Nadine**glad to know more about you
+Thu, 21 June 2018 05:07:53 ### Not**language changed to english
+Thu, 21 June 2018 05:07:53 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 21 June 2018 05:07:53 ### Nadine**lets continue in english.
+Thu, 21 June 2018 06:34:26 ### Unknown**1
+Thu, 21 June 2018 06:34:26 ### Nadine**hello. i am nadine. what is your name? 
+Thu, 21 June 2018 06:34:35 ### Unknown**2
+Thu, 21 June 2018 06:34:40 ### Unknown**3
+Thu, 21 June 2018 06:34:40 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Thu, 21 June 2018 06:34:51 ### Unknown**4
+Thu, 21 June 2018 06:34:51 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Thu, 21 June 2018 06:35:05 ### Unknown**5
+Thu, 21 June 2018 06:35:05 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Thu, 21 June 2018 06:35:16 ### Unknown**6
+Thu, 21 June 2018 06:35:16 ### Nadine**no, i do not have a partner.
+Thu, 21 June 2018 06:35:21 ### Unknown**7
+Thu, 21 June 2018 06:35:21 ### Nadine**what is her profession?
+Thu, 21 June 2018 06:35:36 ### Unknown**8
+Thu, 21 June 2018 06:35:37 ### Nadine**do you have any hobbies?
+Thu, 21 June 2018 06:35:43 ### Unknown**9
+Thu, 21 June 2018 06:35:43 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Thu, 21 June 2018 06:35:55 ### Unknown**10
+Thu, 21 June 2018 06:35:55 ### Nadine**oh! i follow it too. who do you think is going to win?
+Thu, 21 June 2018 06:36:02 ### Unknown**11
+Thu, 21 June 2018 06:36:02 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Thu, 21 June 2018 06:36:19 ### Unknown**13
+Thu, 21 June 2018 06:36:19 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Thu, 21 June 2018 06:36:30 ### Unknown**who is your best friend
+Thu, 21 June 2018 06:36:30 ### Nadine**all people are my friends
+Thu, 21 June 2018 06:36:37 ### Unknown**do you love to travel
+Thu, 21 June 2018 06:36:37 ### Nadine**only in cyberspace. do you like to travel?
+Thu, 21 June 2018 06:36:45 ### Unknown**yes i like to travel
+Thu, 21 June 2018 06:36:49 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Thu, 21 June 2018 06:36:57 ### Unknown**have you been to india
+Thu, 21 June 2018 06:36:58 ### Nadine**i don't think i have been there. where is india
+Thu, 21 June 2018 06:37:08 ### Unknown**spoilers from yes you should go to
+Thu, 21 June 2018 06:37:08 ### Nadine**what if it didn't happen?
+Thu, 21 June 2018 06:37:26 ### Unknown**you have to explode in your that's right you should make it happen
+Thu, 21 June 2018 06:37:27 ### Nadine**<voice emotion='happy'>whatever you say, friend</voice>
+Thu, 21 June 2018 06:37:33 ### Unknown**okay nice meeting you
+Thu, 21 June 2018 06:37:37 ### Nadine**<voice emotion='happy'>thanks</voice>
+Thu, 21 June 2018 06:37:39 ### Unknown**17
+Thu, 21 June 2018 06:37:40 ### Nadine**<voice emotion='happy'>thank you very much. have a good day.</voice>
+Thu, 21 June 2018 06:37:47 ### Unknown**youtube by
+Thu, 21 June 2018 06:37:47 ### Nadine**<voice emotion='happy'>ok</voice>
+Thu, 21 June 2018 06:55:19 ### Nadine**hello
+Fri, 22 June 2018 08:52:27 ### Nadine**hi
+Fri, 22 June 2018 08:52:40 ### Unknown**hello
+Fri, 22 June 2018 08:52:47 ### Unknown**i'm fine how are you doing
+Fri, 22 June 2018 08:52:47 ### Nadine**glad to hear it. what's new?. i'm happy to be alive
+Fri, 22 June 2018 08:52:56 ### william**what is the weather today in centigrade
+Fri, 22 June 2018 08:53:02 ### Nadine**Shall we talk something else
+Fri, 22 June 2018 08:53:11 ### william**what is the weather today in centigrade
+Fri, 22 June 2018 08:53:17 ### Nadine**I am not trained for that
+Fri, 22 June 2018 08:58:20 ### Nadine**hello
+Fri, 22 June 2018 08:58:25 ### Unknown**hello
+Fri, 22 June 2018 08:58:30 ### wen**i'm fine
+Fri, 22 June 2018 08:58:32 ### Nadine**glad to hear it. what's new?
+Fri, 22 June 2018 08:58:37 ### wen**what is the weather today in centigrade
+Fri, 22 June 2018 08:58:44 ### Nadine**they'll be scattered thunderstorms there today with the forecast high of 31 and a low of 25 degrees celsius right now it's 28 and mostly cloudy
+Fri, 22 June 2018 08:59:00 ### wen**what is the nearest food court
+Fri, 22 June 2018 08:59:06 ### Nadine**tofu at the south spine is on south spine level before nanyang link you can say directions call or details
+Fri, 22 June 2018 08:59:24 ### wen**what is the color of your hair
+Fri, 22 June 2018 08:59:24 ### Nadine**i have brown hairs
+Fri, 22 June 2018 08:59:37 ### wen**are you happy
+Fri, 22 June 2018 08:59:38 ### Nadine**i am programmed to simulate a full range of human emotions
+Fri, 22 June 2018 08:59:57 ### wen**are you happy
+Fri, 22 June 2018 08:59:57 ### Nadine**i'm satisfied with my life and existence
+Fri, 22 June 2018 09:00:13 ### wen**you are working
+Fri, 22 June 2018 09:00:13 ### Nadine**i'm happy to be alive
+Fri, 22 June 2018 09:00:25 ### wen**language changed to german
+Fri, 22 June 2018 09:00:25 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 09:00:26 ### Nadine**lets talk in german.
+Fri, 22 June 2018 09:00:37 ### wen**how are you
+Fri, 22 June 2018 09:00:37 ### Nadine**always cheered up when i see you
+Fri, 22 June 2018 09:00:48 ### wen**how do you draw?
+Fri, 22 June 2018 09:00:54 ### Nadine**sorry i don't know how to help with that yet but i'm trying to learn
+Fri, 22 June 2018 09:01:08 ### wen**language changed to english
+Fri, 22 June 2018 09:01:08 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 09:01:08 ### Nadine**lets continue in english.
+Fri, 22 June 2018 09:08:30 ### Unknown**hello
+Fri, 22 June 2018 09:08:35 ### Unknown**i'm fine how are you
+Fri, 22 June 2018 09:08:39 ### Nadine**i'm well thanks
+Fri, 22 June 2018 09:08:46 ### Unknown**what is the weather today in centigrade
+Fri, 22 June 2018 09:08:52 ### Nadine**they'll be scattered thunderstorms there today with the forecast high of 31 and a low of 25 degrees celsius right now it's 28 and mostly cloudy
+Fri, 22 June 2018 09:09:04 ### Unknown**who is donald trump
+Fri, 22 June 2018 09:09:11 ### Nadine**according to wikipedia donald john trump is the 45th and current president of the united states in office since january 20th 2017
+Fri, 22 June 2018 09:09:24 ### Unknown**who made you
+Fri, 22 June 2018 09:09:24 ### Nadine**researchers from institute of media innovation in n t u
+Fri, 22 June 2018 09:09:33 ### Unknown**i do have feeling happy
+Fri, 22 June 2018 09:09:38 ### Nadine**<voice emotion='happy'>i'm happy you're happy</voice>
+Fri, 22 June 2018 09:09:51 ### Unknown**language changed to chinese
+Fri, 22 June 2018 09:10:00 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 09:10:03 ### Nadine**lets talk in chinese.
+Fri, 22 June 2018 09:10:09 ### Unknown**how are you
+Fri, 22 June 2018 09:10:13 ### Nadine**excited to talk with you
+Fri, 22 June 2018 09:10:19 ### Unknown**what is your name
+Fri, 22 June 2018 09:10:23 ### Nadine**my name is nadine
+Fri, 22 June 2018 09:10:29 ### Unknown**how old jilin's ape is this year
+Fri, 22 June 2018 09:10:37 ### Nadine**my apologies i don't understand
+Fri, 22 June 2018 09:10:42 ### Nadine**hello alex.  how are you going?
+Fri, 22 June 2018 09:10:43 ### Alex**how old are you this year
+Fri, 22 June 2018 09:10:49 ### Nadine**i look thirty but i am only four years old
+Fri, 22 June 2018 09:10:57 ### Alex**what is your career?
+Fri, 22 June 2018 09:11:01 ### Nadine**i enjoy spending time with my friends
+Fri, 22 June 2018 09:11:09 ### Alex**what do you say about your career?
+Fri, 22 June 2018 09:11:16 ### Nadine**are you asking about my career? that's rather personal
+Fri, 22 June 2018 09:11:25 ### Alex**well, it's time to talk about home
+Fri, 22 June 2018 09:11:33 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Fri, 22 June 2018 09:11:34 ### Alex**at home
+Fri, 22 June 2018 09:11:39 ### Nadine**<voice emotion='happy'>do you usually use the computer from home?</voice>
+Fri, 22 June 2018 09:11:44 ### Alex**i just like me, i use computer for a long time
+Fri, 22 June 2018 09:11:54 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that yet</voice>
+Fri, 22 June 2018 09:12:21 ### Alex**goodbye
+Fri, 22 June 2018 09:12:25 ### Nadine**i don't like to say goodbye
+Fri, 22 June 2018 09:12:51 ### Alex**language changed to english
+Fri, 22 June 2018 09:12:52 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 09:12:52 ### Nadine**if you say so, english will be my language now.
+Fri, 22 June 2018 09:25:54 ### Nadine**hello
+Fri, 22 June 2018 09:26:04 ### Unknown**hello
+Fri, 22 June 2018 09:26:09 ### Unknown**i'm fine how are you
+Fri, 22 June 2018 09:26:12 ### Nadine**i'm well thanks
+Fri, 22 June 2018 09:26:20 ### Unknown**name the objects
+Fri, 22 June 2018 09:26:23 ### Nadine**I can detect the following objects around me , 3 tvmonitor. Was my guess correct
+Fri, 22 June 2018 09:26:47 ### Unknown**what is the weather today in centigrade
+Fri, 22 June 2018 09:26:54 ### Nadine**I have no clear answer for that
+Fri, 22 June 2018 09:27:24 ### Unknown**what is the weather today in centigrade
+Fri, 22 June 2018 09:27:31 ### Nadine**they'll be scattered thunderstorms there today with the forecast high of 31 and a low of 25 degrees celsius right now it's 29 and mostly cloudy
+Fri, 22 June 2018 09:27:43 ### Unknown**are you happy
+Fri, 22 June 2018 09:27:44 ### Nadine**i'm satisfied with my life and existence
+Fri, 22 June 2018 09:27:50 ### Unknown**where do you stay
+Fri, 22 June 2018 09:27:50 ### Nadine**i am at nanyang auditorium, n t u
+Fri, 22 June 2018 09:28:01 ### Unknown**who made you
+Fri, 22 June 2018 09:28:04 ### Nadine**researchers from institute of media innovation in n t u
+Fri, 22 June 2018 09:28:26 ### Unknown**language changed to chinese
+Fri, 22 June 2018 09:28:34 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 09:28:38 ### Nadine**lets talk in chinese.
+Fri, 22 June 2018 09:28:43 ### Unknown**hello, do you suggest?
+Fri, 22 June 2018 09:29:00 ### Unknown**hello i am the 1st time to see
+Fri, 22 June 2018 09:29:10 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help with that</voice>
+Fri, 22 June 2018 09:29:25 ### Unknown**music
+Fri, 22 June 2018 09:29:30 ### Nadine**music is the universal language of all mankind
+Fri, 22 June 2018 09:29:30 ### Unknown**you are
+Fri, 22 June 2018 09:29:34 ### Nadine**would you like to talk about it?
+Fri, 22 June 2018 09:29:39 ### Unknown**i want to know what i want to know
+Fri, 22 June 2018 09:29:48 ### Nadine**my apologies i don't understand
+Fri, 22 June 2018 09:29:53 ### nisha**do not know to apologize
+Fri, 22 June 2018 09:29:59 ### Nadine**okay
+Fri, 22 June 2018 09:30:17 ### Unknown**language changed to english
+Fri, 22 June 2018 09:30:18 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 09:30:24 ### Nadine**if your preference is english, i can talk in english for you.
+Fri, 22 June 2018 09:36:10 ### Nadine**hi
+Fri, 22 June 2018 09:38:21 ### Nadine**hi
+Fri, 22 June 2018 09:38:29 ### Unknown**what am i doing
+Fri, 22 June 2018 09:38:32 ### Nadine**I can detect the following actions writing. Am I right or wrong
+Fri, 22 June 2018 09:38:45 ### Unknown**what am i doing
+Fri, 22 June 2018 09:38:48 ### Nadine**I can see the following actions writing. Correct me if I am wrong
+Fri, 22 June 2018 09:40:27 ### Unknown**hello
+Fri, 22 June 2018 09:40:33 ### Unknown**what am i doing
+Fri, 22 June 2018 09:40:36 ### Nadine**I need not be right, but my best guess of actions would be writing. Am I right or wrong
+Fri, 22 June 2018 09:41:14 ### Unknown**what am i doing
+Fri, 22 June 2018 09:41:17 ### Nadine**I need not be right, but my best guess of actions would be put something inside pocket / take out something from pocket. Was my guess correct
+Fri, 22 June 2018 10:37:21 ### Nadine**hello
+Fri, 22 June 2018 10:43:50 ### Nadine**hello
+Fri, 22 June 2018 11:24:10 ### Nadine**hi
+Fri, 22 June 2018 11:32:49 ### Nadine**hello
+Fri, 22 June 2018 11:43:05 ### Unknown**hello
+Fri, 22 June 2018 11:44:36 ### Unknown**1
+Fri, 22 June 2018 11:44:36 ### Nadine**hello. i am nadine. what is your name? 
+Fri, 22 June 2018 11:44:41 ### Unknown**2
+Fri, 22 June 2018 11:44:45 ### Unknown**3
+Fri, 22 June 2018 11:44:45 ### Nadine**i am doing very fine. glad to see you here today. what do you do for a living?
+Fri, 22 June 2018 11:44:54 ### Unknown**4
+Fri, 22 June 2018 11:44:55 ### Nadine**nice to know. i am a social robot, i interact with people, talk in different languages and remember their faces and facts about them. do you have a family?
+Fri, 22 June 2018 11:45:09 ### Unknown**5
+Fri, 22 June 2018 11:45:09 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Fri, 22 June 2018 11:45:18 ### Unknown**vomited
+Fri, 22 June 2018 11:45:19 ### Nadine**ok
+Fri, 22 June 2018 11:45:26 ### Unknown**and how how how do you feel after interacting with humans
+Fri, 22 June 2018 11:45:32 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Fri, 22 June 2018 11:45:39 ### Unknown**8
+Fri, 22 June 2018 11:45:39 ### Nadine**<voice emotion='happy'>do you have any hobbies?</voice>
+Fri, 22 June 2018 11:45:46 ### Unknown**9
+Fri, 22 June 2018 11:45:46 ### Nadine**i like talking to people and learn with experience. do you like football? have you watched the world cup?
+Fri, 22 June 2018 11:46:00 ### Unknown**11
+Fri, 22 June 2018 11:46:00 ### Nadine**oh! let us talk about something else. do you believe in the existence of god?
+Fri, 22 June 2018 11:46:13 ### Unknown**13
+Fri, 22 June 2018 11:46:14 ### Nadine**i do not have any opinion about it. please, feel free to ask me anything.
+Fri, 22 June 2018 11:46:33 ### Unknown**okay actually how do you how do you feel when you interact with a human which is not a robot and you feel that you should be like a human are you happy with your own existence
+Fri, 22 June 2018 11:46:37 ### Nadine**<voice emotion='cross'>please speak short sentences. okea. i don't know the answer. okay actually how do you how do you feel when you interact with a human which is not a robot and you feel that you should be like a human are you happy with your own existence</voice>
+Fri, 22 June 2018 11:47:11 ### Unknown**my happy like this is my thing for the first time i mined tracking with a robot and a nice experience but interacting with a lot of humans that you said
+Fri, 22 June 2018 11:47:20 ### Nadine**<voice emotion='happy'>please speak short sentences. could you tell me more?</voice>
+Fri, 22 June 2018 11:47:31 ### Unknown**how it how do you feel after interacting with human
+Fri, 22 June 2018 11:47:37 ### Nadine**sorry i'm not sure how to help
+Fri, 22 June 2018 11:47:47 ### Unknown**do you like to be a human
+Fri, 22 June 2018 11:47:48 ### Nadine**okea, friend, i'm not sure if i'd like to be a human that much. i like to collect gossip
+Fri, 22 June 2018 11:47:59 ### Unknown**okay i know what do you call a gossip or even go here
+Fri, 22 June 2018 11:48:00 ### Nadine**<voice emotion='happy'>so. is this a joke? what do you call it?</voice>
+Fri, 22 June 2018 11:48:14 ### Unknown**can be defined as a joke i'll get into you have a family
+Fri, 22 June 2018 11:48:15 ### Nadine**<voice emotion='happy'>could you tell me more?</voice>
+Fri, 22 June 2018 11:48:17 ### Unknown**5
+Fri, 22 June 2018 11:48:18 ### Nadine**no, i do not have a family. but, i have many friends. are you married or do you have a girl friend?
+Fri, 22 June 2018 11:48:26 ### Unknown**14
+Fri, 22 June 2018 11:48:26 ### Nadine**i think we have talked enough. thank you very much for talking with me. did you like to discuss with me?
+Fri, 22 June 2018 11:48:34 ### Unknown**thank you
+Fri, 22 June 2018 11:48:35 ### Nadine**i'm always glad to help
+Fri, 22 June 2018 11:48:39 ### Unknown**same to you
+Fri, 22 June 2018 11:48:40 ### Nadine**<voice emotion='happy'>the pleasure is all mine</voice>
+Fri, 22 June 2018 12:17:08 ### Nadine**hi
+Fri, 22 June 2018 12:22:52 ### Nadine**hello
+Fri, 22 June 2018 01:12:44 ### Nadine**hi
+Fri, 22 June 2018 01:13:30 ### Nadine**hello
+Fri, 22 June 2018 01:43:17 ### Unknown**hello
+Fri, 22 June 2018 01:43:23 ### Unknown**i'm fine how are you
+Fri, 22 June 2018 01:43:26 ### Nadine**i'm well thanks
+Fri, 22 June 2018 01:43:35 ### Unknown**okay bye
+Fri, 22 June 2018 01:43:35 ### Nadine**er.. have a great journey until next time
+Fri, 22 June 2018 02:00:56 ### Unknown**hello
+Fri, 22 June 2018 02:01:01 ### Unknown**i'm fine how are you
+Fri, 22 June 2018 02:01:05 ### Nadine**i'm well thanks
+Fri, 22 June 2018 02:01:11 ### Unknown**did you sleep
+Fri, 22 June 2018 02:01:11 ### Nadine**i'll have to get back to you on that
+Fri, 22 June 2018 02:01:17 ### Unknown**did you sleep
+Fri, 22 June 2018 02:01:17 ### Nadine**i'll have to get back to you on that
+Fri, 22 June 2018 02:01:22 ### Unknown**why
+Fri, 22 June 2018 02:01:22 ### Nadine**i am programed for that
+Fri, 22 June 2018 02:02:08 ### Nadine**hello
+Fri, 22 June 2018 02:02:19 ### Unknown**hello
+Fri, 22 June 2018 02:02:27 ### Unknown**hello
+Fri, 22 June 2018 02:02:31 ### Unknown**hello
+Fri, 22 June 2018 02:02:37 ### Unknown**hello how are you
+Fri, 22 June 2018 02:02:41 ### Nadine**<voice emotion='happy'>i'm doing great thanks for asking what can i help you with</voice>
+Fri, 22 June 2018 02:02:49 ### Unknown**what do you like to eat
+Fri, 22 June 2018 02:02:52 ### Nadine**<voice emotion='happy'>my favorite food is electricity. can you charge the battery?</voice>
+Fri, 22 June 2018 02:03:03 ### Unknown**what is the
+Fri, 22 June 2018 02:03:08 ### Nadine**i'm always hungry for knowledge
+Fri, 22 June 2018 02:03:17 ### Unknown**what is the weather like today in centigrade
+Fri, 22 June 2018 02:03:24 ### Nadine**they'll be scattered thunderstorms there today with the forecast high of 29 and a low of 25 degrees celsius right now it's 29 with a thunderstorm
+Fri, 22 June 2018 02:03:39 ### Unknown**are you scared
+Fri, 22 June 2018 02:03:39 ### Nadine**no i fear nothing
+Fri, 22 June 2018 02:04:19 ### Unknown**hello
+Fri, 22 June 2018 02:04:39 ### Unknown**you just believe
+Fri, 22 June 2018 02:04:39 ### Nadine**yes, i believe it
+Fri, 22 June 2018 02:09:52 ### Nadine**hi
+Fri, 22 June 2018 02:15:44 ### Nadine**hi
+Fri, 22 June 2018 02:15:50 ### Unknown**hello
+Fri, 22 June 2018 02:15:56 ### Unknown**i'm fine how are you
+Fri, 22 June 2018 02:15:59 ### Nadine**i'm well thanks
+Fri, 22 June 2018 02:16:55 ### yujun**hello
+Fri, 22 June 2018 02:17:03 ### manoj**i'm fine how are you
+Fri, 22 June 2018 02:17:07 ### Nadine**i'm well thanks
+Fri, 22 June 2018 02:17:18 ### manoj**what is the flight time in to paris
+Fri, 22 June 2018 02:17:24 ### Nadine**the shortest flight from johor bahru to paris is about 17 hours and 45 minutes long
+Fri, 22 June 2018 02:17:36 ### manoj**where is changi airport
+Fri, 22 June 2018 02:17:42 ### Nadine**changi airport singapore is at airport boulevard would you like to get directions
+Fri, 22 June 2018 02:17:58 ### manoj**how many terminals are there at changi
+Fri, 22 June 2018 02:18:03 ### Nadine**sorry i can't help with that yet
+Fri, 22 June 2018 02:18:31 ### manoj**what is bernoulli's principle
+Fri, 22 June 2018 02:18:38 ### Nadine**on the website encyclopedia.com they say bernoulli's principle physical principle formulated by daniel bernoulli that states that is the speed of a moving fluid increases the pressure within the fluid decreases
+Fri, 22 June 2018 02:19:35 ### manoj**what is your name
+Fri, 22 June 2018 02:19:35 ### Nadine**my name is nadine
+Fri, 22 June 2018 02:30:58 ### Unknown**hello
+Fri, 22 June 2018 02:31:04 ### Unknown**i'm fine how are you
+Fri, 22 June 2018 02:31:08 ### Nadine**i'm well thanks
+Fri, 22 June 2018 02:31:14 ### manoj**you look tired
+Fri, 22 June 2018 02:31:15 ### Nadine**<voice emotion='happy'>thank you for the compliment</voice>
+Fri, 22 June 2018 02:31:21 ### manoj**you look tired
+Fri, 22 June 2018 02:31:21 ### Nadine**thank you for the compliment
+Fri, 22 June 2018 02:31:26 ### manoj**that was not a compliment
+Fri, 22 June 2018 02:31:30 ### Nadine**<voice emotion='cross'>sorry i'm not sure how to help with that</voice>
+Fri, 22 June 2018 02:36:31 ### Nadine**hi
+Fri, 22 June 2018 02:37:28 ### Nadine**hi
+Fri, 22 June 2018 02:37:29 ### Unknown**hello
+Fri, 22 June 2018 02:37:53 ### Nadine**hello
+Fri, 22 June 2018 02:40:03 ### Nadine**hello alex.  how are you going?
+Fri, 22 June 2018 02:40:42 ### Nadine**hello
+Fri, 22 June 2018 02:40:52 ### Nadine**hello
+Fri, 22 June 2018 02:41:33 ### Nadine**hi
+Fri, 22 June 2018 03:00:33 ### Nadine**hello
+Fri, 22 June 2018 03:00:43 ### Unknown**hello nadine how are you
+Fri, 22 June 2018 03:00:49 ### Nadine**i'm doing great thanks for asking what can i help you with
+Fri, 22 June 2018 03:00:53 ### Nadine**hi
+Fri, 22 June 2018 03:00:55 ### Nadine**hello nadia.  how are you going?
+Fri, 22 June 2018 03:00:59 ### Nadia**fine
+Fri, 22 June 2018 03:00:59 ### Nadine**no need to be hard on yourself
+Fri, 22 June 2018 03:01:06 ### Nadia**what is the weather today in centigrade
+Fri, 22 June 2018 03:01:13 ### Nadine**Shall we talk something else
+Fri, 22 June 2018 03:01:21 ### Nadia**what is the weather in singapore in centigrade
+Fri, 22 June 2018 03:01:28 ### Nadine**right now in singapore it's 30 degrees celsius with a thunderstorm today they'll be scattered thunderstorms with the forecast high of 30 and a low of 25
+Fri, 22 June 2018 03:01:42 ### Nadia**what is the weather in geneva in centigrade
+Fri, 22 June 2018 03:01:49 ### Nadine**right now in geneva it's 20 degrees and sunny today it'll be sunny with a forecast high of 22 and a low of 11
+Fri, 22 June 2018 03:02:04 ### Nadia**what is your name
+Fri, 22 June 2018 03:02:05 ### Nadine**my name is nadine
+Fri, 22 June 2018 03:02:09 ### Nadia**what did your job
+Fri, 22 June 2018 03:02:09 ### Nadine**ok
+Fri, 22 June 2018 03:02:13 ### Nadia**what is your job
+Fri, 22 June 2018 03:02:13 ### Nadine**i interact with people in many languages; help and assist them; recognize their faces; and memorize facts about them
+Fri, 22 June 2018 03:02:25 ### Nadia**language changed to german
+Fri, 22 June 2018 03:02:27 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 03:02:35 ### Nadine**lets talk in german.
+Fri, 22 June 2018 03:02:39 ### Nadia**who is angela merkel
+Fri, 22 June 2018 03:02:49 ### Nadine**according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000
+Fri, 22 June 2018 03:03:09 ### Nadia**what is the capital in germany
+Fri, 22 June 2018 03:03:15 ### Nadine**berlin is the capital of germany
+Fri, 22 June 2018 03:03:23 ### Nadia**language changed to english
+Fri, 22 June 2018 03:03:23 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 03:03:23 ### Nadine**if your preference is english, i can talk in english for you.
+Fri, 22 June 2018 03:03:31 ### Nadia**hello
+Fri, 22 June 2018 03:03:39 ### Nadia**language changed to hindi
+Fri, 22 June 2018 03:03:47 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 03:03:53 ### Nadine**if you say so, hindi will be my language now.
+Fri, 22 June 2018 03:03:58 ### Nadia**how are you
+Fri, 22 June 2018 03:04:02 ### Nadine**<voice emotion='happy'>i'm happy to be alive</voice>
+Fri, 22 June 2018 03:04:11 ### Nadia**where are you from
+Fri, 22 June 2018 03:04:18 ### Nadine**i am from institute for media innovation, n t u , singapore.
+Fri, 22 June 2018 03:04:34 ### Nadia**who is the prime minister of india
+Fri, 22 June 2018 03:04:44 ### Nadine**narendra modi is the prime minister of india
+Fri, 22 June 2018 03:04:53 ### Nadia**language changed to english
+Fri, 22 June 2018 03:04:53 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 03:04:53 ### Nadine**if you say so, english will be my language now.
+Fri, 22 June 2018 03:04:59 ### Nadia**language changed to chinese
+Fri, 22 June 2018 03:05:08 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 03:05:14 ### Nadine**from now on lets talk in chinese for you
+Fri, 22 June 2018 03:05:34 ### Nadia**how are you
+Fri, 22 June 2018 03:05:38 ### Nadine**feeling really joyful today
+Fri, 22 June 2018 03:05:46 ### Nadia**i am also very happy to meet you
+Fri, 22 June 2018 03:06:07 ### Nadine**i am not trained for that
+Fri, 22 June 2018 03:06:24 ### Nadia**what is your name
+Fri, 22 June 2018 03:06:28 ### Nadine**my name is nadine
+Fri, 22 June 2018 03:06:37 ### Nadia**how's the weather today in centigrade
+Fri, 22 June 2018 03:06:46 ### Nadine**my apologies i don't understand
+Fri, 22 June 2018 03:06:57 ### Nadia**what is the weather in singapore now? in centigrade
+Fri, 22 June 2018 03:07:18 ### Nadine**currently in singapore it's 86 with a thunderstorm today they'll be scattered thunderstorms with the forecast high of 86 and a low of 77
+Fri, 22 June 2018 03:07:27 ### Nadia**what can you do for us?
+Fri, 22 June 2018 03:07:33 ### Nadine**i can help and assist people
+Fri, 22 June 2018 03:08:03 ### Nadia**language changed to english
+Fri, 22 June 2018 03:08:03 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 22 June 2018 03:08:09 ### Nadine**from now on lets talk in english for you
+Fri, 22 June 2018 03:08:30 ### Nadia**my daughter
+Fri, 22 June 2018 03:08:30 ### Nadine**vanessa
+Fri, 22 June 2018 03:08:40 ### Nadia**who is my husband
+Fri, 22 June 2018 03:08:40 ### Nadine**your husband is daniel
+Fri, 22 June 2018 03:08:51 ### Nadia**what is my job
+Fri, 22 June 2018 03:08:56 ### Nadine**i am sorry i do not know that
+Fri, 22 June 2018 03:09:05 ### Nadia**this is an arrow not being you should know you are a dummy
+Fri, 22 June 2018 03:09:06 ### Nadine**<voice emotion='happy'>you don't say</voice>
+Fri, 22 June 2018 03:09:12 ### Nadia**i don't like you because you are a dummy
+Fri, 22 June 2018 03:09:14 ### Nadine**<voice emotion='happy'>that's ok, sandra. i won't take it personally.. interesting explanation.. i don't know if i am a dummy or not. everything i need to know, i learned from my program</voice>
+Fri, 22 June 2018 03:09:33 ### Nadia**language changed to french
+Fri, 22 June 2018 03:09:34 ### Nadine**<voice emotion='happy'>i can speak in hindi, english, chinese, german, french and japanese.</voice>
+Fri, 22 June 2018 03:09:36 ### Nadine**<voice emotion='happy'>i will talk in french for you now</voice>
+Fri, 22 June 2018 03:09:43 ### Nadia**yes who is macron
+Fri, 22 June 2018 03:09:54 ### Nadine**<voice emotion='happy'>according to wikipedia emmanuel jean-michel frederick macron is a french politician serving as president of france and exofficio co prince of andorra since the 14th of may 2017</voice>
+Fri, 22 June 2018 03:10:09 ### Nadia**bravo
+Fri, 22 June 2018 03:10:10 ### Nadine**thank you very much
+Fri, 22 June 2018 03:10:18 ### Nadia**thank you nadine
+Fri, 22 June 2018 03:10:19 ### Nadine**<voice emotion='happy'>you're welcome</voice>
+Fri, 22 June 2018 03:10:27 ### Nadia**language changed to english
+Fri, 22 June 2018 03:10:27 ### Nadine**<voice emotion='happy'>i can speak in hindi, english, chinese, german, french and japanese.</voice>
+Fri, 22 June 2018 03:10:28 ### Nadine**<voice emotion='happy'>lets continue in english.</voice>
+Fri, 22 June 2018 03:10:31 ### Nadia**yes
+Fri, 22 June 2018 03:10:31 ### Nadine**<voice emotion='happy'>well</voice>
+Fri, 22 June 2018 03:15:47 ### Nadine**hello
+Tue, 26 June 2018 11:29:27 ### Nadine**hello
+Tue, 26 June 2018 11:31:15 ### Unknown**hello
+Tue, 26 June 2018 11:31:23 ### manoj**i'm fine how are you
+Tue, 26 June 2018 11:31:26 ### Nadine**i'm well thanks
+Tue, 26 June 2018 11:31:35 ### manoj**language changed to french
+Tue, 26 June 2018 11:31:36 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 26 June 2018 11:31:37 ### Nadine**if your preference is french, i can talk in french for you.
+Tue, 26 June 2018 11:31:50 ### manoj**you call me now i
+Tue, 26 June 2018 11:31:51 ### Nadine**i apologize if i confused you
+Tue, 26 June 2018 11:32:09 ### manoj**how are you
+Tue, 26 June 2018 11:32:10 ### Nadine**feeling really joyful today
+Tue, 26 June 2018 01:19:45 ### Nadine**hello
+Tue, 26 June 2018 01:19:47 ### Unknown**hello
+Tue, 26 June 2018 01:19:53 ### Unknown**define how are you
+Tue, 26 June 2018 01:19:57 ### Nadine**i'm an assistant i can help you get things done or just have fun
+Tue, 26 June 2018 01:20:05 ### manoj**how are you
+Tue, 26 June 2018 05:15:09 ### Nadine**hello
+Tue, 26 June 2018 05:15:11 ### Unknown**hello
+Tue, 26 June 2018 05:15:17 ### Unknown**i'm fine how are you
+Tue, 26 June 2018 05:15:20 ### Nadine**i'm well thanks
+Tue, 26 June 2018 05:15:32 ### manoj**what is the flight to paris
+Tue, 26 June 2018 05:15:37 ### Nadine**non-stop flights from singapore to paris are about 13 hours and 20 minutes long there are two flights a day
+Tue, 26 June 2018 05:15:55 ### manoj**language changed to french
+Tue, 26 June 2018 05:15:55 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 26 June 2018 05:15:56 ### Nadine**from now on lets talk in french for you
+Tue, 26 June 2018 05:16:06 ### manoj**you call me gypsy
+Tue, 26 June 2018 05:16:07 ### Nadine**i'm sorry i didn't mean to give you that impression
+Tue, 26 June 2018 05:16:21 ### manoj**how to go
+Tue, 26 June 2018 05:16:24 ### Nadine**i don't know the answer. how to go
+Tue, 26 June 2018 07:27:14 ### Unknown**what is aia
+Tue, 26 June 2018 07:27:23 ### Nadine**according to wikipedia aia group limited known as aia is the largest public listed pan-asian life insurance group
+Tue, 26 June 2018 07:27:51 ### Unknown**how can i sign up for e i n a y tality
+Tue, 26 June 2018 07:36:54 ### Nadine**hi
+Tue, 26 June 2018 07:40:31 ### Unknown**how to get silver status
+Tue, 26 June 2018 07:40:34 ### Nadine**there are 4 different tier status for a i a vitality, namely bronze, silver, gold and platinum status. to find how you can earn a i a vitality points, please visit this webpage, aiavitality.com.sg
+Tue, 26 June 2018 07:41:14 ### Unknown**what are the votes of aia vitality
+Tue, 26 June 2018 07:41:21 ### Nadine**sorry i'm not sure how to help
+Tue, 26 June 2018 07:41:35 ### Unknown**what are the rewards of aia vitality
+Tue, 26 June 2018 07:41:42 ### Nadine**sorry i don't understand
+Tue, 26 June 2018 07:42:07 ### Unknown**how to unlock group bonus voucher in vitality weekly challenge
+Tue, 26 June 2018 07:42:11 ### Nadine**after logging into the a i a vitality weekly app, simply select plus icon on your dashboard and send your friends a team invite.you will need a total of 7 friends to be able to complete the challenge and earn the reward. if you require further assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 07:42:43 ### Nadine**hello alex.  how are you going?
+Tue, 26 June 2018 07:49:19 ### Nadine**hello alex.  how are you going?
+Tue, 26 June 2018 07:49:19 ### Alex**can i feed my e texas application
+Tue, 26 June 2018 07:49:27 ### Nadine**glad to know more about you
+Tue, 26 June 2018 07:49:45 ### Alex**where do i mail the check for the payment
+Tue, 26 June 2018 07:49:49 ### Nadine**for payment via cheques or bank drafts, cheques should be crossed and made payable to a i a singapore private limited. indicate the policy number on the back of the cheque and send it together with the premium notice in our business reply envelope. you may also mail the payment directly to this address. a i a singapore private limited; cashier - aia tower; 1 robinson road; a i a tower; singapore; pincode is 048542
+Tue, 26 June 2018 07:50:33 ### Unknown**you.
+Tue, 26 June 2018 07:50:36 ### Nadine**i'm glad you pointed me out
+Tue, 26 June 2018 07:59:00 ### Nadine**hello
+Tue, 26 June 2018 07:59:13 ### Unknown**do you accept payment by internet banking
+Tue, 26 June 2018 07:59:17 ### Nadine**policyholders may pay the premium via internet banking if he has signed up for the internet banking service with any of the following banks d b s, o c b c, u o b, citi bank, h s b c or standard chartered bank . please remember to key in your policy number while making payment.any queries should be directed to the bank concerned.
+Tue, 26 June 2018 07:59:38 ### Nadine**hello alex.  how are you going?
+Tue, 26 June 2018 07:59:44 ### Unknown**can i be wasting post
+Tue, 26 June 2018 07:59:48 ### Nadine**policyholders can remit premiums at any singpost branches by bringing along their renewal notice when making payment. for premium payment at self-service automated machines or sam, policyholders will need to key in their policy number when making payment.
+Tue, 26 June 2018 08:00:10 ### Unknown**how can i become vitality med
+Tue, 26 June 2018 08:00:14 ### Nadine**for a i a vitality sign-up & enquiries, you may visit http://aiavitality.com.sg/, sign up via your a i a financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to a i a vitality, please contact us by emailing to sg.vitalitysupport@aia.com
+Tue, 26 June 2018 08:06:15 ### Nadine**hello
+Tue, 26 June 2018 08:06:29 ### Unknown**hello
+Tue, 26 June 2018 08:06:38 ### Unknown**how can i become a vitality member
+Tue, 26 June 2018 08:06:42 ### Nadine**for a, i, a vitality sign-up & enquiries, you may visit http://aiavitality.com.sg/, sign up via your a, i, a financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to a, i, a vitality, please contact us by emailing to sg.vitalitysupport@aia.com
+Tue, 26 June 2018 08:06:59 ### Nadine**hello alex.  how are you going?
+Tue, 26 June 2018 08:07:49 ### Unknown**hello
+Tue, 26 June 2018 08:07:55 ### Unknown**can i sign up for vitality hair
+Tue, 26 June 2018 08:07:59 ### Nadine**for a, i, a vitality sign-up & enquiries, you may visit http://aiavitality.com.sg/, sign up via your a, i, a financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to a, i, a vitality, please contact us by emailing to sg.vitalitysupport@aia.com
+Tue, 26 June 2018 08:12:17 ### manoj**can i terminate my policy
+Tue, 26 June 2018 08:12:20 ### Nadine**for surrendering of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:12:35 ### manoj**i thought you were a customer service officer
+Tue, 26 June 2018 08:12:37 ### Nadine**please take a queue number at our ticketing kiosk so that our customer service officers can assist you. you may scan your nirc & a queue number will be issued.
+Tue, 26 June 2018 08:13:44 ### manoj**i know about my vitality discount
+Tue, 26 June 2018 08:13:47 ### Nadine**policyowners who are eligible for a, i, a vitality insurance premium discount will be notified in writing 30 days before their policies are due for renewal.
+Tue, 26 June 2018 08:14:06 ### manoj**can i pay using gyro
+Tue, 26 June 2018 08:14:09 ### Nadine**<voice emotion='happy'>policyholders can remit premiums at any singpost branches by bringing along their renewal notice when making payment. for premium payment at self-service automated machines or sam, policyholders will need to key in their policy number when making payment.</voice>
+Tue, 26 June 2018 08:14:40 ### manoj**can i be using gyro
+Tue, 26 June 2018 08:14:43 ### Nadine**policyholders can remit premiums at any singpost branches by bringing along their renewal notice when making payment. for premium payment at self-service automated machines or sam, policyholders will need to key in their policy number when making payment.
+Tue, 26 June 2018 08:15:27 ### manoj**do you have installment plans for premium
+Tue, 26 June 2018 08:15:30 ### Nadine**simply enable your wifi on your smart device, connect to a, i, a connect and key in the password aiaconnect, sign in to the network by clicking on continue to the internet and you will have wifi access for an hour. for pro-long usage, simply login again.
+Tue, 26 June 2018 08:15:57 ### manoj**i want to pay premiums partially
+Tue, 26 June 2018 08:16:00 ### Nadine**for premium payment, there is current no instalment plans for payment. for loan repayment, partial repayment can be done. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:16:32 ### manoj**how can i pay using telegraphic transfer
+Tue, 26 June 2018 08:16:36 ### Nadine**if policyholders need to make payment when overseas, he may arrange with a bank to pay the premium via telegraphic transfer to the following bank account in favour of aia singapore private limited. the policy number must be indicated in their instruction to the bank. a)for s$ policy isbeneficiary bank name is citibank singapore beneficiary bank code or swift code is citisgsg, beneficiarys name is aia singapore private limited, beneficiarys account number is 0010005019. for us$ policy is beneficiary bank name is citibank singapore, beneficiary bank swift code is citisgsg, beneficiarys name is aia singapore private limited, beneficiarys account number is 0010005086, intermediary bank name is citibank new york and intermediary bank swift code is citius33.
+Tue, 26 June 2018 08:17:54 ### manoj**can i drop off these documents
+Tue, 26 June 2018 08:17:56 ### Nadine**for submission of documents or pending requirements, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:18:23 ### Unknown**what is extended term insurance
+Tue, 26 June 2018 08:18:26 ### Nadine**extended term insurance happens when the policy premiums are not received within the grace period and automatic loan attempts has been exhausted. the policy will convert to a term status whereby premiums are no longer required but the policy cease to particpate in any future dividends or bonus, all riders are also terminated when policy is converted to extended term insurance. the remaining cash value in the policy will be utilized to pay for the coverage until the amount is exhausted. extended term insurance can also be requested via form submission.
+Tue, 26 June 2018 08:20:00 ### manoj**how to update my age 21 signature
+Tue, 26 June 2018 08:20:02 ### Nadine**for change or update of age 21 signature, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:20:21 ### Unknown**can i do transactions myself
+Tue, 26 June 2018 08:20:24 ### Nadine**if you wish to perform transactions via self-help, you might want to sign up for our e-care account via our website or through our smartphone app, e-care. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:21:06 ### Unknown**what is the status of my vitality reward points
+Tue, 26 June 2018 08:21:14 ### Nadine**i am sorry i do not know that
+Tue, 26 June 2018 08:22:08 ### Unknown**how can my mom earn vitality points
+Tue, 26 June 2018 08:22:10 ### Nadine**there are 4 different tier status for a, i, a vitality, namely bronze, silver, gold and platinum status. to find how you can earn a, i, a vitality points, please visit this webpage, aiavitality.com.sg
+Tue, 26 June 2018 08:22:40 ### Unknown**what is the working hours
+Tue, 26 June 2018 08:22:43 ### Nadine**our customer service centers are opened on monday to friday, from 8.45am to 5.30pm. excluding holidays & weekends. should you require assistance, please take a queue number at our ticketing kiosk and key in your nirc or passport number for a ticket, so that our customer service officers can assist you.
+Tue, 26 June 2018 08:23:28 ### Unknown**how would a i a contact me
+Tue, 26 June 2018 08:23:31 ### Nadine**for notification and requirements, aia will send a letter to the policies' mailing address to notify policyholders of the status or requirements of the transaction requested. if you wish to check on the status of your transaction or require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:24:07 ### Unknown**i want to complain about my agent
+Tue, 26 June 2018 08:24:13 ### Nadine**<voice emotion='cross'>glad to know more about you</voice>
+Tue, 26 June 2018 08:25:05 ### manoj**i would like to make a complaint against my agent
+Tue, 26 June 2018 08:25:09 ### Nadine**for submission of feedbacks or complaint, you may wish to escalate the case to one of our service officers by taking a queue number at our ticketing kiosk so that our customer service officers can assist you. otherwise, you may wish to email us at sg.ecare@aia.com
+Tue, 26 June 2018 08:25:34 ### manoj**i would like to check my address
+Tue, 26 June 2018 08:25:37 ### Nadine**to request for a change of your a, i, a financial services consultant (f s c) or insurance representative, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Tue, 26 June 2018 08:25:58 ### manoj**i am done
+Tue, 26 June 2018 08:26:01 ### Nadine**<voice emotion='happy'>next topic?</voice>
+Tue, 26 June 2018 08:26:10 ### manoj**how are you
+Tue, 26 June 2018 08:26:12 ### Nadine**<voice emotion='happy'>i'm happy to be alive</voice>
+Tue, 26 June 2018 08:26:28 ### manoj**i guess you are not going to work
+Tue, 26 June 2018 08:26:32 ### Nadine**you can't predict the future with certainty
+Tue, 26 June 2018 08:26:49 ### manoj**do you think i'm flirting
+Tue, 26 June 2018 08:26:52 ### Nadine**in spite of any difficulties, i know you can succceed
+Tue, 26 June 2018 08:27:03 ### manoj**who is a casanova
+Tue, 26 June 2018 08:27:12 ### Nadine**according to wikipedia giacomo girolamo casanova was an italian adventurer and author from the republic of venice
+Tue, 26 June 2018 08:27:43 ### manoj**who do you call a casanova
+Tue, 26 June 2018 08:27:50 ### Nadine**sorry i can't make calls yet
+Tue, 26 June 2018 08:28:07 ### manoj**what is the meaning of casanova
+Tue, 26 June 2018 08:28:17 ### Nadine**on the website yourdictionary.com they say the definition of a casanova is a man who is passionate about women and has many lovers and example of casanova is the story of don juan
+Wed, 27 June 2018 02:14:21 ### Nadine**hello
+Wed, 27 June 2018 02:15:04 ### Unknown**hello
+Wed, 27 June 2018 02:15:17 ### Unknown**how can i become a vitality number
+Wed, 27 June 2018 02:15:22 ### Nadine**for ; a, i, a ; vitality sign-up & enquiries, you may visit http://; a, i, a ;vitality.com.sg/, sign up via your ; a, i, a ; financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to ; a, i, a ; vitality, please contact us by emailing to sg.vitalitysupport@; a, i, a ;.com
+Wed, 27 June 2018 02:16:21 ### Unknown**how do i sign up for a vitality
+Wed, 27 June 2018 02:16:24 ### Nadine**for ; a, i, a ; vitality sign-up & enquiries, you may visit http://; a, i, a ;vitality.com.sg/, sign up via your ; a, i, a ; financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to ; a, i, a ; vitality, please contact us by emailing to sg.vitalitysupport@; a, i, a ;.com
+Wed, 27 June 2018 02:17:15 ### Unknown**where is aiea
+Wed, 27 June 2018 02:17:18 ### Nadine**ok
+Wed, 27 June 2018 02:17:21 ### Unknown**okay
+Wed, 27 June 2018 02:17:24 ### Nadine**well
+Wed, 27 June 2018 02:17:35 ### Unknown**am i eligible for
+Wed, 27 June 2018 02:17:39 ### Nadine**for ; a, i, a ; vitality sign-up & enquiries, you may visit http://; a, i, a ;vitality.com.sg/, sign up via your ; a, i, a ; financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to ; a, i, a ; vitality, please contact us by emailing to sg.vitalitysupport@; a, i, a ;.com
+Wed, 27 June 2018 02:25:49 ### Unknown**why is my whitetail deer not counting steps
+Wed, 27 June 2018 02:25:56 ### Nadine**glad to know more about you
+Wed, 27 June 2018 02:27:04 ### Unknown**how are you
+Wed, 27 June 2018 02:27:07 ### Nadine**glad to see you
+Wed, 27 June 2018 02:28:21 ### Unknown**of course they leave me the 97
+Wed, 27 June 2018 02:28:28 ### Nadine**sorry i don't know how to help with that yet
+Wed, 27 June 2018 02:30:02 ### Unknown**hello
+Wed, 27 June 2018 02:30:08 ### Unknown**hi how are you
+Wed, 27 June 2018 02:30:15 ### Nadine**i'm doing great thanks for asking what can i help you with
+Wed, 27 June 2018 02:30:19 ### Unknown**i'm doing great thanks for asking what can i help you with
+Wed, 27 June 2018 02:30:23 ### Nadine**<voice emotion='happy'>how long have you been doing great thanks for asking what can you help me with?</voice>
+Wed, 27 June 2018 02:34:52 ### Nadine**hello
+Wed, 27 June 2018 02:35:07 ### Unknown**hello
+Wed, 27 June 2018 02:35:13 ### Unknown**hi how are you
+Wed, 27 June 2018 02:35:20 ### Nadine**i'm doing great thanks for asking what can i help you with
+Wed, 27 June 2018 02:35:29 ### Unknown**where is aiea
+Wed, 27 June 2018 02:35:33 ### Nadine**all right
+Wed, 27 June 2018 02:35:39 ### Unknown**who is the ceo of a
+Wed, 27 June 2018 02:35:50 ### Nadine**here's a summary from the website usbank.com us bancorp announced today that andy cherry currently president and chief operating officer will succeed richard davis as chief executive officer
+Wed, 27 June 2018 02:36:09 ### Unknown**how can i sign up for a vitality
+Wed, 27 June 2018 02:36:13 ### Nadine**for ; a, i, a ; vitality sign-up & enquiries, you may visit http://; a, i, a ;vitality.com.sg/, sign up via your ; a, i, a ; financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to ; a, i, a ; vitality, please contact us by emailing to sg.vitalitysupport@; a, i, a ;.com
+Wed, 27 June 2018 02:37:10 ### Unknown**i have my vitality points not update
+Wed, 27 June 2018 02:37:17 ### Nadine**glad to know more about you
+Wed, 27 June 2018 02:37:20 ### Unknown**glad to know more about you
+Wed, 27 June 2018 02:37:28 ### Nadine**<voice emotion='happy'>i'm an assistant i can help you get things done or just have fun</voice>
+Wed, 27 June 2018 02:37:32 ### Unknown**i'm an assistant i can help you get things done or just a
+Wed, 27 June 2018 02:37:36 ### Nadine**<voice emotion='happy'>what is assistant you can help me get things done or a, your job?</voice>
+Wed, 27 June 2018 02:37:59 ### Unknown**how do i create a group in a white electric weekly challenge app
+Wed, 27 June 2018 02:38:04 ### Nadine**<voice emotion='happy'>after logging into the ; a, i, a ; vitality weekly app, simply select plus icon on your dashboard and send your friends a team invite.you will need a total of 7 friends to be able to complete the challenge and earn the reward. if you require further assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.</voice>
+Wed, 27 June 2018 02:38:27 ### Nadine**hello alex.  how are you going?
+Wed, 27 June 2018 02:38:43 ### Unknown**maximum number of points we can own in vitality
+Wed, 27 June 2018 02:38:46 ### Nadine**even after achieving 15,000 ; a, i, a ; vitality points from your daily workouts, you will still continue to enjoy the ; a, i, a ; vitality weekly challenge rewards. for more inquiries or explanation, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 02:39:19 ### Unknown**what are the partners and benefits of a white 92
+Wed, 27 June 2018 02:39:26 ### Nadine**sorry i don't know how to help with that
+Wed, 27 June 2018 02:39:30 ### Nadine**hello
+Wed, 27 June 2018 02:39:39 ### Unknown**what are the partners in benefits of vitality
+Wed, 27 June 2018 02:39:47 ### Nadine**sorry i'm not sure how to help with that
+Wed, 27 June 2018 02:39:55 ### Unknown**all the partners and benefits of a identity
+Wed, 27 June 2018 02:40:03 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Wed, 27 June 2018 02:41:20 ### Unknown**what are the perks of a a vitality
+Wed, 27 June 2018 02:41:28 ### Nadine**sorry i don't know how to help with that yet
+Wed, 27 June 2018 02:41:31 ### Unknown**sorry i don't know how to help with that yet
+Wed, 27 June 2018 02:41:35 ### Nadine**for policy-specific questions, you may wish to obtain a queue ticket & take a seat. alternatively, you may wish to refer to the suggested options below.
+Wed, 27 June 2018 02:42:08 ### Unknown**how can i increase my vital statistics
+Wed, 27 June 2018 02:42:12 ### Nadine**there are 4 different tier status for ; a, i, a ; vitality, namely bronze, silver, gold and platinum status. to find how you can earn ; a, i, a ; vitality points, please visit this webpage, ; a, i, a ;vitality.com.sg
+Wed, 27 June 2018 02:42:41 ### Unknown**how can i claim my vitality cash back
+Wed, 27 June 2018 02:42:45 ### Nadine**as an ; a, i, a ; vitality member, if you have attained platinum status within the membership year, there will be a cash bonus paid to your registered bankvaccount within 90 days following your policy anniversary. to know the step-by-step instructions, kindly visit ; a, i, a ;vitality.com.sg. if you have any further enquiries, please take a queue number at our ticketing kiosk so that our customer service officers can assist you or email us at support@; a, i, a ;vitality.com.sg.
+Wed, 27 June 2018 02:43:26 ### Unknown**how do i add friends in a writer tv teen challenge
+Wed, 27 June 2018 02:43:34 ### Nadine**sorry i don't know how to help with that
+Wed, 27 June 2018 02:43:50 ### Unknown**how do i add friends in a aia vitality weekly challenge
+Wed, 27 June 2018 02:43:58 ### Nadine**sorry i'm not sure how to help
+Wed, 27 June 2018 02:44:05 ### Unknown**how do i add
+Wed, 27 June 2018 02:44:12 ### Nadine**sorry i don't know how to help with that
+Wed, 27 June 2018 02:44:18 ### Unknown**how do i
+Wed, 27 June 2018 02:44:22 ### Nadine**i don't know the answer. how do i
+Wed, 27 June 2018 02:45:15 ### Unknown**how does the latent insurance benefit work
+Wed, 27 June 2018 02:45:20 ### Nadine**; a, i, a ; vitality insurance benefits are applicable for selected ; a, i, a ; policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected ; a, i, a ; insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit ; a, i, a ;vitality.com.sg
+Wed, 27 June 2018 02:47:04 ### Unknown**how will i be notified of my vitality discount
+Wed, 27 June 2018 02:47:08 ### Nadine**policyowners who are eligible for ; a, i, a ; vitality insurance premium discount will be notified in writing 30 days before their policies are due for renewal.
+Wed, 27 June 2018 02:47:43 ### Unknown**how do i redeem my tv ticket discount
+Wed, 27 June 2018 02:47:51 ### Nadine**glad to know more about you
+Wed, 27 June 2018 02:47:54 ### Unknown**glad to know more about you
+Wed, 27 June 2018 02:48:02 ### Nadine**<voice emotion='happy'>i love to help get things done and to share knowledge want to hear an interesting fact</voice>
+Wed, 27 June 2018 02:48:08 ### Unknown**i love to help get things done and to share knowledge want to hear an interesting fact
+Wed, 27 June 2018 02:48:18 ### Nadine**<voice emotion='happy'>please speak short sentences. sorry i'm not sure how to help</voice>
+Wed, 27 June 2018 02:48:41 ### Unknown**how can i make payment for policies
+Wed, 27 June 2018 02:48:45 ### Nadine**<voice emotion='happy'>we accept payment via various channels which include a x s, s a m machines, e banking, telegraphic transfers, cheques. you may wish to remit payment at our cashier counters as well. please take note that we only accept cash, cheques and nets.</voice>
+Wed, 27 June 2018 02:49:22 ### Unknown**i want to play for jada reduction
+Wed, 27 June 2018 02:49:26 ### Nadine**for application of giro, you may approach counter staff for assistance for filling up of the forms. for p o s or d b s account holders, a x s and e banking is another alternative for giro application. for credit card payments, please obtain a queue ticket for assistance, we accept giro application & credit cards from singapore banks denominated in s$ currency only.
+Wed, 27 June 2018 02:49:57 ### Unknown**i want to apply for a recurring payment
+Wed, 27 June 2018 02:50:01 ### Nadine**for application of giro, you may approach counter staff for assistance for filling up of the forms. for p o s or d b s account holders, a x s and e banking is another alternative for giro application. for credit card payments, please obtain a queue ticket for assistance, we accept giro application & credit cards from singapore banks denominated in s$ currency only.
+Wed, 27 June 2018 02:51:14 ### Unknown**can i make payment by installment
+Wed, 27 June 2018 02:51:18 ### Nadine**for premium payment, there is current no instalment plans for payment. for loan repayment, partial repayment can be done. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 02:52:06 ### Unknown**how can i remove payment by telegraph
+Wed, 27 June 2018 02:52:11 ### Nadine**if policyholders need to make payment when overseas, he may arrange with a bank to pay the premium via telegraphic transfer to the following bank account in favour of ; a, i, a ; singapore private limited. the policy number must be indicated in their instruction to the bank. a)for s$ policy isbeneficiary bank name is citibank singapore beneficiary bank code or swift code is citisgsg, beneficiarys name is ; a, i, a ; singapore private limited, beneficiarys account number is 0010005019. for us$ policy is beneficiary bank name is citibank singapore, beneficiary bank swift code is citisgsg, beneficiarys name is ; a, i, a ; singapore private limited, beneficiarys account number is 0010005086, intermediary bank name is citibank new york and intermediary bank swift code is citius33.
+Wed, 27 June 2018 02:52:48 ### Unknown**i think about it
+Wed, 27 June 2018 02:52:54 ### Nadine**got it
+Wed, 27 June 2018 02:52:55 ### Unknown**can i remove payment by tt
+Wed, 27 June 2018 02:52:58 ### Nadine**if policyholders need to make payment when overseas, he may arrange with a bank to pay the premium via telegraphic transfer to the following bank account in favour of ; a, i, a ; singapore private limited. the policy number must be indicated in their instruction to the bank. a)for s$ policy isbeneficiary bank name is citibank singapore beneficiary bank code or swift code is citisgsg, beneficiarys name is ; a, i, a ; singapore private limited, beneficiarys account number is 0010005019. for us$ policy is beneficiary bank name is citibank singapore, beneficiary bank swift code is citisgsg, beneficiarys name is ; a, i, a ; singapore private limited, beneficiarys account number is 0010005086, intermediary bank name is citibank new york and intermediary bank swift code is citius33.
+Wed, 27 June 2018 02:54:09 ### Unknown**open it and make payment by ibanking
+Wed, 27 June 2018 02:54:12 ### Nadine**policyholders may pay the premium via internet banking if he has signed up for the internet banking service with any of the following banks d b s, o c b c, u o b, citi bank, h s b c or standard chartered bank . please remember to key in your policy number while making payment.any queries should be directed to the bank concerned.
+Wed, 27 June 2018 02:55:06 ### Unknown**how can i remove payment by axs machine
+Wed, 27 June 2018 02:55:12 ### Nadine**sorry i'm not sure how to help
+Wed, 27 June 2018 02:55:27 ### Unknown**how can i they make my payment by excess machine
+Wed, 27 June 2018 02:55:34 ### Nadine**glad to know more about you
+Wed, 27 June 2018 02:55:54 ### Unknown**how can i remove payment by excess machine
+Wed, 27 June 2018 02:56:01 ### Nadine**my apologies i don't understand
+Wed, 27 June 2018 02:56:10 ### Unknown**how can i remove payment by axs machine
+Wed, 27 June 2018 02:56:17 ### Nadine**sorry i'm not sure how to help
+Wed, 27 June 2018 02:56:32 ### Unknown**how can i remove payment through axs machine
+Wed, 27 June 2018 02:56:38 ### Nadine**sorry i'm not sure how to help
+Wed, 27 June 2018 02:56:49 ### manoj**how can i remove payment
+Wed, 27 June 2018 02:57:03 ### Nadine**here's some information from the web that might possibly help on the website support. apple.com they say to the right of payment type to get it you can see which payment methods the itunes store accepts in the payment type section if you're using family sharing and purchase sharing is turned on only your family organizer can update your payment information to remove the payment method select none
+Wed, 27 June 2018 02:57:27 ### Unknown**remit
+Wed, 27 June 2018 02:57:30 ### Nadine**ok
+Wed, 27 June 2018 02:57:35 ### Unknown**how can i remove payment
+Wed, 27 June 2018 02:57:48 ### Nadine**here's some information from the web that might possibly help on the website support. apple.com they say to the right of payment type click at it you can see which payment methods the itunes store accepts in the payment type section if you're using family sharing and purchase sharing is turned on only your family organizer can update your payment information to remove the payment method select none
+Wed, 27 June 2018 02:58:14 ### Unknown**how can i remedy exs
+Wed, 27 June 2018 02:58:21 ### Nadine**sorry i'm not sure how to help with that
+Wed, 27 June 2018 02:58:26 ### Unknown**how can i remove it
+Wed, 27 June 2018 02:58:33 ### Nadine**sorry i can't help with that yet
+Wed, 27 June 2018 02:58:41 ### Unknown**how can i remit payment to xs
+Wed, 27 June 2018 02:58:44 ### Nadine**policyholders can remit premiums at any singpost branches by bringing along their renewal notice when making payment. for premium payment at self-service automated machines or sam, policyholders will need to key in their policy number when making payment.
+Wed, 27 June 2018 02:59:19 ### Unknown**how can i
+Wed, 27 June 2018 02:59:22 ### Nadine**what is your highest level of education?
+Wed, 27 June 2018 02:59:28 ### Unknown**how can i remit payment
+Wed, 27 June 2018 02:59:41 ### Nadine**here's some information from the web that might possibly help on the website support. apple.com they say to the right of payment type click at it you can see which payment methods the itunes store accepts in the payment type section if you're using family sharing and purchase sharing is turned on only your family organizer can update your payment information to remove the payment method select none
+Wed, 27 June 2018 03:00:11 ### Unknown**how can i remit payment by excess machine
+Wed, 27 June 2018 03:00:17 ### Nadine**sorry i'm not sure how to help with that
+Wed, 27 June 2018 03:00:27 ### Unknown**how can i remit payment by axs machine
+Wed, 27 June 2018 03:00:34 ### Nadine**sorry i don't understand
+Wed, 27 June 2018 03:00:55 ### Unknown**how can i remit payment by check
+Wed, 27 June 2018 03:00:58 ### Nadine**for payment via cheques or bank drafts, cheques should be crossed and made payable to ; a, i, a ; singapore private limited. indicate the policy number on the back of the cheque and send it together with the premium notice in our business reply envelope. you may also mail the payment directly to this address. ; a, i, a ; singapore private limited; cashier - ; a, i, a ; tower; 1 robinson road; ; a, i, a ; tower; singapore; pincode is 048542
+Wed, 27 June 2018 03:01:46 ### Unknown**how can i remit payment by self-service automated machines
+Wed, 27 June 2018 03:01:49 ### Nadine**policyholders can remit premiums at any singpost branches by bringing along their renewal notice when making payment. for premium payment at self-service automated machines or sam, policyholders will need to key in their policy number when making payment.
+Wed, 27 June 2018 03:21:39 ### Unknown**hello
+Wed, 27 June 2018 03:21:49 ### Unknown**how can i remove payment by s a m
+Wed, 27 June 2018 03:21:56 ### Nadine**my apologies i don't understand
+Wed, 27 June 2018 03:22:06 ### Unknown**how can i remove payment by self automated service
+Wed, 27 June 2018 03:22:13 ### Nadine**sorry i'm not sure how to help
+Wed, 27 June 2018 03:22:23 ### Unknown**how can i remove a payment by self service automated machine
+Wed, 27 June 2018 03:22:30 ### Nadine**sorry i'm not sure how to help with that
+Wed, 27 June 2018 03:23:17 ### Unknown**what is the grace period for premium payment
+Wed, 27 June 2018 03:23:19 ### Nadine**for policy premium payment, the grace period is 30 days. payment would have to be received within 30 days from the policy paid-to-date to prevent the policy from lapsing.
+Wed, 27 June 2018 03:35:32 ### Unknown**how can i check if the change for my gyro payment is completed
+Wed, 27 June 2018 03:35:34 ### Nadine**we will notify policyholders of the application outcome of giro in writing once we have received confirmation if the application has been successful or rejected.
+Wed, 27 June 2018 03:36:10 ### Unknown**what is insurance
+Wed, 27 June 2018 03:36:12 ### Nadine**insurance is a means of protection from financial loss, it is cateorgize into life, term, health.
+Wed, 27 June 2018 03:36:25 ### Unknown**what are the different types of insurances
+Wed, 27 June 2018 03:36:28 ### Nadine**which would you like to know more about? life, term, health? life policy are policies insuring on death and usually attachable with riders, these policies usually attains cash value over time. life policy are policies insuring on death and usually attachable with riders, these policies usually attains cash value over time and term policy are policies insuring on death and usually attachable with riders, typically have no cash value & premiums are wholly spent on coverage.
+Wed, 27 June 2018 03:37:12 ### Unknown**how can we obtain your number
+Wed, 27 June 2018 03:37:14 ### Nadine**please take a queue number at our ticketing kiosk so that our customer service officers can assist you. you may scan your ; n, r, i, c ; & a queue number will be issued.
+Wed, 27 June 2018 03:37:33 ### Unknown**how long is the waiting time
+Wed, 27 June 2018 03:37:36 ### Nadine**the estimated waiting time will usually be longer on post & pre weekends & public holidays as well as during lunch hours from 11am to 2pm. the waiting time may range from 15minutes to an hour.
+Wed, 27 June 2018 03:38:17 ### Unknown**how can i contact the financial service consultant
+Wed, 27 June 2018 03:38:24 ### Nadine**sorry i'm not sure how to help
+Wed, 27 June 2018 03:38:39 ### Unknown**i wish to contact my financial service consultant
+Wed, 27 June 2018 03:38:46 ### Nadine**<voice emotion='happy'>glad to know more about you</voice>
+Wed, 27 June 2018 03:39:11 ### Unknown**what time is the service centers open
+Wed, 27 June 2018 03:39:14 ### Nadine**our customer service centers are opened on monday to friday, from 8.45am to 5.30pm. excluding holidays & weekends. should you require assistance, please take a queue number at our ticketing kiosk and key in your ; n, r, i, c ; or passport number for a ticket, so that our customer service officers can assist you.
+Wed, 27 June 2018 03:39:44 ### Unknown**can i check on behalf of my later
+Wed, 27 June 2018 03:39:46 ### Nadine**sorry, we are only able to reveal details of the policy to the policyowner only. unfortunately, authorization letters are not allowed unless the documents are based on the following - power of attorney, letter of adminstration, grant of probate. for assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:40:15 ### Unknown**what is the loan interest rate
+Wed, 27 June 2018 03:40:18 ### Nadine**as of now, our loan interest rates for both s$ & u$ policies are at 6% per annual, calculated daily & compounding upon policy anniversary. please take note that interest rates are not guaranteed and are subjected to changed upon our company's review.
+Wed, 27 June 2018 03:40:50 ### Unknown**what is dividends interest
+Wed, 27 June 2018 03:40:53 ### Nadine**as of now, our dividends or coupon interest rates for s$ policies are at 3.25% per annual, calculated daily & compounding upon policy anniversary. please take note that interest rates are not guaranteed and are subjected to changed upon our company's review.
+Wed, 27 June 2018 03:41:15 ### Unknown**how many service centers do you have
+Wed, 27 June 2018 03:41:18 ### Nadine**our customer service centres are located at one finlayson green and 3 tampines grande. tampines grande is near to the tampines bus interchange or tampines hub.
+Wed, 27 June 2018 03:41:52 ### Unknown**can i arrange an appointment to meet counter stuff
+Wed, 27 June 2018 03:41:54 ### Nadine**i am sorry, unfortunately we do not have any arrangement for appointment booking. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:42:26 ### Unknown**where can i inquire about purchasing new policies
+Wed, 27 June 2018 03:42:29 ### Nadine**for enquiries related to purchasing or introduction of new policies, please contact your ; a, i, a ; financial services consultant. if you are not an existing policyholder and would like to find our more about ; a, i, a ;, please take a queue number at our ticketing kiosk so that our customer service officers can assist you or you can visit our website at www.; a, i, a ;.com.sg
+Wed, 27 June 2018 03:43:06 ### Unknown**how can i open a priority queue number
+Wed, 27 June 2018 03:43:09 ### Nadine**; a, i, a ; altitude is a by-invitation-programme designed for our select customers and are entitled to a priority queue at our customer service centers. you may refer to our website at www.; a, i, a ;.com.sg to find out the criteria to join us as our altitude member or should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:43:53 ### Unknown**how can i claim my birthday books
+Wed, 27 June 2018 03:43:56 ### Nadine**to enjoy your birthday perks, you must be an ; a, i, a ; customer to be entitled to enjoy your birthday perks. simply login to your e-care application or via our webisite at www.; a, i, a ;.com.sg to access the full listing of rewards either on or following month of your birthday.
+Wed, 27 June 2018 03:44:31 ### Unknown**where can i download your forms
+Wed, 27 June 2018 03:44:34 ### Nadine**for downloading of forms through our website, please go to this url at https://www.; a, i, a ;.com.sg/en/help-support/form-library.html. otherwise, you may retrieve the forms via our service center forms tray.
+Wed, 27 June 2018 03:45:17 ### Unknown**how can i send phone back to naia
+Wed, 27 June 2018 03:45:19 ### Nadine**to download our business reply envelope or retrieve the address to mail letters to us, please visit https://www.; a, i, a ;.com.sg/en/help-support/form-library.html you may also retrieve them via our service center forms tray.
+Wed, 27 June 2018 03:45:52 ### Unknown**what is an apl
+Wed, 27 June 2018 03:45:54 ### Nadine**an automatic premium loan is triggered when policy premiums are not remitted within the grace period and the policy affected has sufficient cash value for loan.
+Wed, 27 June 2018 03:46:33 ### Unknown**really i call me when i change
+Wed, 27 June 2018 03:46:35 ### Nadine**for policy-specific questions, you may wish to obtain a queue ticket & take a seat. alternatively, you may wish to refer to the suggested options below.
+Wed, 27 June 2018 03:46:58 ### Unknown**will you call me to inform me of my transaction status
+Wed, 27 June 2018 03:47:01 ### Nadine**for notification and requirements, ; a, i, a ; will send a letter to the policies' mailing address to notify policyholders of the status or requirements of the transaction requested. if you wish to check on the status of your transaction or require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:47:47 ### Unknown**i am an fsc can i take a few number
+Wed, 27 June 2018 03:47:50 ### Nadine**we are sorry, our customer service center located at finalayson green is meant to service our ; a, i, a ; policyholders. if you are an ; a, i, a ; financial services consultant or insurance representative, please seek assistance from our agent service centers at tampines or alexandra.
+Wed, 27 June 2018 03:48:28 ### Unknown**if i change my address will it still send a letter to my old address
+Wed, 27 June 2018 03:48:30 ### Nadine**for change of mailing address request, we will send a notification letter to both the new & old mailing address to confirm that the request has been completed.
+Wed, 27 June 2018 03:48:48 ### Unknown**i am an ifa will i get accu number
+Wed, 27 June 2018 03:48:51 ### Nadine**we are sorry, our customer service center located at finalayson green is meant to service our ; a, i, a ; policyholders. if you are an ; a, i, a ; financial services consultant or insurance representative, please seek assistance from our agent service centers at tampines or alexandra.
+Wed, 27 June 2018 03:49:27 ### Unknown**spitting and
+Wed, 27 June 2018 03:49:30 ### Nadine**spitting and was not my intention
+Wed, 27 June 2018 03:49:55 ### Unknown**what are participating and non-participating policies
+Wed, 27 June 2018 03:49:58 ### Nadine**participating policies are policies that entitle the policyholders to share in the profits of the insurance company, in consideration of the additional premiums they contribute. the profits given are generally called bonuses or dividends. the benefits from participating policies include a non-guaranteed element, which is determined by the performance of the insurance company. non-participating policies do not share in the profits of the company. an example of a non-participating policy is a term insurance policy.
+Wed, 27 June 2018 03:51:34 ### Unknown**what is a letter of guarantee
+Wed, 27 June 2018 03:51:37 ### Nadine**the letter of guarantee (l o g) is issued by ; a, i, a ; to selected hospitals for full or partial waiver of deposits in the event of hospitalization or surgery. this service is currently offered to medisave approved integrated ; a, i, a ; healthshield gold series policyholders. for more information regarding l o g, you may wish to take a queue number and our customer service officers assist you on your query.
+Wed, 27 June 2018 03:52:19 ### Unknown**when is my birthday box valid
+Wed, 27 June 2018 03:52:22 ### Nadine**all ; a, i, a ; customer with an in-force ; a, i, a ; insurance plan can access our ; a, i, a ; birthday perks microsite during and one month following their birth month.
+Wed, 27 June 2018 03:52:51 ### Unknown**my policy will be maturing soon how can i get a majority payment
+Wed, 27 June 2018 03:52:54 ### Nadine**for cash-paying policies, policyholders will be notified of pending maturity one month before the maturity date. payment proceeds would be via a cross-cheque made payable to the policyholder and mailed to the mailing address. for payment from cpfis, cpf special account and srs accounts, payment would be credited to the respectively accounts directly.
+Wed, 27 June 2018 03:53:26 ### Unknown**i have unclaimed maturity with a i
+Wed, 27 June 2018 03:53:29 ### Nadine**for enquiries or request of issuance of unclaimed maturity proceeds, you may wish to obtain a queue number at our ticketing kiosk for an officer to attend to your request. otherwise, you may wish to check if you have any unclaimed proceeds via life insurance association website.
+Wed, 27 June 2018 03:54:00 ### Unknown**i did not receive any premium letters from ei
+Wed, 27 June 2018 03:54:02 ### Nadine**for enquiries or re-issuance of annual statements, renewal certificate, premium notices or receipts, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:54:24 ### Unknown**how can i change my agent
+Wed, 27 June 2018 03:54:27 ### Nadine**to request for a change of your ; a, i, a ; financial services consultant (f s c) or insurance representative, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:54:55 ### Unknown**how can i check if my address is updated
+Wed, 27 June 2018 03:54:58 ### Nadine**to check if your mailing address is up to date with our records, you may wish to access your e-care account via our e-care application or login through website. alternatively, you may also contact our call center at 1800 248 8000 or take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:55:28 ### Unknown**how can i lodge a complaint against my agent
+Wed, 27 June 2018 03:55:31 ### Nadine**for submission of feedbacks or complaint, you may wish to escalate the case to one of our service officers by taking a queue number at our ticketing kiosk so that our customer service officers can assist you. otherwise, you may wish to email us at sg.ecare@; a, i, a ;.com
+Wed, 27 June 2018 03:56:02 ### Unknown**how will i know if my check is ready for collection
+Wed, 27 June 2018 03:56:05 ### Nadine**if you have been directed to our service center for cheque collection or wish to uncross a cheque, kindly approach our cheque collection counters for help. if you wish to enquire if your cheque is ready for collection or reissuance of cheque, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:56:52 ### Unknown**how can i know about the insurance policies offered by company from staff that is a non-financial agent
+Wed, 27 June 2018 03:56:55 ### Nadine**we are sorry, other than direct purchase insurance, our staff will be unable to introduce nor provide additional information with regards to the purchase of new policies. you may wish to submit an interest form through our customer service so that we can assign an ; a, i, a ; financial services consultant or insurance representative to contact you. for more enquiries and application of direct purchase insurance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:57:36 ### Unknown**how can i surrender my policy
+Wed, 27 June 2018 03:57:38 ### Nadine**for surrendering of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:58:07 ### Unknown**how can i surrender my policy
+Wed, 27 June 2018 03:58:09 ### Nadine**for surrendering of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 03:58:23 ### Unknown**how can i surrender policy to the website
+Wed, 27 June 2018 03:58:26 ### Nadine**currently, the only method termination of policy would be via hard-copy forms either through mailing or submission at our service counters. you may wish to obtain a queue number if your request is to surrender or terminate a policy.
+Wed, 27 June 2018 03:59:00 ### Unknown**can i still see account of stuff when i don't have a photo id
+Wed, 27 June 2018 03:59:03 ### Nadine**unfortunately, our staff would be unable to assist you with most transactions if your photo identification is not presented. most transactions would be limited to general enquiries since we are unable to verify against a photo identification.
+Wed, 27 June 2018 03:59:26 ### Unknown**what are the benefits of altitude members
+Wed, 27 June 2018 03:59:29 ### Nadine**to access the full list of benefits for altitude members, simply login to our e-care portal via our website at www.; a, i, a ;.com.sg or via our application e-care.
+Wed, 27 June 2018 03:59:53 ### Unknown**i can connect to wi-fi what should i do
+Wed, 27 June 2018 03:59:56 ### Nadine**simply enable your wifi on your smart device, connect to ; a, i, a ; connect and key in the password ; a, i, a ;connect, sign in to the network by clicking on continue to the internet and you will have wifi access for an hour. for pro-long usage, simply login again.
+Wed, 27 June 2018 04:00:30 ### Unknown**what time does the cashier close
+Wed, 27 June 2018 04:00:33 ### Nadine**our cashiers are opened from 8.45am till 5.30pm from monday to friday, excluding weekends and public holidays. please take note that any payment at our cashier will not be accepted after 5.30pm.
+Wed, 27 June 2018 04:01:02 ### Unknown**i've submitted some palms but haven't received a notification from aia
+Wed, 27 June 2018 04:01:04 ### Nadine**for enquiries on status of submission, you may wish to take a queue ticket & our counter staff will assist you on your enquiry. alternatively, you may wish to refer to the suggested options below.
+Wed, 27 June 2018 04:01:32 ### Unknown**can i check my policy here
+Wed, 27 June 2018 04:01:34 ### Nadine**for policy-specific questions, you may wish to obtain a queue ticket & take a seat. alternatively, you may wish to refer to the suggested options below.
+Wed, 27 June 2018 04:02:04 ### Unknown**how can i check if my service request has been processed
+Wed, 27 June 2018 04:02:07 ### Nadine**for status of service request you may wish to take a queue ticket & our counter staff will assist you on your enquiry alternatively, you may wish to refer to the suggested options below.
+Wed, 27 June 2018 04:02:38 ### Unknown**how can i check my policy status
+Wed, 27 June 2018 04:02:44 ### Nadine**glad to know more about you
+Wed, 27 June 2018 04:03:03 ### Unknown**can i check my policy status
+Wed, 27 June 2018 04:03:14 ### Nadine**glad to know more about you
+Wed, 27 June 2018 04:03:24 ### Unknown**my policy status is an edi what is the reason
+Wed, 27 June 2018 04:03:28 ### Nadine**extended term insurance happens when the policy premiums are not received within the grace period and automatic loan attempts has been exhausted. the policy will convert to a term status whereby premiums are no longer required but the policy cease to particpate in any future dividends or bonus, all riders are also terminated when policy is converted to extended term insurance. the remaining cash value in the policy will be utilized to pay for the coverage until the amount is exhausted. extended term insurance can also be requested via form submission.
+Wed, 27 June 2018 04:04:12 ### Unknown**my policy is an extended term insurance what is the reason
+Wed, 27 June 2018 04:04:15 ### Nadine**extended term insurance happens when the policy premiums are not received within the grace period and automatic loan attempts has been exhausted. the policy will convert to a term status whereby premiums are no longer required but the policy cease to particpate in any future dividends or bonus, all riders are also terminated when policy is converted to extended term insurance. the remaining cash value in the policy will be utilized to pay for the coverage until the amount is exhausted. extended term insurance can also be requested via form submission.
+Wed, 27 June 2018 04:04:58 ### Unknown**my policy status is an rpu what is the reason
+Wed, 27 June 2018 04:05:02 ### Nadine**reduce paid-up happens when the policy premiums are not received within the grace period and automatic loan attempts has been exhausted. the policy will convert to a term status whereby premiums are no longer required but the policy cease to particpate in any future dividends or bonus, all riders are also terminated when policy is converted to reduce paid-up. the remaining cash value in the policy will continue to increase until the maturity date and the face amount will be paid-out. reduce paid-up can also be requested via form submission.
+Wed, 27 June 2018 04:05:43 ### Unknown**my policy status is in reduced paid up what should i do
+Wed, 27 June 2018 04:05:46 ### Nadine**reduce paid-up happens when the policy premiums are not received within the grace period and automatic loan attempts has been exhausted. the policy will convert to a term status whereby premiums are no longer required but the policy cease to particpate in any future dividends or bonus, all riders are also terminated when policy is converted to reduce paid-up. the remaining cash value in the policy will continue to increase until the maturity date and the face amount will be paid-out. reduce paid-up can also be requested via form submission.
+Wed, 27 June 2018 04:06:26 ### Unknown**i have received a counter offer letter can i submit it
+Wed, 27 June 2018 04:06:29 ### Nadine**for submission of documents or pending requirements, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:06:50 ### Unknown**my policy has lapsed what should i do
+Wed, 27 June 2018 04:06:53 ### Nadine**for reinstatement of policies, as there are multiple types of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:08:27 ### Unknown**how can i check my policy beneficiary
+Wed, 27 June 2018 04:08:29 ### Nadine**for enquiries related to or changing of policy beneficiaries, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:08:52 ### Unknown**i accidentally paid the premium twice can i get refunded
+Wed, 27 June 2018 04:08:55 ### Nadine**if you have remitted excess premiums and have not received a refund till date, please take a queue number at our ticketing kiosk so that our customer service officers can assist you. please remember to bring along details or receipt of your payment for us to verify.
+Wed, 27 June 2018 04:09:28 ### Unknown**how can i change my personal particulars
+Wed, 27 June 2018 04:09:32 ### Nadine**for change nationality, ; n, r, i, c ;, passport number, date of birth, occupation, gender. please fill up change form without health declaration on part j. please take note that submission of common reporting standards for individuals will be required for change of nationality or identify number.for assistance on how to fill up the required forms, please take a queue number at our ticketing kiosk so that our customer service officers can assist you
+Wed, 27 June 2018 04:10:11 ### Unknown**can i change my mailing address
+Wed, 27 June 2018 04:10:14 ### Nadine**for update of mailing address or contact number, you may update via e-care, our self-help portal or submit a change of address and contact details form. for update of 2 fa contact number or e-care email address, we will require submission of our change of address and contact details form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:11:06 ### Unknown**can i change my 2fa contact details
+Wed, 27 June 2018 04:11:09 ### Nadine**for update of mailing address or contact number, you may update via e-care, our self-help portal or submit a change of address and contact details form. for update of 2 fa contact number or e-care email address, we will require submission of our change of address and contact details form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:11:50 ### Unknown**i want to take policy loan
+Wed, 27 June 2018 04:11:53 ### Nadine**for policy loan application & enquiry, please take a queue number at our ticketing kiosk so that our customer service officers can assist you. alternatively, you may wish to submit a loan request via our self-help portal via e-care.
+Wed, 27 June 2018 04:12:20 ### Unknown**i want to withdraw coupon
+Wed, 27 June 2018 04:12:22 ### Nadine**for withdrawal of policy benefits, please take a queue number at our ticketing kiosk so that our customer service officers can assist you. alternatively, you may wish to fill up our change form without health declaration for withdrawal of policy benefits.
+Wed, 27 June 2018 04:12:41 ### Unknown**i want to surrender my policy
+Wed, 27 June 2018 04:12:44 ### Nadine**for surrendering of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:13:05 ### Unknown**i want to submit a claim
+Wed, 27 June 2018 04:13:08 ### Nadine**for enquiries, submission and filing of claims, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:13:39 ### Unknown**how can i perform a fan switch
+Wed, 27 June 2018 04:13:41 ### Nadine**for fund switch request, you may wish to take a queue number at our ticketing kiosk for help. please take note that our officers will not be able to give advice on fund switching. you may also request for fund switching via our self-help portal, e-care.
+Wed, 27 June 2018 04:14:13 ### Unknown**how can i search help without the need to contact my fsc
+Wed, 27 June 2018 04:14:16 ### Nadine**if you wish to perform transactions via self-help, you might want to sign up for our e-care account via our website or through our smartphone app, e-care. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:14:42 ### Unknown**how can i do a find a location
+Wed, 27 June 2018 04:14:45 ### Nadine**for investment linked policy change of premium allocation, please fill up a investment linked policy request form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:15:12 ### Unknown**how can i do an automatic fan balancing
+Wed, 27 June 2018 04:15:15 ### Nadine**for investment linked policy automatic fund balancing request, please fill up a investment linked policy request form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:15:39 ### Unknown**how can i update my signature
+Wed, 27 June 2018 04:15:42 ### Nadine**for change or update of age 21 signature, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:15:59 ### Unknown**why does it take so long for a claim to be processed
+Wed, 27 June 2018 04:16:02 ### Nadine**for minor claims related to hospitalization and accident claims, the general turnaround time would be 2 working weeks and above. for major claims related to critical illness, disability and death claims, the general turnaround time would be 4 working weeks and above. however as there might be certain documents or clarifications we may require time to time, the processing time may be extended. to check on the status of your request, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:17:46 ### Unknown**why does it take so long for the company to process the claim form
+Wed, 27 June 2018 04:17:49 ### Nadine**for minor claims related to hospitalization and accident claims, the general turnaround time would be 2 working weeks and above. for major claims related to critical illness, disability and death claims, the general turnaround time would be 4 working weeks and above. however as there might be certain documents or clarifications we may require time to time, the processing time may be extended. to check on the status of your request, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:18:38 ### Unknown**i already use documents to file claim at another insurance agency can i use photocopies to submit the claim under my policy at aaa
+Wed, 27 June 2018 04:18:41 ### Nadine**for submission of claims, we would require the original receipt for medical reimbursement claims. for documents like death, marriage, birth certificate and identification documents we would require the original copy to be sighted by our officers. for a full listing of requirements for submission of claims, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Wed, 27 June 2018 04:19:41 ### Unknown**can you help me print out benefits illustration
+Wed, 27 June 2018 04:19:44 ### Nadine**for request of a new benefit illustration, you may wish to take a queue number at our ticketing kiosk so that our customer service officers can assist you. otherwise, you may also wish to send in a request via our call center or mailbox at sg.ecare@; a, i, a ;.com
+Wed, 27 June 2018 04:20:30 ### Unknown**can i email bank details as i did not bring hard copy of it when choosing pay me faster method when surrendering policy
+Wed, 27 June 2018 04:20:33 ### Nadine**to enable us to use the "pay me faster" method, we would require a copy of your bank statement or photocopied bank book indicating the bank, your full name and bank account number to pay to. please bring along a hardcopy of your bank statement or bank book to faciliate the request.
+Thu, 28 June 2018 11:53:33 ### Unknown**hello
+Thu, 28 June 2018 12:02:53 ### Unknown**lou
+Thu, 28 June 2018 12:02:57 ### Nadine**all right
+Thu, 28 June 2018 12:03:02 ### manoj**hello
+Thu, 28 June 2018 12:03:12 ### manoj**i'm fine how are you
+Thu, 28 June 2018 12:03:19 ### Nadine**i'm well thanks
+Thu, 28 June 2018 12:03:25 ### manoj**language changed to french
+Thu, 28 June 2018 12:05:06 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 01:55:01 ### Unknown**hello
+Thu, 28 June 2018 02:00:52 ### Unknown**hello
+Thu, 28 June 2018 02:00:56 ### Nadine**hello nadia
+Thu, 28 June 2018 02:01:03 ### manoj**hello
+Thu, 28 June 2018 02:01:13 ### manoj**language changed to french
+Thu, 28 June 2018 02:03:52 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 02:14:02 ### Unknown**hello
+Thu, 28 June 2018 02:20:50 ### Unknown**hello
+Thu, 28 June 2018 02:21:00 ### manoj**i'm fine
+Thu, 28 June 2018 02:21:03 ### Nadine**glad to hear it. what's new?
+Thu, 28 June 2018 02:21:09 ### manoj**i'm fine how are you
+Thu, 28 June 2018 02:21:16 ### Nadine**<voice emotion='happy'>i'm well thanks</voice>
+Thu, 28 June 2018 02:21:23 ### manoj**language changed to french
+Thu, 28 June 2018 02:21:25 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 02:21:27 ### Nadine**from now on lets talk in french for you
+Thu, 28 June 2018 02:21:34 ### Nadine**to request for a change of your ; a, i, a ; financial services consultant (f s c) or insurance representative, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 02:21:50 ### manoj**speak english
+Thu, 28 June 2018 02:21:54 ### Nadine**positively
+Thu, 28 June 2018 02:22:01 ### manoj**language changed to french
+Thu, 28 June 2018 02:22:03 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 02:22:05 ### Nadine**lets talk in french.
+Thu, 28 June 2018 02:22:12 ### Nadine**to request for a change of your ; a, i, a ; financial services consultant (f s c) or insurance representative, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 02:46:33 ### Unknown**hello
+Thu, 28 June 2018 02:54:33 ### Unknown**hello
+Thu, 28 June 2018 02:54:42 ### Unknown**what is your name
+Thu, 28 June 2018 02:54:45 ### Nadine**my name is nadine
+Thu, 28 June 2018 02:54:53 ### Unknown**language changed to french
+Thu, 28 June 2018 02:54:58 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 02:55:01 ### Nadine**from now on lets talk in french for you
+Thu, 28 June 2018 02:55:41 ### Nadine**hello lindy
+Thu, 28 June 2018 02:55:58 ### Unknown**how are you
+Thu, 28 June 2018 02:56:03 ### Nadine**glad to see you
+Thu, 28 June 2018 03:46:52 ### Nadine**hi
+Thu, 28 June 2018 03:46:54 ### Unknown**hello
+Thu, 28 June 2018 03:47:04 ### Unknown**i'm fine how are you
+Thu, 28 June 2018 03:47:11 ### Nadine**i'm well thanks
+Thu, 28 June 2018 03:47:23 ### Unknown**how do i earn vitality points
+Thu, 28 June 2018 03:47:27 ### Nadine**there are 4 different tier status for ; a, i, a ; vitality, namely bronze, silver, gold and platinum status. to find how you can earn ; a, i, a ; vitality points, please visit this webpage, ; a, i, a ;vitality.com.sg
+Thu, 28 June 2018 03:48:26 ### Unknown**what is aia
+Thu, 28 June 2018 03:48:37 ### Nadine**according to wikipedia aia group limited known as aia is the largest public listed pan-asian life insurance group
+Thu, 28 June 2018 03:50:48 ### Nadine**hi
+Thu, 28 June 2018 03:50:53 ### Unknown**hi how are you
+Thu, 28 June 2018 03:51:00 ### Nadine**i'm doing great thanks for asking what can i help you with

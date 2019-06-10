@@ -1,0 +1,259 @@
+Thu, 28 June 2018 03:53:46 ### Unknown**hello
+Thu, 28 June 2018 03:53:55 ### Unknown**i'm fine how are you
+Thu, 28 June 2018 03:54:02 ### Nadine**i'm well thanks
+Thu, 28 June 2018 03:54:15 ### Unknown**how can i update my email address
+Thu, 28 June 2018 03:54:19 ### Nadine**for update of mailing address or contact number, you may update via e-care, our self-help portal or submit a change of address and contact details form. for update of 2 fa contact number or e-care email address, we will require submission of our change of address and contact details form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 03:54:50 ### Unknown**what is aia
+Thu, 28 June 2018 03:54:59 ### Nadine**according to wikipedia aia group limited known as aia is the largest public listed pan-asian life insurance group
+Thu, 28 June 2018 03:55:17 ### Unknown**i wish to terminate my policy
+Thu, 28 June 2018 03:55:20 ### Nadine**for surrendering of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 03:55:45 ### Unknown**is there a time limit for premium payment
+Thu, 28 June 2018 03:55:48 ### Nadine**for policy premium payment, the grace period is 30 days. payment would have to be received within 30 days from the policy paid-to-date to prevent the policy from lapsing.
+Thu, 28 June 2018 03:56:08 ### Unknown**what is non-participating policies
+Thu, 28 June 2018 03:56:12 ### Nadine**participating policies are policies that entitle the policyholders to share in the profits of the insurance company, in consideration of the additional premiums they contribute. the profits given are generally called bonuses or dividends. the benefits from participating policies include a non-guaranteed element, which is determined by the performance of the insurance company. non-participating policies do not share in the profits of the company. an example of a non-participating policy is a term insurance policy.
+Thu, 28 June 2018 03:56:56 ### Unknown**do you have pos counters
+Thu, 28 June 2018 03:57:00 ### Nadine**we are sorry, our customer service center located at finalayson green is meant to service our ; a, i, a ; policyholders. if you are an ; a, i, a ; financial services consultant or insurance representative, please seek assistance from our agent service centers at tampines or alexandra.
+Thu, 28 June 2018 03:57:40 ### Unknown**do you have pos counters
+Thu, 28 June 2018 03:57:43 ### Nadine**we are sorry, our customer service center located at finalayson green is meant to service our ; a, i, a ; policyholders. if you are an ; a, i, a ; financial services consultant or insurance representative, please seek assistance from our agent service centers at tampines or alexandra.
+Thu, 28 June 2018 03:58:27 ### Unknown**do you have pit boss contest
+Thu, 28 June 2018 03:58:30 ### Nadine**we are sorry, our customer service center located at finalayson green is meant to service our ; a, i, a ; policyholders. if you are an ; a, i, a ; financial services consultant or insurance representative, please seek assistance from our agent service centers at tampines or alexandra.
+Thu, 28 June 2018 03:59:00 ### Unknown**can you tell me about automatic premium loan
+Thu, 28 June 2018 03:59:04 ### Nadine**an automatic premium loan is triggered when policy premiums are not remitted within the grace period and the policy affected has sufficient cash value for loan.
+Thu, 28 June 2018 03:59:18 ### Unknown**how can i apply for automatic premium loan
+Thu, 28 June 2018 03:59:21 ### Nadine**an automatic premium loan is triggered when policy premiums are not remitted within the grace period and the policy affected has sufficient cash value for loan.
+Thu, 28 June 2018 03:59:52 ### Unknown**can i sync my devices to vitality
+Thu, 28 June 2018 03:59:56 ### Nadine**for ; a, i, a ; vitality sign-up & enquiries, you may visit http://; a, i, a ;vitality.com.sg/, sign up via your ; a, i, a ; financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to ; a, i, a ; vitality, please contact us by emailing to sg.vitalitysupport@; a, i, a ;.com
+Thu, 28 June 2018 04:00:41 ### Unknown**what devices are compatible with vitality
+Thu, 28 June 2018 04:00:45 ### Nadine**currently, the tracking devices and applications that are compatible with ; a, i, a ; vitality weekly challenge can be found in the link your device or app screen. otherwise, you may wish to visit our website at ; a, i, a ;vitality.com.sg for more information.
+Thu, 28 June 2018 04:01:12 ### Unknown**which of my devices can be connected with vitality
+Thu, 28 June 2018 04:01:15 ### Nadine**currently, the tracking devices and applications that are compatible with ; a, i, a ; vitality weekly challenge can be found in the link your device or app screen. otherwise, you may wish to visit our website at ; a, i, a ;vitality.com.sg for more information.
+Thu, 28 June 2018 04:01:38 ### Unknown**how many devices can be connected with vitality
+Thu, 28 June 2018 04:01:42 ### Nadine**currently, the tracking devices and applications that are compatible with ; a, i, a ; vitality weekly challenge can be found in the link your device or app screen. otherwise, you may wish to visit our website at ; a, i, a ;vitality.com.sg for more information.
+Thu, 28 June 2018 04:02:10 ### Unknown**half-ass images
+Thu, 28 June 2018 04:02:14 ### Nadine**nice
+Thu, 28 June 2018 04:02:22 ### Unknown**tell me what are the fees to pay for my policy
+Thu, 28 June 2018 04:02:26 ### Nadine**we accept payment via various channels which include a x s, s a m machines, e banking, telegraphic transfers, cheques. you may wish to remit payment at our cashier counters as well. please take note that we only accept cash, cheques and nets.
+Thu, 28 June 2018 04:03:23 ### Unknown**how do you happy
+Thu, 28 June 2018 04:03:31 ### Nadine**i don't know
+Thu, 28 June 2018 04:03:52 ### Unknown**hi
+Thu, 28 June 2018 04:04:20 ### Unknown**hi
+Thu, 28 June 2018 04:04:58 ### Nadine**hello alex.  how are you going?
+Thu, 28 June 2018 04:05:46 ### Alex**find music
+Thu, 28 June 2018 04:05:50 ### Nadine**did you lose it?
+Thu, 28 June 2018 04:07:37 ### Alex**language changed to french
+Thu, 28 June 2018 04:07:38 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 04:07:44 ### Nadine**i will talk in french for you now
+Thu, 28 June 2018 04:08:02 ### Alex**how are you
+Thu, 28 June 2018 04:08:06 ### Nadine**excited to talk with you
+Thu, 28 June 2018 04:08:20 ### Alex**you call me manon
+Thu, 28 June 2018 04:08:28 ### Nadine**you'd like me to call you madam is that right
+Thu, 28 June 2018 04:08:46 ### Alex**how to change
+Thu, 28 June 2018 04:08:50 ### Nadine**i don't know the answer. how to change
+Thu, 28 June 2018 04:09:06 ### Alex**language changed to english
+Thu, 28 June 2018 04:09:06 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Thu, 28 June 2018 04:09:06 ### Nadine**lets continue in english.
+Thu, 28 June 2018 04:14:40 ### Nadine**hello alex again
+Thu, 28 June 2018 04:14:51 ### Alex**alex
+Thu, 28 June 2018 04:14:54 ### Nadine**t
+Thu, 28 June 2018 04:15:01 ### Alex**who is annex
+Thu, 28 June 2018 04:15:10 ### Nadine**sorry i'm having trouble to change your name just go to the nadine settings and update your personal info under more settings
+Thu, 28 June 2018 04:15:24 ### Alex**who is alex
+Thu, 28 June 2018 04:15:28 ### Nadine**not to like about shopping is who pays for your shopping , not to like about shopping is do you like shopping and you think you are behaving dumb too
+Thu, 28 June 2018 04:16:35 ### Alex**what are the ways for payment
+Thu, 28 June 2018 04:16:38 ### Nadine**we accept payment via various channels which include a x s, s a m machines, e banking, telegraphic transfers, cheques. you may wish to remit payment at our cashier counters as well. please take note that we only accept cash, cheques and nets.
+Thu, 28 June 2018 04:17:05 ### Alex**is it possible to repay my policy loan hair
+Thu, 28 June 2018 04:17:09 ### Nadine**currently, the only method termination of policy would be via hard-copy forms either through mailing or submission at our service counters. you may wish to obtain a queue number if your request is to surrender or terminate a policy.
+Thu, 28 June 2018 04:18:21 ### Alex**how can i get feedback on my agent
+Thu, 28 June 2018 04:18:25 ### Nadine**for submission of feedbacks or complaint, you may wish to escalate the case to one of our service officers by taking a queue number at our ticketing kiosk so that our customer service officers can assist you. otherwise, you may wish to email us at sg.ecare@; a, i, a ;.com
+Thu, 28 June 2018 04:19:09 ### Alex**yeah you did not send me any more except
+Thu, 28 June 2018 04:19:13 ### Nadine**okea. what makes you think i did not send you any more except?
+Thu, 28 June 2018 04:19:23 ### Alex**aia did not send me any recept
+Thu, 28 June 2018 04:19:27 ### Nadine**for enquiries or re-issuance of annual statements, renewal certificate, premium notices or receipts, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 04:19:54 ### Alex**can you reprint my recept
+Thu, 28 June 2018 04:19:57 ### Nadine**for enquiries or re-issuance of annual statements, renewal certificate, premium notices or receipts, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 04:24:01 ### Unknown**hi
+Thu, 28 June 2018 04:24:20 ### Unknown**my weekly app is not working
+Thu, 28 June 2018 04:24:28 ### Nadine**glad to know more about you
+Thu, 28 June 2018 04:24:30 ### Nadine**hello
+Thu, 28 June 2018 04:24:32 ### Nadine**hello alex again
+Thu, 28 June 2018 04:24:34 ### Unknown**my app is not working
+Thu, 28 June 2018 04:24:41 ### Nadine**glad to know more about you
+Thu, 28 June 2018 04:24:47 ### Unknown**my weekly app is not working
+Thu, 28 June 2018 04:24:54 ### Nadine**glad to know more about you
+Thu, 28 June 2018 04:24:58 ### Unknown**my vitality app is not working
+Thu, 28 June 2018 04:25:06 ### Nadine**glad to know more about you
+Thu, 28 June 2018 04:25:12 ### Unknown**my vitality weekly app is not working
+Thu, 28 June 2018 04:25:20 ### Nadine**glad to know more about you
+Thu, 28 June 2018 04:26:09 ### Unknown**is there a way to pay partially
+Thu, 28 June 2018 04:26:13 ### Nadine**for investment linked policy change of premium allocation, please fill up a investment linked policy request form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 04:27:11 ### Unknown**please help me how to take a cue number
+Thu, 28 June 2018 04:27:15 ### Nadine**please take a queue number at our ticketing kiosk so that our customer service officers can assist you. you may scan your  NRIC  & a queue number will be issued.
+Thu, 28 June 2018 04:37:03 ### william**blue
+Thu, 28 June 2018 04:37:07 ### Nadine**green
+Thu, 28 June 2018 04:37:13 ### william**so how are you
+Thu, 28 June 2018 04:37:20 ### Nadine**i'm doing great thanks for asking what can i help you with
+Thu, 28 June 2018 05:08:15 ### yujun**call my check
+Thu, 28 June 2018 05:08:19 ### Nadine**if you have been directed to our service center for cheque collection or wish to uncross a cheque, kindly approach our cheque collection counters for help. if you wish to enquire if your cheque is ready for collection or reissuance of cheque, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 05:12:19 ### Nadine**hi
+Thu, 28 June 2018 05:12:40 ### Unknown**can i take a policy loan
+Thu, 28 June 2018 05:12:44 ### Nadine**for policy loan application & enquiry, please take a queue number at our ticketing kiosk so that our customer service officers can assist you. alternatively, you may wish to submit a loan request via our self-help portal via e-care.
+Thu, 28 June 2018 05:12:59 ### Nadine**hello alex
+Thu, 28 June 2018 05:14:54 ### Unknown**can i take a policy loan
+Thu, 28 June 2018 05:14:58 ### Nadine**for policy loan application & enquiry, please take a queue number at our ticketing kiosk so that our customer service officers can assist you. alternatively, you may wish to submit a loan request via our self-help portal via e-care.
+Thu, 28 June 2018 05:15:29 ### william**can you teach me how to take a policy loan
+Thu, 28 June 2018 05:15:34 ### Nadine**for surrendering of policies, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 05:15:49 ### william**how to take a policy loan
+Thu, 28 June 2018 05:15:53 ### Nadine**for policy loan application & enquiry, please take a queue number at our ticketing kiosk so that our customer service officers can assist you. alternatively, you may wish to submit a loan request via our self-help portal via e-care.
+Thu, 28 June 2018 05:16:54 ### Unknown**how can i buy a tiki
+Thu, 28 June 2018 05:17:02 ### Nadine**sorry i'm not sure how to help
+Thu, 28 June 2018 05:17:08 ### Unknown**how can i do a telegraphic transfer
+Thu, 28 June 2018 05:17:16 ### Nadine**sorry i'm not sure how to help
+Thu, 28 June 2018 05:17:35 ### Unknown**how can i be using telegraphic transfer
+Thu, 28 June 2018 05:17:43 ### Nadine**sorry i don't know how to help with that yet
+Thu, 28 June 2018 05:17:52 ### manoj**how can i remove payment by telegraphic transfer
+Thu, 28 June 2018 05:17:57 ### Nadine**if policyholders need to make payment when overseas, he may arrange with a bank to pay the premium via telegraphic transfer to the following bank account in favour of aia singapore private limited. the policy number must be indicated in their instruction to the bank. a)for s$ policy isbeneficiary bank name is citibank singapore beneficiary bank code or swift code is citisgsg, beneficiarys name is aia singapore private limited, beneficiarys account number is 0010005019. for us$ policy is beneficiary bank name is citibank singapore, beneficiary bank swift code is citisgsg, beneficiarys name is aia singapore private limited, beneficiarys account number is 0010005086, intermediary bank name is citibank new york and intermediary bank swift code is citius33.
+Thu, 28 June 2018 05:19:02 ### manoj**how can i sign up for ya if i tell fe
+Thu, 28 June 2018 05:19:06 ### Nadine**for aia vitality sign-up & enquiries, you may visit http://aiavitality.com.sg/, sign up via your aia financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to aia vitality, please contact us by emailing to sg.vitalitysupport@aia.com
+Thu, 28 June 2018 05:20:13 ### manoj**what devices is compatible with vitality
+Thu, 28 June 2018 05:20:17 ### Nadine**currently, the tracking devices and applications that are compatible with aia vitality weekly challenge can be found in the link your device or app screen. otherwise, you may wish to visit our website at aiavitality.com.sg for more information.
+Thu, 28 June 2018 05:21:42 ### manoj**vitality discount
+Thu, 28 June 2018 05:21:45 ### Nadine**all right
+Thu, 28 June 2018 05:22:00 ### manoj**how does vitality discount work
+Thu, 28 June 2018 05:22:05 ### Nadine**<voice emotion='happy'>aia vitality insurance benefits are applicable for selected aia policies where you can enjoy free additional coverage or an upfront discount off your first-year premium when you buy selected aia insurance policies. and as you get healthier and improve on your vitality status, you can also enjoy a premium discount of up to 15% at the next policy renewal each year. for the information, please visit please visit aiavitality.com.sg</voice>
+Thu, 28 June 2018 05:24:28 ### manoj**can i pay by check
+Thu, 28 June 2018 05:24:40 ### Nadine**here's a summary from the website prosper. send us. comm check payments are applied on the date the check is received and not on the date the check is placed in the mail if you select pay by check during the application process your first payment will still be automatically deducted from your bank account
+Thu, 28 June 2018 05:25:24 ### manoj**how long is the waiting time
+Thu, 28 June 2018 05:25:38 ### Nadine**here's some information for long waiting time on the website ncbi. nlm.nih.gov they say the amount of time a patient weighs to be seen as one factor which affects utilization of health care services patients receive long waiting times as barrier to actually obtaining services and keeping patients waiting on necessarily can be a cause of stress for both patient and doctor
+Thu, 28 June 2018 05:26:33 ### manoj**learning tree
+Thu, 28 June 2018 05:26:36 ### Nadine**ok
+Thu, 28 June 2018 05:26:45 ### manoj**loan interest
+Thu, 28 June 2018 05:26:49 ### Nadine**<voice emotion='happy'>all right</voice>
+Thu, 28 June 2018 05:27:04 ### manoj**can you tell me the loan interest rate
+Thu, 28 June 2018 05:27:08 ### Nadine**<voice emotion='happy'>as of now, our dividends or coupon interest rates for s$ policies are at 3.25% per annual, calculated daily & compounding upon policy anniversary. please take note that interest rates are not guaranteed and are subjected to changed upon our company's review.</voice>
+Thu, 28 June 2018 05:28:01 ### manoj**how many service centers do you have
+Thu, 28 June 2018 05:28:09 ### Nadine**sorry i'm not sure how to help with that
+Thu, 28 June 2018 05:28:20 ### manoj**appraisal service center
+Thu, 28 June 2018 05:28:24 ### Nadine**our customer service centres are located at one finlayson green and 3 tampines grande. tampines grande is near to the tampines bus interchange or tampines hub.
+Thu, 28 June 2018 05:29:22 ### manoj**can i change my sewing machine complete
+Thu, 28 June 2018 05:29:26 ### Nadine**for update of mailing address or contact number, you may update via e-care, our self-help portal or submit a change of address and contact details form. for update of 2 fa contact number or e-care email address, we will require submission of our change of address and contact details form. should you require assistance, please take a queue number at our ticketing kiosk so that our customer service officers can assist you.
+Thu, 28 June 2018 05:30:08 ### manoj**what is epi
+Thu, 28 June 2018 05:30:17 ### Nadine**according to wikipedia advanced placement is a program in the united states and canada created by the college board which offers college-level curricula and examinations to high school students
+Thu, 28 June 2018 05:30:34 ### manoj**metro towing of 3/4 wikipedia
+Thu, 28 June 2018 05:30:41 ### Nadine**sorry i don't understand
+Thu, 28 June 2018 05:30:53 ### manoj**what is epi
+Thu, 28 June 2018 05:31:02 ### Nadine**according to wikipedia advanced placement is a program in the united states and canada created by the college board which offers college-level curricula and examinations to high school students
+Thu, 28 June 2018 05:31:26 ### manoj**what is rpu
+Thu, 28 June 2018 05:31:34 ### Nadine**here's the definition of repeal revoke or annul a law or act of parliament
+Thu, 28 June 2018 05:31:55 ### manoj**what is rpu
+Thu, 28 June 2018 05:32:03 ### Nadine**here's the definition of repeal revoke or annul a law or act of parliament
+Thu, 28 June 2018 05:32:31 ### manoj**my policy status is an rpu what is the reason
+Thu, 28 June 2018 05:32:39 ### Nadine**i am sorry i do not know that
+Thu, 28 June 2018 05:32:58 ### manoj**my policy status is an rpu what is the reason
+Thu, 28 June 2018 05:33:05 ### Nadine**<voice emotion='happy'>i am sorry i do not know that</voice>
+Thu, 28 June 2018 05:33:59 ### manoj**my policy status is in reduced pay up what is the reason
+Thu, 28 June 2018 05:34:04 ### Nadine**reduce paid-up happens when the policy premiums are not received within the grace period and automatic loan attempts has been exhausted. the policy will convert to a term status whereby premiums are no longer required but the policy cease to particpate in any future dividends or bonus, all riders are also terminated when policy is converted to reduce paid-up. the remaining cash value in the policy will continue to increase until the maturity date and the face amount will be paid-out. reduce paid-up can also be requested via form submission.
+Thu, 28 June 2018 05:35:32 ### manoj**what is aia
+Thu, 28 June 2018 05:35:40 ### Nadine**according to wikipedia aia group limited known as aia is the largest public listed pan-asian life insurance group
+Thu, 28 June 2018 05:36:03 ### manoj**may you say i e
+Thu, 28 June 2018 05:36:07 ### Nadine**ok. "you e
+Thu, 28 June 2018 05:36:16 ### manoj**where is aia
+Thu, 28 June 2018 05:36:20 ### Nadine**all right
+Thu, 28 June 2018 05:36:47 ### manoj**who is the ceo of aia
+Thu, 28 June 2018 05:36:55 ### Nadine**the ceo of a group is in cainhoy
+Thu, 28 June 2018 05:37:38 ### manoj**who is andrew in
+Thu, 28 June 2018 05:37:51 ### Nadine**according to wikipedia andrew is the english form of a given name common in many countries in the 1990s it was among the top 10 most popular names given to boys in english speaking countries in italian the equivalent to andrew is andrea so andrea is feminine in most other languages
+Thu, 28 June 2018 05:38:16 ### manoj**who is the ceo of aia singapore
+Thu, 28 June 2018 05:38:25 ### Nadine**the ceo of aia singapore private limited is patrick chow
+Thu, 28 June 2018 05:40:40 ### manoj**where is shell service center
+Thu, 28 June 2018 05:40:44 ### Nadine**our customer service centres are located at one finlayson green and 3 tampines grande. tampines grande is near to the tampines bus interchange or tampines hub.
+Thu, 28 June 2018 05:51:49 ### Unknown**how can i take iq number
+Thu, 28 June 2018 05:51:52 ### Nadine**please take a queue number at our ticketing kiosk so that our customer service officers can assist you. you may scan your  NRIC  & a queue number will be issued.
+Fri, 29 June 2018 12:06:13 ### Nadine**hi
+Fri, 29 June 2018 12:06:15 ### Unknown**hello
+Fri, 29 June 2018 12:06:53 ### manoj**what is your name
+Fri, 29 June 2018 12:06:57 ### Nadine**my name is nadine
+Fri, 29 June 2018 12:07:17 ### manoj**what is the flight time in to paris
+Fri, 29 June 2018 12:07:21 ### Nadine**as of now, our dividends or coupon interest rates for s$ policies are at 3.25% per annual, calculated daily & compounding upon policy anniversary. please take note that interest rates are not guaranteed and are subjected to changed upon our company's review.
+Fri, 29 June 2018 12:08:05 ### manoj**what is the flying time to paris
+Fri, 29 June 2018 12:08:14 ### Nadine**non-stop flights from singapore to paris are about 13 hours 20 minutes long you can choose from two flights a day
+Fri, 29 June 2018 12:08:29 ### manoj**language changed to german
+Fri, 29 June 2018 12:08:30 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 12:08:30 ### Nadine**if you say so, german will be my language now.
+Fri, 29 June 2018 12:08:40 ### manoj**speak friend
+Fri, 29 June 2018 12:08:45 ### Nadine**yes, i can speak english
+Fri, 29 June 2018 12:08:54 ### manoj**language changed to english
+Fri, 29 June 2018 12:08:54 ### Nadine**<voice emotion='happy'>i can speak in hindi, english, chinese, german, french and japanese.</voice>
+Fri, 29 June 2018 12:08:54 ### Nadine**<voice emotion='happy'>lets continue in english.</voice>
+Fri, 29 June 2018 12:09:02 ### manoj**language changed to french
+Fri, 29 June 2018 12:09:03 ### Nadine**<voice emotion='happy'>i can speak in hindi, english, chinese, german, french and japanese.</voice>
+Fri, 29 June 2018 12:09:09 ### Nadine**<voice emotion='happy'>lets continue in french.</voice>
+Fri, 29 June 2018 12:09:20 ### manoj**you call me gypsy
+Fri, 29 June 2018 12:09:24 ### Nadine**<voice emotion='happy'>i apologize if i confused you</voice>
+Fri, 29 June 2018 12:09:31 ### manoj**how are you
+Fri, 29 June 2018 12:09:35 ### Nadine**<voice emotion='happy'>always cheered up when i see you</voice>
+Fri, 29 June 2018 12:10:05 ### manoj**how is home
+Fri, 29 June 2018 12:10:11 ### Nadine**i have no idea. how is home
+Fri, 29 June 2018 12:10:35 ### manoj**dermatologist
+Fri, 29 June 2018 12:10:38 ### Nadine**ok
+Fri, 29 June 2018 12:10:40 ### manoj**how to change
+Fri, 29 June 2018 12:10:45 ### Nadine**i have no idea. how to change
+Fri, 29 June 2018 12:10:54 ### manoj**he calls me my shower
+Fri, 29 June 2018 12:11:02 ### Nadine**glad to know more about you
+Fri, 29 June 2018 12:11:14 ### manoj**what do you mean
+Fri, 29 June 2018 12:11:19 ### Nadine**friend, "unknown" what did i mean by it?
+Fri, 29 June 2018 12:11:58 ### manoj**how are i
+Fri, 29 June 2018 12:12:03 ### Nadine**i have no idea. how are i
+Fri, 29 June 2018 02:57:20 ### Nadine**hello
+Fri, 29 June 2018 02:57:25 ### Unknown**hello
+Fri, 29 June 2018 02:57:45 ### Unknown**language changed to french
+Fri, 29 June 2018 02:57:46 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 02:57:46 ### Nadine**if you say so, french will be my language now.
+Fri, 29 June 2018 02:57:51 ### Nadine**hello alex
+Fri, 29 June 2018 02:58:08 ### Unknown**how to change
+Fri, 29 June 2018 02:58:14 ### Nadine**i don't know the answer. how to change
+Fri, 29 June 2018 02:58:18 ### Nadine**hello alex
+Fri, 29 June 2018 02:58:27 ### manoj**language changed to english
+Fri, 29 June 2018 02:58:27 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 02:58:34 ### Nadine**if your preference is english, i can talk in english for you.
+Fri, 29 June 2018 04:15:53 ### william**hello
+Fri, 29 June 2018 04:16:11 ### manoj**what is your name
+Fri, 29 June 2018 04:16:15 ### Nadine**my name is nadine
+Fri, 29 June 2018 04:16:25 ### manoj**language changed to french
+Fri, 29 June 2018 04:16:25 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 04:16:31 ### Nadine**if you say so, french will be my language now.
+Fri, 29 June 2018 04:16:41 ### Nadine**hello manouche
+Fri, 29 June 2018 04:16:49 ### manoj**how are you at
+Fri, 29 June 2018 04:17:02 ### manoj**how to fuck
+Fri, 29 June 2018 04:17:07 ### Nadine**please be polite
+Fri, 29 June 2018 04:17:21 ### manoj**language changed to english
+Fri, 29 June 2018 04:17:21 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 04:17:21 ### Nadine**lets talk in english.
+Fri, 29 June 2018 04:18:16 ### manoj**hello
+Fri, 29 June 2018 04:18:34 ### manoj**language changed to german
+Fri, 29 June 2018 04:18:35 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 04:18:43 ### Nadine**i will talk in german for you now
+Fri, 29 June 2018 04:19:01 ### manoj**are you sleeping
+Fri, 29 June 2018 04:19:05 ### Nadine**i wait for you in a dormant state
+Fri, 29 June 2018 04:19:25 ### manoj**who is michael schumacher?
+Fri, 29 June 2018 04:19:37 ### Nadine**according to wikipedia michael schumacher is a retired german racing driver who raced in formula one for jordan grand prix benetton and ferrari where he spent the majority of his career as well as for mercedes upon his return to the sport
+Fri, 29 June 2018 04:19:59 ### manoj**i need water
+Fri, 29 June 2018 04:20:03 ### Nadine**for downloading of forms through our website, please go to this url at https://www.aia.com.sg/en/help-support/form-library.html. otherwise, you may retrieve the forms via our service center forms tray.
+Fri, 29 June 2018 04:20:47 ### manoj**language changed to english
+Fri, 29 June 2018 04:20:47 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 04:20:47 ### Nadine**from now on lets talk in english for you
+Fri, 29 June 2018 04:20:53 ### manoj**language changed to hindi
+Fri, 29 June 2018 04:21:00 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 04:21:05 ### Nadine**if you say so, hindi will be my language now.
+Fri, 29 June 2018 04:21:19 ### manoj**how are you
+Fri, 29 June 2018 04:21:31 ### manoj**how are you
+Fri, 29 June 2018 04:21:37 ### Nadine**i'm happy to be alive
+Fri, 29 June 2018 04:21:45 ### manoj**i am afraid of you
+Fri, 29 June 2018 04:22:24 ### Nadine**have you heard the urban legend about the power cord that was too short about 10 years ago there was this guy i think his name was henry anyway he bought an alarm clock to put on his nightstand but when he tried to plug it in it was just too short i hope that one doesn't give you nightmares
+Fri, 29 June 2018 04:22:40 ### manoj**language changed to english
+Fri, 29 June 2018 04:22:40 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Fri, 29 June 2018 04:22:46 ### Nadine**lets continue in english.
+Mon, 02 July 2018 10:15:00 ### Unknown**hello
+Mon, 02 July 2018 10:15:09 ### Unknown**tiffany
+Mon, 02 July 2018 10:15:12 ### Nadine**ok
+Mon, 02 July 2018 10:15:19 ### Unknown**what is your name
+Mon, 02 July 2018 10:15:23 ### Nadine**my name is nadine

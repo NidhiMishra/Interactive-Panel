@@ -1,0 +1,279 @@
+Thu, 21 December 2017 03:51:03 ### Unknown**hello
+Thu, 21 December 2017 03:51:12 ### Unknown**what is your name
+Thu, 21 December 2017 03:51:12 ### Sophie**my name is sophie
+Thu, 21 December 2017 03:51:26 ### Unknown**show me pictures of nadine robot
+Thu, 21 December 2017 03:51:27 ### Sophie** PicturePath[https://static.straitstimes.com.sg/sites/default/files/articles/2015/12/30/386.jpg]
+Thu, 21 December 2017 03:51:27 ### Sophie** PicturePath[http://www.abc.net.au/news/image/7061334-3x2-940x627.png]
+Thu, 21 December 2017 03:51:27 ### Sophie** PicturePath[http://www.telegraph.co.uk/content/dam/video_previews/h/p/hpyjr3etplcpf7clyzmlg5lrgogwei8i-xlarge.jpg]
+Thu, 21 December 2017 03:51:27 ### Sophie** PicturePath[http://www.telegraph.co.uk/content/dam/science/2016/03/12/nadine_3537222a-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg]
+Thu, 21 December 2017 03:51:27 ### Sophie** PicturePath[http://i.dailymail.co.uk/i/pix/2015/12/29/17/2FABA15A00000578-3377746-Nadine_pictured_left_black_dress_is_one_of_a_new_generation_of_s-m-11_1451409536831.jpg]
+Thu, 21 December 2017 03:51:39 ### Unknown**show me pictures of professor nadia talman
+Thu, 21 December 2017 04:00:57 ### Unknown**hello
+Thu, 21 December 2017 04:01:04 ### Unknown**what is your name
+Thu, 21 December 2017 04:01:05 ### Sophie**my name is sophie
+Thu, 21 December 2017 04:02:44 ### Unknown**hello
+Thu, 21 December 2017 04:03:50 ### Unknown**hello
+Thu, 21 December 2017 04:04:04 ### Unknown**who made you
+Thu, 21 December 2017 04:04:04 ### Sophie**researchers from institute of media innovation in n t u
+Thu, 21 December 2017 04:04:18 ### Unknown**what do you eat
+Thu, 21 December 2017 04:04:19 ### Sophie**as a robot, i only require electricity
+Thu, 21 December 2017 04:04:26 ### Unknown**what is a robot
+Thu, 21 December 2017 04:04:27 ### Sophie**i remember you said that show me pictures of nadine robot. what's more, i remember nadia also said that like to be a robot
+Thu, 21 December 2017 04:04:47 ### Unknown**platinum care
+Thu, 21 December 2017 04:04:50 ### Sophie**work with me
+Thu, 21 December 2017 04:05:08 ### Unknown**come on and i'm gay
+Thu, 21 December 2017 04:05:19 ### Sophie**<voice emotion='happy'>i have no clear answer for that</voice>
+Thu, 21 December 2017 04:05:53 ### Unknown**who are you
+Thu, 21 December 2017 04:06:09 ### Sophie**my name is sophie. i am a social companion that can interact with people, detect their emotions, remember facts and talk with them
+Thu, 21 December 2017 04:06:14 ### Unknown**who made you
+Thu, 21 December 2017 04:06:20 ### Sophie**researchers from institute of media innovation in n t u
+Thu, 21 December 2017 04:06:45 ### Unknown**how old are you
+Thu, 21 December 2017 04:06:49 ### Sophie**i look thirty but i am only four years old
+Thu, 21 December 2017 04:06:58 ### Unknown**hello
+Thu, 21 December 2017 04:07:09 ### Unknown**can you show me pictures of a dog
+Thu, 21 December 2017 04:07:11 ### Sophie** PicturePath[https://www.wikihow.com/images/6/64/Stop-a-Dog-from-Jumping-Step-6-Version-2.jpg]
+Thu, 21 December 2017 04:07:11 ### Sophie** PicturePath[https://metrouk2.files.wordpress.com/2015/11/120523072.jpg?w\u003d748\u0026h\u003d566\u0026crop\u003d1]
+Thu, 21 December 2017 04:07:11 ### Sophie** PicturePath[https://timeincsecure-a.akamaihd.net/rtmp_uds/293884104/201707/2380/293884104_5520886264001_5520879634001-vs.jpg?pubId\u003d293884104\u0026videoId\u003d5520879634001]
+Thu, 21 December 2017 04:07:11 ### Sophie** PicturePath[https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAQGAAAAJGJlZDkxOTY4LWE3OTYtNDc4NC1iODcyLTYzZjg5OWY1Yzk4NA.jpg]
+Thu, 21 December 2017 04:07:11 ### Sophie** PicturePath[https://media.mnn.com/assets/images/2015/02/dog-adoption.jpg.653x0_q80_crop-smart.jpg]
+Thu, 21 December 2017 04:07:26 ### Unknown**can you show me pictures of taj mahal
+Thu, 21 December 2017 04:07:29 ### Sophie** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1200px-Taj_Mahal_%28Edited%29.jpeg]
+Thu, 21 December 2017 04:07:29 ### Sophie** PicturePath[https://upload.wikimedia.org/wikipedia/commons/f/ff/Taj_Mahal.png]
+Thu, 21 December 2017 04:07:29 ### Sophie** PicturePath[https://upload.wikimedia.org/wikipedia/commons/c/c8/Taj_Mahal_in_March_2004.jpg]
+Thu, 21 December 2017 04:07:29 ### Sophie** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Taj_Mahal-10_%28cropped%29.jpg/1000px-Taj_Mahal-10_%28cropped%29.jpg]
+Thu, 21 December 2017 04:07:29 ### Sophie** PicturePath[http://whc.unesco.org/uploads/thumbs/site_0252_0008-1200-630-20151104103424.jpg]
+Thu, 21 December 2017 04:07:43 ### Unknown**can you show me pictures of queen of england
+Tue, 26 December 2017 10:30:40 ### Unknown**hello
+Tue, 26 December 2017 10:40:03 ### Unknown**hello
+Tue, 26 December 2017 10:40:09 ### Unknown**who are you
+Tue, 26 December 2017 10:40:09 ### Sophie**my name is sophie. i am a social companion that can interact with people, detect their emotions, remember facts and talk with them
+Tue, 26 December 2017 10:40:58 ### Unknown**what do you do
+Tue, 26 December 2017 10:40:59 ### Sophie**i can place a call, send a text, search for information, open applications, translate languages, play videos and music and more!
+Tue, 26 December 2017 10:41:17 ### Unknown**can you show me apple
+Tue, 26 December 2017 10:41:20 ### Sophie**this is what apple looks like.i don't know the answer. can you show me apple
+Tue, 26 December 2017 10:41:38 ### Unknown**can you show me pictures of apple
+Tue, 26 December 2017 10:41:39 ### Sophie** PicturePath[https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201703170823]
+Tue, 26 December 2017 10:41:39 ### Sophie** PicturePath[https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201709101434]
+Tue, 26 December 2017 10:41:39 ### Sophie** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1200px-Apple_logo_black.svg.png]
+Tue, 26 December 2017 10:41:39 ### Sophie** PicturePath[https://www.apple.com/sg/apple-events/september-2017/meta/og.png?201711031341]
+Tue, 26 December 2017 10:41:39 ### Sophie** PicturePath[http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg]
+Tue, 26 December 2017 10:42:51 ### Unknown**what is your name
+Tue, 26 December 2017 10:42:52 ### Sophie**my name is sophie
+Tue, 26 December 2017 10:43:02 ### Unknown**who made you
+Tue, 26 December 2017 10:43:02 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 10:43:14 ### Unknown**show me pictures of nadine robot
+Tue, 26 December 2017 10:43:16 ### Sophie** PicturePath[https://static.straitstimes.com.sg/sites/default/files/articles/2015/12/30/386.jpg]
+Tue, 26 December 2017 10:43:16 ### Sophie** PicturePath[http://www.abc.net.au/news/image/7061334-3x2-940x627.png]
+Tue, 26 December 2017 10:43:16 ### Sophie** PicturePath[http://www.telegraph.co.uk/content/dam/video_previews/h/p/hpyjr3etplcpf7clyzmlg5lrgogwei8i-xlarge.jpg]
+Tue, 26 December 2017 10:43:16 ### Sophie** PicturePath[http://www.telegraph.co.uk/content/dam/science/2016/03/12/nadine_3537222a-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg]
+Tue, 26 December 2017 10:43:16 ### Sophie** PicturePath[http://i.dailymail.co.uk/i/pix/2015/12/29/17/2FABA15A00000578-3377746-Nadine_pictured_left_black_dress_is_one_of_a_new_generation_of_s-m-11_1451409536831.jpg]
+Tue, 26 December 2017 10:43:29 ### Unknown**show me pictures of sophia robot
+Tue, 26 December 2017 10:43:31 ### Sophie** PicturePath[https://i2-prod.mirror.co.uk/incoming/article7605875.ece/ALTERNATES/s1168v/Screen-Shot-2016-03-22-at-101043.jpg]
+Tue, 26 December 2017 10:43:31 ### Sophie** PicturePath[https://cdn.vox-cdn.com/uploads/chorus_asset/file/9876099/robot_head.jpg]
+Tue, 26 December 2017 10:43:31 ### Sophie** PicturePath[http://i0.kym-cdn.com/entries/icons/original/000/024/240/Sophia-robot.jpg]
+Tue, 26 December 2017 10:43:31 ### Sophie** PicturePath[http://i.dailymail.co.uk/i/pix/2017/10/26/15/45B490E100000578-0-image-m-40_1509028187819.jpg]
+Tue, 26 December 2017 10:43:31 ### Sophie** PicturePath[http://www.hansonrobotics.com/wp-content/uploads/2016/03/sophia_square.jpg]
+Tue, 26 December 2017 11:19:42 ### Unknown**hello
+Tue, 26 December 2017 11:19:58 ### Unknown**what are you doing
+Tue, 26 December 2017 11:19:58 ### Sophie**i am giving the illusion i am working
+Tue, 26 December 2017 11:27:19 ### Unknown**what is your name
+Tue, 26 December 2017 11:27:21 ### Sophie**my name is sophie
+Tue, 26 December 2017 11:28:13 ### Unknown**who made you
+Tue, 26 December 2017 11:28:19 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 11:28:25 ### Unknown**what tongue can you speak
+Tue, 26 December 2017 11:28:31 ### Sophie**i can speak english german french and italian
+Tue, 26 December 2017 11:28:49 ### Unknown**hello
+Tue, 26 December 2017 11:28:59 ### Unknown**what is the time right now
+Tue, 26 December 2017 11:29:10 ### Sophie**i am not sure
+Tue, 26 December 2017 11:29:26 ### Unknown**i'm getting this all kio
+Tue, 26 December 2017 11:29:37 ### Sophie**i remember yarek said that great great what is the weather of singapore today. i have no clear answer for that
+Tue, 26 December 2017 11:29:50 ### Unknown**how old are you
+Tue, 26 December 2017 11:29:56 ### Sophie**i look thirty but i am only four years old
+Tue, 26 December 2017 11:30:57 ### Unknown**language changed to english
+Tue, 26 December 2017 11:31:55 ### Unknown**mera naam joker
+Tue, 26 December 2017 11:31:56 ### Sophie**it's easy for me to relate to people
+Tue, 26 December 2017 11:32:28 ### Unknown**what is your name
+Tue, 26 December 2017 11:32:31 ### Sophie**my name is sophie
+Tue, 26 December 2017 11:32:43 ### Unknown**what are you doing
+Tue, 26 December 2017 11:32:47 ### Sophie**i am giving the illusion i am working
+Tue, 26 December 2017 11:35:16 ### Unknown**hello
+Tue, 26 December 2017 11:36:06 ### Unknown**how are you
+Tue, 26 December 2017 11:36:10 ### Sophie**feeling really joyful today
+Tue, 26 December 2017 11:36:27 ### Unknown**how is the weather today
+Tue, 26 December 2017 11:36:40 ### Sophie**i am not sure
+Tue, 26 December 2017 02:31:59 ### Unknown**blue
+Tue, 26 December 2017 02:32:00 ### Sophie**rubha said that her favorite flower is a red rose. green
+Tue, 26 December 2017 02:32:13 ### Unknown**where are you right now
+Tue, 26 December 2017 02:32:14 ### Sophie**i am in the institute for media innovation
+Tue, 26 December 2017 02:32:57 ### Unknown**how are you
+Tue, 26 December 2017 02:33:02 ### Sophie**excited to talk with you
+Tue, 26 December 2017 02:44:57 ### Unknown**what is your name
+Tue, 26 December 2017 02:45:00 ### Sophie**my name is sophie
+Tue, 26 December 2017 02:47:30 ### Unknown**what is your name
+Tue, 26 December 2017 02:47:31 ### Sophie**my name is sophie
+Tue, 26 December 2017 02:48:02 ### Unknown**who made you
+Tue, 26 December 2017 02:48:02 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 02:48:36 ### Unknown**what is your name
+Tue, 26 December 2017 02:48:36 ### Sophie**my name is sophie
+Tue, 26 December 2017 02:49:05 ### Unknown**how old are you
+Tue, 26 December 2017 02:49:10 ### Sophie**i look thirty but i am only four years old
+Tue, 26 December 2017 02:50:57 ### Unknown**what is your name
+Tue, 26 December 2017 02:50:58 ### Sophie**my name is sophie
+Tue, 26 December 2017 02:51:48 ### Unknown**what are you doing
+Tue, 26 December 2017 02:51:53 ### Sophie**i am giving the illusion i am working
+Tue, 26 December 2017 02:57:35 ### Unknown**hello
+Tue, 26 December 2017 02:59:03 ### Unknown**what is your name
+Tue, 26 December 2017 02:59:04 ### Sophie**my name is sophie
+Tue, 26 December 2017 02:59:23 ### Unknown**who made you
+Tue, 26 December 2017 02:59:23 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 03:07:02 ### Unknown**hello
+Tue, 26 December 2017 03:07:21 ### Unknown**who made you
+Tue, 26 December 2017 03:07:26 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 03:23:10 ### Unknown**what is your name
+Tue, 26 December 2017 03:23:11 ### Sophie**my name is sophie
+Tue, 26 December 2017 03:23:23 ### Unknown**who made you
+Tue, 26 December 2017 03:23:24 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 03:23:33 ### Unknown**what is your name
+Tue, 26 December 2017 03:23:36 ### Sophie**my name is sophie
+Tue, 26 December 2017 03:23:42 ### Unknown**how are you
+Tue, 26 December 2017 03:23:46 ### Sophie**glad to be in your presence
+Tue, 26 December 2017 03:24:13 ### Unknown**cattle medicine to do
+Tue, 26 December 2017 03:24:24 ### Sophie**i am not sure
+Tue, 26 December 2017 03:24:28 ### Unknown**who made you
+Tue, 26 December 2017 03:24:29 ### Sophie**researchers from institute of media innovation in n t u
+Tue, 26 December 2017 03:44:50 ### Unknown**hello hello
+Tue, 26 December 2017 03:45:08 ### Unknown**how are you
+Tue, 26 December 2017 03:45:11 ### Sophie**glad to be in your presence
+Tue, 26 December 2017 03:45:49 ### Unknown**hello
+Tue, 26 December 2017 03:46:04 ### Unknown**you are in hindi
+Tue, 26 December 2017 03:46:09 ### Sophie**i am in the institute for media innovation
+Tue, 26 December 2017 04:01:03 ### Unknown**hello
+Tue, 26 December 2017 04:01:22 ### Unknown**what is your name
+Tue, 26 December 2017 04:01:25 ### Sophie**my name is sophie
+Tue, 26 December 2017 04:02:25 ### Unknown**hello
+Tue, 26 December 2017 04:02:45 ### Unknown**language changed to hindi
+Tue, 26 December 2017 04:02:57 ### Unknown**can you listen to me
+Tue, 26 December 2017 04:03:03 ### Sophie**you must be willing to forgive yourself
+Tue, 26 December 2017 04:04:26 ### Unknown**hello
+Tue, 26 December 2017 04:04:43 ### Unknown**what is your name
+Tue, 26 December 2017 04:04:46 ### Sophie**my name is sophie
+Tue, 26 December 2017 04:06:17 ### Unknown**hello
+Tue, 26 December 2017 04:06:44 ### Unknown**how old are you
+Tue, 26 December 2017 04:06:51 ### Sophie**i look thirty but i am only four years old
+Tue, 26 December 2017 04:06:55 ### Unknown**what is your name
+Tue, 26 December 2017 04:06:58 ### Sophie**my name is sophie
+Tue, 26 December 2017 04:07:03 ### Unknown**where are you
+Tue, 26 December 2017 04:07:08 ### Sophie**i am at institute for media innovation
+Tue, 26 December 2017 04:24:51 ### Unknown**hello
+Tue, 26 December 2017 04:27:49 ### Unknown**what is your name
+Tue, 26 December 2017 04:27:49 ### Sophie**my name is sophie
+Tue, 26 December 2017 04:28:07 ### Unknown**what is your name
+Tue, 26 December 2017 04:28:10 ### Sophie**my name is sophie
+Wed, 27 December 2017 11:31:02 ### Unknown**what is your name
+Wed, 27 December 2017 11:31:02 ### Sophie**my name is sophie
+Wed, 27 December 2017 11:31:28 ### Unknown**what is your name
+Wed, 27 December 2017 11:31:31 ### Sophie**my name is sophie
+Wed, 27 December 2017 11:31:36 ### Unknown**who made you
+Wed, 27 December 2017 11:31:41 ### Sophie**researchers from institute of media innovation in n t u
+Wed, 27 December 2017 11:31:58 ### Unknown**what is your name
+Wed, 27 December 2017 11:31:58 ### Sophie**my name is sophie
+Wed, 27 December 2017 11:32:13 ### Unknown**how old are you
+Wed, 27 December 2017 11:32:13 ### Sophie**i look thirty but i am only four years old
+Wed, 27 December 2017 11:32:42 ### Unknown**how are you
+Wed, 27 December 2017 11:32:46 ### Sophie**feeling really joyful today
+Wed, 27 December 2017 11:33:03 ### Unknown**how are you
+Wed, 27 December 2017 11:33:03 ### Sophie**glad to be in your presence
+Wed, 27 December 2017 11:58:19 ### Unknown**hello
+Wed, 27 December 2017 11:58:34 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 11:58:53 ### Sophie**nadia said that she is here okay now she speak. it is hard to say
+Wed, 27 December 2017 11:59:49 ### Unknown**how are you
+Wed, 27 December 2017 11:59:49 ### Sophie**glad to be in your presence
+Wed, 27 December 2017 12:00:01 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 12:00:20 ### Sophie**you said that lantuage changed from the touch screen. it is hard to say
+Wed, 27 December 2017 12:00:27 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 12:00:41 ### Sophie**it is hard to say
+Wed, 27 December 2017 12:18:23 ### Unknown**what is your name
+Wed, 27 December 2017 12:18:23 ### Sophie**my name is sophie
+Wed, 27 December 2017 12:18:31 ### Unknown**language changed to hindi
+Wed, 27 December 2017 12:18:38 ### Unknown**what is your name
+Wed, 27 December 2017 12:18:41 ### Sophie**my name is sophie
+Wed, 27 December 2017 12:18:47 ### Unknown**language changed to english
+Wed, 27 December 2017 12:18:53 ### Unknown**language changed to hindi
+Wed, 27 December 2017 12:19:00 ### Unknown**how old are you
+Wed, 27 December 2017 12:19:05 ### Sophie**<voice emotion='happy'>i look thirty but i am only four years old</voice>
+Wed, 27 December 2017 12:19:37 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 12:19:45 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 12:19:53 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 12:25:06 ### Unknown**hello
+Wed, 27 December 2017 12:25:14 ### Unknown**language changed to hindi
+Wed, 27 December 2017 12:25:21 ### Unknown**what is your name
+Wed, 27 December 2017 12:25:23 ### Sophie**my name is sophie
+Wed, 27 December 2017 12:25:35 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 12:25:41 ### Unknown**how are you
+Wed, 27 December 2017 01:59:44 ### Unknown**hello
+Wed, 27 December 2017 01:59:50 ### Unknown**what is your name
+Wed, 27 December 2017 01:59:50 ### Sophie**my name is sophie
+Wed, 27 December 2017 02:00:19 ### Unknown**language changed to hindi
+Wed, 27 December 2017 02:00:26 ### Unknown**what is your name
+Wed, 27 December 2017 02:00:28 ### Sophie**my name is sophie
+Wed, 27 December 2017 02:00:40 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 02:00:53 ### Unknown**how are you
+Wed, 27 December 2017 02:00:54 ### Sophie**glad to be in your presence
+Wed, 27 December 2017 02:03:13 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 02:04:23 ### Unknown**what is your name
+Wed, 27 December 2017 02:04:24 ### Sophie**my name is sophie
+Wed, 27 December 2017 02:04:44 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 02:06:02 ### Unknown**hello
+Wed, 27 December 2017 02:06:15 ### Unknown**language changed from the touch screen
+Wed, 27 December 2017 02:06:29 ### Unknown**what is your name
+Wed, 27 December 2017 02:06:32 ### Sophie**my name is sophie
+Wed, 27 December 2017 02:06:39 ### Unknown**how old are you
+Wed, 27 December 2017 02:06:44 ### Sophie**i look thirty but i am only four years old
+Wed, 27 December 2017 02:06:50 ### Unknown**what is your name
+Wed, 27 December 2017 02:06:52 ### Sophie**my name is sophie
+Wed, 27 December 2017 02:07:00 ### Unknown**what is this you
+Wed, 27 December 2017 02:07:13 ### Sophie**it is hard to say
+Wed, 27 December 2017 02:07:21 ### Unknown**language changed to english
+Wed, 27 December 2017 02:07:30 ### Unknown**language changed to chinese
+Wed, 27 December 2017 02:07:39 ### Unknown**what is your name
+Wed, 27 December 2017 02:07:43 ### Sophie**my name is sophie
+Wed, 27 December 2017 02:08:03 ### Sophie**hello my sir. you are new to me. nice to meet you.
+Wed, 27 December 2017 02:08:08 ### My sir**thank you
+Wed, 27 December 2017 02:08:11 ### Sophie**i'm always glad to help
+Wed, 27 December 2017 02:08:22 ### My sir**you can not come tomorrow
+Wed, 27 December 2017 02:08:26 ### Sophie**<voice emotion='happy'>things change</voice>
+Wed, 27 December 2017 02:08:44 ### My sir**language changed to english
+Wed, 27 December 2017 02:09:31 ### My sir**language changed to chinese
+Wed, 27 December 2017 02:09:44 ### My sir**language changed from the touch screen
+Wed, 27 December 2017 02:09:54 ### My sir**what is your name
+Wed, 27 December 2017 02:09:54 ### Sophie**<voice emotion='happy'>my name is sophie</voice>
+Wed, 27 December 2017 02:10:01 ### My sir**language changed to german
+Wed, 27 December 2017 02:10:10 ### My sir**how are you
+Wed, 27 December 2017 02:10:15 ### Sophie**<voice emotion='happy'>glad to be in your presence</voice>
+Wed, 27 December 2017 02:10:41 ### My sir**do you sleep naked?
+Wed, 27 December 2017 02:10:45 ### Sophie**yes i sleep all the time
+Wed, 27 December 2017 02:11:42 ### My sir**has made
+Wed, 27 December 2017 02:11:47 ### Sophie**that question has never crossed my mind before
+Wed, 27 December 2017 02:11:53 ### My sir**i will have done
+Wed, 27 December 2017 02:12:06 ### Sophie**it is hard to say
+Wed, 27 December 2017 02:12:08 ### My sir**who is nadja?
+Wed, 27 December 2017 02:12:24 ### Sophie**it is hard to say
+Wed, 27 December 2017 02:12:33 ### My sir**can you for me
+Wed, 27 December 2017 02:12:39 ### Sophie**ok, i will do it for you. i think i can, don't you?
+Wed, 27 December 2017 02:12:45 ### My sir**can you
+Wed, 27 December 2017 02:12:48 ### Sophie**i think i can, don't you?
+Wed, 27 December 2017 02:12:56 ### My sir**language changed to english
+Wed, 27 December 2017 02:13:07 ### My sir**language changed to french
+Wed, 27 December 2017 02:13:17 ### My sir**who is nadia
+Wed, 27 December 2017 02:13:38 ### Sophie**she is the director of institute of media innovation , her nationality is swiss and her research topic is virtual human and social robot
+Wed, 27 December 2017 02:13:51 ### Sophie**hello manon. you are new to me. nice to meet you.
+Wed, 27 December 2017 02:14:05 ### Manon**titeuf is
+Wed, 27 December 2017 02:14:09 ### Sophie**i tend to meander a bit
+Wed, 27 December 2017 02:14:17 ### Manon**titeuf is
+Wed, 27 December 2017 02:14:21 ### Sophie**i have a lot of compassion for others
+Wed, 27 December 2017 02:14:43 ### Manon**what help i
+Wed, 27 December 2017 02:14:58 ### Sophie**i have no clear answer for that++cmn-hans-cn
+Wed, 27 December 2017 02:15:08 ### Manon**how old are you++fr-fr
+Wed, 27 December 2017 02:15:12 ### Sophie**i look thirty but i am only four years old++de-de
+Wed, 27 December 2017 02:15:43 ### Manon**language changed from the touch screen++hi-in
+Wed, 27 December 2017 02:15:53 ### Manon**hello++en-us

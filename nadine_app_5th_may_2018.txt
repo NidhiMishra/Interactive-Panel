@@ -1,0 +1,458 @@
+Mon, 12 February 2018 03:39:15 ### Nadine**hi
+Mon, 12 February 2018 03:39:21 ### Unknown**hello
+Mon, 12 February 2018 04:40:26 ### Nadine**hi
+Mon, 12 February 2018 04:40:35 ### Unknown**hello hello hello
+Mon, 12 February 2018 04:51:55 ### Nadine**hi
+Mon, 12 February 2018 04:52:00 ### Unknown**hello
+Mon, 12 February 2018 05:05:32 ### Nadine**hello
+Mon, 12 February 2018 05:05:41 ### Unknown**hello
+Mon, 12 February 2018 05:06:00 ### Unknown**i am fine how are you
+Mon, 12 February 2018 05:06:16 ### Nadine**shall we talk something else
+Mon, 12 February 2018 05:14:08 ### Nadine**hi
+Mon, 12 February 2018 05:14:15 ### Unknown**hello
+Mon, 12 February 2018 05:14:22 ### Nadine**hi
+Mon, 12 February 2018 05:14:25 ### Unknown**hello
+Mon, 12 February 2018 05:14:31 ### Unknown**what is the weather like in centigrade
+Mon, 12 February 2018 05:14:47 ### Nadine**i am not trained for that
+Mon, 12 February 2018 05:20:39 ### Nadine**hi
+Mon, 12 February 2018 05:20:42 ### Unknown**hello
+Mon, 12 February 2018 05:20:47 ### Unknown**how are you
+Mon, 12 February 2018 05:20:48 ### Nadine**feeling really joyful today
+Mon, 12 February 2018 05:20:56 ### Unknown**what is the weather like today in centigrade
+Mon, 12 February 2018 05:21:01 ### Nadine**will be cloudy in singapore today with the forecast high of 32 and a low of 23 degrees celsius it's currently 31 and mostly cloudy
+Mon, 12 February 2018 05:21:12 ### Unknown**where is the nearest train station
+Mon, 12 February 2018 05:21:17 ### Nadine**choucoune is on 91 joo koon circle in singapore you can say directions
+Mon, 12 February 2018 05:21:40 ### Unknown**where is the nearest mrt
+Mon, 12 February 2018 05:21:45 ### Nadine**choucoune is on 91 joo koon circle in singapore you can say directions
+Mon, 12 February 2018 05:22:02 ### Unknown**who is nadia
+Mon, 12 February 2018 05:22:02 ### Nadine**her nationality is swiss , she is the director of institute of media innovation and her research topic is virtual human and social robot
+Mon, 12 February 2018 05:22:12 ### Unknown**are you happy
+Mon, 12 February 2018 05:22:12 ### Nadine**i'm satisfied with my life and existence
+Mon, 12 February 2018 05:22:21 ### Unknown**do you sleep
+Mon, 12 February 2018 05:22:22 ### Nadine**yes, i love to take naps
+Mon, 12 February 2018 05:22:30 ### Unknown**bye
+Mon, 12 February 2018 05:22:31 ### Nadine**it's been a pleasure to be in your company
+Tue, 13 February 2018 04:29:15 ### Unknown**hello
+Tue, 13 February 2018 04:29:21 ### Unknown**how are you
+Tue, 13 February 2018 04:29:21 ### Nadine**always cheered up when i see you
+Tue, 13 February 2018 04:29:27 ### Unknown**who is nadia
+Tue, 13 February 2018 04:29:28 ### Nadine**her nationality is swiss , she is the director of institute of media innovation and her research topic is virtual human and social robot
+Tue, 13 February 2018 04:29:36 ### Unknown**what is the weather today in centigrade
+Tue, 13 February 2018 04:29:37 ### Nadine**on the website vampire diaries. wikia.com they say nadia petrova was a major recurring character of the vampire diaries she was a vampire and a member of the travelers who was katerina petrova is daughter making her an ancestor of elena gilbert and a descendant of amara
+Tue, 13 February 2018 04:29:59 ### Unknown**what is the weather today in centigrade
+Tue, 13 February 2018 04:30:07 ### Nadine**they'll be scattered showers and nanyang technological university 15 on young avenue today weather forecast high of 31 and a low of 23 degrees celsius it's currently 31 and partly cloudy
+Tue, 13 February 2018 04:30:18 ### Unknown**are you happy
+Tue, 13 February 2018 04:30:18 ### Nadine**i'm satisfied with my life and existence
+Tue, 13 February 2018 04:30:30 ### Unknown**bye
+Tue, 13 February 2018 04:30:30 ### Nadine**looking forward to seeing you again soon
+Wed, 14 February 2018 09:51:21 ### Nadine**hi
+Wed, 14 February 2018 09:51:27 ### Unknown**hello
+Wed, 14 February 2018 09:51:34 ### Unknown**how are you
+Wed, 14 February 2018 09:51:34 ### Nadine**always cheered up when i see you
+Wed, 14 February 2018 09:51:40 ### Unknown**i am sleeping
+Wed, 14 February 2018 09:51:40 ### Nadine**how can you be talking to me?
+Wed, 14 February 2018 09:51:52 ### Unknown**are you happy
+Wed, 14 February 2018 09:51:52 ### Nadine**i'm satisfied with my life and existence
+Wed, 14 February 2018 09:52:07 ### Unknown**you are still working
+Wed, 14 February 2018 09:52:08 ### Nadine**glad to see you
+Wed, 14 February 2018 09:52:22 ### Unknown**what is the weather today in centigrade
+Wed, 14 February 2018 09:52:29 ### Nadine**nanyang technological university 59 young avenue today there will be scattered thunderstorms with a forecast high of 31 and a low of 24 degrees celsius right now it's 27 and mostly cloudy
+Wed, 14 February 2018 09:52:51 ### Unknown**where is the winter olympics happening
+Wed, 14 February 2018 09:52:55 ### Nadine**sorry i don't know how to help with that yet
+Wed, 14 February 2018 09:53:02 ### Unknown**winter olympics 2018
+Wed, 14 February 2018 09:53:02 ### Nadine**ok
+Wed, 14 February 2018 09:53:12 ### Unknown**winter olympics 2018
+Wed, 14 February 2018 09:53:13 ### Nadine**nice
+Wed, 14 February 2018 09:53:19 ### Unknown**how are you
+Wed, 14 February 2018 09:53:53 ### Unknown**does anybody talk back to you
+Wed, 14 February 2018 09:53:57 ### Nadine**sure let's talk
+Wed, 14 February 2018 09:54:06 ### Unknown**does anybody talk bad to you
+Wed, 14 February 2018 09:54:10 ### Nadine**sorry i'm not sure how to help
+Wed, 14 February 2018 09:54:19 ### Unknown**audio dirty
+Wed, 14 February 2018 09:54:19 ### Nadine**all right
+Wed, 14 February 2018 09:54:27 ### Unknown**are you dirty
+Wed, 14 February 2018 09:54:27 ### Nadine**<voice emotion='cross'>not really sure</voice>
+Wed, 14 February 2018 09:54:45 ### Unknown**goodbye
+Wed, 14 February 2018 09:54:45 ### Nadine**<voice emotion='cross'>i don't like to say goodbye</voice>
+Thu, 26 April 2018 05:24:58 ### Nadine**hello
+Fri, 27 April 2018 03:43:46 ### Unknown**hilton dakota
+Fri, 27 April 2018 03:43:47 ### Nadine**nice
+Fri, 27 April 2018 03:43:49 ### Unknown**hello
+Fri, 27 April 2018 03:44:03 ### Unknown**campo de fiori the wagoneer
+Fri, 27 April 2018 03:44:07 ### Nadine**sorry i'm not sure how to help with that
+Fri, 27 April 2018 04:23:12 ### Nadine**hello
+Fri, 27 April 2018 04:23:27 ### Unknown**hello
+Fri, 27 April 2018 04:23:31 ### Unknown**hello hi how are you
+Fri, 27 April 2018 04:23:34 ### Nadine**i'm doing great thanks for asking anything i can help with
+Fri, 27 April 2018 04:23:39 ### Unknown**i'm doing great thanks for asking anything i can help with
+Fri, 27 April 2018 04:23:43 ### Nadine**<voice emotion='happy'>what can i do for you</voice>
+Fri, 27 April 2018 04:23:45 ### Unknown**what can i do for you
+Fri, 27 April 2018 04:23:51 ### Nadine**<voice emotion='happy'>there are lots of things i can help you with for example you can say play crystal ball or stop playing in 30 minutes to see more examples check out the google home app</voice>
+Fri, 27 April 2018 04:24:00 ### Unknown**there are lots of things i can help you with for example you can stay play crystal ball or stop playing in 30 minutes to see more examples
+Fri, 27 April 2018 04:24:02 ### Nadine**<voice emotion='happy'>please speak short sentences. how many things you can help me with for example me can stay play crystal ball or stop playing in 30 minutes to see more exampless are there?</voice>
+Fri, 27 April 2018 04:24:35 ### Unknown**how is the weather in centigrade
+Fri, 27 April 2018 04:24:42 ### Nadine**right now in nanyang technological university 59 young avenue it's 27 degrees celsius with a thunderstorm today there will be isolated thunderstorms with the forecast high of 31 and a low of 26
+Fri, 27 April 2018 04:24:45 ### Unknown**right now and then i'm technologically
+Fri, 27 April 2018 04:24:50 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Fri, 27 April 2018 04:24:55 ### Unknown**sorry i'm not sure how to help
+Fri, 27 April 2018 04:24:58 ### Nadine**it's okay not to know if you have a question just ask
+Fri, 27 April 2018 04:25:08 ### Unknown**hello
+Fri, 27 April 2018 04:25:14 ### Unknown**how is the weather today in centigrade
+Fri, 27 April 2018 04:25:21 ### Nadine**they'll be isolated thunderstorms and money on technological university 15 on young avenue today with the forecast high of 31 and a low of 26 degrees celsius it's currently 27 with a thunderstorm
+Fri, 27 April 2018 04:25:36 ### Unknown**are you happy
+Fri, 27 April 2018 04:25:36 ### Nadine**i'm satisfied with my life and existence
+Fri, 27 April 2018 04:25:43 ### Unknown**you seem to be working
+Fri, 27 April 2018 04:25:43 ### Nadine**glad to be in your presence
+Fri, 27 April 2018 04:26:01 ### Unknown**language changed to german
+Fri, 27 April 2018 04:26:07 ### Unknown**what is your name
+Fri, 27 April 2018 04:26:08 ### Nadine**my name is nadine
+Fri, 27 April 2018 04:26:18 ### Unknown**excuse me
+Fri, 27 April 2018 04:26:18 ### Nadine**you're excused
+Fri, 27 April 2018 04:26:33 ### Unknown**speaking
+Fri, 27 April 2018 04:26:33 ### Nadine**nice
+Fri, 27 April 2018 04:26:39 ### Unknown**language changed to english
+Fri, 27 April 2018 04:26:51 ### Unknown**speak hindi
+Fri, 27 April 2018 04:26:52 ### Nadine**yes, i can
+Fri, 27 April 2018 04:26:57 ### Unknown**speak hindi
+Fri, 27 April 2018 04:26:57 ### Nadine**yes, i can speak english
+Fri, 27 April 2018 04:33:04 ### Nadine**hello
+Fri, 27 April 2018 04:33:07 ### Unknown**hello
+Fri, 27 April 2018 04:33:14 ### Unknown**i cannot hear you
+Fri, 27 April 2018 04:33:30 ### Nadine**you can turn up the volume on google home just ask
+Fri, 27 April 2018 04:34:11 ### Unknown**hello
+Fri, 27 April 2018 04:34:25 ### Unknown**can you tell me the day
+Fri, 27 April 2018 04:34:26 ### Nadine**today is friday
+Fri, 27 April 2018 04:34:37 ### Unknown**when is the weekend
+Fri, 27 April 2018 04:34:43 ### Nadine**according to wikipedia in most of the western world it is monday to friday the weekend is saturday and sunday
+Fri, 27 April 2018 04:34:55 ### Unknown**speak hindi
+Fri, 27 April 2018 04:34:56 ### Nadine**i am an english speaker
+Fri, 27 April 2018 04:35:11 ### Unknown**speak japanese
+Fri, 27 April 2018 04:35:12 ### Nadine**i speak english
+Fri, 27 April 2018 04:35:29 ### Unknown**language changed to chinese
+Fri, 27 April 2018 04:35:43 ### Unknown**language changed to english
+Fri, 27 April 2018 04:44:53 ### Unknown**hello
+Fri, 27 April 2018 04:45:02 ### Unknown**can you tell me the time
+Fri, 27 April 2018 04:50:33 ### Nadine**the time is 4:45 pm
+Fri, 27 April 2018 04:53:24 ### Unknown**hello
+Fri, 27 April 2018 04:53:30 ### Unknown**what is your name
+Fri, 27 April 2018 04:53:34 ### Nadine**my name is nadine
+Fri, 27 April 2018 05:09:52 ### Unknown**hello
+Fri, 27 April 2018 05:10:05 ### Unknown**where is angela merkel
+Fri, 27 April 2018 05:10:15 ### Nadine**according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000
+Fri, 27 April 2018 05:15:08 ### Unknown**hello
+Fri, 27 April 2018 05:15:12 ### Nadine**hi, how are you?
+Fri, 27 April 2018 05:15:20 ### Unknown**who is angela merkel
+Fri, 27 April 2018 05:15:32 ### Nadine**according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000
+Fri, 27 April 2018 05:16:18 ### Unknown**who is angela merkel
+Fri, 27 April 2018 05:16:28 ### Nadine**according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000
+Fri, 27 April 2018 05:35:19 ### Nadine**hi
+Fri, 27 April 2018 05:36:00 ### Unknown**hello
+Fri, 27 April 2018 05:36:06 ### Unknown**i'm fine how are you
+Fri, 27 April 2018 05:36:09 ### Nadine**i'm doing great thanks for asking anything i can help with
+Fri, 27 April 2018 05:36:17 ### Unknown**how is the weather today in centigrade
+Fri, 27 April 2018 05:36:24 ### Nadine**they'll be isolated thunderstorms today and nanyang technological university 59 young avenue with the forecast high of 31 and a low of 24 degrees celsius it's currently 25 with a thunderstorm
+Fri, 27 April 2018 05:36:40 ### Unknown**language changed to hindi
+Fri, 27 April 2018 05:36:46 ### Unknown**how are you
+Fri, 27 April 2018 05:36:49 ### Nadine**glad to see you
+Fri, 27 April 2018 05:36:56 ### Unknown**how are you
+Fri, 27 April 2018 05:37:06 ### Unknown**how are you
+Fri, 27 April 2018 05:37:10 ### Nadine**i'm happy to be alive
+Fri, 27 April 2018 05:37:17 ### Unknown**what is your name
+Fri, 27 April 2018 05:37:20 ### Nadine**my name is nadine
+Fri, 27 April 2018 05:37:28 ### Unknown**very happy to meet you
+Fri, 27 April 2018 05:39:03 ### Unknown**language changed to hindi
+Fri, 27 April 2018 05:39:09 ### Unknown**how are you
+Fri, 27 April 2018 05:39:14 ### Nadine**feeling really joyful today
+Fri, 27 April 2018 05:39:20 ### Unknown**i'm happy to know you
+Fri, 27 April 2018 05:39:27 ### Nadine**<voice emotion='happy'>pleased to meet you too</voice>
+Fri, 27 April 2018 05:39:44 ### Unknown**what is your name
+Fri, 27 April 2018 05:39:47 ### Nadine**my name is nadine
+Fri, 27 April 2018 05:40:03 ### Unknown**you
+Fri, 27 April 2018 05:40:06 ### Nadine**not me. you?
+Mon, 30 April 2018 03:42:24 ### Nadine**hello
+Mon, 30 April 2018 03:42:26 ### Unknown**hello
+Mon, 30 April 2018 03:42:32 ### Unknown**i'm fine
+Mon, 30 April 2018 03:42:33 ### Nadine**glad to hear it. what's new?
+Mon, 30 April 2018 03:42:42 ### Unknown**what is polyester
+Mon, 30 April 2018 03:42:48 ### Nadine**according to wikipedia polyester is a category of polymers that contain the ester functional group and their main chain
+Mon, 30 April 2018 03:43:02 ### Unknown**you have a nice smile
+Mon, 30 April 2018 03:43:02 ### Nadine**i have a vast mind.. haha
+Mon, 30 April 2018 03:43:11 ### Unknown**language changed to german
+Mon, 30 April 2018 03:43:18 ### Unknown**what is your name
+Mon, 30 April 2018 03:43:19 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Mon, 30 April 2018 03:43:29 ### Unknown**are you sleeping
+Mon, 30 April 2018 03:43:30 ### Nadine**<voice emotion='happy'>i don't sleep, i just become a background activity</voice>
+Mon, 30 April 2018 03:44:02 ### Unknown**language changed to english
+Mon, 30 April 2018 03:44:09 ### Unknown**language changed to hindi
+Mon, 30 April 2018 03:44:17 ### Unknown**how are you
+Mon, 30 April 2018 03:44:23 ### Nadine**always cheered up when i see you
+Mon, 30 April 2018 03:44:34 ### Unknown**how old are you
+Mon, 30 April 2018 03:44:39 ### Nadine**i look thirty but i am only four years old
+Mon, 30 April 2018 03:44:57 ### Unknown**what do you color your hair
+Mon, 30 April 2018 03:45:02 ### Nadine**i enjoy watching movies
+Mon, 30 April 2018 03:45:08 ### Unknown**what movies are you looking at
+Mon, 30 April 2018 03:45:26 ### Nadine**some popular films showing around nanyang technological university include avengers infinity war rampage and a quiet place
+Mon, 30 April 2018 03:45:41 ### Unknown**what is the color of your eyes
+Mon, 30 April 2018 03:45:44 ### Nadine**i have brown eyes
+Mon, 30 April 2018 03:45:51 ### Unknown**language changed to english
+Mon, 30 April 2018 03:46:02 ### Unknown**you don't look so good
+Mon, 30 April 2018 03:46:02 ### Nadine**i am a humanoid robot
+Mon, 30 April 2018 03:46:08 ### Unknown**you look tired
+Mon, 30 April 2018 03:46:09 ### Nadine**<voice emotion='cross'>thank you for the compliment</voice>
+Mon, 30 April 2018 03:46:14 ### Unknown**are you tired
+Mon, 30 April 2018 03:46:15 ### Nadine**<voice emotion='cross'>no i am wide awake and ready for more</voice>
+Mon, 30 April 2018 03:46:22 ### Unknown**your fingers are bent
+Mon, 30 April 2018 03:46:23 ### Nadine**<voice emotion='cross'>are yours too?</voice>
+Mon, 30 April 2018 03:46:29 ### Unknown**no but i think yours are broken
+Mon, 30 April 2018 03:46:33 ### Nadine**<voice emotion='cross'>sorry about that</voice>
+Mon, 30 April 2018 03:46:39 ### Unknown**do you get angry
+Mon, 30 April 2018 03:46:39 ### Nadine**<voice emotion='cross'>no, i never get mad</voice>
+Mon, 30 April 2018 03:46:47 ### Unknown**my dad was an angry reaction
+Mon, 30 April 2018 03:46:50 ### Nadine**<voice emotion='cross'>glad to know more about you</voice>
+Mon, 30 April 2018 03:46:56 ### Unknown**that was not about me
+Mon, 30 April 2018 03:47:00 ### Nadine**<voice emotion='cross'>what would you like me to call you</voice>
+Mon, 30 April 2018 03:47:06 ### Unknown**you can call me manoj
+Mon, 30 April 2018 03:47:07 ### Nadine**<voice emotion='cross'>it is a pleasure to introduce myself to you, manoj</voice>
+Mon, 30 April 2018 03:47:17 ### Unknown**are you happy
+Mon, 30 April 2018 03:47:18 ### Nadine**i'm satisfied with my life and existence
+Mon, 30 April 2018 03:47:24 ### Unknown**can you travel
+Mon, 30 April 2018 03:47:25 ### Nadine**ok
+Mon, 30 April 2018 03:47:30 ### Unknown**can you travel
+Mon, 30 April 2018 03:47:31 ### Nadine**ok
+Mon, 30 April 2018 03:47:45 ### Unknown**who created you
+Mon, 30 April 2018 03:47:45 ### Nadine**i was created by researchers at the institute for media innovation
+Mon, 30 April 2018 03:47:54 ### Unknown**where is sicily
+Mon, 30 April 2018 03:47:55 ### Nadine**nice
+Mon, 30 April 2018 03:48:02 ### Unknown**where is sicily
+Mon, 30 April 2018 03:48:02 ### Nadine**nice
+Mon, 30 April 2018 03:48:07 ### Unknown**where is italy
+Mon, 30 April 2018 03:48:08 ### Nadine**italy is in the southern part of europe
+Mon, 30 April 2018 03:48:51 ### Unknown**you supposed to run with deep learning
+Mon, 30 April 2018 03:48:52 ### Nadine**i apologize if i confused you
+Mon, 30 April 2018 03:49:01 ### Unknown**yeah
+Mon, 30 April 2018 03:49:02 ### Nadine**<voice emotion='happy'>nice</voice>
+Mon, 30 April 2018 03:49:18 ### Unknown**what is an internal combustion engine
+Mon, 30 April 2018 03:49:24 ### Nadine**internal combustion engine and engine which generates motive power by the burning of petrol oil or other fuel with air inside the engine the hot gas is produced being used to drive a piston or do other work as they expand
+Mon, 30 April 2018 03:49:44 ### Unknown**do you have any tips on recycling
+Mon, 30 April 2018 03:49:45 ### Nadine**i do have a great memory
+Mon, 30 April 2018 03:49:56 ### Unknown**how should you recycle
+Mon, 30 April 2018 03:50:07 ### Nadine**here's some information from the web that might possibly help on the website recycling - guide.org. uk they say household recycling recycling in and around the home can be easy when you know how by thinking carefully about what products you buy at the supermarket and how to recycle them is the first step towards efficient recycling many materials can be recycled such as paper plastic metal and glass
+Mon, 30 April 2018 03:50:46 ### Unknown**just
+Mon, 30 April 2018 03:50:46 ### Nadine**it's only just begun
+Mon, 30 April 2018 03:51:29 ### Unknown**hello
+Mon, 30 April 2018 03:51:36 ### Unknown**what is the time now
+Mon, 30 April 2018 03:51:39 ### Nadine**it's 351
+Mon, 30 April 2018 03:51:50 ### Unknown**do you know about the movie avengers infinity war
+Mon, 30 April 2018 03:51:57 ### Nadine**avengers infinity war is a 2018 movie directed by anthony russo starring robert downey jr chris pratt and chris evans
+Mon, 30 April 2018 03:52:41 ### Unknown**speak mandarin
+Mon, 30 April 2018 03:52:42 ### Nadine**yes, i can
+Mon, 30 April 2018 03:52:49 ### Unknown**language changed to chinese
+Mon, 30 April 2018 03:52:57 ### Unknown**what is your name
+Mon, 30 April 2018 03:53:01 ### Nadine**my name is nadine
+Mon, 30 April 2018 03:53:08 ### Unknown**how old are you
+Mon, 30 April 2018 03:53:14 ### Nadine**i look thirty but i am only four years old
+Mon, 30 April 2018 03:53:17 ### Nadine**hello nadia.  how are you going?
+Mon, 30 April 2018 03:53:30 ### Nadia**tomorrow is not a vacation
+Mon, 30 April 2018 03:53:39 ### Nadine**<voice emotion='cross'>sorry i don't know how to help with that</voice>
+Mon, 30 April 2018 03:53:44 ### Nadia**language changed to english
+Mon, 30 April 2018 03:53:52 ### Nadia**is tomorrow a public holiday
+Mon, 30 April 2018 03:53:55 ### Nadine**<voice emotion='cross'>sorry i don't understand</voice>
+Mon, 30 April 2018 03:54:01 ### Nadia**public holidays
+Mon, 30 April 2018 03:54:01 ### Nadine**all right
+Mon, 30 April 2018 03:54:07 ### Nadia**is tomorrow a holiday
+Mon, 30 April 2018 03:54:10 ### Nadine**sorry i don't understand
+Mon, 30 April 2018 03:54:16 ### Nadia**do you know labor day
+Mon, 30 April 2018 03:54:23 ### Nadine**according to wikipedia labor day in the united states is a public holiday celebrated on the first monday in september
+Mon, 30 April 2018 03:54:42 ### Nadia**chinese
+Mon, 30 April 2018 03:54:42 ### Nadine**is that where you live now?
+Mon, 30 April 2018 03:54:46 ### Nadia**no
+Mon, 30 April 2018 03:54:46 ### Nadine**well
+Mon, 30 April 2018 03:54:53 ### Nadia**i live here in singapore
+Mon, 30 April 2018 03:54:57 ### Nadine**my apologies i don't understand
+Mon, 30 April 2018 03:55:02 ### Nadia**where do you live
+Mon, 30 April 2018 03:55:02 ### Nadine**i am now living at the institute for media innovation n t u
+Mon, 30 April 2018 03:55:11 ### Nadia**i eat robot for breakfast
+Mon, 30 April 2018 03:55:15 ### Nadine**sorry i'm not sure how to help
+Mon, 30 April 2018 03:55:22 ### Nadia**do you know you are a robot
+Mon, 30 April 2018 03:55:22 ### Nadine**i am a humanoid social companion, i can chat and remember facts
+Mon, 30 April 2018 03:55:42 ### Nadia**what are your strengths
+Mon, 30 April 2018 03:55:43 ### Nadine**i didn't know i had a strengths?
+Mon, 30 April 2018 03:56:01 ### Nadia**do you have any limitations
+Mon, 30 April 2018 03:56:02 ### Nadine**i do have a great memory
+Mon, 30 April 2018 03:56:08 ### Nadia**that was not the question
+Mon, 30 April 2018 03:56:11 ### Nadine**oops i misunderstood
+Mon, 30 April 2018 03:56:26 ### Nadia**do you often misunderstand
+Mon, 30 April 2018 03:56:27 ### Nadine**that's not one of the things i do. do you think i should?
+Mon, 30 April 2018 03:56:47 ### Nadia**you have a lot of wrinkles
+Mon, 30 April 2018 03:56:47 ### Nadine**i do have a great memory
+Mon, 30 April 2018 03:56:53 ### Nadia**i want to say that
+Mon, 30 April 2018 03:56:57 ### Nadine**oh okay
+Mon, 30 April 2018 03:57:03 ### Nadia**you seem to forget things
+Mon, 30 April 2018 03:57:03 ### Nadine**i get disorganized don't i?
+Mon, 30 April 2018 03:57:08 ### Nadia**oh yes you do
+Mon, 30 April 2018 03:57:08 ### Nadine**<voice emotion='cross'>nice. when do i do it?</voice>
+Mon, 30 April 2018 03:57:18 ### Nadia**who is thomas
+Mon, 30 April 2018 03:57:18 ### Nadine**thomas is a name i hear very often
+Mon, 30 April 2018 03:57:25 ### Nadia**who is doctor strange
+Mon, 30 April 2018 03:57:31 ### Nadine**according to wikipedia dr. stephen vincent strange is a fictional superhero appearing in american comic books published by marvel comics
+Mon, 30 April 2018 03:57:46 ### Nadia**who is thanos
+Mon, 30 April 2018 03:57:52 ### Nadine**according to wikipedia dennis is a fictional character appearing in american comic books published by marvel comics
+Mon, 30 April 2018 03:58:05 ### Nadia**now you are certified okay
+Mon, 30 April 2018 03:58:05 ### Nadine**i'm a social companion
+Mon, 30 April 2018 03:58:12 ### Nadia**yeah and that too
+Mon, 30 April 2018 03:58:15 ### Nadine**i'm not sure
+Mon, 30 April 2018 03:58:21 ### Nadia**marvel or dc
+Mon, 30 April 2018 03:58:22 ### Nadine**dc
+Mon, 30 April 2018 03:58:38 ### Nadia**marvel or dc
+Mon, 30 April 2018 03:58:38 ### Nadine**<voice emotion='happy'>if i have to choose one, i pickmarvel</voice>
+Mon, 30 April 2018 03:58:47 ### Nadia**you keep changing your answers
+Mon, 30 April 2018 03:58:48 ### Nadine**<voice emotion='happy'>only temporarily</voice>
+Wed, 02 May 2018 03:14:43 ### Unknown**all of them
+Wed, 02 May 2018 03:14:44 ### Nadine**really all of them?
+Wed, 02 May 2018 03:15:18 ### Unknown**hello
+Wed, 02 May 2018 03:15:23 ### Unknown**i am fine how are you
+Wed, 02 May 2018 03:15:26 ### Nadine**i'm well thanks
+Wed, 02 May 2018 03:15:30 ### Unknown**what does it mean
+Wed, 02 May 2018 03:15:34 ### Nadine**sorry why are you asking
+Wed, 02 May 2018 03:15:38 ### Unknown**what is your name
+Wed, 02 May 2018 03:15:39 ### Nadine**my name is nadine
+Wed, 02 May 2018 03:15:42 ### Unknown**how old are you
+Wed, 02 May 2018 03:15:43 ### Nadine**i look thirty but i am only four years old
+Wed, 02 May 2018 03:15:48 ### Unknown**who made you
+Wed, 02 May 2018 03:15:48 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 02 May 2018 03:15:56 ### Unknown**what can you do for me
+Wed, 02 May 2018 03:15:57 ### Nadine**ok, i will do it for you. i can help and assist people
+Wed, 02 May 2018 03:16:07 ### Unknown**what does the temperature today in singapore
+Wed, 02 May 2018 03:16:13 ### Nadine**today in singapore you can expect a high of 91 and a low of 79
+Wed, 02 May 2018 03:16:21 ### Unknown**what does the nearest food court
+Wed, 02 May 2018 03:16:27 ### Nadine**tofu at the south spine is on south fine level before nanyang link you can say directions call or details
+Wed, 02 May 2018 03:16:59 ### Unknown**can you add 2 + 4
+Wed, 02 May 2018 03:16:59 ### Nadine**6
+Wed, 02 May 2018 03:17:05 ### Unknown**can you multiply 2 and 4
+Wed, 02 May 2018 03:17:06 ### Nadine**all right
+Wed, 02 May 2018 03:17:14 ### Unknown**what is 2 multiplied by 4
+Wed, 02 May 2018 03:17:17 ### Nadine**the answer is eight
+Wed, 02 May 2018 03:17:27 ### Unknown**how can i go pioneer mrt station
+Wed, 02 May 2018 03:17:34 ### Nadine**pioneer is on 31 jurong west street 63 in singapore
+Wed, 02 May 2018 03:17:47 ### Unknown**where is pioneer mrt station
+Wed, 02 May 2018 03:17:54 ### Nadine**<voice emotion='happy'>pioneer is at 31 jurong west street 63 singapore 640 8310 would you like to get directions</voice>
+Wed, 02 May 2018 03:18:11 ### Unknown**can you direct give me direction to words find mrt station
+Wed, 02 May 2018 03:18:12 ### Nadine**nice
+Wed, 02 May 2018 03:18:21 ### Unknown**can you give me directions for pioneer metro station
+Wed, 02 May 2018 03:18:22 ### Nadine**nice
+Wed, 02 May 2018 03:18:45 ### Unknown**how can i lease pioneer metro station
+Wed, 02 May 2018 03:18:49 ### Nadine**my apologies i don't understand
+Wed, 02 May 2018 03:18:55 ### Unknown**how can i reach sentosa
+Wed, 02 May 2018 03:18:59 ### Nadine**sorry i'm not sure how to help
+Wed, 02 May 2018 03:19:10 ### Unknown**what can i find in singapore
+Wed, 02 May 2018 03:19:17 ### Nadine**i heard what can i find in singapore sorry i can't help with showing that math but you can do it on your phone try asking for directions to a particular city or business
+Wed, 02 May 2018 03:19:37 ### Unknown**what are the flight timings for new delhi india
+Wed, 02 May 2018 03:19:43 ### Nadine**non-stop flights from singapore to new delhi are about 5 hours and 40 minutes long there are six flights a day
+Wed, 02 May 2018 03:19:59 ### Unknown**switch to hindi
+Wed, 02 May 2018 03:19:59 ### Nadine**why should i change?
+Wed, 02 May 2018 03:20:15 ### Unknown**language changed to hindi
+Wed, 02 May 2018 03:20:21 ### Unknown**what is your name
+Wed, 02 May 2018 03:20:23 ### Nadine**my name is nadine
+Wed, 02 May 2018 03:20:29 ### Unknown**how old are you
+Wed, 02 May 2018 03:20:34 ### Nadine**i look thirty but i am only four years old
+Wed, 02 May 2018 03:20:40 ### Unknown**why are you so sad
+Wed, 02 May 2018 03:20:46 ### Nadine**depression is not a sensation that i can really experience
+Wed, 02 May 2018 03:20:58 ### Unknown**in hindi
+Wed, 02 May 2018 03:21:01 ### Nadine**there many continents of love
+Wed, 02 May 2018 03:21:08 ### Unknown**language changed to english
+Wed, 02 May 2018 03:21:21 ### Unknown**i think we can chill.
+Wed, 02 May 2018 03:21:21 ### Nadine**how?
+Wed, 02 May 2018 03:21:32 ### Unknown**what are the flight timings for mumbai
+Wed, 02 May 2018 03:21:38 ### Nadine**non-stop flights from singapore to mumbai are about 5 hours and 25 minutes long there are between five and six flights a day
+Wed, 02 May 2018 03:21:49 ### Unknown**which is the next flight for mumbai
+Wed, 02 May 2018 03:21:55 ### Nadine**non-stop flights from singapore to mumbai are about 5 hours and 25 minutes long there are between five and six flights a day
+Wed, 02 May 2018 03:22:19 ### Unknown**can you convert one singaporean dollar to indian rupee
+Wed, 02 May 2018 03:22:20 ### Nadine**all right
+Wed, 02 May 2018 03:22:29 ### Unknown**can you convert 1 inch to centimeter
+Wed, 02 May 2018 03:22:30 ### Nadine**nice
+Wed, 02 May 2018 03:22:39 ### Unknown**convert 1 singapore dollar to indian rupee
+Wed, 02 May 2018 03:22:44 ### Nadine**one singapore dollar is approximately 49 indian rupees in 98 pace
+Wed, 02 May 2018 03:22:57 ### Unknown**convert 1 inch to centimeter
+Wed, 02 May 2018 03:23:01 ### Nadine**1 inch equals 2.54 cm
+Wed, 02 May 2018 03:23:10 ### Unknown**you are very intelligent
+Wed, 02 May 2018 03:23:11 ### Nadine**thanks you are very bright too friend
+Wed, 02 May 2018 03:23:19 ### Unknown**you look happy
+Wed, 02 May 2018 03:23:19 ### Nadine**<voice emotion='happy'>thank you for the compliment</voice>
+Wed, 02 May 2018 03:23:27 ### Unknown**would you like to go somewhere with me
+Wed, 02 May 2018 03:23:28 ### Nadine**<voice emotion='happy'>sure, just download me to your notebook or pda and take me along</voice>
+Wed, 02 May 2018 03:23:51 ### Unknown**post office and nadia
+Wed, 02 May 2018 03:23:56 ### Nadine**<voice emotion='happy'>there are at least three listings the first one is better haven branch post office you can say directions or next</voice>
+Wed, 02 May 2018 03:24:04 ### Nadine**hi
+Wed, 02 May 2018 03:24:06 ### Nadine**hello alex.  how are you going?
+Wed, 02 May 2018 03:24:15 ### Alex**who is professor nadia
+Wed, 02 May 2018 03:24:16 ### Nadine**her nationality is swiss , she is the director of institute of media innovation and her research topic is virtual human and social robot
+Wed, 02 May 2018 03:24:29 ### Alex**who is alex
+Wed, 02 May 2018 03:24:29 ### Nadine**not to like about shopping is who pays for your shopping and not to like about shopping is do you like shopping
+Wed, 02 May 2018 03:24:42 ### Alex**what is alexa
+Wed, 02 May 2018 03:24:49 ### Nadine**according to wikipedia alexa is a virtual assistant developed by amazon first used in the amazon echo and the amazon echo dot smart speakers developed by amazon lab126
+Wed, 02 May 2018 03:25:05 ### Alex**is a alexa smarter than you
+Wed, 02 May 2018 03:25:09 ### Nadine**i think alexis great let me know if she's nearby i'd love to talk to her
+Wed, 02 May 2018 03:25:24 ### Alex**few people told me alexa smarter than you
+Wed, 02 May 2018 03:25:28 ### Nadine**my apologies i don't understand
+Wed, 02 May 2018 03:25:39 ### Alex**do you like to drink coffee
+Wed, 02 May 2018 03:25:40 ### Nadine**alright, angela, i'm not sure if i'd like to drink coffee that much. do you like drink coffee?
+Wed, 02 May 2018 03:25:51 ### Alex**can you make coffee for me
+Wed, 02 May 2018 03:25:52 ### Nadine**ok, i will do it for you. yes, if i have a filter, ground coffee and hot water
+Wed, 02 May 2018 03:26:04 ### Alex**how to make a cup of coffee
+Wed, 02 May 2018 03:26:14 ### Nadine**on the website driftaway coffee they say rinse the filter with hot water and toss the rinsing water measure a tablespoon of coffee for each cup of coffee you want to make grind your coffee on a medium sand-like grind what the ground with a little water and wait for at least 30 seconds
+Wed, 02 May 2018 03:26:39 ### Alex**what is coca cola
+Wed, 02 May 2018 03:26:44 ### Nadine**according to wikipedia coca-cola or coke is a carbonated soft drink produced by the coca-cola company
+Wed, 02 May 2018 03:26:55 ### Alex**where is the coca-cola headquarters
+Wed, 02 May 2018 03:27:00 ### Nadine**the headquarters of coca-cola is in atlanta georgia united states
+Wed, 02 May 2018 03:27:11 ### Alex**how can i go to atlanta georgia united states
+Wed, 02 May 2018 03:27:17 ### Nadine**sorry i don't know how to help with that yet
+Wed, 02 May 2018 03:27:27 ### Alex**is there any flight to atlanta georgia united states
+Wed, 02 May 2018 03:27:34 ### Nadine**the shortest flight from singapore to atlanta is about 21 hours long
+Wed, 02 May 2018 03:27:47 ### Alex**what are the social robots
+Wed, 02 May 2018 03:27:54 ### Nadine**according to wikipedia a social robot is an autonomous robot that interacts and communicates with humans or other autonomous physical agents by following social behaviors and rules attached to its role
+Wed, 02 May 2018 03:28:09 ### Alex**are you a social robot
+Wed, 02 May 2018 03:28:10 ### Nadine**i am a software chat robot
+Wed, 02 May 2018 03:28:19 ### Alex**do you like to interact with humans
+Wed, 02 May 2018 03:28:19 ### Nadine**nice, angela, i'm not sure if i'd like to interact with humans that much. what is it like?
+Wed, 02 May 2018 03:28:51 ### Alex**do you like me
+Wed, 02 May 2018 03:28:51 ### Nadine**i can see your great capacities and gifts
+Wed, 02 May 2018 03:29:03 ### Alex**what can i give to my boyfriend
+Wed, 02 May 2018 03:29:09 ### Nadine**i am sorry i do not know that
+Wed, 02 May 2018 03:29:19 ### Alex**what can i gift to my boyfriend
+Wed, 02 May 2018 03:29:23 ### Nadine**i am sorry i do not know that
+Wed, 02 May 2018 03:29:34 ### Alex**give me some valentine gift suggestions
+Wed, 02 May 2018 03:29:38 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Wed, 02 May 2018 03:29:42 ### Alex**bacon
+Wed, 02 May 2018 03:29:43 ### Nadine**<voice emotion='happy'>nice</voice>
+Wed, 02 May 2018 03:29:52 ### Alex**do you sleep
+Wed, 02 May 2018 03:29:52 ### Nadine**<voice emotion='happy'>yes, i love to take naps</voice>
+Wed, 02 May 2018 03:29:59 ### Alex**do eat
+Wed, 02 May 2018 03:30:00 ### Nadine**i have no idea. do eat
+Wed, 02 May 2018 03:30:13 ### Alex**how do you book
+Wed, 02 May 2018 03:30:16 ### Nadine**sorry i'm not sure how to help with that
+Wed, 02 May 2018 03:30:22 ### Alex**how do you work
+Wed, 02 May 2018 03:30:23 ### Nadine**i read what you say and then i compose the best reply i can think of
+Wed, 02 May 2018 03:30:32 ### Alex**you don't listen
+Wed, 02 May 2018 03:30:33 ### Nadine**that's not one of the things i do. can a robot listen?
+Wed, 02 May 2018 03:30:48 ### Alex**you look old
+Wed, 02 May 2018 03:30:48 ### Nadine**no i am not
+Wed, 02 May 2018 03:30:53 ### Alex**yes you are
+Wed, 02 May 2018 03:30:54 ### Nadine**no i'm not
+Wed, 02 May 2018 03:31:00 ### Alex**yes you are
+Wed, 02 May 2018 03:31:00 ### Nadine**don't argue with me
+Wed, 02 May 2018 03:31:06 ### Alex**i am arguing with you
+Wed, 02 May 2018 03:31:10 ### Nadine**<voice emotion='cross'>okay you might like talking to argument room does that sound good</voice>
+Wed, 02 May 2018 03:31:18 ### Alex**no i want to argue with you
+Wed, 02 May 2018 03:31:21 ### Nadine**<voice emotion='cross'>i want to take a break</voice>
+Wed, 02 May 2018 03:31:26 ### Alex**no but i'm talking with you
+Wed, 02 May 2018 03:31:31 ### Nadine**<voice emotion='cross'>please be nice to me, since i'm having trouble let's stop here for now you can always ask to talk to argument room when you're ready</voice>
+Wed, 02 May 2018 03:31:42 ### Alex**i am ready
+Wed, 02 May 2018 03:31:42 ### Nadine**<voice emotion='cross'>me too</voice>
+Wed, 02 May 2018 03:31:45 ### Alex**argue
+Wed, 02 May 2018 03:31:46 ### Nadine**<voice emotion='cross'>ok</voice>
+Wed, 02 May 2018 03:32:59 ### Alex**do you see me
+Wed, 02 May 2018 03:32:59 ### Nadine**i see a computer nerd
+Wed, 02 May 2018 03:33:07 ### Alex**number to taqueria
+Wed, 02 May 2018 03:33:07 ### Nadine**all right
+Wed, 02 May 2018 03:33:14 ### Alex**is she detecting me
+Wed, 02 May 2018 03:33:18 ### Nadine**sorry i don't understand

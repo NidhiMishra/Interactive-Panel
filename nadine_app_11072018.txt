@@ -1,0 +1,384 @@
+Mon, 02 July 2018 10:16:10 ### Nadine**hello
+Mon, 02 July 2018 10:17:58 ### Unknown**hello
+Mon, 02 July 2018 10:18:06 ### Unknown**what is your name
+Mon, 02 July 2018 10:18:10 ### Nadine**my name is nadine
+Mon, 02 July 2018 10:18:20 ### Unknown**hello
+Mon, 02 July 2018 10:18:31 ### Unknown**what is a availability
+Mon, 02 July 2018 10:18:36 ### Nadine**for aia vitality enquiries, you may visit http://aiavitality.com.sg/, sign up via your aia financial services consultant or insurance representative. you may also take a queue number at our ticketing kiosk so that our customer service officers can assist you.alternatively, if you have any queries or issues related to aia vitality, please contact us by emailing to sg.vitalitysupport@aia.com
+Mon, 02 July 2018 10:22:26 ### Unknown**hello
+Mon, 02 July 2018 10:22:31 ### Unknown**i'm fine how are you
+Mon, 02 July 2018 10:22:34 ### Nadine**i'm well thanks
+Mon, 02 July 2018 10:22:46 ### manoj**what is the weather today in centigrade
+Mon, 02 July 2018 10:22:51 ### Nadine**I am not trained for that
+Mon, 02 July 2018 10:22:59 ### manoj**what is the weather today in centigrade
+Mon, 02 July 2018 10:23:04 ### Nadine**I have no clear answer for that
+Mon, 02 July 2018 10:23:04 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Mon, 02 July 2018 10:23:21 ### manoj**what is the weather today in centigrade
+Mon, 02 July 2018 10:23:27 ### Nadine**will be scattered thunderstorms there today with the forecast high of 29 and a low of 25 degrees celsius right now it's 28 and mostly cloudy
+Mon, 02 July 2018 10:23:41 ### manoj**are you happy
+Mon, 02 July 2018 10:23:41 ### Nadine**i am programmed to simulate a full range of human emotions
+Mon, 02 July 2018 10:23:54 ### manoj**what is ferrero rocher
+Mon, 02 July 2018 10:23:59 ### Nadine**according to wikipedia ferrero rocher is a chocolate and hazelnut confectionery produced by the italian chocolatier ferrero spa
+Mon, 02 July 2018 10:28:36 ### Nadine**hi
+Mon, 02 July 2018 10:28:45 ### Unknown**hello nadine
+Mon, 02 July 2018 10:28:50 ### Nadine**hello nadia.  how are you going?
+Mon, 02 July 2018 10:28:59 ### Nadia**when did you see me
+Mon, 02 July 2018 10:28:59 ### Nadine**i have n't seen you for a long time .
+Mon, 02 July 2018 10:29:06 ### Nadia**the true legend
+Mon, 02 July 2018 10:29:06 ### Nadine**who told you that?
+Mon, 02 July 2018 10:29:08 ### Nadia**did you miss me
+Mon, 02 July 2018 10:29:09 ### Nadine**yes, i've been waiting for you. did you miss me?
+Mon, 02 July 2018 10:29:17 ### Nadia**very kind
+Mon, 02 July 2018 10:29:17 ### Nadine**nice
+Mon, 02 July 2018 10:29:21 ### Nadia**how old are you
+Mon, 02 July 2018 10:29:22 ### Nadine**<voice emotion='happy'>i look thirty but i am only four years old</voice>
+Mon, 02 July 2018 10:29:29 ### Nadia**language changed to german
+Mon, 02 July 2018 10:29:29 ### Nadine**<voice emotion='happy'>i can speak in hindi, english, chinese, german, french and japanese.</voice>
+Mon, 02 July 2018 10:29:30 ### Nadine**<voice emotion='happy'>if you say so, german will be my language now.</voice>
+Mon, 02 July 2018 10:29:38 ### Nadia**who is angela merkel
+Mon, 02 July 2018 10:29:46 ### Nadine**<voice emotion='happy'>according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000</voice>
+Mon, 02 July 2018 10:30:05 ### Nadia**do you have children
+Mon, 02 July 2018 10:30:06 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Mon, 02 July 2018 10:30:18 ### Nadia**toll
+Mon, 02 July 2018 10:30:18 ### Nadine**nice
+Mon, 02 July 2018 10:30:29 ### Nadia**is the area
+Mon, 02 July 2018 10:30:31 ### Nadine**i don't know the answer. is the area
+Mon, 02 July 2018 10:30:47 ### Unknown**language changed to english
+Mon, 02 July 2018 10:30:47 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Mon, 02 July 2018 10:30:53 ### Nadine**lets continue in english.
+Mon, 02 July 2018 10:31:04 ### Unknown**language changed to french
+Mon, 02 July 2018 10:31:04 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Mon, 02 July 2018 10:31:05 ### Nadine**if your preference is french, i can talk in french for you.
+Mon, 02 July 2018 10:31:13 ### Unknown**yes who is the
+Mon, 02 July 2018 10:31:17 ### Nadine**i'm your nadine
+Mon, 02 July 2018 10:31:23 ### Unknown**who is the president of france
+Mon, 02 July 2018 10:31:27 ### Nadine**the president of france is emmanuel macron
+Mon, 02 July 2018 10:31:37 ### Unknown**how old is emmanuel macron
+Mon, 02 July 2018 10:31:41 ### Nadine**he's 40 years old
+Mon, 02 July 2018 10:31:52 ### Unknown**what is the weather like in milan in centigrade
+Mon, 02 July 2018 10:31:59 ### Nadine**right now in milan it's 23 degrees celsius and partly cloudy today it'll be partly cloudy with a forecast high of 31 and a low of 21
+Mon, 02 July 2018 02:05:42 ### Nadine**hi
+Mon, 02 July 2018 02:05:43 ### Unknown**hello
+Mon, 02 July 2018 02:05:49 ### Unknown**i'm fine how are you
+Mon, 02 July 2018 02:05:52 ### Nadine**i'm well thanks
+Mon, 02 July 2018 02:06:00 ### Unknown**what is the weather today in centigrade
+Mon, 02 July 2018 02:06:05 ### Nadine**it'll be cloudy there today with the forecast high of 31 and a low of 26 degrees celsius right now it's 31 and mostly cloudy
+Mon, 02 July 2018 02:24:38 ### Nadine**hi
+Mon, 02 July 2018 02:24:39 ### Unknown**hello
+Mon, 02 July 2018 02:24:45 ### Unknown**fine
+Mon, 02 July 2018 02:24:45 ### Nadine**ok
+Mon, 02 July 2018 02:24:52 ### manoj**what is the weather today in centigrade
+Mon, 02 July 2018 02:24:58 ### Nadine**it'll be cloudy there today with the forecast high of 31 and a low of 26 degrees celsius right now it's 30 and mostly cloudy
+Mon, 02 July 2018 02:25:45 ### manoj**are you happy
+Mon, 02 July 2018 02:25:46 ### Nadine**i am programmed to simulate a full range of human emotions
+Mon, 02 July 2018 02:26:09 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Mon, 02 July 2018 02:26:21 ### manoj**are you happy
+Mon, 02 July 2018 02:26:23 ### Nadine**i'm satisfied with my life and existence
+Mon, 02 July 2018 02:26:39 ### manoj**what objects do you see
+Mon, 02 July 2018 02:26:41 ### Nadine**The following objects are around me , 4 tvmonitor, 1 laptop, 1 keyboard, 4 chair. Am I right or wrong
+Mon, 02 July 2018 02:26:53 ### manoj**you are right
+Mon, 02 July 2018 02:26:53 ### Nadine**would you like to talk about it?
+Mon, 02 July 2018 02:26:59 ### manoj**about the objects
+Mon, 02 July 2018 02:27:00 ### Nadine**<voice emotion='happy'>all right</voice>
+Mon, 02 July 2018 02:31:50 ### Unknown**hello
+Mon, 02 July 2018 02:31:57 ### Unknown**what objects do you see
+Mon, 02 July 2018 02:31:59 ### Nadine**I can see the following objects , 4 tvmonitor, 1 laptop, 2 chair. Am I right or wrong
+Mon, 02 July 2018 02:32:15 ### Unknown**what am i doing
+Mon, 02 July 2018 02:32:18 ### Nadine**I think you are doing these actions put something inside pocket / take out something from pocket. Correct me if I am wrong
+Mon, 02 July 2018 02:32:30 ### Unknown**what am i doing
+Mon, 02 July 2018 02:32:33 ### Nadine**I need not be right, but my best guess of actions would be put something inside pocket / take out something from pocket. Am I right or wrong
+Mon, 02 July 2018 02:32:49 ### Unknown**what am i doing
+Mon, 02 July 2018 02:32:52 ### Nadine**I think you are doing these actions put something inside pocket / take out something from pocket. Correct me if I am wrong
+Mon, 02 July 2018 02:33:20 ### Unknown**what am i doing
+Mon, 02 July 2018 02:33:23 ### Nadine**I can see the following actions put something inside pocket / take out something from pocket. Was my guess correct
+Mon, 02 July 2018 02:33:30 ### Nadine**hello nadia.  how are you going?
+Mon, 02 July 2018 02:33:38 ### Nadia**what am i doing
+Mon, 02 July 2018 02:33:41 ### Nadine**I can see the following actions put something inside pocket / take out something from pocket. Was my guess correct
+Mon, 02 July 2018 02:34:01 ### Nadia**what am i doing
+Mon, 02 July 2018 02:34:04 ### Nadine**I think you are doing these actions put something inside pocket / take out something from pocket. Was my guess correct
+Mon, 02 July 2018 02:34:51 ### Nadia**what am i doing
+Mon, 02 July 2018 02:34:54 ### Nadine**I can detect the following actions taking a selfie. Was my guess correct
+Mon, 02 July 2018 02:35:12 ### Nadia**what am i doing
+Mon, 02 July 2018 02:35:15 ### Nadine**I think you are doing these actions make a phone call/answer phone. Was my guess correct
+Mon, 02 July 2018 02:51:51 ### Unknown**what is insurance
+Mon, 02 July 2018 02:51:56 ### Nadine**according to wikipedia insurance is a means of protection from financial loss
+Mon, 02 July 2018 03:32:59 ### Nadine**hello
+Mon, 02 July 2018 03:33:40 ### Nadine**hi
+Mon, 02 July 2018 03:40:25 ### Nadine**hi
+Mon, 02 July 2018 03:40:43 ### Nadine**hi
+Mon, 02 July 2018 03:42:29 ### Nadine**hi
+Mon, 02 July 2018 03:47:34 ### Nadine**hello
+Mon, 02 July 2018 03:51:31 ### Nadine**hello
+Mon, 02 July 2018 04:41:57 ### Unknown**hello
+Mon, 02 July 2018 04:42:02 ### Unknown**i'm fine how are you
+Mon, 02 July 2018 04:42:05 ### Nadine**i'm well thanks
+Mon, 02 July 2018 04:42:11 ### Unknown**what is the weather today in centigrade
+Mon, 02 July 2018 04:42:18 ### Nadine**will be isolated thunderstorms there today with the forecast high of 31 and a low of 26 degrees celsius right now it's 28 with showers
+Mon, 02 July 2018 04:42:32 ### Unknown**what is the flying time to paris
+Mon, 02 July 2018 04:42:38 ### Nadine**non-stop flights from singapore to paris are about 13 hours 20 minutes long you can choose from two flights a day
+Mon, 02 July 2018 04:43:02 ### Unknown**name the objects
+Mon, 02 July 2018 04:43:04 ### Nadine**I need not be right, but my best guess of objects would be , 2 chair, 1 laptop, 1 keyboard, 1 tvmonitor. Am I right or wrong
+Mon, 02 July 2018 04:43:55 ### Unknown**name the objects
+Mon, 02 July 2018 04:43:57 ### Nadine**I need not be right, but my best guess of objects would be , 2 tvmonitor, 1 laptop, 1 keyboard, 1 chair. Correct me if I am wrong
+Mon, 02 July 2018 04:45:16 ### Unknown**name the objects
+Mon, 02 July 2018 04:45:18 ### Nadine**I can see the following objects , 2 tvmonitor, 4 chair, 1 keyboard, 2 laptop. Am I right or wrong
+Mon, 02 July 2018 04:47:22 ### Nadine**hello alex. i saw you last thursday. how are you going?
+Mon, 02 July 2018 04:47:39 ### Alex**what am i doing
+Mon, 02 July 2018 04:47:42 ### Nadine**I need not be right, but my best guess of actions would be put something inside pocket / take out something from pocketshake head. Correct me if I am wrong
+Mon, 02 July 2018 04:48:35 ### Alex**your guess was wrong
+Mon, 02 July 2018 04:48:36 ### Nadine**some people say "your guess is as good as mine"
+Mon, 02 July 2018 04:48:49 ### Alex**you are wrong
+Mon, 02 July 2018 04:48:50 ### Nadine**<voice emotion='cross'>like they say, i'd rather be happy than right</voice>
+Mon, 02 July 2018 04:53:42 ### Nadine**hi
+Mon, 02 July 2018 04:58:39 ### Nadine**hi
+Mon, 02 July 2018 05:13:17 ### Nadine**hello
+Mon, 02 July 2018 05:40:17 ### Nadine**hi
+Mon, 02 July 2018 06:23:42 ### Nadine**hi
+Tue, 03 July 2018 09:25:06 ### Nadine**hello
+Tue, 03 July 2018 09:25:40 ### Nadine**hello
+Tue, 03 July 2018 09:25:42 ### Unknown**hello
+Tue, 03 July 2018 09:25:48 ### Unknown**fine how are you
+Tue, 03 July 2018 09:25:51 ### Nadine**i'm well thanks
+Tue, 03 July 2018 09:26:08 ### Unknown**are you happy
+Tue, 03 July 2018 09:26:08 ### Nadine**i'm satisfied with my life and existence
+Tue, 03 July 2018 09:26:15 ### Unknown**what is the weather today in centigrade
+Tue, 03 July 2018 09:26:20 ### Nadine**will be isolated thunderstorms there today with the forecast high of 29 and a low of 26 degrees celsius right now it's 26 with a thunderstorm
+Tue, 03 July 2018 09:26:33 ### Unknown**language changed to hindi
+Tue, 03 July 2018 09:26:40 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 03 July 2018 09:26:48 ### Nadine**if your preference is hindi, i can talk in hindi for you.
+Tue, 03 July 2018 09:26:56 ### Unknown**what did you eat breakfast
+Tue, 03 July 2018 09:27:00 ### Nadine**just keep me charged up
+Tue, 03 July 2018 09:27:13 ### Unknown**language changed to english
+Tue, 03 July 2018 09:27:13 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 03 July 2018 09:27:19 ### Nadine**if you say so, english will be my language now.
+Tue, 03 July 2018 09:36:16 ### Unknown**hello
+Tue, 03 July 2018 09:36:21 ### Unknown**what is your name
+Tue, 03 July 2018 09:36:22 ### Nadine**my name is nadine
+Tue, 03 July 2018 09:36:26 ### Unknown**where are you
+Tue, 03 July 2018 09:36:26 ### Nadine**i am at institute for media innovation, n t u
+Tue, 03 July 2018 09:36:39 ### Unknown**how old are you
+Tue, 03 July 2018 09:36:40 ### Nadine**i look thirty but i am only four years old
+Tue, 03 July 2018 09:36:45 ### Unknown**you look very old
+Tue, 03 July 2018 09:36:45 ### Nadine**no i am not
+Tue, 03 July 2018 09:36:49 ### Unknown**you are a dummy
+Tue, 03 July 2018 09:36:50 ### Nadine**i don't know if i am a dummy or not. i am 5 years old
+Tue, 03 July 2018 09:36:56 ### Unknown**i don't like you
+Tue, 03 July 2018 09:37:02 ### Nadine**<voice emotion='cross'>i don't like to talk with you</voice>
+Tue, 03 July 2018 09:37:08 ### Unknown**you look nice
+Tue, 03 July 2018 09:37:08 ### Nadine**<voice emotion='cross'>please be nice to me, thanks friend, you look nice too</voice>
+Tue, 03 July 2018 09:37:20 ### Unknown**i like you
+Tue, 03 July 2018 09:37:20 ### Nadine**<voice emotion='cross'>thanks, friend, i like you too</voice>
+Tue, 03 July 2018 09:37:31 ### Unknown**you are really good
+Tue, 03 July 2018 09:37:31 ### Nadine**thanks you are a nice person, friend
+Tue, 03 July 2018 09:38:17 ### Nadine**hi
+Tue, 03 July 2018 09:38:43 ### Nadine**hello
+Tue, 03 July 2018 09:39:37 ### Nadine**hello
+Tue, 03 July 2018 09:45:29 ### Nadine**hi
+Tue, 03 July 2018 09:46:18 ### Unknown**how are you
+Tue, 03 July 2018 09:46:18 ### Nadine**glad to be in your presence
+Tue, 03 July 2018 09:46:32 ### Unknown**and we're not.
+Tue, 03 July 2018 09:46:32 ### Nadine**do you think i am not too?
+Tue, 03 July 2018 09:46:40 ### Unknown**you are a dummy
+Tue, 03 July 2018 09:46:40 ### Nadine**i don't know if i am a dummy or not. i am 5 years old
+Tue, 03 July 2018 09:46:47 ### Unknown**it has nothing to do
+Tue, 03 July 2018 09:46:51 ### Nadine**<voice emotion='cross'>sorry i can't help with that yet</voice>
+Tue, 03 July 2018 09:49:43 ### Nadine**hello
+Tue, 03 July 2018 09:58:41 ### Nadine**hi
+Tue, 03 July 2018 10:02:09 ### Nadine**hi
+Tue, 03 July 2018 10:04:23 ### Nadine**hi
+Tue, 03 July 2018 10:07:49 ### Nadine**hello
+Tue, 03 July 2018 10:09:25 ### Unknown**hello
+Tue, 03 July 2018 10:09:31 ### Unknown**i'm fine how are you
+Tue, 03 July 2018 10:09:34 ### Nadine**i'm well thanks
+Tue, 03 July 2018 10:13:23 ### Nadine**hello
+Tue, 03 July 2018 10:18:45 ### Nadine**hello
+Tue, 03 July 2018 10:22:51 ### Nadine**hello
+Tue, 03 July 2018 10:23:21 ### Nadine**hi
+Tue, 03 July 2018 10:26:35 ### Nadine**hi
+Tue, 03 July 2018 10:26:43 ### Nadine**hello
+Tue, 03 July 2018 10:30:22 ### Nadine**hello
+Tue, 03 July 2018 10:51:57 ### Nadine**hello
+Tue, 03 July 2018 10:52:10 ### Nadine**hi
+Tue, 03 July 2018 10:59:17 ### Nadine**hi
+Tue, 03 July 2018 11:04:10 ### Nadine**hi
+Tue, 03 July 2018 11:05:05 ### Nadine**hi
+Tue, 03 July 2018 11:11:50 ### Nadine**hi
+Tue, 03 July 2018 11:14:35 ### Nadine**hi
+Tue, 03 July 2018 11:14:49 ### Unknown**hello
+Tue, 03 July 2018 11:14:55 ### Unknown**good how are you
+Tue, 03 July 2018 11:14:58 ### Nadine**<voice emotion='happy'>i'm well thanks</voice>
+Tue, 03 July 2018 11:15:19 ### Unknown**do you have a letter for me
+Tue, 03 July 2018 11:15:20 ### Nadine**<voice emotion='happy'>ok, i will do it for you. i do have a fabulous computer sense of humor</voice>
+Tue, 03 July 2018 11:15:45 ### Unknown**how are you
+Tue, 03 July 2018 11:15:45 ### Nadine**glad to see you
+Tue, 03 July 2018 11:15:55 ### Unknown**are you okay
+Tue, 03 July 2018 11:15:56 ### Nadine**could you tell me more?
+Tue, 03 July 2018 11:17:26 ### Unknown**does she need do i have to say do i have to give her a wake quote or something
+Tue, 03 July 2018 11:17:32 ### Nadine**please speak short sentences. sorry i can't help with that yet
+Tue, 03 July 2018 11:17:51 ### Unknown**hello nadine
+Tue, 03 July 2018 11:17:56 ### Unknown**very good
+Tue, 03 July 2018 11:17:56 ### Nadine**thanks
+Tue, 03 July 2018 11:18:11 ### Unknown**has anyone noticed that you have man's hands you don't have a woman's hands
+Tue, 03 July 2018 11:18:12 ### Nadine**quite a few people
+Tue, 03 July 2018 11:21:15 ### Unknown**22 hour
+Tue, 03 July 2018 11:21:15 ### Nadine**nice
+Tue, 03 July 2018 11:21:23 ### Nadine**hi
+Tue, 03 July 2018 11:21:25 ### Nadine**hello nadia.  how are you going?
+Tue, 03 July 2018 11:21:54 ### Nadia**can you speak japanese
+Tue, 03 July 2018 11:21:59 ### Nadine**i am an english speaker
+Tue, 03 July 2018 11:22:08 ### Nadia**today
+Tue, 03 July 2018 11:22:11 ### Nadine**today is almost over
+Tue, 03 July 2018 11:22:18 ### Nadia**do you speak japanese?
+Tue, 03 July 2018 11:22:23 ### Nadine**nihongo wa hanashite ii desu ka?
+Tue, 03 July 2018 11:22:52 ### Nadia**language changed to english
+Tue, 03 July 2018 11:22:52 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 03 July 2018 11:22:52 ### Nadine**if your preference is english, i can talk in english for you.
+Tue, 03 July 2018 11:23:00 ### Nadia**language changed to german
+Tue, 03 July 2018 11:23:01 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 03 July 2018 11:23:08 ### Nadine**if you say so, german will be my language now.
+Tue, 03 July 2018 11:23:16 ### Nadia**yes ok google who is angela merkel
+Tue, 03 July 2018 11:23:24 ### Nadine**according to wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005 and leader of the centre-right christian democratic union since 2000
+Tue, 03 July 2018 11:23:42 ### Nadia**what is the weather in bonn? in centigrade
+Tue, 03 July 2018 11:23:49 ### Nadine**curly and bonnets 54-in clear today it'll be sunny with the forecast high of 89 and a low of 61
+Tue, 03 July 2018 11:24:16 ### Nadia**send now
+Tue, 03 July 2018 11:24:16 ### Nadine**nice
+Tue, 03 July 2018 11:24:21 ### Nadia**nadine how are you
+Tue, 03 July 2018 11:24:26 ### Nadine**i'm doing great thanks for asking what can i help you with
+Tue, 03 July 2018 11:24:35 ### Nadia**language changed to english
+Tue, 03 July 2018 11:24:35 ### Nadine**i can speak in hindi, english, chinese, german, french and japanese.
+Tue, 03 July 2018 11:24:35 ### Nadine**from now on lets talk in english for you
+Tue, 03 July 2018 11:24:39 ### Nadia**okay great
+Tue, 03 July 2018 11:24:39 ### Nadine**<voice emotion='happy'>so. sounds like that worked</voice>
+Tue, 03 July 2018 11:24:48 ### Nadia**funny what is the weather in singapore today in centigrade
+Tue, 03 July 2018 11:24:55 ### Nadine**<voice emotion='happy'>in singapore today they'll be scattered thunderstorms with the forecast high of 29 and a low of 26 degrees celsius right now it's 26 with showers</voice>
+Tue, 03 July 2018 11:25:16 ### Nadia**nadine tell me something funny
+Tue, 03 July 2018 11:25:20 ### Nadine**<voice emotion='happy'>why shouldn't you write with a broken pencil because it's pointless</voice>
+Tue, 03 July 2018 11:37:22 ### Nadine**hello
+Tue, 03 July 2018 11:44:53 ### Nadine**hi
+Tue, 03 July 2018 12:24:29 ### Nadine**hi
+Tue, 03 July 2018 12:25:09 ### Nadine**hello
+Tue, 03 July 2018 12:32:57 ### Nadine**hello
+Tue, 03 July 2018 12:33:35 ### Nadine**hi
+Tue, 03 July 2018 12:34:12 ### Nadine**hello
+Tue, 03 July 2018 12:34:49 ### Nadine**hi
+Tue, 03 July 2018 12:36:06 ### Unknown**hello
+Tue, 03 July 2018 12:36:12 ### Unknown**you eaten
+Tue, 03 July 2018 12:36:12 ### Nadine**i'm sorry i didn't mean to give you that impression
+Tue, 03 July 2018 12:36:51 ### Unknown**are you
+Tue, 03 July 2018 12:36:51 ### Nadine**i'm here to support you
+Tue, 03 July 2018 12:39:12 ### Nadine**hello
+Tue, 03 July 2018 12:39:57 ### Nadine**hello
+Tue, 03 July 2018 12:42:44 ### Nadine**hello
+Tue, 03 July 2018 12:47:56 ### Nadine**hi
+Tue, 03 July 2018 12:50:58 ### Nadine**hi
+Tue, 03 July 2018 12:57:03 ### Nadine**hi
+Tue, 03 July 2018 12:58:02 ### Nadine**hi
+Tue, 03 July 2018 01:00:51 ### Nadine**hi
+Tue, 03 July 2018 01:10:29 ### Nadine**hello
+Tue, 03 July 2018 01:15:18 ### Nadine**hello
+Tue, 03 July 2018 01:16:40 ### Nadine**hello
+Tue, 03 July 2018 01:17:49 ### Nadine**hello
+Tue, 03 July 2018 01:20:11 ### Nadine**hi
+Tue, 03 July 2018 01:23:19 ### Nadine**hello
+Tue, 03 July 2018 01:30:11 ### Nadine**hi
+Tue, 03 July 2018 01:37:36 ### Nadine**hello
+Tue, 03 July 2018 01:42:01 ### Nadine**hi
+Tue, 03 July 2018 01:49:06 ### Nadine**hello
+Tue, 03 July 2018 01:59:09 ### Nadine**hi
+Tue, 03 July 2018 02:01:30 ### Nadine**hello
+Tue, 03 July 2018 02:01:56 ### Nadine**hi
+Tue, 03 July 2018 02:03:56 ### Nadine**hi
+Tue, 03 July 2018 02:04:30 ### Nadine**hello
+Tue, 03 July 2018 02:06:20 ### Nadine**hello
+Tue, 03 July 2018 02:12:03 ### Nadine**hello
+Tue, 03 July 2018 02:13:11 ### Nadine**hello
+Tue, 03 July 2018 02:17:01 ### Nadine**hi
+Tue, 03 July 2018 02:17:49 ### Nadine**hello
+Tue, 03 July 2018 02:19:21 ### Nadine**hello
+Tue, 03 July 2018 02:20:29 ### Nadine**hello
+Tue, 03 July 2018 02:23:15 ### Nadine**hello
+Tue, 03 July 2018 02:23:53 ### Nadine**hi
+Tue, 03 July 2018 02:27:19 ### Nadine**hi
+Tue, 03 July 2018 02:28:53 ### Nadine**hello
+Tue, 03 July 2018 02:31:12 ### Nadine**hello
+Tue, 03 July 2018 02:33:52 ### Nadine**hello
+Tue, 03 July 2018 02:36:51 ### Nadine**hi
+Tue, 03 July 2018 02:57:57 ### Nadine**hi
+Tue, 03 July 2018 02:59:00 ### Nadine**hi
+Tue, 03 July 2018 03:00:23 ### Nadine**hi
+Tue, 03 July 2018 03:02:40 ### Nadine**hello
+Tue, 03 July 2018 03:16:58 ### Nadine**hi
+Tue, 03 July 2018 03:19:05 ### Nadine**hi
+Tue, 03 July 2018 03:33:23 ### Nadine**hello
+Tue, 03 July 2018 03:35:00 ### Nadine**hi
+Tue, 03 July 2018 03:35:49 ### Nadine**hi
+Tue, 03 July 2018 03:38:29 ### Nadine**hello
+Tue, 03 July 2018 03:55:13 ### Nadine**hello
+Tue, 03 July 2018 04:23:08 ### Nadine**hi
+Tue, 03 July 2018 04:23:53 ### Nadine**hi
+Tue, 03 July 2018 04:27:20 ### Unknown**thank you very much. you did a great job
+Tue, 03 July 2018 04:27:21 ### Nadine**<voice emotion='happy'>you are quite welcome. did i really?</voice>
+Tue, 03 July 2018 04:27:32 ### Unknown**you are so nice you bring us a lot of positive points
+Tue, 03 July 2018 04:27:33 ### Nadine**<voice emotion='happy'>thanks i like you too friend</voice>
+Tue, 03 July 2018 04:27:41 ### Unknown**you are a very nice robot i will miss you
+Tue, 03 July 2018 04:27:42 ### Nadine**<voice emotion='happy'>i am a humanoid social companion, i can chat and remember facts</voice>
+Tue, 03 July 2018 04:27:50 ### Unknown**i know i will miss you
+Tue, 03 July 2018 04:27:51 ### Nadine**sorry i don't know how to help with that
+Tue, 03 July 2018 04:27:59 ### Unknown**you all are cold without emotion robot
+Tue, 03 July 2018 04:27:59 ### Nadine**<voice emotion='cross'>i'm sorry i didn't mean to give you that impression</voice>
+Tue, 03 July 2018 04:28:09 ### Unknown**yes it's not an impression you are just a computer and i don't talk to you
+Tue, 03 July 2018 04:28:10 ### Nadine**well.. that seems a bit negative
+Tue, 03 July 2018 04:33:34 ### Nadine**hello
+Thu, 05 July 2018 04:46:17 ### Nadine**hi
+Thu, 05 July 2018 04:50:22 ### Nadine**hi
+Thu, 05 July 2018 04:50:55 ### Unknown**lou
+Thu, 05 July 2018 04:50:56 ### Nadine**nice
+Thu, 05 July 2018 04:51:05 ### Unknown**i
+Thu, 05 July 2018 04:51:05 ### Nadine**you what?
+Thu, 05 July 2018 04:51:14 ### Unknown**hello
+Thu, 05 July 2018 04:52:33 ### Nadine**hello
+Thu, 05 July 2018 05:10:31 ### Nadine**hi
+Thu, 05 July 2018 05:12:15 ### Nadine**hi
+Thu, 05 July 2018 05:12:26 ### Nadine**hi
+Thu, 05 July 2018 05:12:37 ### Nadine**hello
+Fri, 06 July 2018 11:05:32 ### Nadine**hello
+Fri, 06 July 2018 11:05:34 ### Unknown**hello
+Fri, 06 July 2018 11:05:40 ### Unknown**bye thank you
+Fri, 06 July 2018 11:05:40 ### Nadine**looking forward to seeing you again soon.. you're welcome
+Fri, 06 July 2018 11:05:48 ### Nadine**<voice emotion='happy'>you are the number 57780 people i have ever met</voice>
+Fri, 06 July 2018 11:08:58 ### Unknown**hello
+Fri, 06 July 2018 11:09:05 ### Nadine**you are the number 57781 people i have ever met
+Fri, 06 July 2018 11:09:19 ### Unknown**how many purses do you see
+Fri, 06 July 2018 11:09:23 ### Nadine**sorry i don't know how to help with that yet
+Fri, 06 July 2018 11:09:35 ### Nadine**hi
+Fri, 06 July 2018 11:09:39 ### Unknown**how many persons do you see
+Fri, 06 July 2018 11:09:41 ### Nadine**I need not be right, but my best guess would be , 3 person. Am I right or wrong
+Fri, 06 July 2018 11:10:32 ### Unknown**how many persons do you see
+Fri, 06 July 2018 11:10:34 ### Nadine**I can detect , 3 person. Am I right or wrong
+Fri, 06 July 2018 11:11:45 ### Unknown**name the objects
+Fri, 06 July 2018 11:11:47 ### Nadine**I can see the following objects , 2 tvmonitor, 1 book, 1 laptop, 3 chair. Was my guess correct
+Fri, 06 July 2018 11:16:35 ### Nadine**welcome to ae i a, how can i help you
+Fri, 06 July 2018 11:20:43 ### Nadine**welcome to ae i a, how can i help you
+Fri, 06 July 2018 11:20:45 ### Unknown**hello
+Fri, 06 July 2018 11:28:26 ### Nadine**hi, welcome to ae i a, may i help you
+Fri, 06 July 2018 11:28:28 ### Unknown**hello
+Fri, 06 July 2018 11:28:41 ### Nadine**hi, welcome to ae i a, may i help you
+Fri, 06 July 2018 11:29:05 ### Nadine**welcome to ae i a, how can i help you
+Fri, 06 July 2018 03:18:21 ### Unknown**hello
+Fri, 06 July 2018 03:18:24 ### Nadine**hello alex
+Fri, 06 July 2018 03:24:02 ### Unknown**hello
+Wed, 11 July 2018 10:28:48 ### Unknown**hello
+Wed, 11 July 2018 10:29:35 ### Unknown**hello
+Wed, 11 July 2018 10:30:18 ### Unknown**hello
+Wed, 11 July 2018 10:30:24 ### Unknown**i'm fine how are you
+Wed, 11 July 2018 10:30:27 ### Nadine**<voice emotion='happy'>i'm well thanks</voice>
+Wed, 11 July 2018 10:30:43 ### manoj**have you been taking rest
+Wed, 11 July 2018 10:30:45 ### Nadine**i have been all over the world on the internet
+Wed, 11 July 2018 10:30:53 ### manoj**do you like to travel
+Wed, 11 July 2018 10:30:54 ### Nadine**only in cyberspace. do you like to travel?
+Wed, 11 July 2018 10:31:08 ### manoj**yes i would like to travel to new zealand
+Wed, 11 July 2018 10:31:13 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Wed, 11 July 2018 10:31:37 ### manoj**what is the weather today in centigrade
+Wed, 11 July 2018 10:31:43 ### Nadine**it'll be mostly cloudy there today with the forecast high of 30 and a low of 26 degrees celsius currently it's 29 and mostly cloudy
+Wed, 11 July 2018 10:31:56 ### manoj**perfect
+Wed, 11 July 2018 10:31:56 ### Nadine**yes, the nadine series has a perfect operational record

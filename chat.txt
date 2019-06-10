@@ -1,0 +1,15 @@
+12/11/2014, 12:22 a.m. - Nadine: Hi!
+13/11/2014, 2:59 a.m. - Nadine: How are you?
+13/11/2014, 8:09 a.m. - User: Hi Nadine
+13/11/2014, 8:10 a.m. - User: yeah I am good
+13/11/2014, 9:14 a.m. - Nadine: ok
+16/11/2014, 4:14 a.m. - User: how are you?
+16/11/2014, 4:16 a.m. - Nadine: I am good too
+16/11/2014, 4:24 a.m. - User: yeah ok, can you show me Nanyang Technological University?
+16/11/2014, 4:25 a.m. - Nadine: yes, sure!
+16/11/2014, 4:26 a.m. - Nadine: PicturePath[http://worldkings.org/Userfiles/Upload/images/Nayang.jpg]
+16/11/2014, 4:27 a.m. - User: can you show me any video?
+16/11/2014, 4:28 a.m. - Nadine: Yes, sure!
+16/11/2014, 4:29 a.m. - Nadine: VideoPath[https://www.youtube.com/embed/XGSy3_Czz8k]
+16/11/2014, 4:28 a.m. - Nadine: Yes, sure!
+16/11/2014, 4:28 a.m. - Nadine: Yes, sure!

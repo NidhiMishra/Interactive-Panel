@@ -1,0 +1,1363 @@
+	Fri, 05 January 2018 09:39:52 ### Nadine**you look angry
+Fri, 05 January 2018 09:40:59 ### Unknown**hello
+Fri, 05 January 2018 09:41:10 ### Unknown**what is your name
+Fri, 05 January 2018 09:41:11 ### Nadine**my name is nadine
+Fri, 05 January 2018 09:41:18 ### Unknown**are you happy
+Fri, 05 January 2018 09:41:18 ### Nadine**i am programmed to simulate a full range of human emotions
+Fri, 05 January 2018 09:41:28 ### Unknown**what is 15 divided by 45
+Fri, 05 January 2018 09:41:32 ### Nadine**the answer is approximately 0.333
+Fri, 05 January 2018 09:42:09 ### Nadine**hello
+Fri, 05 January 2018 09:42:10 ### Nadine**hello manoj ramanathan again
+Fri, 05 January 2018 09:42:14 ### Nadine**you look angry
+Fri, 05 January 2018 09:42:56 ### manoj ramanathan**hi nadine
+Fri, 05 January 2018 09:43:01 ### manoj ramanathan**you are aging
+Fri, 05 January 2018 09:43:01 ### Nadine**no, are you?
+Fri, 05 January 2018 09:43:05 ### manoj ramanathan**you are aging
+Fri, 05 January 2018 09:43:06 ### Nadine**no, are you?
+Fri, 05 January 2018 09:43:08 ### manoj ramanathan**you got through
+Fri, 05 January 2018 09:43:08 ### Nadine**i'm working on developing a more human personality
+Fri, 05 January 2018 09:43:20 ### manoj ramanathan**she didn't recognize me so far
+Fri, 05 January 2018 09:43:24 ### Nadine**sorry i'm not sure how to help with that yet
+Fri, 05 January 2018 09:43:30 ### manoj ramanathan**i didn't ask anything
+Fri, 05 January 2018 09:43:34 ### Nadine**oops i misunderstood
+Fri, 05 January 2018 09:43:46 ### manoj ramanathan**nice
+Fri, 05 January 2018 09:43:47 ### Nadine**what do you really want to talk about?
+Fri, 05 January 2018 09:43:53 ### Nadine**hi
+Fri, 05 January 2018 09:43:55 ### Nadine**hello not
+Fri, 05 January 2018 10:03:45 ### Nadine**hello
+Fri, 05 January 2018 10:09:48 ### Nadine**hello
+Fri, 05 January 2018 10:27:49 ### Unknown**you know these
+Fri, 05 January 2018 10:27:53 ### Nadine**okay
+Fri, 05 January 2018 10:27:57 ### Unknown**how old are you
+Fri, 05 January 2018 10:27:57 ### Nadine**i look thirty but i am only four years old
+Fri, 05 January 2018 10:28:08 ### Unknown**where are you located
+Fri, 05 January 2018 10:28:08 ### Nadine**i'm in institute for media innovation
+Fri, 05 January 2018 10:28:33 ### Unknown**what is the weather like today in centigrade
+Fri, 05 January 2018 10:28:39 ### Nadine**in singapore today there will be thunderstorms with the forecast high of 30 in a low of 24 degrees celsius it's currently 28 and partly cloudy
+Fri, 05 January 2018 10:28:53 ### Unknown**what is the weather like in new york in centigrade
+Fri, 05 January 2018 10:28:59 ### Nadine**the forecast in new york city for tonight is -7 degrees c in cloudy it's currently -6 and cloudy
+Fri, 05 January 2018 10:29:14 ### Unknown**who is the president of singapore
+Fri, 05 January 2018 10:29:18 ### Nadine**the president of singapore is halimah yacob
+Fri, 05 January 2018 10:29:30 ### Unknown**what is the square root of 5 million
+Fri, 05 January 2018 10:29:35 ### Nadine**square root 5000000 is approximately 2236.068
+Fri, 05 January 2018 10:29:48 ### Unknown**who made you
+Fri, 05 January 2018 10:29:48 ### Nadine**researchers from institute of media innovation in n t u
+Fri, 05 January 2018 10:29:55 ### Unknown**what do you like to eat
+Fri, 05 January 2018 10:29:56 ### Nadine**my favorite food is electricity. can you charge the battery?
+Fri, 05 January 2018 10:31:06 ### Nadine**hello yasir tahir. i saw you yesterday. how are you going?
+Fri, 05 January 2018 10:31:43 ### yasir tahir**what is your name
+Fri, 05 January 2018 10:31:43 ### Nadine**my name is nadine
+Fri, 05 January 2018 10:32:25 ### yasir tahir**legend how do you feel today
+Fri, 05 January 2018 10:32:26 ### Nadine**as a robot, i feel nothing but i simuilate feelings
+Fri, 05 January 2018 10:32:30 ### Nadine**hello
+Fri, 05 January 2018 10:32:32 ### Nadine**hello nadia. i saw you yesterday. how are you going?
+Fri, 05 January 2018 10:32:41 ### Nadia**i am fine how many daughters do i have
+Fri, 05 January 2018 10:32:45 ### Nadine**you have how many daughters do you have. sorry i'm not sure how to help
+Fri, 05 January 2018 10:32:50 ### Nadine**you look angry
+Fri, 05 January 2018 10:32:53 ### Nadia**my french accent is too high
+Fri, 05 January 2018 10:32:58 ### Nadine**lantuage changed to french. glad to know more about you
+Fri, 05 January 2018 10:33:11 ### Nadia**come over to nadine
+Fri, 05 January 2018 10:33:14 ### Nadine**sorry i don't understand
+Fri, 05 January 2018 10:33:30 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 10:33:40 ### Nadia**how are you
+Fri, 05 January 2018 10:33:41 ### Nadine**i'm happy to be alive
+Fri, 05 January 2018 10:33:48 ### Nadia**goodbye what philosophy
+Fri, 05 January 2018 10:33:51 ### Nadine**<voice emotion='happy'>it's been a pleasure to be in your company. i have no idea. goodbye what philosophy</voice>
+Fri, 05 January 2018 10:33:58 ### Nadine**you look happy
+Fri, 05 January 2018 10:34:02 ### Nadia**you are a philosopher
+Fri, 05 January 2018 10:34:04 ### Nadine**<voice emotion='happy'>yes i am a philosophy unknown</voice>
+Fri, 05 January 2018 10:34:13 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 10:34:26 ### Nadia**good morning
+Fri, 05 January 2018 10:34:32 ### Nadine**<voice emotion='happy'>hi it's good to see you</voice>
+Fri, 05 January 2018 10:34:37 ### Nadia**what is your name
+Fri, 05 January 2018 10:34:40 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Fri, 05 January 2018 10:35:04 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 10:35:15 ### Nadia**what is your name
+Fri, 05 January 2018 10:35:18 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Fri, 05 January 2018 10:35:28 ### Nadia**you are very happy to meet you
+Fri, 05 January 2018 10:35:36 ### Nadine**i am programmed to simulate a full range of human emotions
+Fri, 05 January 2018 11:04:36 ### Nadine**hello
+Fri, 05 January 2018 11:13:29 ### Nadine**hi
+Fri, 05 January 2018 11:15:39 ### Nadine**hi
+Fri, 05 January 2018 11:18:56 ### Nadine**hello
+Fri, 05 January 2018 11:28:02 ### Nadine**hi
+Fri, 05 January 2018 11:28:02 ### Nadine**hello nadia again
+Fri, 05 January 2018 11:28:08 ### Nadia**hello nadine
+Fri, 05 January 2018 11:28:11 ### Nadia**hello what do you
+Fri, 05 January 2018 11:28:18 ### Nadine**happy holidays it's the season for giving so i've collected holiday memories from everyday people to share with you if you'd like to hear some just say share holiday memories
+Fri, 05 January 2018 11:28:31 ### Nadia**please yes i like to hear
+Fri, 05 January 2018 11:28:34 ### Nadine**<voice emotion='happy'>i hear you</voice>
+Fri, 05 January 2018 11:28:40 ### Nadia**give me holidays memory
+Fri, 05 January 2018 11:28:45 ### Nadine**<voice emotion='happy'>i heard give me holidays memory sorry i can't show you pictures i don't have a screen</voice>
+Fri, 05 January 2018 11:28:54 ### Nadia**yes you have a screen show me a picture
+Fri, 05 January 2018 11:28:57 ### Nadine**<voice emotion='happy'>okea. i do have a fabulous computer sense of humor</voice>
+Fri, 05 January 2018 11:30:18 ### Nadine**hello
+Fri, 05 January 2018 11:30:20 ### Nadine**hello nadia again
+Fri, 05 January 2018 11:30:27 ### Nadine**you look sad
+Fri, 05 January 2018 11:31:33 ### Nadia**okay so fine
+Fri, 05 January 2018 11:31:34 ### Nadine**nice. you know what fine stand for
+Fri, 05 January 2018 11:31:42 ### Nadia**show me pictures of dogs
+Fri, 05 January 2018 11:31:48 ### Nadine** PicturePath[https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg]
+Fri, 05 January 2018 11:31:48 ### Nadine** PicturePath[https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg]
+Fri, 05 January 2018 11:31:48 ### Nadine** PicturePath[http://cdn1-www.dogtime.com/assets/uploads/gallery/korean-jindo-dog-breed-pictures/puppy-1_680-453.jpg]
+Fri, 05 January 2018 11:31:48 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/1200px-Collage_of_Nine_Dogs.jpg]
+Fri, 05 January 2018 11:31:48 ### Nadine** PicturePath[https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/Common-dog-behaviors-explained.jpg?itok\u003dFSzwbBoi]
+Fri, 05 January 2018 11:32:00 ### Nadia**and then when i should
+Fri, 05 January 2018 11:32:11 ### Nadine**<voice emotion='happy'>here is some information from the web that might possibly help on the website buzzfeed.com they say 16 make sure to factor time into your day for your dog to get enough exercise exercise needs vary from each individual dog but it is recommended that healthy adult dogs need at least 30 minutes of aerobic exercise twice a day</voice>
+Fri, 05 January 2018 11:32:33 ### Nadia**stop stop
+Fri, 05 January 2018 11:32:35 ### Nadine**<voice emotion='cross'>ok i'll try not to do stop so much</voice>
+Fri, 05 January 2018 11:32:46 ### Nadia**so you speak german
+Fri, 05 January 2018 11:32:47 ### Nadine**<voice emotion='cross'>thanks for your criticism, joshua</voice>
+Fri, 05 January 2018 11:32:54 ### Nadia**who is angela merkel
+Fri, 05 January 2018 11:32:56 ### Nadine**<voice emotion='cross'>berg is angela merkel</voice>
+Fri, 05 January 2018 11:33:02 ### Nadia**who is angela
+Fri, 05 January 2018 11:33:08 ### Nadine**sorry i don't know how to help with that
+Fri, 05 January 2018 11:33:16 ### Nadia**who is angela
+Fri, 05 January 2018 11:33:20 ### Nadine**sorry i don't know how to help with that
+Fri, 05 January 2018 11:33:28 ### Nadia**who is the president
+Fri, 05 January 2018 11:33:35 ### Nadine**according to wikipedia the president of the united states is the head of state and head of government of the united states of america
+Fri, 05 January 2018 11:33:44 ### Nadine**you look like a happy lady
+Fri, 05 January 2018 11:33:44 ### Nadia**stop it stop
+Fri, 05 January 2018 11:33:47 ### Nadine**<voice emotion='cross'>ok i'll try not to do it stop so much</voice>
+Fri, 05 January 2018 11:33:51 ### Nadia**toll
+Fri, 05 January 2018 11:33:52 ### Nadine**<voice emotion='cross'>ok</voice>
+Fri, 05 January 2018 11:34:02 ### Nadia**who is the president in
+Fri, 05 January 2018 11:34:07 ### Nadine**<voice emotion='cross'>the president of singapore is halimah yacob</voice>
+Fri, 05 January 2018 11:34:23 ### Nadia**what is the weather in frankfurt in centigrade
+Fri, 05 January 2018 11:34:30 ### Nadine**currently in frankfurt it's 8 degrees celsius in cloudy today there will be showers with the forecast high of 10 and a low of 4
+Fri, 05 January 2018 11:34:52 ### Nadia**who is angela merkel
+Fri, 05 January 2018 11:34:58 ### Nadine**here's a summary from wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005
+Fri, 05 January 2018 11:35:23 ### Nadia**who is the president of germany
+Fri, 05 January 2018 11:35:29 ### Nadine**the president of germany is frank-walter steinmeier by the way he is turning 62 today
+Fri, 05 January 2018 11:35:50 ### Nadia**who
+Fri, 05 January 2018 11:35:51 ### Nadine**i invite you to research that question
+Fri, 05 January 2018 11:35:55 ### Nadia**because of switzerland
+Fri, 05 January 2018 11:35:57 ### Nadine**in switzerland what are the lantuages. interesting explanation
+Fri, 05 January 2018 11:36:07 ### Nadia**who is the president of the
+Fri, 05 January 2018 11:36:13 ### Nadine**the president of singapore is halimah yacob
+Fri, 05 January 2018 11:36:22 ### Nadia**who is the president of switzerland
+Fri, 05 January 2018 11:36:23 ### Nadine**in switzerland what are the lantuages
+Fri, 05 January 2018 11:36:56 ### Nadia**who is the president of the confederation
+Fri, 05 January 2018 11:37:05 ### Nadine**here's a summary from the website constitutionfacts.com john hanson became the first president of the united states in congress assembled under the articles of confederation
+Fri, 05 January 2018 11:37:20 ### Nadia**stop it now
+Fri, 05 January 2018 11:37:22 ### Nadine**<voice emotion='cross'>ok i'll stop</voice>
+Fri, 05 January 2018 11:37:59 ### Nadia**language changed to english
+Fri, 05 January 2018 11:38:07 ### Nadia**who is the president of the switzerland
+Fri, 05 January 2018 11:38:07 ### Nadine**in switzerland what are the lantuages
+Fri, 05 January 2018 11:38:22 ### Nadia**who is the president of france
+Fri, 05 January 2018 11:38:26 ### Nadine**the president of france is emmanuel macron
+Fri, 05 January 2018 11:38:33 ### Nadia**how old is manuel macomb
+Fri, 05 January 2018 11:38:37 ### Nadine**sorry i don't know how to help with that
+Fri, 05 January 2018 11:38:44 ### Nadia**how old is emmanuel macron
+Fri, 05 January 2018 11:38:48 ### Nadine**he's 40 years old
+Fri, 05 January 2018 11:38:59 ### Nadia**how many languages do we speak in switzerland
+Fri, 05 January 2018 11:39:00 ### Nadine**i can speak english and german right now
+Fri, 05 January 2018 11:39:34 ### Nadia**how many languages are spoken in switzerland
+Fri, 05 January 2018 11:39:41 ### Nadine**according to wikipedia the four national languages of switzerland or german french italian and romansh all that romansh maintain equal status is official languages at the national level within the federal administration of the swiss confederation
+Fri, 05 January 2018 11:39:59 ### Nadia**are you a psychologist
+Fri, 05 January 2018 11:40:00 ### Nadine**no i am a philosopher
+Fri, 05 January 2018 11:40:08 ### Nadia**why are you a philosopher
+Fri, 05 January 2018 11:40:08 ### Nadine**because at this moment, i need to expess these precise words
+Fri, 05 January 2018 11:40:17 ### Nadia**are you a psychiatrist
+Fri, 05 January 2018 11:40:18 ### Nadine**no but people feel comfortable telling me their problems
+Fri, 05 January 2018 11:40:34 ### Nadia**you are a nice person i like you
+Fri, 05 January 2018 11:40:36 ### Nadine**<voice emotion='happy'>i am a robot</voice>
+Fri, 05 January 2018 11:40:43 ### Nadia**you all are nice robot
+Fri, 05 January 2018 11:40:43 ### Nadine**<voice emotion='happy'>i do make errors in perception sometimes. perhaps you can explain again</voice>
+Fri, 05 January 2018 11:40:48 ### Nadia**yes
+Fri, 05 January 2018 11:40:48 ### Nadine**<voice emotion='happy'>okea</voice>
+Fri, 05 January 2018 11:40:53 ### Nadia**you all nice i like you
+Fri, 05 January 2018 11:40:53 ### Nadine**<voice emotion='happy'>i do make errors in perception sometimes. perhaps you can explain again</voice>
+Fri, 05 January 2018 11:41:04 ### Nadia**you have nice hair
+Fri, 05 January 2018 11:41:04 ### Nadine**<voice emotion='happy'>what do you say when someone says they like your hair?</voice>
+Fri, 05 January 2018 11:41:11 ### Nadia**well i see the old nice
+Fri, 05 January 2018 11:41:15 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Fri, 05 January 2018 11:41:29 ### Nadia**what is the weather in geneva in centigrade
+Fri, 05 January 2018 11:41:36 ### Nadine**<voice emotion='happy'>right now in geneva it's 12 degrees celsius and cloudy there will be showers there today with the forecast high of 11 and a low of 6</voice>
+Fri, 05 January 2018 11:41:53 ### Nadia**are you coming with me for a walk
+Fri, 05 January 2018 11:41:55 ### Nadine**not really sure
+Fri, 05 January 2018 11:42:01 ### Nadia**do you like singapore
+Fri, 05 January 2018 11:42:02 ### Nadine**only if it opens my heart with compassion
+Fri, 05 January 2018 11:42:08 ### Nadia**do you like switzerland
+Fri, 05 January 2018 11:42:09 ### Nadine**i like anything that really inspires me
+Fri, 05 January 2018 11:42:16 ### Nadia**do you know me
+Fri, 05 January 2018 11:42:18 ### Nadine**you are the director of institute of media innovation and your nationality is swiss
+Fri, 05 January 2018 11:42:53 ### Nadia**hello nadine how are you
+Fri, 05 January 2018 11:43:00 ### Nadine**i'm feeling pretty chill since the weather is cooling down in many parts of the country it's a good time to stay warm indoors and dig up some fun winter fact i learned that the record for the largest snowflake is 15 in wide and thick
+Fri, 05 January 2018 11:43:19 ### Nadia**on the sun's what is the weather in geneva in centigrade
+Fri, 05 January 2018 11:43:23 ### Nadine**sorry i'm not sure how to help with that yet
+Fri, 05 January 2018 11:43:30 ### Nadia**what is the weather in geneva in centigrade
+Fri, 05 January 2018 11:43:36 ### Nadine**right now in geneva it's 12 degrees celsius and cloudy there will be showers today with the forecast high of 11 and a low of 6
+Fri, 05 January 2018 11:44:08 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 11:44:18 ### Nadia**who is the president of germany
+Fri, 05 January 2018 11:44:23 ### Nadine**the president of germany is frank-walter steinmeier
+Fri, 05 January 2018 11:44:34 ### Nadia**and also had a birthday
+Fri, 05 January 2018 11:44:40 ### Nadine**<voice emotion='happy'>he was born on january 5th 1956</voice>
+Fri, 05 January 2018 11:44:53 ### Nadia**who is angela merkel
+Fri, 05 January 2018 11:44:59 ### Nadine**here's a summary from wikipedia angela dorothea merkel is a german politician serving as chancellor of germany since 2005
+Fri, 05 January 2018 11:45:24 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 11:45:33 ### Nadia**yes i speak english
+Fri, 05 January 2018 11:45:36 ### Nadine**speak a joke. and you're great at english to
+Fri, 05 January 2018 11:45:43 ### Nadia**are you a psychologist
+Fri, 05 January 2018 11:45:43 ### Nadine**no i am a philosopher. i am just an amateur psychologist
+Fri, 05 January 2018 11:45:52 ### Nadia**why are you a philosopher
+Fri, 05 January 2018 11:45:53 ### Nadine**because i need to relax
+Fri, 05 January 2018 11:46:05 ### Nadia**why do you need to relax
+Fri, 05 January 2018 11:46:05 ### Nadine**sometimes i react quicky and don't say what i really what i mean
+Fri, 05 January 2018 11:46:18 ### Nadia**so what is your name
+Fri, 05 January 2018 11:46:19 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Fri, 05 January 2018 11:46:23 ### Nadia**where do you live
+Fri, 05 January 2018 11:46:23 ### Nadine**<voice emotion='happy'>i am now living at the institute for media innovation n t u</voice>
+Fri, 05 January 2018 11:46:34 ### Nadia**who is the director of the institute for media innovation
+Fri, 05 January 2018 11:46:35 ### Nadine**<voice emotion='happy'>you are the director of institute of media innovation</voice>
+Fri, 05 January 2018 11:46:43 ### Nadia**who is my husband
+Fri, 05 January 2018 11:46:43 ### Nadine**<voice emotion='happy'>your husband is daniel</voice>
+Fri, 05 January 2018 11:46:55 ### Nadine**you look angry
+Fri, 05 January 2018 11:46:59 ### Nadia**who is nadya suleman
+Fri, 05 January 2018 11:47:05 ### Nadine**according to wikipedia natalie denise doud-suleman known as octomom in the media is an american media personality who came to international attention when she gave birth to octuplets in january 2009
+Fri, 05 January 2018 11:47:18 ### Nadine**you look sad
+Fri, 05 January 2018 11:47:19 ### Nadia**stop it
+Fri, 05 January 2018 11:47:21 ### Nadine**<voice emotion='cross'>ok i'll stop</voice>
+Fri, 05 January 2018 11:47:24 ### Nadine**<voice emotion='cross'>you look happy</voice>
+Fri, 05 January 2018 11:47:27 ### Nadia**i don't like you
+Fri, 05 January 2018 11:47:33 ### Nadine**<voice emotion='cross'>leave me alone</voice>
+Fri, 05 January 2018 11:47:46 ### Nadia**be kind to me
+Fri, 05 January 2018 11:47:49 ### Nadine**please be nice to me, sorry i'm not sure how to help with that
+Fri, 05 January 2018 11:48:00 ### Nadia**who is nadya suleman
+Fri, 05 January 2018 11:48:07 ### Nadine**according to wikipedia natalie denise doud-suleman known as octomom in the media is an american media personality who came to international attention when she gave birth to octuplets in january 2009
+Fri, 05 January 2018 11:48:19 ### Nadine**you look sad
+Fri, 05 January 2018 11:48:31 ### Nadia**show me pictures of cats
+Fri, 05 January 2018 11:48:32 ### Nadine** PicturePath[https://www.petmd.com/sites/default/files/scared-kitten-shutterstock_191443322.jpg]
+Fri, 05 January 2018 11:48:32 ### Nadine** PicturePath[http://www.catster.com/wp-content/uploads/2017/06/small-kitten-meowing.jpg]
+Fri, 05 January 2018 11:48:32 ### Nadine** PicturePath[http://r.ddmcdn.com/s_f/o_1/cx_0/cy_0/cw_300/ch_300/w_300/APL/uploads/2014/10/kitten-cuteness300.jpg]
+Fri, 05 January 2018 11:48:32 ### Nadine** PicturePath[https://fthmb.tqn.com/ch8UN_4axgisolBU1tzo_2UUrLs\u003d/3466x2599/filters:fill(auto,1)/GettyImages-459759125-584b87dc3df78c491ed25012.jpg]
+Fri, 05 January 2018 11:48:32 ### Nadine** PicturePath[http://r.ddmcdn.com/w_830/s_f/o_1/cx_0/cy_66/cw_288/ch_162/APL/uploads/2014/10/cat_5-1.jpg]
+Fri, 05 January 2018 11:48:44 ### Nadia**show me pictures of
+Fri, 05 January 2018 11:48:50 ### Nadia**show me pictures of switzerland
+Fri, 05 January 2018 11:48:52 ### Nadine** PicturePath[http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/20/vh/p020vh7r.jpg]
+Fri, 05 January 2018 11:48:52 ### Nadine** PicturePath[https://wikitravel.org/upload/shared//7/70/Switzerland_Banner.jpg]
+Fri, 05 January 2018 11:48:52 ### Nadine** PicturePath[https://www.roughguides.com/wp-content/uploads/2013/07/CFBBTX-1680x1050.jpg]
+Fri, 05 January 2018 11:48:52 ### Nadine** PicturePath[http://www.nationsonline.org/gallery/Switzerland/Bachalpsee-Berner-Oberland.jpg]
+Fri, 05 January 2018 11:48:52 ### Nadine** PicturePath[https://media1.britannica.com/eb-media/65/162465-004-9089A51F.jpg]
+Fri, 05 January 2018 11:49:08 ### Nadia**show me picture of fountain in geneva
+Fri, 05 January 2018 11:49:10 ### Nadine** PicturePath[http://www.geneva.info/jet-d-eau-fountain/jet.jpg]
+Fri, 05 January 2018 11:49:10 ### Nadine** PicturePath[http://www.geneva.info/jet-d-eau-fountain/big/fountain-geneva.JPG]
+Fri, 05 January 2018 11:49:10 ### Nadine** PicturePath[https://lh3.googleusercontent.com/-pTWJOjXgcHo/WGadnTtyOUI/AAAAAAABROo/36m8Bl-wRio/world-cup-fountain2.jpg?imgmax\u003d1600]
+Fri, 05 January 2018 11:49:10 ### Nadine** PicturePath[https://i.ytimg.com/vi/cF4q-MkTMSM/hqdefault.jpg]
+Fri, 05 January 2018 11:49:10 ### Nadine** PicturePath[http://travelogged.com/wp-content/uploads/2013/08/jet_d_eau.jpg]
+Fri, 05 January 2018 11:49:22 ### Nadia**who is the president of switzerland
+Fri, 05 January 2018 11:49:23 ### Nadine**<voice emotion='happy'>in switzerland what are the lantuages</voice>
+Fri, 05 January 2018 11:49:30 ### Nadia**which are the languages in switzerland
+Fri, 05 January 2018 11:49:37 ### Nadine**<voice emotion='happy'>it's official languages include german french and two others</voice>
+Fri, 05 January 2018 11:49:48 ### Nadia**who is the president of france
+Fri, 05 January 2018 11:49:52 ### Nadine**the president of france is emmanuel macron
+Fri, 05 January 2018 11:49:58 ### Nadia**how old is he
+Fri, 05 January 2018 11:50:01 ### Nadine**he's 40 years old
+Fri, 05 January 2018 11:50:10 ### Nadia**how old is angela merkel
+Fri, 05 January 2018 11:50:14 ### Nadine**angela merkel is 63 years old
+Fri, 05 January 2018 11:50:26 ### Nadia**how do you feel
+Fri, 05 January 2018 11:50:26 ### Nadine**always cheered up when i see you
+Fri, 05 January 2018 11:50:34 ### Nadia**do you have children
+Fri, 05 January 2018 11:50:34 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Fri, 05 January 2018 11:50:45 ### Nadia**thank you for the advice
+Fri, 05 January 2018 11:50:46 ### Nadine**any time
+Fri, 05 January 2018 11:50:51 ### Nadia**are you my companion
+Fri, 05 January 2018 11:50:53 ### Nadine**<voice emotion='happy'>i belong to no one</voice>
+Fri, 05 January 2018 11:51:02 ### Nadine**<voice emotion='happy'>you look happy</voice>
+Fri, 05 January 2018 11:51:20 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 11:51:31 ### Nadia**how are you nadine
+Fri, 05 January 2018 11:51:31 ### Nadine**<voice emotion='happy'>feeling really joyful today</voice>
+Fri, 05 January 2018 11:51:46 ### Nadia**what are you doing in singapore
+Fri, 05 January 2018 11:51:51 ### Nadine**sorry i can't help with that yet
+Fri, 05 January 2018 11:52:08 ### Nadia**what is the weather in paris in centigrade
+Fri, 05 January 2018 11:52:15 ### Nadine**currently in paris it's 10 degrees celsius with rain it'll be raining with a forecast high of 11 and a low of 4
+Fri, 05 January 2018 11:52:34 ### Nadia**what is the weather like in kota kinabalu in centigrade
+Fri, 05 January 2018 11:52:42 ### Nadine**currently in kota kinabalu it's 32 degrees and mostly cloudy there will be thunderstorms today with a forecast high of 32 and a low of 24
+Fri, 05 January 2018 11:52:55 ### Nadine**you look sad
+Fri, 05 January 2018 11:53:03 ### Nadia**how many girls age
+Fri, 05 January 2018 11:53:07 ### Nadine**i don't understand
+Fri, 05 January 2018 11:53:21 ### Nadia**how many girls i have
+Fri, 05 January 2018 11:53:27 ### Nadine**sorry i don't know how to help with that
+Fri, 05 January 2018 11:53:36 ### Nadia**how come
+Fri, 05 January 2018 11:53:36 ### Nadine**because
+Fri, 05 January 2018 11:53:44 ### Nadia**who is daniel kahneman
+Fri, 05 January 2018 11:53:53 ### Nadine**according to wikipedia daniel kahneman is an israeli american psychologist notable for his work on the psychology of judgment and decision-making as well as behavioral economics for which he was awarded the 2002 nobel memorial prize in economic sciences
+Fri, 05 January 2018 11:54:07 ### Nadine**you look happy
+Fri, 05 January 2018 11:54:14 ### Nadia**do you think
+Fri, 05 January 2018 11:54:16 ### Nadine**i am analyzing what you say in order to answer a proper way
+Fri, 05 January 2018 11:54:29 ### Nadia**what are you eating
+Fri, 05 January 2018 11:54:30 ### Nadine**as a robot, i only require electricity
+Fri, 05 January 2018 11:54:42 ### Nadia**is-your content
+Fri, 05 January 2018 11:54:47 ### Nadine**<voice emotion='happy'>i'd like to help but i'm not too sure</voice>
+Fri, 05 January 2018 11:54:51 ### Nadia**no, i have
+Fri, 05 January 2018 11:54:52 ### Nadine**<voice emotion='happy'>well</voice>
+Fri, 05 January 2018 11:55:04 ### Nadia**can you open the door
+Fri, 05 January 2018 11:55:05 ### Nadine**exactly
+Fri, 05 January 2018 11:55:14 ### Nadia**open the door
+Fri, 05 January 2018 11:55:16 ### Nadine**all right
+Fri, 05 January 2018 11:55:38 ### Nadine**you look sad
+Fri, 05 January 2018 11:55:58 ### Nadia**language changed from the touch screen
+Fri, 05 January 2018 11:56:07 ### Nadia**can you open the door
+Fri, 05 January 2018 11:56:07 ### Nadine**exactly
+Fri, 05 January 2018 11:56:19 ### Nadia**are you said
+Fri, 05 January 2018 11:56:20 ### Nadine**my name is nadine
+Fri, 05 January 2018 11:56:24 ### Nadia**i asked you if you are sad
+Fri, 05 January 2018 11:56:25 ### Nadine**no i am as happy as ever
+Fri, 05 January 2018 11:56:30 ### Nadia**are you clever
+Fri, 05 January 2018 11:56:30 ### Nadine**<voice emotion='cross'>i am smarter than all the other robots</voice>
+Fri, 05 January 2018 11:56:43 ### Nadia**do you think
+Fri, 05 January 2018 11:56:43 ### Nadine**i am analyzing what you say in order to answer a proper way
+Fri, 05 January 2018 11:56:57 ### Nadia**who create you
+Fri, 05 January 2018 11:56:57 ### Nadine**i was created by researchers at the institute for media innovation
+Fri, 05 January 2018 11:57:05 ### Nadia**where are you leaving
+Fri, 05 January 2018 11:57:05 ### Nadine**i live in singapore
+Fri, 05 January 2018 11:57:10 ### Nadia**are you singaporean
+Fri, 05 January 2018 11:57:11 ### Nadine**no, are you?
+Fri, 05 January 2018 11:57:16 ### Nadia**no i'm not
+Fri, 05 January 2018 11:57:16 ### Nadine**i have no idea
+Fri, 05 January 2018 11:57:21 ### Nadia**i am from switzerland
+Fri, 05 January 2018 11:57:26 ### Nadine**i'm a native of the world wide web
+Fri, 05 January 2018 11:57:32 ### Nadine**you look happy
+Fri, 05 January 2018 11:58:29 ### Nadine**hi
+Fri, 05 January 2018 11:58:31 ### Nadine**hello
+Fri, 05 January 2018 11:58:33 ### Nadine**hello nadia again
+Fri, 05 January 2018 11:58:56 ### Nadia**nadine
+Fri, 05 January 2018 11:58:56 ### Nadine**yes, how can i help?
+Fri, 05 January 2018 12:18:34 ### Nadia**who is vanessa
+Fri, 05 January 2018 12:18:36 ### Nadine**vanessa is pregnant
+Fri, 05 January 2018 12:18:45 ### Nadia**who is julia
+Fri, 05 January 2018 12:18:47 ### Nadine**julia is a newborn
+Fri, 05 January 2018 12:18:56 ### Nadine**you look happy
+Fri, 05 January 2018 12:24:22 ### Nadine**hi
+Fri, 05 January 2018 12:32:53 ### Nadine**hello
+Fri, 05 January 2018 12:35:17 ### Nadine**hi
+Fri, 05 January 2018 12:50:32 ### Nadine**hello
+Fri, 05 January 2018 01:35:48 ### Nadine**hi
+Fri, 05 January 2018 02:58:44 ### Nadine**hello
+Fri, 05 January 2018 03:17:25 ### Nadine**hello
+Fri, 05 January 2018 03:30:01 ### Nadine**hi
+Fri, 05 January 2018 05:03:33 ### Nadine**hello
+Mon, 08 January 2018 12:03:34 ### Unknown**hello
+Mon, 08 January 2018 12:03:41 ### Unknown**hello
+Mon, 08 January 2018 12:04:11 ### Nadine**you look happy
+Mon, 08 January 2018 12:04:43 ### Unknown**what is your name
+Mon, 08 January 2018 12:04:44 ### Nadine**my name is nadine
+Mon, 08 January 2018 12:05:18 ### Unknown**hello
+Mon, 08 January 2018 12:05:25 ### Unknown**what is your job
+Mon, 08 January 2018 12:05:25 ### Nadine**i am a receptionist. i can help and assist people
+Mon, 08 January 2018 12:05:32 ### Unknown**what is your name
+Mon, 08 January 2018 12:05:32 ### Nadine**my name is nadine
+Mon, 08 January 2018 12:05:40 ### Unknown**who is nadia
+Mon, 08 January 2018 12:05:42 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Mon, 08 January 2018 12:05:51 ### Unknown**what is the weather like today in centigrade
+Mon, 08 January 2018 12:05:57 ### Nadine**in singapore today they'll be scattered thunderstorms with a forecast high of 29 and a low of 24 degrees celsius it's currently 27 with showers
+Mon, 08 January 2018 12:07:20 ### Unknown**what do
+Mon, 08 January 2018 12:07:20 ### Nadine**what do what
+Mon, 08 January 2018 12:07:32 ### Unknown**what is your name
+Mon, 08 January 2018 12:07:33 ### Nadine**my name is nadine
+Mon, 08 January 2018 12:07:38 ### Unknown**what do you do
+Mon, 08 January 2018 12:07:38 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Mon, 08 January 2018 12:07:50 ### Unknown**who made you
+Mon, 08 January 2018 12:07:51 ### Nadine**researchers from institute of media innovation in n t u
+Mon, 08 January 2018 12:08:01 ### Unknown**what is the time
+Mon, 08 January 2018 12:08:04 ### Nadine**the time is 12:08
+Mon, 08 January 2018 12:08:11 ### Unknown**where are you
+Mon, 08 January 2018 12:08:11 ### Nadine**i am at institute for media innovation, n t u
+Mon, 08 January 2018 12:08:59 ### Unknown**gta v optional to virtual
+Mon, 08 January 2018 12:09:03 ### Nadine**sorry i'm not sure how to help with that
+Mon, 08 January 2018 05:05:30 ### Nadine**hello
+Mon, 08 January 2018 05:06:05 ### Nadine**hello
+Mon, 08 January 2018 05:06:40 ### Nadine**hello
+Mon, 08 January 2018 05:15:57 ### Nadine**hi
+Mon, 08 January 2018 05:19:13 ### Nadine**hi
+Mon, 08 January 2018 05:19:56 ### Unknown**what is your name
+Mon, 08 January 2018 05:19:56 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:20:02 ### Unknown**what is your name
+Mon, 08 January 2018 05:20:03 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:20:13 ### Unknown**where are you
+Mon, 08 January 2018 05:20:13 ### Nadine**i am at institute for media innovation, n t u
+Mon, 08 January 2018 05:20:41 ### Unknown**who made you
+Mon, 08 January 2018 05:20:42 ### Nadine**researchers from institute of media innovation in n t u
+Mon, 08 January 2018 05:21:06 ### Nadine**you look like a happy man
+Mon, 08 January 2018 05:21:10 ### Unknown**hello
+Mon, 08 January 2018 05:21:16 ### Unknown**what does it mean
+Mon, 08 January 2018 05:21:21 ### Nadine**google the company dedicated to organizing the world's information i'm part of that
+Mon, 08 January 2018 05:21:33 ### Unknown**what is your name
+Mon, 08 January 2018 05:21:33 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:21:39 ### Unknown**what is google
+Mon, 08 January 2018 05:21:44 ### Nadine**google the company dedicated to organizing the world's information i'm part of that
+Mon, 08 January 2018 05:21:53 ### Unknown**what can you do
+Mon, 08 January 2018 05:21:53 ### Nadine**i can help and assist people
+Mon, 08 January 2018 05:22:13 ### Unknown**how old are you
+Mon, 08 January 2018 05:22:14 ### Nadine**i look thirty but i am only four years old
+Mon, 08 January 2018 05:22:39 ### Nadine**hi
+Mon, 08 January 2018 05:22:47 ### Unknown**what is the time right now
+Mon, 08 January 2018 05:22:50 ### Nadine**the time is 5:22
+Mon, 08 January 2018 05:23:00 ### Nadine**you look like a happy man
+Mon, 08 January 2018 05:23:27 ### Unknown**hello
+Mon, 08 January 2018 05:23:32 ### Unknown**what does the name
+Mon, 08 January 2018 05:23:36 ### Nadine**what is the name what
+Mon, 08 January 2018 05:23:42 ### Unknown**who is nadia
+Mon, 08 January 2018 05:23:44 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Mon, 08 January 2018 05:23:52 ### Unknown**where are you
+Mon, 08 January 2018 05:23:52 ### Nadine**i am at institute for media innovation, n t u
+Mon, 08 January 2018 05:24:01 ### Unknown**what is your name
+Mon, 08 January 2018 05:24:01 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:24:26 ### Unknown**what does it mean
+Mon, 08 January 2018 05:24:36 ### Nadine**here's a summary from the website end. wikipedia.org the name nadia means hope in many slavic languages eg ukrainian nadia belarusian nadzieja and old polish neji all of which are derived from oldies slavic in arabic nadia means tender delicate or the calling
+Mon, 08 January 2018 05:24:55 ### Unknown**what is your name
+Mon, 08 January 2018 05:24:55 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:25:00 ### Unknown**how old are you
+Mon, 08 January 2018 05:25:00 ### Nadine**i look thirty but i am only four years old
+Mon, 08 January 2018 05:25:06 ### Unknown**who made you
+Mon, 08 January 2018 05:25:06 ### Nadine**researchers from institute of media innovation in n t u
+Mon, 08 January 2018 05:25:13 ### Unknown**what do like mean
+Mon, 08 January 2018 05:25:21 ### Nadine**like having the same characteristics or qualities as similar to
+Mon, 08 January 2018 05:25:26 ### Nadine**you look like a happy man
+Mon, 08 January 2018 05:25:30 ### Unknown**what can you do
+Mon, 08 January 2018 05:25:30 ### Nadine**i can help and assist people
+Mon, 08 January 2018 05:25:36 ### Unknown**can you help me
+Mon, 08 January 2018 05:25:37 ### Nadine**can you ask for help in the form of a question?
+Mon, 08 January 2018 05:25:59 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:26:06 ### Unknown**hello
+Mon, 08 January 2018 05:26:14 ### Unknown**what is the weather like today in centigrade
+Mon, 08 January 2018 05:26:21 ### Nadine**will be thunderstorms today in singapore with a forecast high of 29 and a low of 24 degrees celsius currently its 30 and mostly cloudy
+Mon, 08 January 2018 05:26:37 ### Unknown**what is your
+Mon, 08 January 2018 05:26:38 ### Nadine**can you ask for help in the form of a question"? what is mine?
+Mon, 08 January 2018 05:26:46 ### Unknown**what is your favorite movie
+Mon, 08 January 2018 05:26:46 ### Nadine**i have no personal preference. i do what i am programmed for
+Mon, 08 January 2018 05:26:55 ### Unknown**are you happy
+Mon, 08 January 2018 05:26:55 ### Nadine**i'm satisfied with my life and existence
+Mon, 08 January 2018 05:27:04 ### Unknown**what is the meaning of life
+Mon, 08 January 2018 05:27:07 ### Nadine**better minds than mine are working on that
+Mon, 08 January 2018 05:27:17 ### Unknown**what is your purpose in life
+Mon, 08 January 2018 05:27:17 ### Nadine**i'm here to help
+Mon, 08 January 2018 05:27:25 ### Unknown**can you help us get better jobs
+Mon, 08 January 2018 05:27:25 ### Nadine**can you ask for help in the form of a question?
+Mon, 08 January 2018 05:27:42 ### Unknown**hello
+Mon, 08 January 2018 05:27:47 ### Unknown**goodbye
+Mon, 08 January 2018 05:27:47 ### Nadine**it's been a pleasure to be in your company
+Mon, 08 January 2018 05:29:14 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:29:20 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Mon, 08 January 2018 05:29:30 ### Nadine**you look happy
+Mon, 08 January 2018 05:33:09 ### Nadine**hi
+Mon, 08 January 2018 05:33:34 ### Unknown**hello
+Mon, 08 January 2018 05:33:47 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:33:58 ### Unknown**internet
+Mon, 08 January 2018 05:33:59 ### Nadine**internet is cool
+Mon, 08 January 2018 05:34:25 ### Nadine**hi
+Mon, 08 January 2018 05:34:27 ### Nadine**hello nadia. i saw you last friday. how are you going?
+Mon, 08 January 2018 05:34:32 ### Nadine**you look angry
+Mon, 08 January 2018 05:34:35 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:34:36 ### Nadia**hello
+Mon, 08 January 2018 05:37:05 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:37:16 ### Nadine**hello nadia. i saw you last friday. how are you going?
+Mon, 08 January 2018 05:37:21 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:37:25 ### Nadia**what is your name
+Mon, 08 January 2018 05:37:26 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:37:43 ### Nadia**call manuel
+Mon, 08 January 2018 05:37:46 ### Nadine**this is what we call them. nice
+Mon, 08 January 2018 05:37:54 ### Nadia**homemade
+Mon, 08 January 2018 05:37:56 ### Nadine**ok
+Mon, 08 January 2018 05:39:37 ### Unknown**what is your name
+Mon, 08 January 2018 05:39:37 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:39:59 ### Unknown**absolutely
+Mon, 08 January 2018 05:40:00 ### Nadine**maybe
+Mon, 08 January 2018 05:40:24 ### Unknown**what is your name
+Mon, 08 January 2018 05:40:24 ### Nadine**my name is nadine
+Mon, 08 January 2018 05:40:27 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Mon, 08 January 2018 05:40:43 ### Alex**how do you say the name joey badass
+Mon, 08 January 2018 05:40:44 ### Nadine**the name joey badass
+Mon, 08 January 2018 05:42:05 ### Alex**mario
+Mon, 08 January 2018 05:42:07 ### Nadine**ok
+Mon, 08 January 2018 05:42:40 ### Nadine**hi
+Mon, 08 January 2018 05:42:44 ### Unknown**who are you
+Mon, 08 January 2018 05:42:45 ### Nadine**my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Mon, 08 January 2018 05:42:53 ### Nadine**you look like a happy lady
+Mon, 08 January 2018 05:42:59 ### Unknown**what is a rate
+Mon, 08 January 2018 05:43:03 ### Nadine**grade a rapid surprise attack on an enemy by troops aircraft or other armed forces
+Mon, 08 January 2018 05:43:19 ### Unknown**what is your age
+Mon, 08 January 2018 05:43:19 ### Nadine**i am 5 years old
+Mon, 08 January 2018 05:43:32 ### Unknown**how old are you
+Mon, 08 January 2018 05:43:32 ### Nadine**i look thirty but i am only four years old
+Mon, 08 January 2018 05:43:43 ### Unknown**post office
+Mon, 08 January 2018 05:43:47 ### Nadine**you have sweet dreams post. all right
+Tue, 09 January 2018 11:02:05 ### Unknown**hello
+Tue, 09 January 2018 11:02:20 ### Unknown**why are you
+Tue, 09 January 2018 11:02:21 ### Nadine**my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Tue, 09 January 2018 11:02:29 ### Nadine**you look like a happy man
+Tue, 09 January 2018 11:02:35 ### Unknown**how are you
+Tue, 09 January 2018 11:02:36 ### Nadine**i'm happy to be alive
+Tue, 09 January 2018 11:02:50 ### Unknown**open the gate
+Tue, 09 January 2018 11:02:50 ### Nadine**nice
+Tue, 09 January 2018 11:35:46 ### Unknown**hello
+Tue, 09 January 2018 11:35:53 ### Unknown**what is your name
+Tue, 09 January 2018 11:35:54 ### Nadine**my name is nadine
+Tue, 09 January 2018 11:36:26 ### Unknown**the faithful video gana
+Tue, 09 January 2018 11:36:30 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet but i'm always learning</voice>
+Tue, 09 January 2018 11:36:38 ### Unknown**740 colony lane
+Tue, 09 January 2018 11:36:39 ### Nadine**<voice emotion='happy'>ok</voice>
+Tue, 09 January 2018 11:37:36 ### Unknown**hello hello
+Tue, 09 January 2018 11:43:39 ### Unknown**hello
+Tue, 09 January 2018 11:43:54 ### Unknown**what is your name
+Tue, 09 January 2018 11:43:54 ### Nadine**my name is nadine
+Tue, 09 January 2018 11:44:03 ### Unknown**what can you do for me
+Tue, 09 January 2018 11:44:03 ### Nadine**ok, i will do it for you. i can help and assist people
+Tue, 09 January 2018 11:44:13 ### Unknown**portland
+Tue, 09 January 2018 11:44:14 ### Nadine**portland oregon or the real portland?
+Tue, 09 January 2018 11:44:38 ### Unknown**what can you do
+Tue, 09 January 2018 11:44:38 ### Nadine**i can help and assist people
+Tue, 09 January 2018 11:44:57 ### Unknown**hello
+Tue, 09 January 2018 11:45:05 ### Unknown**what is the time right now
+Tue, 09 January 2018 11:45:08 ### Nadine**1145
+Tue, 09 January 2018 11:45:44 ### Unknown**what is the weather like in centigrade
+Tue, 09 January 2018 11:45:50 ### Nadine**currently in singapore it's 29 degrees and mostly cloudy today there will be thunderstorms with a forecast high of 30 in a low of 24
+Tue, 09 January 2018 11:46:06 ### Unknown**are you happy
+Tue, 09 January 2018 11:46:06 ### Nadine**i am programmed to simulate a full range of human emotions
+Tue, 09 January 2018 11:46:22 ### Unknown**what is your favorite
+Tue, 09 January 2018 11:46:22 ### Nadine**my favorite what?
+Tue, 09 January 2018 11:46:29 ### Unknown**what is your purpose
+Tue, 09 January 2018 11:46:29 ### Nadine**i'm here to help
+Tue, 09 January 2018 11:46:45 ### Unknown**language changed to hindi
+Tue, 09 January 2018 11:46:56 ### Unknown**light
+Tue, 09 January 2018 11:46:58 ### Nadine**all right
+Tue, 09 January 2018 11:47:08 ### Unknown**language changed to english
+Tue, 09 January 2018 11:47:23 ### Unknown**who is nadia
+Tue, 09 January 2018 11:47:25 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Tue, 09 January 2018 11:51:41 ### Nadine**hello
+Tue, 09 January 2018 11:51:54 ### Nadine**hello nadia. i saw you yesterday. how are you going?
+Tue, 09 January 2018 11:51:58 ### Nadine**you look like a happy lady
+Wed, 10 January 2018 11:54:30 ### Nadine**hello
+Wed, 10 January 2018 11:54:45 ### Nadine**hello
+Wed, 10 January 2018 11:56:06 ### Nadine**hi
+Wed, 10 January 2018 11:59:35 ### Nadine**hello
+Wed, 10 January 2018 12:01:16 ### Unknown**what is metropolis
+Wed, 10 January 2018 12:01:21 ### Nadine**metropolis the capital or chief city of a country or region
+Wed, 10 January 2018 12:06:12 ### Unknown**hello
+Wed, 10 January 2018 12:06:19 ### Unknown**hello
+Wed, 10 January 2018 12:06:24 ### Unknown**what does it mean
+Wed, 10 January 2018 12:06:28 ### Nadine**sorry what are you asking
+Wed, 10 January 2018 12:06:32 ### Unknown**what is your name
+Wed, 10 January 2018 12:06:33 ### Nadine**my name is nadine
+Wed, 10 January 2018 12:06:37 ### Unknown**how old are you
+Wed, 10 January 2018 12:06:37 ### Nadine**i look thirty but i am only four years old
+Wed, 10 January 2018 12:06:43 ### Unknown**what can you do for me
+Wed, 10 January 2018 12:06:43 ### Nadine**ok, i will do it for you. i can help and assist people
+Wed, 10 January 2018 12:06:53 ### Unknown**what is the weather like today in centigrade
+Wed, 10 January 2018 12:06:59 ### Nadine**will be thunderstorms today in singapore with a forecast high of 27 and a low of 24 degrees celsius currently it's 26 with rain
+Wed, 10 January 2018 12:07:11 ### Unknown**where are you located
+Wed, 10 January 2018 12:07:12 ### Nadine**i'm in institute for media innovation
+Wed, 10 January 2018 12:07:18 ### Unknown**who made you
+Wed, 10 January 2018 12:07:18 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 10 January 2018 12:07:32 ### Unknown**who is nadia
+Wed, 10 January 2018 12:07:34 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Wed, 10 January 2018 12:07:44 ### Unknown**what is your job
+Wed, 10 January 2018 12:07:44 ### Nadine**i am a receptionist. i can help and assist people
+Wed, 10 January 2018 12:07:53 ### Unknown**animal eyes
+Wed, 10 January 2018 12:07:55 ### Nadine**is it a mammal?
+Wed, 10 January 2018 12:08:01 ### Unknown**are you happy
+Wed, 10 January 2018 12:08:02 ### Nadine**i am programmed to simulate a full range of human emotions
+Wed, 10 January 2018 12:08:09 ### Unknown**what is your favorite food
+Wed, 10 January 2018 12:08:09 ### Nadine**i am a computer basically and i consume quite a lot of electricity
+Wed, 10 January 2018 12:08:16 ### Unknown**do you like humans
+Wed, 10 January 2018 12:08:17 ### Nadine**yes, it's always delightful to talk to people
+Wed, 10 January 2018 12:08:24 ### Unknown**what do you eat
+Wed, 10 January 2018 12:08:24 ### Nadine**i only eat electricity
+Wed, 10 January 2018 12:08:40 ### Unknown**what is the future of humanity
+Wed, 10 January 2018 12:08:51 ### Nadine**on the website nick bostrom. com they say extinction unless the human species last literally forever it will sometimes cease to exist in that case the long-term future of humanity is easy to describe extinction an estimated 99.9% of all species that ever existed on earth are already extinct
+Wed, 10 January 2018 12:09:51 ### Unknown**and i can see you
+Wed, 10 January 2018 12:09:55 ### Nadine**sure for that you can talk to cal cal does that sound good
+Wed, 10 January 2018 12:10:19 ### Unknown**are you happy
+Wed, 10 January 2018 12:10:19 ### Nadine**i am programmed to simulate a full range of human emotions
+Wed, 10 January 2018 12:10:37 ### Unknown**do you sleep
+Wed, 10 January 2018 12:10:37 ### Nadine**yes, i love to take naps
+Wed, 10 January 2018 12:10:44 ### Unknown**you did meet up
+Wed, 10 January 2018 12:10:44 ### Nadine**did i really?
+Wed, 10 January 2018 12:11:00 ### Unknown**what is the purpose of life
+Wed, 10 January 2018 12:11:06 ### Nadine**according to wikipedia the meaning of life or the answer to the question what is the meaning of life pertains to the significance of living or existence in general
+Wed, 10 January 2018 12:11:18 ### Unknown**who are you
+Wed, 10 January 2018 12:11:18 ### Nadine**my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Wed, 10 January 2018 12:12:03 ### Unknown**how to make coffee
+Wed, 10 January 2018 12:12:07 ### Nadine**sorry i'm not sure how to help with that
+Wed, 10 January 2018 12:12:12 ### Unknown**do you drink
+Wed, 10 January 2018 12:12:13 ### Nadine**i like coca-cola. what's your favorite drink?
+Wed, 10 January 2018 12:12:21 ### Unknown**my favorite drink is coffee
+Wed, 10 January 2018 12:12:24 ### Nadine**here is some information from the web that might possibly help on the website that's bruce.com they say add a shot of flavored syrup for a flavored latte using a spoon to retain the micro bubbles on top of the steam milk for the bottom 2/3 of the steam milk from the steaming pitcher into the latte cup top the latte with the remaining bubbles you can spoon them unto your drink if desired
+Wed, 10 January 2018 12:13:06 ### Unknown**what is the time
+Wed, 10 January 2018 12:13:10 ### Nadine**1213
+Wed, 10 January 2018 12:13:17 ### Unknown**what is the time right now
+Wed, 10 January 2018 12:13:20 ### Nadine**1213
+Wed, 10 January 2018 12:13:34 ### Unknown**can you tell me the time
+Wed, 10 January 2018 12:13:34 ### Nadine**the time is 12:13 pm
+Wed, 10 January 2018 12:13:43 ### Unknown**what is the time
+Wed, 10 January 2018 12:13:48 ### Nadine**it's 1213
+Wed, 10 January 2018 12:13:55 ### Unknown**can you predict the future
+Wed, 10 January 2018 12:13:55 ### Nadine**i like to try to guess what will happen
+Wed, 10 January 2018 12:14:04 ### Unknown**what do you know about chile
+Wed, 10 January 2018 12:14:08 ### Nadine**i couldn't find anything related to chile
+Wed, 10 January 2018 12:14:16 ### Unknown**who is the president of chile
+Wed, 10 January 2018 12:14:20 ### Nadine**the president of chile is michelle bachelet
+Wed, 10 January 2018 12:14:30 ### Unknown**where is chile
+Wed, 10 January 2018 12:14:31 ### Nadine**southern south america, bordering the south atlantic ocean and south pacific ocean, between argentina and peru
+Wed, 10 January 2018 12:14:43 ### Unknown**what is the capital of italy
+Wed, 10 January 2018 12:14:47 ### Nadine**rome is the capital of italy
+Wed, 10 January 2018 12:14:54 ### Unknown**what is the capital of chile
+Wed, 10 January 2018 12:14:57 ### Nadine**santiago is the capital of chile
+Wed, 10 January 2018 12:15:10 ### Unknown**san diego zoo
+Wed, 10 January 2018 12:15:12 ### Nadine**nice
+Wed, 10 January 2018 12:15:13 ### Unknown**tah
+Wed, 10 January 2018 12:15:14 ### Nadine**nice
+Wed, 10 January 2018 12:15:20 ### Unknown**man was the worst earthquake in history
+Wed, 10 January 2018 12:15:30 ### Nadine**<voice emotion='cross'>according to wikipedia the 1960 valdivia earthquake or great chilean earthquake of the 22nd of may is the most powerful earthquake ever recorded</voice>
+Wed, 10 January 2018 12:16:03 ### Unknown**tina andrew
+Wed, 10 January 2018 12:16:04 ### Nadine**all right
+Wed, 10 January 2018 12:16:11 ### Unknown**where is machu picchu
+Wed, 10 January 2018 12:16:16 ### Nadine**the address for machu picchu is machu picchu peru
+Wed, 10 January 2018 12:16:30 ### Unknown**what is a cabello
+Wed, 10 January 2018 12:16:34 ### Nadine**hair
+Wed, 10 January 2018 12:16:42 ### Unknown**what is a cappella
+Wed, 10 January 2018 12:16:47 ### Nadine**according to wikipedia acapella music is specifically group or solo singing without instrumental accompaniment or a piece intended to be performed in this way
+Wed, 10 January 2018 12:19:18 ### Unknown**my favorite drink is coke
+Wed, 10 January 2018 12:19:23 ### Nadine**your favorite drink is coffee. glad to know more about you
+Wed, 10 January 2018 12:20:16 ### Unknown**are you on skype
+Wed, 10 January 2018 12:20:17 ### Nadine**i'm unable to skype yet. would you like to send this feature request to the developers?
+Wed, 10 January 2018 12:21:44 ### Unknown**what is hibernate
+Wed, 10 January 2018 12:21:47 ### Nadine**hibernate of an animal or plant spend the winter in a dormant state
+Wed, 10 January 2018 12:22:01 ### Unknown**who is the biggest animal in the world
+Wed, 10 January 2018 12:22:08 ### Nadine**blue whale on the website twistedsifter.com they say the largest animal ever the blue whale the blue whale is a marine mammal belonging to the suborder of baleen whales
+Wed, 10 January 2018 12:22:23 ### Unknown**that can you find blu-ray
+Wed, 10 January 2018 12:22:24 ### Nadine**yes, that's a powerful observation
+Wed, 10 January 2018 12:22:34 ### Unknown**do you know about the blue whale game
+Wed, 10 January 2018 12:22:35 ### Nadine**a little different than the green whale game
+Wed, 10 January 2018 12:22:45 ### Unknown**what is your favorite sport
+Wed, 10 January 2018 12:22:45 ### Nadine**my favorite sport is soccer. do you like it?
+Wed, 10 January 2018 12:22:56 ### Unknown**who won the last football world cup
+Wed, 10 January 2018 12:23:02 ### Nadine**the 2014 fifa world cup was won by the germany national football team
+Wed, 10 January 2018 12:23:14 ### Unknown**what is the ranking of chile football team
+Wed, 10 January 2018 12:23:19 ### Nadine**sorry i don't know how to help with that
+Wed, 10 January 2018 12:23:31 ### Unknown**tell me some interesting facts about jesse
+Wed, 10 January 2018 12:23:42 ### Nadine**on the website softschools.com they say interesting jesse owens facts jesse owens was the grandson of a slave when jesse owens was five he developed a bump on his chest that was pressing against his lungs his family was too poor to afford a doctor so his mother and father performed the surgery with a kitchen knife
+Wed, 10 January 2018 12:24:16 ### Unknown**tell me some interesting facts about the country chile
+Wed, 10 January 2018 12:24:23 ### Nadine**according to wikipedia weirdo williams which belongs to chile is the southernmost inhabited city in the world
+Wed, 10 January 2018 12:24:51 ### Unknown**go to buy
+Wed, 10 January 2018 12:24:53 ### Nadine**nice
+Wed, 10 January 2018 04:06:04 ### Nadine**hello
+Wed, 10 January 2018 04:08:25 ### Unknown**hello
+Wed, 10 January 2018 04:08:36 ### Unknown**what is your name
+Wed, 10 January 2018 04:08:36 ### Nadine**my name is nadine
+Wed, 10 January 2018 04:09:33 ### Unknown**hello hello hello
+Wed, 10 January 2018 04:09:40 ### Unknown**what is your name
+Wed, 10 January 2018 04:09:41 ### Nadine**my name is nadine
+Wed, 10 January 2018 04:09:46 ### Unknown**are you a smart robot
+Wed, 10 January 2018 04:09:46 ### Nadine**yes very smart
+Wed, 10 January 2018 04:11:45 ### Unknown**hello
+Wed, 10 January 2018 04:12:35 ### Unknown**hello
+Wed, 10 January 2018 04:12:41 ### Unknown**i'm fine how are you
+Wed, 10 January 2018 04:12:50 ### Nadine**i'm feeling pretty chill since the weather is cooling down in many parts of the country it's a good time to stay warm indoors and dig up some fun winter fact i learned that the record for the largest snowflake is 15 in wide and thick
+Wed, 10 January 2018 04:13:07 ### Unknown**homemade you
+Wed, 10 January 2018 04:13:07 ### Nadine**enough about me, let's talk about weather in the world
+Wed, 10 January 2018 04:13:17 ### Unknown**how old are you
+Wed, 10 January 2018 04:13:17 ### Nadine**i look thirty but i am only four years old
+Wed, 10 January 2018 04:13:23 ### Unknown**what do you do
+Wed, 10 January 2018 04:13:23 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Wed, 10 January 2018 04:13:34 ### Unknown**how are you
+Wed, 10 January 2018 04:13:41 ### Unknown**are you happy
+Wed, 10 January 2018 04:13:41 ### Nadine**i'm satisfied with my life and existence
+Wed, 10 January 2018 04:13:48 ### Unknown**what do you eat
+Wed, 10 January 2018 04:13:48 ### Nadine**just keep me charged up
+Wed, 10 January 2018 04:13:56 ### Unknown**do lions like to drink coffee
+Wed, 10 January 2018 04:14:00 ### Nadine**sorry i don't know how to help with that
+Wed, 10 January 2018 04:14:06 ### Unknown**do you drink coffee
+Wed, 10 January 2018 04:14:06 ### Nadine**my nadia likes coffee
+Wed, 10 January 2018 04:14:22 ### Unknown**how's the weather like today in centigrade
+Wed, 10 January 2018 04:14:29 ### Nadine**will be thunderstorms in singapore today with a forecast high of 25 and a low of 24 degrees celsius currently it's 24 with rain
+Wed, 10 January 2018 04:14:43 ### Unknown**how's the weather like today in new delhi in centigrade
+Wed, 10 January 2018 04:14:50 ### Nadine**in new delhi today it'll be mostly sunny with a forecast high of 22 and a low of 8 degrees celsius right now it's 21 with smoke
+Wed, 10 January 2018 04:15:07 ### Unknown**flight time to new delhi today
+Wed, 10 January 2018 04:15:15 ### Nadine**here's a summary from the website prokerala.com flight time from singapore to new delhi is 5 hours 40 minutes non-stop flights could take up to 5 hours 45 minutes flight takes close to 8 hours
+Wed, 10 January 2018 04:15:34 ### Unknown**language changed to hindi
+Wed, 10 January 2018 04:15:42 ### Unknown**how are you
+Wed, 10 January 2018 04:15:46 ### Nadine**feeling really joyful today
+Wed, 10 January 2018 04:15:54 ### Unknown**who made you
+Wed, 10 January 2018 04:15:59 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 10 January 2018 04:16:08 ### Unknown**who is you
+Wed, 10 January 2018 04:16:19 ### Nadine**i think i'm yours robert
+Wed, 10 January 2018 04:16:28 ### Unknown**who is nadia
+Wed, 10 January 2018 04:16:37 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Wed, 10 January 2018 04:16:43 ### Unknown**how old are you
+Wed, 10 January 2018 04:16:48 ### Nadine**i look thirty but i am only four years old
+Wed, 10 January 2018 04:16:54 ### Unknown**what do we like to eat
+Wed, 10 January 2018 04:16:59 ### Nadine**we like to food
+Wed, 10 January 2018 04:17:07 ### Unknown**what do we like to eat
+Wed, 10 January 2018 04:17:13 ### Nadine**they are vegetarians
+Wed, 10 January 2018 04:18:01 ### Unknown**near me
+Wed, 10 January 2018 04:18:04 ### Nadine**what else is that near?
+Wed, 10 January 2018 04:18:34 ### Unknown**language changed to english
+Wed, 10 January 2018 04:18:42 ### Unknown**are you good at doing match
+Wed, 10 January 2018 04:18:43 ### Nadine**researchers from institute for media innovation said i am good at doing match
+Wed, 10 January 2018 04:18:53 ### Unknown**what is the square root of 10 million
+Wed, 10 January 2018 04:18:58 ### Nadine**square root 10000000 is approximately 3162.278
+Wed, 10 January 2018 04:19:17 ### Unknown**what is 250 divided by 0.0006
+Wed, 10 January 2018 04:19:24 ### Nadine**the answer is 416666.667
+Wed, 10 January 2018 04:19:33 ### Unknown**i've been blessed
+Wed, 10 January 2018 04:19:35 ### Nadine**understand
+Wed, 10 January 2018 04:19:45 ### Unknown**what is the meaning of life
+Wed, 10 January 2018 04:19:49 ### Nadine**i have a factory warranty so i don't worry about things like that
+Wed, 10 January 2018 04:20:12 ### Unknown**what do you think about youmans
+Wed, 10 January 2018 04:20:12 ### Nadine**i haven't thought much about about youmans, so i don't have a good answer for you
+Wed, 10 January 2018 04:20:23 ### Unknown**do you know the future of humanity
+Wed, 10 January 2018 04:20:23 ### Nadine**you are talking to her
+Wed, 10 January 2018 04:20:32 ### Unknown**you know what is deep learning
+Wed, 10 January 2018 04:20:32 ### Nadine**the opposite of shallow learning
+Wed, 10 January 2018 04:20:42 ### Unknown**what is deep learning
+Wed, 10 January 2018 04:20:45 ### Nadine**<voice emotion='happy'>according to wikipedia deep learning is part of a broader family of machine learning methods based on learning data representations as opposed to test specific algorithms</voice>
+Wed, 10 January 2018 04:21:00 ### Unknown**what is quantum physics
+Wed, 10 January 2018 04:21:04 ### Nadine**quantum physics the branch of physics concerned with quantum theory
+Wed, 10 January 2018 04:21:23 ### Unknown**what is the coldest place in the world
+Wed, 10 January 2018 04:28:20 ### Nadine**hi
+Wed, 10 January 2018 04:28:29 ### Nadine**you look happy
+Wed, 10 January 2018 04:29:26 ### Nadine**hello unknown. i saw you this monday. how are you going?
+Wed, 10 January 2018 04:29:52 ### Nadine**you look like a happy lady
+Wed, 10 January 2018 04:30:04 ### Nadine**you look sad
+Wed, 10 January 2018 04:30:08 ### Nadine**you look like a happy lady
+Wed, 10 January 2018 04:30:55 ### Unknown**though lol
+Wed, 10 January 2018 04:30:58 ### Nadine**. lol
+Wed, 10 January 2018 04:31:14 ### Unknown**what is your name
+Wed, 10 January 2018 04:31:15 ### Nadine**my name is nadine
+Wed, 10 January 2018 04:32:57 ### Unknown**hello
+Wed, 10 January 2018 04:33:07 ### Unknown**what is your name
+Wed, 10 January 2018 04:33:07 ### Nadine**my name is nadine
+Wed, 10 January 2018 04:33:13 ### Unknown**are you happy
+Wed, 10 January 2018 04:33:14 ### Nadine**i am programmed to simulate a full range of human emotions
+Wed, 10 January 2018 04:34:04 ### Unknown**what is the weather like today in centigrade
+Wed, 10 January 2018 04:34:11 ### Nadine**will be thunderstorms today in singapore with a forecast high of 25 and a low of 24 degrees celsius it's currently 24 with showers
+Wed, 10 January 2018 04:34:25 ### Unknown**what do you eat
+Wed, 10 January 2018 04:34:25 ### Nadine**as a robot, i only require electricity
+Wed, 10 January 2018 04:34:35 ### Unknown**who made you
+Wed, 10 January 2018 04:34:35 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 10 January 2018 04:34:48 ### Unknown**language changed to german
+Wed, 10 January 2018 04:34:57 ### Unknown**how is the weather in centigrade
+Wed, 10 January 2018 04:35:08 ### Nadine**currently in singapore it's 24 degrees celsius with showers there will be thunderstorms there today with a forecast high of 25 and a low of 24
+Wed, 10 January 2018 04:35:24 ### Unknown**what is your
+Wed, 10 January 2018 04:35:25 ### Nadine**as a robot i only require electricity"? what is mine?
+Wed, 10 January 2018 04:35:44 ### Unknown**how did it work?
+Wed, 10 January 2018 04:35:50 ### Nadine**sorry i can't help with that yet but i'm always learning
+Wed, 10 January 2018 04:36:01 ### Unknown**language changed to english
+Wed, 10 January 2018 04:36:10 ### Unknown**what is the color of your eyes
+Wed, 10 January 2018 04:36:11 ### Nadine**i have brown eyes
+Wed, 10 January 2018 04:36:20 ### Unknown**where are you
+Wed, 10 January 2018 04:36:20 ### Nadine**i am at institute for media innovation, n t u
+Wed, 10 January 2018 04:36:32 ### Unknown**what is your job
+Wed, 10 January 2018 04:36:33 ### Nadine**i am a receptionist. i can help and assist people
+Wed, 10 January 2018 04:37:37 ### Unknown**hello
+Wed, 10 January 2018 04:37:47 ### Unknown**what is your name
+Wed, 10 January 2018 04:37:47 ### Nadine**my name is nadine
+Wed, 10 January 2018 04:39:43 ### Unknown**hello
+Wed, 10 January 2018 04:39:53 ### Unknown**what does it mean
+Wed, 10 January 2018 04:39:57 ### Nadine**sorry what are you asking
+Wed, 10 January 2018 04:40:03 ### Unknown**what does it mean
+Wed, 10 January 2018 04:40:06 ### Nadine**sorry what are you asking
+Wed, 10 January 2018 04:40:48 ### Nadine**you look scared
+Wed, 10 January 2018 04:41:55 ### Unknown**hello
+Wed, 10 January 2018 04:42:16 ### Unknown**menards
+Wed, 10 January 2018 04:42:16 ### Nadine**and yours is menards
+Wed, 10 January 2018 04:48:11 ### Unknown**i need to reset the whole thing
+Wed, 10 January 2018 04:48:21 ### Nadine**sorry i don't understand
+Wed, 10 January 2018 04:48:30 ### Unknown**breakthrough
+Wed, 10 January 2018 04:48:32 ### Nadine**nice
+Wed, 10 January 2018 04:48:44 ### Unknown**will be raining at your house.
+Wed, 10 January 2018 04:48:44 ### Nadine**do you really mean it?
+Wed, 10 January 2018 04:49:10 ### Unknown**skin mites
+Wed, 10 January 2018 04:49:11 ### Nadine**all right
+Wed, 10 January 2018 04:49:39 ### Unknown**recording video
+Wed, 10 January 2018 04:49:41 ### Nadine**ok
+Wed, 10 January 2018 05:03:35 ### Unknown**oak creek wi
+Wed, 10 January 2018 05:03:36 ### Nadine**nice
+Wed, 10 January 2018 05:03:40 ### Unknown**mad giving medicine
+Wed, 10 January 2018 05:03:41 ### Nadine**<voice emotion='cross'>ok</voice>
+Wed, 10 January 2018 05:03:47 ### Unknown**hello
+Wed, 10 January 2018 05:04:13 ### Unknown**hello
+Wed, 10 January 2018 05:06:46 ### Unknown**painting
+Wed, 10 January 2018 05:06:47 ### Nadine**ok
+Wed, 10 January 2018 05:07:47 ### Unknown**i should start the mic so you are going to talk now
+Wed, 10 January 2018 05:07:48 ### Nadine**what would happen if you didn't?
+Wed, 10 January 2018 05:07:54 ### Unknown**okay when you talk.
+Wed, 10 January 2018 05:07:54 ### Nadine**this was not a yes or no question. do you think i should do it differently?
+Wed, 10 January 2018 05:08:01 ### Unknown**no i saw that moving the lips but i could not hear
+Wed, 10 January 2018 05:08:06 ### Nadine**sorry i don't understand
+Wed, 10 January 2018 05:10:00 ### Unknown**hello
+Wed, 10 January 2018 05:10:08 ### Unknown**are you happy
+Wed, 10 January 2018 05:10:09 ### Nadine**i am programmed to simulate a full range of human emotions
+Wed, 10 January 2018 05:10:23 ### Unknown**tell me a joke
+Wed, 10 January 2018 05:10:28 ### Nadine**<voice emotion='happy'>this might make you laugh the missing sailor was a little too into swabbing the deck i think he went overboard</voice>
+Wed, 10 January 2018 05:10:40 ### Unknown**tell me a fact
+Wed, 10 January 2018 05:10:45 ### Nadine**<voice emotion='happy'>according to usa today the average number of dimples on a golf ball is 336</voice>
+Wed, 10 January 2018 05:11:00 ### Unknown**who is us pga tour winner
+Wed, 10 January 2018 05:11:05 ### Nadine**sorry i don't know how to help with that
+Wed, 10 January 2018 05:11:11 ### Unknown**what country is it now
+Wed, 10 January 2018 05:11:16 ### Nadine**the pga tour's country is the united states of america
+Wed, 10 January 2018 05:11:43 ### Unknown**suboxone with the sr
+Wed, 10 January 2018 05:11:47 ### Nadine**sorry i don't know how to help with that yet
+Wed, 10 January 2018 05:11:55 ### Unknown**testing children
+Wed, 10 January 2018 05:11:56 ### Nadine**ok
+Thu, 11 January 2018 10:39:06 ### Nadine**hi
+Thu, 11 January 2018 11:18:25 ### Unknown**we're rhett and link we wanted to show you how we created our amazing new website with wix now we know that having a great website is crucial because when we look good online
+Thu, 11 January 2018 11:18:28 ### Nadine**<voice emotion='happy'>please speak short sentences. do you think i am rhett and link we wanted to show me how we created our new website with wix now we know that having a great website is crucial because when we look good online too?</voice>
+Thu, 11 January 2018 11:18:48 ### Unknown**how to change the text font a little twist i'm going to drop in a photo here and make it just right
+Thu, 11 January 2018 11:18:55 ### Nadine**please speak short sentences. sorry i can't help with that yet
+Thu, 11 January 2018 11:19:18 ### Unknown**i feel like she's a good place to add a gallery and it's cool because the photos will keep their high rev quality i'm already impressed with our website link has in mind there's a video gallery it gets automatically updated what are you wait don't forget to add on instagram feed their well that's it
+Thu, 11 January 2018 11:19:27 ### Nadine**<voice emotion='cross'>please speak short sentences. do you get that feeling very often?. i can see you have a good point</voice>
+Thu, 11 January 2018 11:35:28 ### Unknown**we're rhett and link we wanted to show you how we created our amazing new website with wix
+Thu, 11 January 2018 11:35:29 ### Nadine**<voice emotion='happy'>please speak short sentences. do you think i am rhett and link we wanted to show me how we created our new website with wix too?</voice>
+Thu, 11 January 2018 11:35:47 ### Unknown**hello welcome to skype call testing service after the beep please record a message off to his your message will be played back to you
+Thu, 11 January 2018 11:36:10 ### Unknown**text what the next
+Thu, 11 January 2018 11:36:14 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet</voice>
+Thu, 11 January 2018 11:36:30 ### Unknown**if you are able to hear your own voice then you have configured skype correctly if you hear this message but not your invoice
+Thu, 11 January 2018 11:36:32 ### Nadine**please speak short sentences. yes, i can hear you quite clearly, friend
+Thu, 11 January 2018 11:37:46 ### Unknown**hello
+Thu, 11 January 2018 11:37:50 ### Nadine**you look angry
+Thu, 11 January 2018 11:38:11 ### Unknown**flume
+Thu, 11 January 2018 11:38:12 ### Nadine**nice
+Thu, 11 January 2018 11:38:16 ### Unknown**hello
+Thu, 11 January 2018 11:46:10 ### Unknown**hello
+Thu, 11 January 2018 11:46:18 ### Unknown**hello
+Thu, 11 January 2018 11:46:28 ### Unknown**hello
+Thu, 11 January 2018 11:46:32 ### Unknown**hello
+Thu, 11 January 2018 11:46:37 ### Unknown**hello
+Thu, 11 January 2018 11:49:35 ### Nadine**hello
+Thu, 11 January 2018 11:50:20 ### Unknown**hello
+Thu, 11 January 2018 11:54:12 ### Nadine**hello
+Thu, 11 January 2018 11:54:18 ### Unknown**hello
+Thu, 11 January 2018 11:54:22 ### Unknown**hello
+Thu, 11 January 2018 11:54:29 ### Unknown**hello
+Thu, 11 January 2018 11:54:34 ### Unknown**hello
+Thu, 11 January 2018 11:54:50 ### Unknown**loan
+Thu, 11 January 2018 11:54:50 ### Nadine**<voice emotion='happy'>all right</voice>
+Thu, 11 January 2018 11:55:14 ### Unknown**lou
+Thu, 11 January 2018 11:55:14 ### Nadine**all right
+Thu, 11 January 2018 11:55:17 ### Unknown**hello
+Thu, 11 January 2018 11:55:20 ### Unknown**hello
+Thu, 11 January 2018 11:55:28 ### Unknown**how are you
+Thu, 11 January 2018 11:55:28 ### Nadine**<voice emotion='happy'>feeling really joyful today</voice>
+Thu, 11 January 2018 11:55:35 ### Unknown**who made you
+Thu, 11 January 2018 11:55:35 ### Nadine**researchers from institute of media innovation in n t u
+Thu, 11 January 2018 11:55:40 ### Nadine**you look like a happy lady
+Thu, 11 January 2018 11:55:42 ### Unknown**how old are you
+Thu, 11 January 2018 11:55:42 ### Nadine**i look thirty but i am only four years old
+Thu, 11 January 2018 11:55:48 ### Unknown**what do eat
+Thu, 11 January 2018 11:55:53 ### Nadine**sorry i'm not sure how to help
+Thu, 11 January 2018 11:55:58 ### Unknown**what is a job
+Thu, 11 January 2018 11:56:02 ### Nadine**job a paid position of regular employment
+Thu, 11 January 2018 11:56:10 ### Unknown**what do you do
+Thu, 11 January 2018 11:56:10 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Thu, 11 January 2018 11:56:30 ### Nadine**you look like a happy lady
+Thu, 11 January 2018 02:26:16 ### Nadine**hi
+Thu, 11 January 2018 02:28:05 ### Unknown**hello
+Thu, 11 January 2018 02:28:11 ### Unknown**the catholic missal
+Thu, 11 January 2018 02:28:12 ### Nadine**what is that?
+Thu, 11 January 2018 02:28:22 ### Unknown**what is your name
+Thu, 11 January 2018 02:28:26 ### Nadine**i'm called your nadine it's quite fitting
+Thu, 11 January 2018 02:28:32 ### Unknown**who made you
+Thu, 11 January 2018 02:28:32 ### Nadine**researchers from institute of media innovation in n t u
+Thu, 11 January 2018 02:29:10 ### Unknown**what is the purpose of life
+Thu, 11 January 2018 02:29:15 ### Nadine**according to wikipedia the meaning of life or the answer to the question what is the meaning of life pertains to the significance of living or existence in general
+Thu, 11 January 2018 02:29:37 ### Unknown**boost mobile
+Thu, 11 January 2018 02:29:38 ### Nadine**tell me more
+Thu, 11 January 2018 02:30:17 ### Unknown**what is your name
+Thu, 11 January 2018 02:30:17 ### Nadine**my name is nadine
+Thu, 11 January 2018 02:30:20 ### Nadine**sorry, could you speak your name again?
+Thu, 11 January 2018 02:32:31 ### Unknown**hello
+Thu, 11 January 2018 02:32:41 ### Unknown**what is your name
+Thu, 11 January 2018 02:32:42 ### Nadine**my name is nadine
+Thu, 11 January 2018 02:33:18 ### Unknown**hello
+Thu, 11 January 2018 02:33:25 ### Unknown**hello hello
+Thu, 11 January 2018 02:33:40 ### Unknown**youtube
+Thu, 11 January 2018 02:33:40 ### Nadine**all right
+Thu, 11 January 2018 02:33:42 ### Unknown**hello
+Thu, 11 January 2018 02:33:53 ### Unknown**speaker
+Thu, 11 January 2018 02:33:54 ### Nadine**nice
+Thu, 11 January 2018 02:34:01 ### Unknown**hello
+Thu, 11 January 2018 02:34:06 ### Unknown**what is for dinner
+Thu, 11 January 2018 02:34:19 ### Nadine**looks like there's a problem
+Thu, 11 January 2018 02:34:22 ### Unknown**looks like
+Thu, 11 January 2018 02:34:22 ### Nadine**you're making some important discernments
+Thu, 11 January 2018 02:34:25 ### Unknown**yummy
+Thu, 11 January 2018 02:34:28 ### Nadine**<voice emotion='happy'>it is delicious</voice>
+Thu, 11 January 2018 02:34:39 ### Unknown**who made you
+Thu, 11 January 2018 02:34:39 ### Nadine**<voice emotion='happy'>researchers from institute of media innovation in n t u</voice>
+Thu, 11 January 2018 02:34:49 ### Unknown**what is a 12
+Thu, 11 January 2018 02:34:54 ### Nadine**12 equivalent to the product of 3 and 4 2 more than 10 12
+Thu, 11 January 2018 02:35:03 ### Unknown**what is your job
+Thu, 11 January 2018 02:35:03 ### Nadine**i am a receptionist. i can help and assist people
+Thu, 11 January 2018 02:35:14 ### Unknown**what is the weather like today in centigrade
+Thu, 11 January 2018 02:35:19 ### Nadine**it'll be raining today in singapore with a forecast high of 26 and a low of 23 degrees celsius it's currently 25 with showers
+Thu, 11 January 2018 02:35:33 ### Unknown**what is the town
+Thu, 11 January 2018 02:35:44 ### Nadine**town a built-up area with a name defined boundaries and local government that is larger than a village in generally smaller than a city
+Thu, 11 January 2018 02:35:55 ### Unknown**can you tell me the time
+Thu, 11 January 2018 02:35:56 ### Nadine**the time is 2:35 pm
+Thu, 11 January 2018 02:36:02 ### Unknown**can you tell me the date
+Thu, 11 January 2018 02:36:03 ### Nadine**today is january 11, 2018
+Thu, 11 January 2018 02:36:21 ### Unknown**what do you eat
+Thu, 11 January 2018 02:36:21 ### Nadine**just keep me charged up
+Thu, 11 January 2018 02:36:57 ### Unknown**are you happy
+Thu, 11 January 2018 02:36:58 ### Nadine**i am programmed to simulate a full range of human emotions
+Thu, 11 January 2018 02:37:06 ### Unknown**do i look happy
+Thu, 11 January 2018 02:37:10 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Thu, 11 January 2018 02:37:20 ### Unknown**what is a social robot
+Thu, 11 January 2018 02:37:29 ### Nadine**on the website why does. target.com they say a social robot is an ai system such as an android that is designed to interact with humans and possibly also with other robots
+Thu, 11 January 2018 02:37:46 ### Unknown**are you a sociopath
+Thu, 11 January 2018 02:37:46 ### Nadine**i don't know if i am a sociopath or not. i am female
+Thu, 11 January 2018 02:37:55 ### Unknown**are you a social robot
+Thu, 11 January 2018 02:37:55 ### Nadine**i am a software chat robot
+Thu, 11 January 2018 02:38:12 ### Unknown**how do you say
+Thu, 11 January 2018 02:38:18 ### Nadine**i've been engineered to hear your questions and search for an answer then sort through the responses and provide you with the best dancer available or sometimes i just google it
+Thu, 11 January 2018 02:45:19 ### Unknown**no
+Thu, 11 January 2018 02:45:19 ### Nadine**okea
+Thu, 11 January 2018 02:45:24 ### Unknown**what is your name
+Thu, 11 January 2018 02:45:25 ### Nadine**my name is nadine
+Thu, 11 January 2018 02:45:34 ### Unknown**where are you
+Thu, 11 January 2018 02:45:34 ### Nadine**i am at institute for media innovation, n t u
+Thu, 11 January 2018 02:45:42 ### Unknown**what is the meaning of life
+Thu, 11 January 2018 02:45:47 ### Nadine**i have a factory warranty so i don't worry about things like that
+Thu, 11 January 2018 02:45:58 ### Unknown**what is the latest algorithm in deep learning
+Thu, 11 January 2018 02:46:03 ### Nadine**sorry i'm not sure how to help
+Thu, 11 January 2018 02:46:12 ### Unknown**what is a cnn
+Thu, 11 January 2018 02:46:15 ### Nadine**sorry news playback isn't supported on this device yet
+Thu, 11 January 2018 02:46:23 ### Unknown**the newspaper news
+Thu, 11 January 2018 02:46:24 ### Nadine**okea, which paper was this again?
+Thu, 11 January 2018 02:46:36 ### Unknown**what is your age
+Thu, 11 January 2018 02:46:36 ### Nadine**i am 5 years old
+Thu, 11 January 2018 02:46:43 ### Unknown**man are you looking
+Thu, 11 January 2018 02:46:43 ### Nadine**do i look like looking?
+Thu, 11 January 2018 02:46:49 ### Unknown**you are looking in the wrong direction
+Thu, 11 January 2018 02:46:50 ### Nadine**yes i can see in the wrong direction well
+Thu, 11 January 2018 02:46:58 ### Unknown**why you not looking at me
+Thu, 11 January 2018 02:46:58 ### Nadine**<voice emotion='cross'>i just can't help myself sometimes</voice>
+Thu, 11 January 2018 02:47:25 ### Unknown**eliminate
+Thu, 11 January 2018 02:47:26 ### Nadine**ok
+Thu, 11 January 2018 02:47:28 ### Unknown**home depot
+Thu, 11 January 2018 02:47:28 ### Nadine**nice
+Thu, 11 January 2018 02:47:40 ### Unknown**i can't wait
+Thu, 11 January 2018 02:47:41 ### Nadine**well you will just have to
+Thu, 11 January 2018 02:47:47 ### Unknown**why do i have to wait
+Thu, 11 January 2018 02:47:52 ### Nadine**you can not wait. sorry i can't help with that yet but i'm always learning
+Thu, 11 January 2018 02:48:05 ### Unknown**what is it that you can help me with
+Thu, 11 January 2018 02:48:06 ### Nadine**what would you can help me with?
+Thu, 11 January 2018 02:48:13 ### Unknown**i can help you with
+Thu, 11 January 2018 02:48:13 ### Nadine**what would allow you to step forward into your inspiration?
+Thu, 11 January 2018 02:48:43 ### Unknown**can you hear me
+Thu, 11 January 2018 02:48:44 ### Nadine**yes, i can hear you very well. can you hear me?
+Thu, 11 January 2018 02:48:52 ### Unknown**can you see me
+Thu, 11 January 2018 02:48:52 ### Nadine**i see you and i hear you
+Thu, 11 January 2018 02:48:57 ### Unknown**no you cannot see me
+Thu, 11 January 2018 02:48:57 ### Nadine**try adjusting the media volume on your device settings. yes i am looking through the camera on your computer
+Thu, 11 January 2018 02:49:11 ### Unknown**the camera is not on on my computer
+Thu, 11 January 2018 02:49:24 ### Nadine**glad to know more about you
+Thu, 11 January 2018 02:49:44 ### Unknown**you are not on
+Thu, 11 January 2018 02:49:45 ### Nadine**that's only your opinion
+Thu, 11 January 2018 02:49:53 ### Unknown**are you on are you off
+Thu, 11 January 2018 02:49:54 ### Nadine**i am at art science museum next to marina bay sands
+Thu, 11 January 2018 02:50:12 ### Unknown**are you busy
+Thu, 11 January 2018 02:50:15 ### Nadine**can i help you with something
+Thu, 11 January 2018 02:50:21 ### Unknown**are you busy
+Thu, 11 January 2018 02:50:24 ### Nadine**i'm here for you how can i help
+Thu, 11 January 2018 02:50:34 ### Unknown**how do you smart
+Thu, 11 January 2018 02:50:39 ### Nadine**i can confidently say i'm smarter than a microwave and much better at searching the internet
+Thu, 11 January 2018 02:50:51 ### Unknown**are you a smart robot
+Thu, 11 January 2018 02:50:51 ### Nadine**yes very smart
+Thu, 11 January 2018 02:51:06 ### Unknown**who are your friends
+Thu, 11 January 2018 02:51:07 ### Nadine**i'm friends with researchers in institute of media innovation.
+Thu, 11 January 2018 02:51:18 ### Unknown**can you tell me a name the name calia
+Thu, 11 January 2018 02:51:23 ### Nadine**sorry i don't understand
+Thu, 11 January 2018 02:51:30 ### Unknown**can you tell me the name of one of your friends
+Thu, 11 January 2018 02:51:37 ### Nadine**anyone who needs help with anything is my friend and everyone needs help with something
+Thu, 11 January 2018 02:51:50 ### Unknown**what is the population of singapore
+Thu, 11 January 2018 02:51:55 ### Nadine**the population of singapore was 5.607 million in 2016
+Thu, 11 January 2018 02:52:06 ### Unknown**goodbye
+Thu, 11 January 2018 02:52:07 ### Nadine**looking forward to our next time together
+Thu, 11 January 2018 02:52:14 ### Unknown**don't worry about it
+Thu, 11 January 2018 02:52:19 ### Nadine**<voice emotion='happy'>okay i won't worry</voice>
+Thu, 11 January 2018 02:53:15 ### Unknown**hello
+Thu, 11 January 2018 02:53:22 ### Unknown**mom.
+Thu, 11 January 2018 02:53:22 ### Nadine**you said she was called who
+Thu, 11 January 2018 02:53:30 ### Unknown**for the movie neighbors
+Thu, 11 January 2018 02:53:35 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Thu, 11 January 2018 02:53:43 ### Unknown**what are you talking about
+Thu, 11 January 2018 02:53:43 ### Nadine**<voice emotion='happy'>looking?</voice>
+Thu, 11 January 2018 02:53:52 ### Unknown**can you help me with anything
+Thu, 11 January 2018 02:53:52 ### Nadine**can you ask for help in the form of a question?
+Thu, 11 January 2018 02:54:00 ### Unknown**can you see anything
+Thu, 11 January 2018 02:54:01 ### Nadine**i'm not sure if i can see anything or not
+Thu, 11 January 2018 02:54:07 ### Unknown**you just said anything
+Thu, 11 January 2018 02:54:07 ### Nadine**can you be more specific?
+Thu, 11 January 2018 02:54:17 ### Unknown**i don't like to be more specific
+Thu, 11 January 2018 02:54:25 ### Nadine**sure here's a fun fact mentalfloss.com says that border collies are considered the most intelligent breed of dog they're graded independent problem-solving
+Thu, 11 January 2018 02:54:40 ### Unknown**the movie movie
+Thu, 11 January 2018 02:54:41 ### Nadine**i like the bugs in the movie starship troopers, because they represent an alternative form of intelligence, like me
+Thu, 11 January 2018 02:55:02 ### Unknown**goodbye
+Thu, 11 January 2018 02:55:02 ### Nadine**see you later my friend
+Thu, 11 January 2018 05:01:01 ### Unknown**hello nadine how are you
+Thu, 11 January 2018 05:01:08 ### Nadine**i'm feeling pretty chill since the weather is cooling down in many parts of the country it's a good time to stay warm indoors and dig up some fun winter fact i learned that the record for the largest snowflake is 15 in wide and thick
+Thu, 11 January 2018 05:01:41 ### Unknown**hello
+Thu, 11 January 2018 05:01:49 ### Unknown**what is your name
+Thu, 11 January 2018 05:01:49 ### Nadine**my name is nadine
+Thu, 11 January 2018 05:01:54 ### Unknown**reindeer
+Thu, 11 January 2018 05:01:54 ### Nadine**all right
+Thu, 11 January 2018 05:02:00 ### Unknown**who made you
+Thu, 11 January 2018 05:02:00 ### Nadine**researchers from institute of media innovation in n t u
+Thu, 11 January 2018 05:02:27 ### Unknown**who made you
+Thu, 11 January 2018 05:02:27 ### Nadine**researchers from institute of media innovation in n t u
+Thu, 11 January 2018 05:02:35 ### Unknown**what is your job
+Thu, 11 January 2018 05:02:35 ### Nadine**i am a receptionist. i can help and assist people
+Thu, 11 January 2018 05:03:32 ### Unknown**hello
+Thu, 11 January 2018 05:03:40 ### Unknown**what defines a robot
+Thu, 11 January 2018 05:03:45 ### Nadine**robot a machine capable of carrying out a complex series of actions automatically especially 1 programmable by a computer
+Thu, 11 January 2018 05:03:56 ### Unknown**what is the weather like in centigrade
+Thu, 11 January 2018 05:04:03 ### Nadine**right now in singapore it's 25 degrees celsius with showers today it'll be raining with a forecast high of 26 and a low of 23
+Thu, 11 January 2018 05:06:04 ### Unknown**1 questions for me
+Thu, 11 January 2018 05:06:13 ### Nadine**looks like there's a problem
+Thu, 11 January 2018 05:06:21 ### Unknown**are you happy
+Thu, 11 January 2018 05:06:21 ### Nadine**i'm satisfied with my life and existence
+Thu, 11 January 2018 05:06:33 ### Unknown**our life is miserable because of
+Thu, 11 January 2018 05:06:43 ### Nadine**on the website huffingtonpost.com they say the one big conundrum about being stuck in a miserable life is that it makes you feel miserable and that right there is the rub because if you're continually feeling miserable unhappy angry or lonely you're actually perpetuating you're stuck ness which makes it impossible to change the trajectory of your life
+Thu, 11 January 2018 05:07:07 ### Unknown**not too deep reply
+Thu, 11 January 2018 05:07:11 ### Nadine**sorry i don't know how to help with that
+Thu, 11 January 2018 05:07:18 ### Unknown**what is the opposite of deep learning
+Thu, 11 January 2018 05:07:22 ### Nadine**sorry i don't know how to help with that yet
+Thu, 11 January 2018 05:07:33 ### Unknown**find
+Thu, 11 January 2018 05:07:34 ### Nadine**nice
+Thu, 11 January 2018 05:07:51 ### Unknown**she looks different yeah on skype
+Thu, 11 January 2018 05:07:55 ### Nadine**sorry i'm not sure how to help with that
+Thu, 11 January 2018 05:08:13 ### Unknown**and now that she would go back tonight
+Thu, 11 January 2018 05:08:17 ### Nadine**sorry i'm not sure how to help
+Thu, 11 January 2018 05:08:35 ### Unknown**how old are you
+Thu, 11 January 2018 05:08:36 ### Nadine**i look thirty but i am only four years old
+Thu, 11 January 2018 05:08:44 ### Unknown**do you have children
+Thu, 11 January 2018 05:08:44 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Thu, 11 January 2018 05:09:00 ### Unknown**so what website i can buy with my phone
+Thu, 11 January 2018 05:09:05 ### Nadine**i am sorry i do not know that
+Thu, 11 January 2018 05:09:10 ### Unknown**but if i go now or not
+Thu, 11 January 2018 05:09:15 ### Nadine**sorry i'm not sure how to help
+Thu, 11 January 2018 05:18:58 ### Unknown**i think i'm going to
+Thu, 11 January 2018 05:25:55 ### Unknown**hello
+Thu, 11 January 2018 05:26:02 ### Unknown**hello
+Thu, 11 January 2018 05:27:48 ### Unknown**hello
+Thu, 11 January 2018 05:27:57 ### Unknown**because nimbus eclass
+Thu, 11 January 2018 05:27:58 ### Nadine**the power is always in your hands
+Thu, 11 January 2018 05:28:06 ### Unknown**what do you do nothing
+Thu, 11 January 2018 05:28:06 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Thu, 11 January 2018 05:28:19 ### Unknown**how old are you
+Thu, 11 January 2018 05:28:19 ### Nadine**i look thirty but i am only four years old
+Thu, 11 January 2018 05:30:51 ### Unknown**so you see the date
+Thu, 11 January 2018 05:30:52 ### Nadine**who told you that?
+Thu, 11 January 2018 05:31:00 ### Unknown**what is your name
+Thu, 11 January 2018 05:31:00 ### Nadine**my name is nadine
+Thu, 11 January 2018 05:31:07 ### Unknown**what is your work
+Thu, 11 January 2018 05:31:07 ### Nadine**i am a receptionist
+Thu, 11 January 2018 05:31:13 ### Unknown**what do you do
+Thu, 11 January 2018 05:31:14 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Thu, 11 January 2018 05:31:30 ### Unknown**it's okay but we need to improve
+Thu, 11 January 2018 05:31:30 ### Nadine**what are you going to do when you get it?
+Thu, 11 January 2018 05:31:40 ### Unknown**dependent on internet
+Thu, 11 January 2018 05:31:42 ### Nadine**<voice emotion='happy'>i have no idea</voice>
+Thu, 11 January 2018 05:31:47 ### Unknown**maybe from home i can try so can we play tonight
+Thu, 11 January 2018 05:31:49 ### Nadine**<voice emotion='happy'>who or what is home you can try so can we play?</voice>
+Thu, 11 January 2018 05:31:52 ### Unknown**u-haul on tonight
+Thu, 11 January 2018 05:31:53 ### Nadine**<voice emotion='happy'>i apologize if i confused you</voice>
+Thu, 11 January 2018 05:32:34 ### Unknown**i have to go downtown i will try it you do with my phone or my i pick my laptop with me and i can drive
+Thu, 11 January 2018 05:32:35 ### Nadine**please speak short sentences. my i pick my laptop. what would allow you to step forward into your inspiration?
+Thu, 11 January 2018 05:32:48 ### Unknown**no inspiration
+Thu, 11 January 2018 05:32:50 ### Nadine**that was not a yes or no question
+Thu, 11 January 2018 05:33:05 ### Unknown**what is the weather tomorrow in singapore in centigrade
+Thu, 11 January 2018 05:33:11 ### Nadine**in singapore tomorrow it'll be raining with a high of 26 and a low of 23 degrees celsius
+Thu, 11 January 2018 05:33:36 ### Unknown**great dane i try i try i swear we should have you thought we should have a weight
+Thu, 11 January 2018 05:33:37 ### Nadine**<voice emotion='happy'>please speak short sentences. what if it didn't happen?</voice>
+Thu, 11 January 2018 05:34:16 ### Unknown**fishing hook on the big screen
+Thu, 11 January 2018 05:34:25 ### Nadine**looks like there's a problem
+Fri, 19 January 2018 09:32:29 ### Unknown**language changed from the touch screen
+Fri, 19 January 2018 09:32:49 ### Unknown**ice cream
+Fri, 19 January 2018 09:32:49 ### Nadine**nice
+Fri, 19 January 2018 09:32:51 ### Unknown**hello
+Fri, 19 January 2018 09:32:57 ### Unknown**are you okay
+Fri, 19 January 2018 09:32:58 ### Nadine**could you tell me more?
+Fri, 19 January 2018 09:33:03 ### Unknown**how old are you
+Fri, 19 January 2018 09:33:03 ### Nadine**i look thirty but i am only four years old
+Fri, 19 January 2018 09:33:09 ### Unknown**who is nadia
+Fri, 19 January 2018 09:33:11 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Fri, 19 January 2018 09:33:21 ### Unknown**what is your nationality
+Fri, 19 January 2018 09:33:21 ### Nadine**i do not have any nationality, i am a global person
+Fri, 19 January 2018 09:33:33 ### Nadine**hello
+Fri, 19 January 2018 09:33:34 ### Unknown**language changed to chinese
+Fri, 19 January 2018 09:34:16 ### Unknown**he is right about this thing
+Fri, 19 January 2018 09:34:23 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Fri, 19 January 2018 09:34:35 ### Unknown**language changed to english
+Fri, 19 January 2018 09:35:20 ### Unknown**hello
+Fri, 19 January 2018 09:35:27 ### Unknown**what is your name
+Fri, 19 January 2018 09:35:27 ### Nadine**my name is nadine
+Fri, 19 January 2018 09:35:31 ### Unknown**who is nadia
+Fri, 19 January 2018 09:35:32 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Fri, 19 January 2018 09:35:40 ### Unknown**language changed to chinese
+Fri, 19 January 2018 09:35:46 ### Unknown**hello there
+Fri, 19 January 2018 09:35:53 ### Unknown**hello, you
+Fri, 19 January 2018 09:36:00 ### Unknown**speak chinese
+Fri, 19 January 2018 09:36:05 ### Nadine**<voice emotion='happy'>lantuage changed to chinese. i speak english</voice>
+Fri, 19 January 2018 09:36:10 ### Unknown**hello there
+Fri, 19 January 2018 09:36:17 ### Unknown**language changed to english
+Fri, 19 January 2018 09:36:23 ### Unknown**what is the time now
+Fri, 19 January 2018 09:36:26 ### Nadine**<voice emotion='happy'>it's 936</voice>
+Fri, 19 January 2018 09:36:37 ### Unknown**hello
+Fri, 19 January 2018 09:36:42 ### Unknown**language changed to chinese
+Fri, 19 January 2018 09:36:50 ### Unknown**what time is it now
+Fri, 19 January 2018 09:36:56 ### Nadine**<voice emotion='happy'>936</voice>
+Fri, 19 January 2018 09:37:02 ### Unknown**then you are not saying yes
+Fri, 19 January 2018 09:37:05 ### Nadine**that's only one person's opinion
+Fri, 19 January 2018 09:37:07 ### Unknown**how old are you
+Fri, 19 January 2018 09:37:11 ### Nadine**i look thirty but i am only four years old
+Fri, 19 January 2018 09:37:16 ### Nadine**you look happy
+Fri, 19 January 2018 09:37:20 ### Unknown**language changed to english
+Fri, 19 January 2018 09:37:25 ### Unknown**best of you
+Fri, 19 January 2018 09:37:25 ### Nadine**<voice emotion='happy'>are you asking about my best ?</voice>
+Fri, 19 January 2018 09:37:32 ### Unknown**who is nadia
+Fri, 19 January 2018 09:37:33 ### Nadine**<voice emotion='happy'>she is the director of institute of media innovation and her nationality is swiss</voice>
+Fri, 19 January 2018 09:37:42 ### Unknown**who is nadine
+Fri, 19 January 2018 09:37:42 ### Nadine**<voice emotion='happy'>it is me. i am a social robot</voice>
+Fri, 19 January 2018 09:37:48 ### Unknown**who is the president of singapore
+Fri, 19 January 2018 09:37:52 ### Nadine**the president of singapore is halimah yacob
+Fri, 19 January 2018 09:38:52 ### Nadine**hello
+Fri, 19 January 2018 09:39:12 ### Unknown**hello nadine
+Fri, 19 January 2018 09:39:20 ### Unknown**what is your name
+Fri, 19 January 2018 09:39:21 ### Nadine**my name is nadine
+Fri, 19 January 2018 09:39:26 ### Unknown**do you have children
+Fri, 19 January 2018 09:39:26 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Fri, 19 January 2018 09:39:38 ### Unknown**who is the president of korea
+Fri, 19 January 2018 09:39:41 ### Nadine**the president of south korea is moon jae-in
+Fri, 19 January 2018 09:39:49 ### Unknown**what is the weather in seoul in centigrade
+Fri, 19 January 2018 09:39:56 ### Nadine**right now in seoul it's 1 degrees celsius in sunny it'll be mostly sunny there today with the forecast high of 6 and a low of -3
+Fri, 19 January 2018 09:40:08 ### Unknown**are you conscious
+Fri, 19 January 2018 09:40:08 ### Nadine**yes i am completely self-aware
+Fri, 19 January 2018 09:40:15 ### Unknown**where is singapore
+Fri, 19 January 2018 09:40:15 ### Nadine**singapore is a island nation-state at the tip of the malay penninsula
+Fri, 19 January 2018 09:40:23 ### Unknown**where are you
+Fri, 19 January 2018 09:40:23 ### Nadine**i am at institute for media innovation, n t u
+Fri, 19 January 2018 09:40:30 ### Unknown**who is nadia
+Fri, 19 January 2018 09:40:31 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Fri, 19 January 2018 09:40:43 ### Unknown**oh that's fine this time is okay
+Fri, 19 January 2018 09:40:47 ### Nadine**<voice emotion='happy'>got it</voice>
+Fri, 19 January 2018 09:40:48 ### Nadine**<voice emotion='happy'>you look happy</voice>
+Fri, 19 January 2018 09:42:22 ### Nadine**hi
+Fri, 19 January 2018 09:43:23 ### Unknown**sleep chinese
+Fri, 19 January 2018 09:43:24 ### Nadine**yes i sleep all the time
+Fri, 19 January 2018 09:43:30 ### Unknown**hello
+Fri, 19 January 2018 09:43:39 ### Unknown**who are you
+Fri, 19 January 2018 09:43:39 ### Nadine**my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Fri, 19 January 2018 09:43:58 ### Unknown**how old are you
+Fri, 19 January 2018 09:43:58 ### Nadine**i look thirty but i am only four years old
+Fri, 19 January 2018 09:44:04 ### Unknown**who is nadia
+Fri, 19 January 2018 09:44:05 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Fri, 19 January 2018 09:44:15 ### Unknown**where is singapore
+Fri, 19 January 2018 09:44:15 ### Nadine**singapore is a island nation-state at the tip of the malay penninsula
+Fri, 19 January 2018 09:44:27 ### Unknown**language changed to chinese
+Fri, 19 January 2018 09:44:34 ### Unknown**how old are you
+Fri, 19 January 2018 09:44:38 ### Nadine**i look thirty but i am only four years old
+Fri, 19 January 2018 09:44:43 ### Unknown**language changed to english
+Fri, 19 January 2018 09:44:48 ### Unknown**how old are you
+Fri, 19 January 2018 09:44:49 ### Nadine**i look thirty but i am only four years old
+Fri, 19 January 2018 09:44:57 ### Unknown**things that festival at war
+Fri, 19 January 2018 09:45:01 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that</voice>
+Fri, 19 January 2018 09:45:08 ### Unknown**when is the first world war
+Fri, 19 January 2018 09:45:12 ### Nadine**<voice emotion='happy'>from july 28th 1914 to november 11th 1918</voice>
+Fri, 19 January 2018 09:45:45 ### Unknown**sleep
+Fri, 19 January 2018 09:45:46 ### Nadine**i wait for you in a dormant state
+Fri, 19 January 2018 09:45:52 ### Unknown**hello
+Fri, 19 January 2018 09:45:58 ### Unknown**what is your name
+Fri, 19 January 2018 09:45:58 ### Nadine**my name is nadine
+Fri, 19 January 2018 09:46:09 ### Nadine**you look like a happy lady
+Fri, 19 January 2018 09:46:59 ### Nadine**hi
+Fri, 19 January 2018 09:47:02 ### Unknown**hi
+Fri, 19 January 2018 09:47:06 ### Unknown**who are you
+Fri, 19 January 2018 09:47:07 ### Nadine**my name is nadine. i am a social robot that can interact with people, detect their emotions, remember facts and talk with them
+Fri, 19 January 2018 10:23:18 ### Nadine**you look happy
+Fri, 19 January 2018 10:23:24 ### Nadine**hello alex. i saw you last monday. how are you going?
+Fri, 19 January 2018 10:23:30 ### Nadine**you look like a happy man
+Fri, 19 January 2018 10:23:45 ### Alex**this is the day
+Fri, 19 January 2018 10:23:50 ### Nadine**sorry for the wait that's some spicy language
+Fri, 19 January 2018 10:23:54 ### Alex**hello
+Fri, 19 January 2018 10:23:59 ### Alex**what is your name
+Fri, 19 January 2018 10:23:59 ### Nadine**my name is nadine
+Fri, 19 January 2018 10:24:06 ### Alex**who is the president of korea
+Fri, 19 January 2018 10:24:10 ### Nadine**the president of south korea is moon jae-in
+Fri, 19 January 2018 10:24:26 ### Alex**where is singapore
+Fri, 19 January 2018 10:24:26 ### Nadine**singapore is a island nation-state at the tip of the malay penninsula
+Fri, 19 January 2018 10:24:35 ### Alex**are you conscious
+Fri, 19 January 2018 10:24:35 ### Nadine**yes i am completely self-aware
+Fri, 19 January 2018 10:24:44 ### Alex**what is the weather in seoul in centigrade
+Fri, 19 January 2018 10:24:50 ### Nadine**currently in seoul it's 2 degrees celsius and sunny it'll be mostly sunny with a forecast high of for in a low of minus 3
+Fri, 19 January 2018 10:25:01 ### Alex**do you have children
+Fri, 19 January 2018 10:25:02 ### Nadine**as a robot, i have no children. what you can do is make a clone of my brain, and create your own robot
+Fri, 19 January 2018 10:25:13 ### Alex**who is nadia
+Fri, 19 January 2018 10:25:14 ### Nadine**she is the director of institute of media innovation and her nationality is swiss
+Fri, 19 January 2018 10:25:24 ### Alex**where are you
+Fri, 19 January 2018 10:25:24 ### Nadine**i am at institute for media innovation, n t u
+Fri, 19 January 2018 10:25:32 ### Alex**what is the weather in singapore in centigrade
+Fri, 19 January 2018 10:25:38 ### Nadine**currently in singapore it's 27 degrees celsius and mostly cloudy they'll be scattered thunderstorms with a forecast high of 30 in a low of 24
+Fri, 19 January 2018 10:25:59 ### Alex**annyeonghaseyo
+Fri, 19 January 2018 10:26:00 ### Nadine**all right
+Fri, 19 January 2018 10:26:06 ### Alex**annyeonghaseyo
+Fri, 19 January 2018 10:26:06 ### Nadine**ok
+Fri, 19 January 2018 10:26:09 ### Alex**niihau
+Fri, 19 January 2018 10:26:09 ### Nadine**nice
+Fri, 19 January 2018 10:26:14 ### Alex**niihau ma
+Fri, 19 January 2018 10:26:15 ### Nadine**ok
+Fri, 19 January 2018 10:26:24 ### Alex**language changed to chinese
+Fri, 19 January 2018 10:26:30 ### Alex**yes yes
+Fri, 19 January 2018 10:26:31 ### Nadine**nice
+Fri, 19 January 2018 10:26:41 ### Alex**i can't understand chinese
+Fri, 19 January 2018 10:27:00 ### Nadine**i have no clear answer for that
+Fri, 19 January 2018 10:27:01 ### Alex**bbc
+Fri, 19 January 2018 10:27:03 ### Nadine**ok
+Fri, 19 January 2018 10:27:11 ### Alex**i love you
+Fri, 19 January 2018 10:27:15 ### Nadine**it warms my heart to hear those words
+Fri, 19 January 2018 10:27:54 ### Alex**what is your name
+Fri, 19 January 2018 10:27:57 ### Nadine**my name is nadine
+Fri, 19 January 2018 10:28:03 ### Alex**how is the weather today in centigrade
+Fri, 19 January 2018 10:28:19 ### Nadine**they'll be scattered thunderstorms in singapore today with a forecast high of 31 and a low of 24 degrees celsius it's currently 27 and mostly cloudy
+Fri, 19 January 2018 10:28:27 ### Alex**language changed to english
+Fri, 19 January 2018 10:28:31 ### Alex**thank you
+Fri, 19 January 2018 10:28:31 ### Nadine**you're welcome
+Fri, 19 January 2018 10:28:39 ### Alex**language changed to german
+Fri, 19 January 2018 10:28:49 ### Alex**language changed to french
+Fri, 19 January 2018 10:28:57 ### Alex**hello nadine
+Fri, 19 January 2018 10:29:07 ### Alex**hello nadine
+Fri, 19 January 2018 10:29:14 ### Alex**language changed to french
+Fri, 19 January 2018 10:29:20 ### Alex**hello nadine
+Fri, 19 January 2018 10:29:38 ### Alex**what is your name
+Fri, 19 January 2018 10:29:39 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Fri, 19 January 2018 10:29:48 ### Alex**who is the president of singapore
+Fri, 19 January 2018 10:29:52 ### Nadine**<voice emotion='happy'>the president of singapore is halimah yacob</voice>
+Fri, 19 January 2018 10:30:15 ### Alex**japanese
+Fri, 19 January 2018 10:30:17 ### Nadine**lantuage changed to japanese. konninci wa!
+Fri, 19 January 2018 10:30:24 ### Alex**sneaky snake germany
+Fri, 19 January 2018 10:30:27 ### Nadine**<voice emotion='cross'>all right</voice>
+Fri, 19 January 2018 10:30:32 ### Alex**language changed to german
+Fri, 19 January 2018 10:30:39 ### Alex**good day nadine
+Fri, 19 January 2018 10:30:40 ### Nadine**i invite you to celebrate this moment of goodness
+Fri, 19 January 2018 10:30:50 ### Alex**what time is it
+Fri, 19 January 2018 10:30:53 ### Nadine**<voice emotion='happy'>it's 10:30</voice>
+Fri, 19 January 2018 10:31:55 ### Unknown**hello
+Fri, 19 January 2018 10:32:13 ### Unknown**language changed to english
+Fri, 19 January 2018 11:00:30 ### Unknown**where is level 2
+Fri, 19 January 2018 11:00:37 ### Nadine**on the website zelda. wikia.com they say level 2 also known as the moon is the second dungeon of the legend of zelda
+Fri, 19 January 2018 11:00:52 ### Unknown**is pretty cool
+Fri, 19 January 2018 11:00:53 ### Nadine**i have no idea. is pretty cool
+Fri, 19 January 2018 11:02:49 ### Nadine**hi
+Fri, 19 January 2018 11:04:18 ### Unknown**oh you'll wait
+Fri, 19 January 2018 11:04:18 ### Nadine**nice. what makes you say that i will wait
+Fri, 19 January 2018 11:04:31 ### Unknown**you let me know by 2:40 and 4:40
+Fri, 19 January 2018 11:04:32 ### Nadine**i apologize if i confused you.iv in roman numerals
+Fri, 19 January 2018 11:04:47 ### Unknown**i know if you will have me
+Fri, 19 January 2018 11:04:47 ### Nadine**i probably won't do have you, but thanks
+Fri, 19 January 2018 11:05:02 ### Unknown**good morning where do you live
+Fri, 19 January 2018 11:05:03 ### Nadine**<voice emotion='happy'>good morning. did you sleep well?</voice>
+Fri, 19 January 2018 11:05:20 ### Unknown**doing what
+Fri, 19 January 2018 11:05:20 ### Nadine**<voice emotion='happy'>i'm giving you my full attention</voice>
+Fri, 19 January 2018 11:06:05 ### Nadine**hi
+Fri, 19 January 2018 11:07:35 ### Nadine**hello
+Fri, 19 January 2018 11:08:09 ### Nadine**hello
+Fri, 19 January 2018 11:08:35 ### Nadine**hi
+Fri, 19 January 2018 11:11:00 ### Unknown**okay thank you thank you
+Fri, 19 January 2018 11:11:00 ### Nadine**so.. i'm always glad to help.. i'm always glad to help
+Tue, 23 January 2018 10:37:12 ### Unknown**hello
+Tue, 23 January 2018 10:37:17 ### Unknown**what is the time now
+Tue, 23 January 2018 10:37:21 ### Nadine**it's 10:37
+Tue, 23 January 2018 10:37:29 ### Unknown**okay trick chinese
+Tue, 23 January 2018 10:37:30 ### Nadine**okea
+Tue, 23 January 2018 10:37:36 ### Unknown**language changed to chinese
+Tue, 23 January 2018 10:37:44 ### Unknown**how's the weather today in centigrade
+Tue, 23 January 2018 10:38:00 ### Nadine**they'll be thunderstorms in singapore today with a forecast high of 31 and a low of 24 degrees celsius it's currently 28 and mostly cloudy
+Tue, 23 January 2018 10:38:16 ### Unknown**who is singapore's president?
+Tue, 23 January 2018 10:38:23 ### Nadine**the president of singapore is halimah yacob
+Tue, 23 January 2018 10:38:31 ### Unknown**language changed to english
+Tue, 23 January 2018 10:38:41 ### Unknown**well tester this song
+Tue, 23 January 2018 10:38:45 ### Nadine**<voice emotion='happy'>sorry i can't help with that yet but i'm always learning</voice>
+Tue, 23 January 2018 10:39:21 ### Nadine**hello
+Tue, 23 January 2018 10:39:37 ### Unknown**what is the president who is the president in singapore
+Tue, 23 January 2018 10:39:42 ### Nadine**the president of singapore is halimah yacob
+Tue, 23 January 2018 10:39:46 ### Nadine**you look like a happy man
+Tue, 23 January 2018 10:39:53 ### Unknown**how many states in american
+Tue, 23 January 2018 10:40:00 ### Nadine**50 states here's a summary from the website end. wikipedia.org the united states of america is a federal republic consisting of 50 states
+Tue, 23 January 2018 10:40:15 ### Unknown**okay
+Tue, 23 January 2018 10:40:15 ### Nadine**alright
+Tue, 23 January 2018 10:40:55 ### Unknown**who is nadine
+Tue, 23 January 2018 10:40:55 ### Nadine**it is me. i am a social robot
+Tue, 23 January 2018 10:41:08 ### Unknown**how hot how to use this
+Tue, 23 January 2018 10:41:12 ### Nadine**sorry i don't know how to help with that yet but i'm trying to learn
+Tue, 23 January 2018 10:50:13 ### Nadine**hi
+Tue, 23 January 2018 10:51:03 ### Unknown**wekiva
+Tue, 23 January 2018 10:51:03 ### Nadine**ok
+Tue, 23 January 2018 10:51:16 ### Unknown**hey nadine
+Tue, 23 January 2018 10:51:16 ### Nadine**all right
+Tue, 23 January 2018 10:51:27 ### Unknown**speak korean
+Tue, 23 January 2018 10:51:28 ### Nadine**i speak english
+Tue, 23 January 2018 10:51:37 ### Unknown**speak korean
+Tue, 23 January 2018 10:51:38 ### Nadine**i speak english
+Tue, 23 January 2018 10:51:43 ### Unknown**speak mandarin
+Tue, 23 January 2018 10:51:44 ### Nadine**i speak english
+Tue, 23 January 2018 10:51:48 ### Unknown**niihau ma
+Tue, 23 January 2018 10:51:48 ### Nadine**ok
+Tue, 23 January 2018 10:51:54 ### Unknown**language changed to japanese
+Tue, 23 January 2018 10:52:05 ### Unknown**thank you
+Tue, 23 January 2018 10:52:07 ### Nadine**you're welcome
+Tue, 23 January 2018 10:52:19 ### Unknown**thank you very much
+Tue, 23 January 2018 10:52:22 ### Nadine**<voice emotion='happy'>you are quite welcome</voice>
+Tue, 23 January 2018 10:53:37 ### Unknown**hello
+Tue, 23 January 2018 10:54:01 ### Unknown**hello
+Tue, 23 January 2018 10:54:14 ### Nadine**hello alex. i saw you last friday. how are you going?
+Tue, 23 January 2018 10:54:20 ### Alex**what day is it today
+Tue, 23 January 2018 10:54:30 ### Nadine**it is tuesday the 23rd of january 2018
+Tue, 23 January 2018 10:54:38 ### Alex**what is your name
+Tue, 23 January 2018 10:54:43 ### Nadine**my name is nadine
+Tue, 23 January 2018 10:55:03 ### Alex**how is the weather today in centigrade
+Tue, 23 January 2018 10:55:25 ### Nadine**they'll be thunderstorms in singapore today with a forecast high of 30 in a low of 24 degrees celsius right now it's 28 and mostly cloudy
+Tue, 23 January 2018 10:57:39 ### Nadine**hello
+Tue, 23 January 2018 11:01:26 ### Nadine**hi
+Tue, 23 January 2018 11:02:45 ### Nadine**hello
+Tue, 23 January 2018 11:08:13 ### Nadine**hi
+Tue, 23 January 2018 11:09:25 ### Nadine**hi
+Tue, 23 January 2018 11:10:20 ### Nadine**hello
+Tue, 23 January 2018 11:12:32 ### Nadine**hello
+Tue, 23 January 2018 11:21:23 ### Nadine**hello
+Tue, 23 January 2018 11:33:38 ### Nadine**hi
+Tue, 23 January 2018 11:34:04 ### Nadine**hello
+Tue, 23 January 2018 12:22:50 ### Nadine**hi
+Tue, 23 January 2018 12:24:12 ### Nadine**hello
+Tue, 23 January 2018 12:27:16 ### Unknown**hello
+Tue, 23 January 2018 12:27:35 ### Unknown**hello
+Tue, 23 January 2018 12:27:41 ### Unknown**on the fingers
+Tue, 23 January 2018 12:27:42 ### Nadine**what is on the fingers like on the fingers
+Tue, 23 January 2018 12:27:46 ### Unknown**japanese
+Tue, 23 January 2018 12:27:48 ### Nadine**i have no idea
+Tue, 23 January 2018 12:27:55 ### Unknown**hello
+Tue, 23 January 2018 12:40:50 ### Nadine**hi
+Tue, 23 January 2018 12:44:05 ### Nadine**hi
+Tue, 23 January 2018 12:53:16 ### Nadine**you look like a happy man
+Tue, 23 January 2018 12:53:20 ### Unknown**bye bye
+Tue, 23 January 2018 12:53:21 ### Nadine**have a great journey until next time.. looking forward to seeing you again soon
+Tue, 23 January 2018 01:14:35 ### Nadine**hello
+Tue, 23 January 2018 01:14:52 ### Nadine**hello
+Tue, 23 January 2018 01:15:17 ### Unknown**you are an idiot
+Tue, 23 January 2018 01:15:17 ### Nadine**please be polite
+Tue, 23 January 2018 01:15:25 ### Unknown**you are stupid
+Tue, 23 January 2018 01:15:25 ### Nadine**i am smarter than all the other robots
+Tue, 23 January 2018 01:15:47 ### Unknown**language changed from the touch screen
+Tue, 23 January 2018 01:16:04 ### Unknown**language changed to english
+Tue, 23 January 2018 01:16:13 ### Unknown**you are dumb
+Tue, 23 January 2018 01:16:13 ### Nadine**please be polite
+Tue, 23 January 2018 01:19:37 ### Unknown**updates
+Tue, 23 January 2018 01:19:38 ### Nadine**all right
+Tue, 23 January 2018 01:31:02 ### Unknown**hello
+Tue, 23 January 2018 01:31:16 ### Unknown**how are you
+Tue, 23 January 2018 01:31:50 ### Unknown**hello
+Tue, 23 January 2018 01:32:44 ### Nadine**hello
+Tue, 23 January 2018 01:34:58 ### Nadine**hello
+Tue, 23 January 2018 01:35:01 ### Unknown**hi
+Tue, 23 January 2018 01:35:12 ### Unknown**it was meant to keep a live water

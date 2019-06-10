@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Chat</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+  </head>
+  <body>
+    <div class="container bodycontent">
+      <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand nav-back" href="/"> Chat </a>
+            <div class="dropdown" style="float:right;">
+                <button class="dropbtn">Language</button>
+                <div class="dropdown-content">
+                  <a href="#">English</a>
+                  <a href="#">Chinese </a>
+                  <a href="#">Hindi</a>
+                </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      <div id="textContaint"></div>
+      <input type="hidden" id="fileLength" value="0">
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      $("document").ready(function(){
+        setInterval(function(){
+          $.ajax({
+              url : "chat.txt",
+              dataType: "text",
+              success : function (data) {
+                  let a = data.split('\n')
+                  // let start = parseInt($("#fileLength").val())
+                  let codeHtml = ""
+                  for(let i = 0; i < a.length; i++){
+                    console.log(`${i} =>`, a[i])
+                    let data = a[i].split('-')
+                    let time = data[0]
+                    let chat = data[1].split(':')
+                    let name = chat[0].trim()
+                    let chatText = chat[1]
+                    let imgBig = ''
+                    if(data[1].indexOf("PicturePath") >= 0){
+                      let imgPath = (data[1].split('[')[1]).split(']')[0]
+                      chatText = `<img src='${imgPath}' class="chatImg"/>`
+                      chatText += `<img src='${imgPath}' class="chatImgBig"/>`
+                    }
+                    if(data[1].indexOf("VideoPath") >= 0){
+                      let imgPath = (data[1].split('[')[1]).split(']')[0]
+                      chatText = `<iframe width="420" height="315" src="${imgPath}"> </iframe>`
+                    }
+
+                    if(name == "Nadine"){
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-8 nadine">
+                          <div class="row">
+                            <div class="col-sm-4 time-nadine">${time}</div>
+                            <div class="col-sm-8">${chatText}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-2 profile">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/Nadine.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    }
+                    else {
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-2 profile_left">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/default-user-image.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-8 user">
+                          <div class="row">
+                            <div class="col-sm-8">${chatText}</div>
+                            <div class="col-sm-4 time-user">${time}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    }
+                  }
+                  // $("#fileLength").val(a.length)
+                  $("#textContaint").html(codeHtml);
+                  // $("#textContaint").append(codeHtml);
+              }
+            });
+          }, 1000);
+        
+      })
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,216 @@
+<?php require_once('db.php'); ?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Chat</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+  </head>
+  <body>
+    <div class="container bodycontent">
+      <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand nav-back" href="/"> Chat </a>
+            <div class="dropdown" style="float:right;">
+                <select class="dropdown" id="lang" onchange="writeFile()">
+                  <option>Language</option>
+                  <option>English</option>
+                  <option>Chinese</option>
+                  <option>Hindi</option>
+                  <option>French</option>
+                  <option>German</option>
+                </select>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="list-group">
+            <?php
+              $sql = "SELECT id, name FROM staff";
+              $result = $conn->query($sql);
+              if ($result->num_rows > 0):
+                  while($row = $result->fetch_assoc()):
+                      echo '<a href="#" id="' .$row["id"]. '" class="list-group-item list-group-item-action">'. $row["name"].'</a>';
+                  endwhile;
+              endif;
+              $conn->close();
+            ?>
+          </div>
+        </div>
+        <div class="col-sm-9">
+          <table id="staffInfo" class="table" style="font-size: 12px;">
+            <thead>
+              <tr>
+                <th> No. </th>
+                <th> Name </th>
+                <th> Designation </th>
+                <th> Office </th>
+                <th> Mobile </th>
+                <th> Email </th>
+                <th> Room Location </th>
+              </tr>
+            </thead>
+            <tbody id="tableContent"></tbody>
+          </table>
+          <div onLoad="pageScroll()" id="textContaint" style="height:900px; overflow:scroll;"></div>
+        </div>
+      </div>
+      <!-- <div id="textContaint"></div> -->
+      <input type="hidden" id="fileLength" value="0">
+
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="./assets/js/employee.js"></script>
+
+    <script type="text/javascript">
+      function writeFile() {
+        $.ajax({
+            method: "POST",
+            url : "languageWrite.php",
+            data: {"language": $("#lang").val()},
+            success : function (data) {
+                console.log("language = ", data)
+                // alert(data)
+            }
+          });
+      }
+      $("document").ready(function(){
+        $("#staffInfo").hide();
+        setInterval(function(){
+          $.ajax({
+              url : "nadine_app.txt",
+              dataType: "text",
+              success : function (data) {
+                  let a = data.split('\n')
+                  // let start = parseInt($("#fileLength").val())
+                  let codeHtml = ""
+                  for(let i = 0; i < a.length-1; i++){
+                    console.log(`${i} =>`, a[i])
+                    let data = a[i].split('###')
+                    let time = data[0]
+                    let chat = data[1].split('**')
+                    let name = chat[0].trim()
+                    let chatText = chat[1]
+                    let imgBig = ''
+                    if(data[1].indexOf("PicturePath") >= 0){
+                      let imgPath = (data[1].split('[')[1]).split(']')[0]
+                      // chatText = `<img src='${imgPath}' class="chatImg"/>`
+                      // chatText += `<img src='${imgPath}' class="chatImgBig"/>`
+                      console.log("imgPath = ", imgPath)
+                      chatText = `<div class="dropdown">
+                                        <img src='${imgPath}'  width="300" height="200">
+                                        <div class="dropdown-content">
+                                            <img src='${imgPath}' width="300" height="200">
+                                        </div>
+                                    '</div>`
+                    }
+                    if(data[1].indexOf("VideoPath") >= 0){
+                      let imgPath = (data[1].split('[')[1]).split(']')[0]
+                      chatText = `<iframe width="420" height="315" src="${imgPath}"> </iframe>`
+                    }
+
+                    if(name == "Nadine"){
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-8 nadine">
+                          <div class="row">
+                            <div class="col-sm-4 time-nadine">${time}</div>
+                            <div class="col-sm-8">${chatText}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-2 profile">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/Nadine.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    } else if (name=="Sophie") {
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-8 nadine">
+                          <div class="row">
+                            <div class="col-sm-4 time-nadine">${time}</div>
+                            <div class="col-sm-8">${chatText}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-2 profile">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/sophie.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    }
+                    else {
+                      codeHtml += `
+                      <div class="row box">
+                        <div class="col-sm-2 profile_left">
+                          <div class="row">
+                            <div class="col-sm-4">
+                              <img src="assets/img/default-user-image.png" class="profile_image">
+                            </div>
+                            <div class="col-sm-8 profile_name">${name}</div>
+                          </div>
+                        </div>
+                        <div class="col-sm-8 user">
+                          <div class="row">
+                            <div class="col-sm-8">${chatText}</div>
+                            <div class="col-sm-4 time-user">${time}</div>
+                          </div>
+                        </div>
+                      </div>`
+                    }
+                    /*if(i == a.length-1) {
+                      codeHtml += `<div id="chat-end"></div>`
+                    }*/
+                  }
+                  
+                  // $("#fileLength").val(a.length)
+                  $("#textContaint").html(codeHtml);
+                  // $("#textContaint").append(codeHtml);
+                  
+              }
+            });
+          }, 1000);
+
+          window.setInterval(function() {
+            var elem = document.getElementById('textContaint');
+            elem.scrollTop = elem.scrollHeight;
+          }, 1000);
+        
+      })
+
+      /*function pageScroll() {
+        window.scrollBy(0,50); // horizontal and vertical scroll increments
+        scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
+      }*/
+
+      /*function bottom() {
+          document.getElementById( 'textContaint' ).scrollHeight();
+      };*/
+      /*var objDiv = document.getElementById("textContaint");
+      objDiv.scrollTop = objDiv.scrollHeight;*/
+
+      // bottom();
+    </script>
+
+  </body>
+</html>

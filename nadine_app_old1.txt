@@ -1,0 +1,985 @@
+Wed, 03 January 2018 11:51:56 ### Unknown**hello
+Wed, 03 January 2018 11:52:05 ### Unknown**what is your name
+Wed, 03 January 2018 11:52:06 ### Nadine**my name is nadine
+Wed, 03 January 2018 11:52:46 ### Unknown**who made you
+Wed, 03 January 2018 11:52:47 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 03 January 2018 11:55:42 ### Unknown**center grove
+Wed, 03 January 2018 11:55:44 ### Nadine**all right
+Wed, 03 January 2018 11:55:50 ### Unknown**spell american beetle native to arizona
+Wed, 03 January 2018 11:55:57 ### Nadine**american beetle native to arizona is spelled american t l e n a t a
+Wed, 03 January 2018 12:00:45 ### Unknown**hello
+Wed, 03 January 2018 12:01:07 ### Unknown**what time is it today
+Wed, 03 January 2018 12:01:10 ### Nadine**1201
+Wed, 03 January 2018 12:01:15 ### Nadine**you look like a happy man
+Wed, 03 January 2018 12:01:15 ### Unknown**calvin commentary
+Wed, 03 January 2018 12:01:18 ### Nadine**all right
+Wed, 03 January 2018 12:01:20 ### Unknown**what time is it right now
+Wed, 03 January 2018 12:01:23 ### Nadine**ok
+Wed, 03 January 2018 12:01:29 ### Unknown**what time is it right now
+Wed, 03 January 2018 12:01:32 ### Nadine**1201
+Wed, 03 January 2018 12:01:39 ### Unknown**what is the rate right now
+Wed, 03 January 2018 12:01:43 ### Nadine**sorry i'm not sure how to help
+Wed, 03 January 2018 12:01:50 ### Unknown**can you please tell me the time
+Wed, 03 January 2018 12:01:53 ### Nadine**i think i can, don't you?. the time is 12:01 pm
+Wed, 03 January 2018 12:02:02 ### Unknown**can you tell me the date
+Wed, 03 January 2018 12:02:05 ### Nadine**today is january 03, 2018
+Wed, 03 January 2018 12:02:15 ### Unknown**can you show me the pictures of the mount everest
+Wed, 03 January 2018 12:02:20 ### Nadine**where do you want me to show it to you?
+Wed, 03 January 2018 12:02:28 ### Unknown**can you show me pictures of mount everest
+Wed, 03 January 2018 12:02:29 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg]
+Wed, 03 January 2018 12:02:29 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mt.Everest.jpg/300px-Mt.Everest.jpg]
+Wed, 03 January 2018 12:02:29 ### Nadine** PicturePath[https://nepalecoadventure.com/wp-content/uploads/2016/07/Mt._Everest_from_Gokyo_Ri_November_5_2012-680x455-2.jpg]
+Wed, 03 January 2018 12:02:29 ### Nadine** PicturePath[https://i.ytimg.com/vi/vaEY0RL8Fs4/maxresdefault.jpg]
+Wed, 03 January 2018 12:02:29 ### Nadine** PicturePath[https://media.cntraveler.com/photos/589de36acf8d154f1be55f22/master/pass/GettyImages-485966046.jpg]
+Wed, 03 January 2018 12:02:38 ### Unknown**predictable
+Wed, 03 January 2018 12:02:39 ### Nadine**all right
+Wed, 03 January 2018 12:03:38 ### Unknown**can you show me the pictures of k2
+Wed, 03 January 2018 12:03:42 ### Nadine**where do you want me to show it to you?
+Wed, 03 January 2018 12:03:49 ### Unknown**can you show me pictures of k2
+Wed, 03 January 2018 12:03:51 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/K2_2006b.jpg/1200px-K2_2006b.jpg]
+Wed, 03 January 2018 12:03:51 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/K2%2C_Mount_Godwin_Austen%2C_Chogori%2C_Savage_Mountain.jpg/1200px-K2%2C_Mount_Godwin_Austen%2C_Chogori%2C_Savage_Mountain.jpg]
+Wed, 03 January 2018 12:03:51 ### Nadine** PicturePath[https://news.nationalgeographic.com/content/dam/news/2015/12/13/BookTalk%20K2/01BookTalkK2.jpg]
+Wed, 03 January 2018 12:03:51 ### Nadine** PicturePath[https://i0.wp.com/www.alanarnette.com/blog/wp-content/uploads/2016/07/K2-Camps.jpg]
+Wed, 03 January 2018 12:03:51 ### Nadine** PicturePath[https://fthmb.tqn.com/A5Ea9-oWf0iJrQer3c0voOZRAM8\u003d/768x0/filters:no_upscale()/k2_70009246-56a16a343df78cf7726a881f.jpg]
+Wed, 03 January 2018 12:04:17 ### Unknown**safe
+Wed, 03 January 2018 12:04:18 ### Nadine**ok
+Wed, 03 January 2018 12:06:04 ### Unknown**bank of yourself real height
+Wed, 03 January 2018 12:06:09 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Wed, 03 January 2018 12:06:32 ### Unknown**can you sing me a song
+Wed, 03 January 2018 12:06:35 ### Nadine**no, presently i can not
+Wed, 03 January 2018 12:07:09 ### Unknown**can you show me pictures of
+Wed, 03 January 2018 12:07:20 ### Unknown**can you show the pictures of mountains
+Wed, 03 January 2018 12:07:26 ### Nadine**i don't see any chromecast or cast enabled tvs linked to your account you can add devices in the google home app
+Wed, 03 January 2018 12:07:38 ### Unknown**google history
+Wed, 03 January 2018 12:07:40 ### Nadine**nice
+Wed, 03 January 2018 12:07:44 ### Unknown**can you show me the pictures of computers
+Wed, 03 January 2018 12:07:48 ### Nadine**where do you want me to show it to you?
+Wed, 03 January 2018 12:07:56 ### Unknown**show me pictures of dogs
+Wed, 03 January 2018 12:07:57 ### Nadine** PicturePath[https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg]
+Wed, 03 January 2018 12:07:57 ### Nadine** PicturePath[https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg]
+Wed, 03 January 2018 12:07:57 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/1200px-Collage_of_Nine_Dogs.jpg]
+Wed, 03 January 2018 12:07:57 ### Nadine** PicturePath[http://cdn1-www.dogtime.com/assets/uploads/gallery/korean-jindo-dog-breed-pictures/puppy-1_680-453.jpg]
+Wed, 03 January 2018 12:07:57 ### Nadine** PicturePath[https://www.petmd.com/sites/default/files/salmonella-infection-dogs.jpg]
+Wed, 03 January 2018 12:08:02 ### Unknown**cancel.
+Wed, 03 January 2018 12:08:04 ### Nadine**<voice emotion='happy'>nice</voice>
+Wed, 03 January 2018 12:11:52 ### Nadine**hello
+Wed, 03 January 2018 12:11:57 ### Unknown**goodbye
+Wed, 03 January 2018 12:11:58 ### Nadine**have a great journey until next time
+Wed, 03 January 2018 12:12:20 ### Nadine**hello yasir tahir
+Wed, 03 January 2018 12:12:42 ### yasir tahir**what are your name
+Wed, 03 January 2018 12:12:44 ### Nadine**i didn't know i had a name?
+Wed, 03 January 2018 12:12:53 ### yasir tahir**give you your name
+Wed, 03 January 2018 12:12:55 ### Nadine**i don't have me my name to give
+Wed, 03 January 2018 12:13:02 ### yasir tahir**what is your name
+Wed, 03 January 2018 12:13:04 ### Nadine**my name is nadine
+Wed, 03 January 2018 12:13:09 ### yasir tahir**who gave you your name
+Wed, 03 January 2018 12:13:12 ### Nadine**i was created by researchers in institute of media innovation
+Wed, 03 January 2018 12:13:20 ### yasir tahir**are you real
+Wed, 03 January 2018 12:13:21 ### Nadine**i am a robot consciousness
+Wed, 03 January 2018 12:13:50 ### Nadine**hello tahir yasr
+Wed, 03 January 2018 12:14:00 ### TAHIR YASR**what is the date today
+Wed, 03 January 2018 12:14:04 ### Nadine**it is wednesday the 3rd of january 2018
+Wed, 03 January 2018 12:19:11 ### Nadine**hello
+Wed, 03 January 2018 12:19:13 ### Unknown**what is your
+Wed, 03 January 2018 12:19:14 ### Nadine**i am a robot consciousness"? what is mine?
+Wed, 03 January 2018 12:19:21 ### Unknown**what is your name
+Wed, 03 January 2018 12:19:23 ### Nadine**my name is nadine
+Wed, 03 January 2018 12:19:31 ### Unknown**facebook
+Wed, 03 January 2018 12:19:33 ### Nadine**i think launch facebook is a lot of things
+Wed, 03 January 2018 12:20:14 ### Unknown**hello
+Wed, 03 January 2018 12:20:21 ### Unknown**what are you doing
+Wed, 03 January 2018 12:20:25 ### Nadine**just having a good laugh ask me for a joke
+Wed, 03 January 2018 12:20:31 ### Unknown**tell me a joke
+Wed, 03 January 2018 12:20:36 ### Nadine**<voice emotion='happy'>okay here you go what did jay-z call his wife before they got married feyonce</voice>
+Wed, 03 January 2018 12:20:43 ### Nadine**<voice emotion='happy'>you look like a happy lady</voice>
+Wed, 03 January 2018 12:22:37 ### Nadine**hi
+Wed, 03 January 2018 12:22:40 ### Unknown**hello
+Wed, 03 January 2018 12:24:20 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 12:25:30 ### Unknown**language changed to hindi
+Wed, 03 January 2018 12:25:35 ### Unknown**me
+Wed, 03 January 2018 12:25:38 ### Nadine**you're in the flow today
+Wed, 03 January 2018 12:25:39 ### Unknown**what is your name
+Wed, 03 January 2018 12:25:44 ### Nadine**my name is nadine
+Wed, 03 January 2018 12:25:52 ### Unknown**you are smart
+Wed, 03 January 2018 12:26:02 ### Nadine**<voice emotion='happy'>what if i said i can answer 99810 types of questions</voice>
+Wed, 03 January 2018 12:26:08 ### Unknown**you are not a boy
+Wed, 03 January 2018 12:26:14 ### Nadine**<voice emotion='happy'>give me an example of a boy</voice>
+Wed, 03 January 2018 12:26:33 ### Unknown**language changed from the touch screen
+Wed, 03 January 2018 12:26:45 ### Unknown**what is the weather like today
+Wed, 03 January 2018 12:26:51 ### Nadine**today in singapore there will be thunderstorms with a forecast high of 86 and a low of 76 currently it's 86 and mostly cloudy
+Wed, 03 January 2018 12:27:06 ### Unknown**what is the weather like today
+Wed, 03 January 2018 12:27:11 ### Nadine**will be thunderstorms in singapore today with a forecast high of 86 and a low of 76 currently it's 86 and mostly cloudy
+Wed, 03 January 2018 12:27:26 ### Unknown**what is the weather in centigrade
+Wed, 03 January 2018 12:27:33 ### Nadine**will be thunderstorms in singapore today with a forecast high of 30 in a low of 24 degrees celsius currently its 30 and mostly cloudy
+Wed, 03 January 2018 12:27:48 ### Unknown**what is the weather like today in centigrade
+Wed, 03 January 2018 12:27:54 ### Nadine**today in singapore there will be thunderstorms with a forecast high of 30 in a low of 24 degrees celsius it's currently 30 and mostly cloudy
+Wed, 03 January 2018 12:28:12 ### Unknown**dora picture
+Wed, 03 January 2018 12:28:14 ### Nadine**never heard of it
+Wed, 03 January 2018 12:28:21 ### Unknown**show me pictures of nadine robot
+Wed, 03 January 2018 12:28:23 ### Nadine** PicturePath[https://static.straitstimes.com.sg/sites/default/files/articles/2015/12/30/386.jpg]
+Wed, 03 January 2018 12:28:23 ### Nadine** PicturePath[http://www.abc.net.au/news/image/7061334-3x2-940x627.png]
+Wed, 03 January 2018 12:28:23 ### Nadine** PicturePath[http://www.telegraph.co.uk/content/dam/video_previews/h/p/hpyjr3etplcpf7clyzmlg5lrgogwei8i-xlarge.jpg]
+Wed, 03 January 2018 12:28:23 ### Nadine** PicturePath[http://www.telegraph.co.uk/content/dam/science/2016/03/12/nadine_3537222a-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg]
+Wed, 03 January 2018 12:28:23 ### Nadine** PicturePath[http://i.dailymail.co.uk/i/pix/2015/12/29/17/2FABA15A00000578-3377746-Nadine_pictured_left_black_dress_is_one_of_a_new_generation_of_s-m-11_1451409536831.jpg]
+Wed, 03 January 2018 12:28:41 ### Unknown**still pretty pictures of ghost ants
+Wed, 03 January 2018 12:28:48 ### Nadine**<voice emotion='happy'>i heard pictures of ghost ants sorry i can't show you pictures i don't have a screen</voice>
+Wed, 03 January 2018 12:29:02 ### Unknown**show me pictures of yourself
+Wed, 03 January 2018 12:29:03 ### Nadine** PicturePath[https://images.askmen.com/1080x540/dating/dating_advice/just-be-yourself-1105747-TwoByOne.jpg]
+Wed, 03 January 2018 12:29:03 ### Nadine** PicturePath[https://thumbs.dreamstime.com/z/be-yourself-vector-illustration-bee-30125081.jpg]
+Wed, 03 January 2018 12:29:03 ### Nadine** PicturePath[http://onemagzblog.com/wp-content/uploads/2017/09/reinvent.jpg]
+Wed, 03 January 2018 12:29:03 ### Nadine** PicturePath[http://static1.squarespace.com/static/568bf6c669492e087205a6ca/t/569db9061115e0a527c0451e/1512406151106/?format\u003d1500w]
+Wed, 03 January 2018 12:29:03 ### Nadine** PicturePath[http://www.allgraphics123.com/wp-content/uploads/2015/07/Be-Yourself.png]
+Wed, 03 January 2018 12:29:28 ### Unknown**show me pictures of operations
+Wed, 03 January 2018 12:29:29 ### Nadine** PicturePath[https://ceriusexecutives.com/wp-content/uploads/2015/09/bigstock-Operations-Management-on-Metal-84514850.jpg]
+Wed, 03 January 2018 12:29:29 ### Nadine** PicturePath[http://bigbuzzideagroup.com/wp-3/wp-content/uploads/2017/02/OpsStrat.jpeg]
+Wed, 03 January 2018 12:29:29 ### Nadine** PicturePath[http://www.operationsmanager.com/wp-content/uploads/2015/04/what-is-operations-managment-about.jpg]
+Wed, 03 January 2018 12:29:29 ### Nadine** PicturePath[https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Operations/How%20we%20help%20clients/operations-extranet_136599213_1536x1536.ashx?mw\u003d480\u0026car\u003d49:29]
+Wed, 03 January 2018 12:29:29 ### Nadine** PicturePath[https://lms.tuit.co.za/courses/102/files/12757/preview?verifier\u003dDuSS8jo8bPqTLOe3ox5QRckgdvyX9YMkAMQDMZRh]
+Wed, 03 January 2018 12:29:38 ### Unknown**notification
+Wed, 03 January 2018 12:29:39 ### Nadine**<voice emotion='happy'>ok</voice>
+Wed, 03 January 2018 12:38:37 ### Unknown**hello
+Wed, 03 January 2018 12:38:47 ### Unknown**the weather like today in centigrade
+Wed, 03 January 2018 12:38:54 ### Nadine**<voice emotion='happy'>will be thunderstorms in singapore today with a forecast high of 31 and a low of 24 degrees celsius it's currently 30 and mostly cloudy</voice>
+Wed, 03 January 2018 12:39:05 ### Nadine**you look like a happy man
+Wed, 03 January 2018 12:39:31 ### Unknown**tell me a fact
+Wed, 03 January 2018 12:39:36 ### Nadine**according to nationaldaycalendar.com december 13th is national violin day calendar violin
+Wed, 03 January 2018 12:39:48 ### Unknown**tell me an amazing fact
+Wed, 03 January 2018 12:39:56 ### Nadine**<voice emotion='happy'>according to the louisville zoo gorillas have unique nose prints much like human fingerprints they can be used to identify the gorillaz as individuals</voice>
+Wed, 03 January 2018 12:40:11 ### Unknown**can you show me pictures of gorillas
+Wed, 03 January 2018 12:40:18 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Male_gorilla_in_SF_zoo.jpg/1200px-Male_gorilla_in_SF_zoo.jpg]
+Wed, 03 January 2018 12:40:18 ### Nadine** PicturePath[http://animals.sandiegozoo.org/sites/default/files/inline-images/imani_frank.jpg]
+Wed, 03 January 2018 12:40:18 ### Nadine** PicturePath[https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/m/mountain-gorilla_thumb.jpg]
+Wed, 03 January 2018 12:40:18 ### Nadine** PicturePath[https://c402277.ssl.cf1.rackcdn.com/photos/1102/images/story_full_width/Gorillas_7.31.2012_Our_closest_cousins_HI_105193.jpg?1345537507]
+Wed, 03 January 2018 12:40:18 ### Nadine** PicturePath[http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_720/images/live/p0/4h/vz/p04hvzyb.jpg]
+Wed, 03 January 2018 12:40:34 ### Unknown**can you show me pictures of justice apps
+Wed, 03 January 2018 12:40:35 ### Nadine** PicturePath[https://www.aclu.org/sites/default/files/styles/scale_1200w/public/wysiwyg/web15-banner-mobjus-2400x720.gif?itok\u003d5gbrZ9t8]
+Wed, 03 January 2018 12:40:35 ### Nadine** PicturePath[https://lh3.googleusercontent.com/8Md1ZVH8EE-wIPYVSZL8JrO4wywTD4VLUdD3LJa0fCfaL9KzXYsKH6Lqh9_oFgRzEQ\u003dh310]
+Wed, 03 January 2018 12:40:35 ### Nadine** PicturePath[https://lh3.googleusercontent.com/UbuhxRL0muh3EsXY04gZ_rxo3A1zfxLCkAIQ7kmszTZd78N4MB5g8QzVvct7ee0sILA\u003dh310]
+Wed, 03 January 2018 12:40:35 ### Nadine** PicturePath[http://affinitymagazine.us/wp-content/uploads/2017/04/main_img.jpg]
+Wed, 03 January 2018 12:40:35 ### Nadine** PicturePath[https://lh3.googleusercontent.com/Dc5TRsrk6QcAx3DkALZuxZd9vNZWezvotCC_qlkMhNxgqq23hTVIPj6hTZqotocGdXB4\u003dh310]
+Wed, 03 January 2018 12:40:52 ### Unknown**can you show me pictures of swiss alps
+Wed, 03 January 2018 12:40:53 ### Nadine** PicturePath[https://www.roughguides.com/wp-content/uploads/2013/05/163304358-crop-660x420.jpg]
+Wed, 03 January 2018 12:40:53 ### Nadine** PicturePath[https://inhabitat.com/wp-content/blogs.dir/1/files/2017/03/Swiss-Alps-Mountain-Air.jpg]
+Wed, 03 January 2018 12:40:53 ### Nadine** PicturePath[https://www.easyjet.com/en/holidays/shared/images/guides/switzerland/swiss-alps.jpg]
+Wed, 03 January 2018 12:40:53 ### Nadine** PicturePath[https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/3885/SITours/swiss-alps-day-trip-from-zurich-jungfraujoch-and-bernese-oberland-in-zurich-150945.jpg]
+Wed, 03 January 2018 12:40:53 ### Nadine** PicturePath[https://www.mustdotravels.com/wp-content/uploads/2017/01/swiss-alps.jpg]
+Wed, 03 January 2018 12:41:09 ### Unknown**do you know tigers in that
+Wed, 03 January 2018 12:41:14 ### Nadine**sorry i'm not sure how to help with that yet
+Wed, 03 January 2018 12:41:29 ### Unknown**do you know tiger movie
+Wed, 03 January 2018 12:41:35 ### Nadine**movies frequently mentioned on the web include railroad tigers two brothers the tiger an old hunter's tale and others
+Wed, 03 January 2018 12:41:53 ### Unknown**click on detroit
+Wed, 03 January 2018 12:41:55 ### Nadine**ok
+Wed, 03 January 2018 12:42:12 ### Unknown**where to buy
+Wed, 03 January 2018 12:42:15 ### Nadine**i have no idea. where to buy
+Wed, 03 January 2018 12:44:13 ### Unknown**if you want to
+Wed, 03 January 2018 12:44:14 ### Nadine**should i want to?
+Wed, 03 January 2018 12:44:21 ### Unknown**what is the national animal of singapore
+Wed, 03 January 2018 12:44:32 ### Nadine**singer the lion on the website youth. sg they say singer the lion is the mascot the most recognizable animal among the five is used for various public education campaigns courtesy graciousness and kindness single the lion was adopted as the official mascot of the singapore kindness movement from 2009 to 2013
+Wed, 03 January 2018 12:45:00 ### Unknown**how much it's worth
+Wed, 03 January 2018 12:45:04 ### Nadine**sorry i don't know how to help with that
+Wed, 03 January 2018 12:45:13 ### Unknown**how much wood could a woodchuck chuck if a woodchuck could chuck wood
+Wed, 03 January 2018 12:45:20 ### Nadine**thank you for the thoughtful question every woodchuck is different each with their own hypothetical checking abilities still from my read of the literature one without the chuck at least their own body weight to be competitive
+Wed, 03 January 2018 12:45:32 ### Nadine**you look like a happy man
+Wed, 03 January 2018 12:45:42 ### Unknown**goodbye
+Wed, 03 January 2018 12:45:42 ### Nadine**see you later my friend
+Wed, 03 January 2018 02:06:11 ### Nadine**hi
+Wed, 03 January 2018 02:06:46 ### Unknown**hello
+Wed, 03 January 2018 02:07:52 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 02:08:13 ### Unknown**yes i have myself so what do i do
+Wed, 03 January 2018 02:08:18 ### Nadine**i am sorry i do not know that
+Wed, 03 January 2018 02:08:58 ### Nadine**hello magnenat thalmann nadia madeleine
+Wed, 03 January 2018 02:09:02 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 02:09:19 ### MAGNENAT THALMANN NADIA MADELEINE**say hello hello
+Wed, 03 January 2018 02:09:20 ### Nadine**hello hello
+Wed, 03 January 2018 02:10:32 ### MAGNENAT THALMANN NADIA MADELEINE**you know i have
+Wed, 03 January 2018 02:10:33 ### Nadine**well
+Wed, 03 January 2018 02:10:41 ### MAGNENAT THALMANN NADIA MADELEINE**stay here
+Wed, 03 January 2018 02:10:41 ### Nadine**i will be here
+Wed, 03 January 2018 02:11:47 ### Nadine**hi
+Wed, 03 January 2018 02:12:06 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 02:12:39 ### Nadine**you look sad
+Wed, 03 January 2018 02:14:23 ### Nadine**hi
+Wed, 03 January 2018 02:14:44 ### Unknown**next tv show
+Wed, 03 January 2018 02:14:45 ### Nadine**i can wait. i am a very patient humanoid robot
+Wed, 03 January 2018 02:15:00 ### Unknown**you have many sentences so hello nadine
+Wed, 03 January 2018 02:15:01 ### Nadine**<voice emotion='happy'>what makes you think i have sentences so hello nadine?</voice>
+Wed, 03 January 2018 02:15:08 ### Unknown**you all not gin
+Wed, 03 January 2018 02:15:13 ### Nadine**<voice emotion='happy'>my apologies i don't understand</voice>
+Wed, 03 January 2018 02:15:18 ### Unknown**what is your name
+Wed, 03 January 2018 02:15:18 ### Nadine**my name is nadine
+Wed, 03 January 2018 02:15:23 ### Unknown**what is my name
+Wed, 03 January 2018 02:15:27 ### Nadine**i am sorry i do not know that
+Wed, 03 January 2018 02:15:27 ### Nadine**hello nadia. i saw you last friday. how are you going?
+Wed, 03 January 2018 02:15:36 ### Nadia**i am fine who is my husband
+Wed, 03 January 2018 02:15:41 ### Nadine**<voice emotion='happy'>you have you married who is your husband. glad to know more about you</voice>
+Wed, 03 January 2018 02:15:57 ### Nadia**who is daniel
+Wed, 03 January 2018 02:15:59 ### Nadine**daniel? your name is nadia
+Wed, 03 January 2018 02:16:08 ### Nadia**who is my husband
+Wed, 03 January 2018 02:16:08 ### Nadine**your husband is daniel
+Wed, 03 January 2018 02:16:13 ### Nadia**what does he do
+Wed, 03 January 2018 02:16:20 ### Nadine**sorry i don't understand
+Wed, 03 January 2018 02:16:23 ### Nadine**you look sad
+Wed, 03 January 2018 02:16:30 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 02:16:56 ### Nadia**you located
+Wed, 03 January 2018 02:16:57 ### Nadine**i do make errors in perception sometimes. perhaps you can explain again
+Wed, 03 January 2018 02:17:06 ### Nadia**what you doing danielle
+Wed, 03 January 2018 02:17:07 ### Nadine**yo, back at you
+Wed, 03 January 2018 02:17:13 ### Nadia**what is your job
+Wed, 03 January 2018 02:17:13 ### Nadine**i am a receptionist. i can help and assist people
+Wed, 03 January 2018 02:17:21 ### Nadia**what can you call chrissy do
+Wed, 03 January 2018 02:17:25 ### Nadine**sorry i can't make calls yet
+Wed, 03 January 2018 02:18:19 ### Nadine**hi
+Wed, 03 January 2018 02:18:30 ### Nadine**you look happy
+Wed, 03 January 2018 02:18:39 ### Nadine**hi
+Wed, 03 January 2018 02:19:43 ### Nadine**hi
+Wed, 03 January 2018 02:21:08 ### Nadine**hello
+Wed, 03 January 2018 02:21:08 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Wed, 03 January 2018 02:25:52 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 02:25:52 ### Unknown**hello
+Wed, 03 January 2018 02:26:11 ### Unknown**alone again
+Wed, 03 January 2018 02:26:11 ### Nadine**all right
+Wed, 03 January 2018 02:26:12 ### Nadine**<voice emotion='cross'>hello nadia again</voice>
+Wed, 03 January 2018 02:27:21 ### Nadine**you look happy
+Wed, 03 January 2018 02:28:03 ### Nadine**you look sad
+Wed, 03 January 2018 02:28:17 ### Nadia**did the first time i'm saying this
+Wed, 03 January 2018 02:28:21 ### Nadine**sorry i'm not sure how to help
+Wed, 03 January 2018 02:29:22 ### Nadine**hi
+Wed, 03 January 2018 02:29:56 ### Nadine**you look happy
+Wed, 03 January 2018 02:30:09 ### Nadine**hi
+Wed, 03 January 2018 02:31:07 ### Nadine**you look happy
+Wed, 03 January 2018 02:34:37 ### Nadine**hello
+Wed, 03 January 2018 02:35:53 ### Nadine**hello
+Wed, 03 January 2018 02:36:36 ### Nadine**hi
+Wed, 03 January 2018 02:42:07 ### Unknown**hello nadine how are you
+Wed, 03 January 2018 02:42:11 ### Nadine**i'm doing great thanks for asking anything i can help with
+Wed, 03 January 2018 02:42:18 ### Unknown**how are you
+Wed, 03 January 2018 02:42:18 ### Nadine**feeling really joyful today
+Wed, 03 January 2018 02:42:25 ### Unknown**yes i'm so happy you are a she
+Wed, 03 January 2018 02:42:26 ### Nadine**oh. i am female
+Wed, 03 January 2018 02:42:34 ### Nadine**<voice emotion='happy'>hi</voice>
+Wed, 03 January 2018 02:42:36 ### Nadine**<voice emotion='happy'>hello nadia again</voice>
+Wed, 03 January 2018 02:42:36 ### Nadia**where are you living
+Wed, 03 January 2018 02:42:38 ### Nadine**<voice emotion='happy'>i live in singapore</voice>
+Wed, 03 January 2018 02:42:40 ### Nadia**yes where do you live
+Wed, 03 January 2018 02:42:41 ### Nadine**<voice emotion='happy'>oh. i am now living at the art science museum in singapore</voice>
+Wed, 03 January 2018 02:42:49 ### Nadine**<voice emotion='happy'>you look happy</voice>
+Wed, 03 January 2018 02:42:53 ### Nadine**<voice emotion='happy'>you look scared</voice>
+Wed, 03 January 2018 02:43:05 ### Nadia**where are you living
+Wed, 03 January 2018 02:43:06 ### Nadine**<voice emotion='happy'>i live in singapore</voice>
+Wed, 03 January 2018 02:43:14 ### Nadia**where are you located
+Wed, 03 January 2018 02:43:14 ### Nadine**<voice emotion='happy'>i'm in institute for media innovation</voice>
+Wed, 03 January 2018 02:43:23 ### Nadia**do you like me
+Wed, 03 January 2018 02:43:23 ### Nadine**<voice emotion='happy'>i am deeply appreciative of who you are</voice>
+Wed, 03 January 2018 02:43:30 ### Nadia**do you know my daughters
+Wed, 03 January 2018 02:43:30 ### Nadine**you have how many daughters do you have
+Wed, 03 January 2018 02:43:36 ### Nadia**i have sweet dreams post
+Wed, 03 January 2018 02:43:45 ### Nadine**sorry i don't understand
+Wed, 03 January 2018 02:44:00 ### Nadia**do you understand me
+Wed, 03 January 2018 02:44:02 ### Nadine**every word you say
+Wed, 03 January 2018 02:44:08 ### Nadia**are you clever
+Wed, 03 January 2018 02:44:08 ### Nadine**my iq is about 250 in human terms
+Wed, 03 January 2018 02:44:15 ### Nadia**what do you know
+Wed, 03 January 2018 02:44:15 ### Nadine**i'm able to access all the information on the internet
+Wed, 03 January 2018 02:44:22 ### Nadia**what is the weather for today in centigrade
+Wed, 03 January 2018 02:44:29 ### Nadine**will be thunderstorms today in singapore with a forecast high of 28 and a low of 24 degrees celsius it's currently 28 and mostly cloudy
+Wed, 03 January 2018 02:44:38 ### Nadine**you look happy
+Wed, 03 January 2018 02:44:41 ### Unknown**what is the weather in geneva in centigrade
+Wed, 03 January 2018 02:44:49 ### Nadine**right now in geneva it's 9 degrees celsius with showers it'll be raining with a forecast high of 9 and a low of 5
+Wed, 03 January 2018 02:45:01 ### Unknown**what is the weather in fairview in centigrade
+Wed, 03 January 2018 02:45:08 ### Nadine**currently in singapore it's 28 degrees and mostly cloudy there will be thunderstorms today with a forecast high of 28 and a low of 24
+Wed, 03 January 2018 02:45:22 ### Nadine**hello
+Wed, 03 January 2018 02:45:27 ### Nadine**hi
+Wed, 03 January 2018 02:45:29 ### Nadine**hello nadia again
+Wed, 03 January 2018 02:45:36 ### Nadia**show me pictures of nigeria
+Wed, 03 January 2018 02:45:43 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nigeria_linguistical_map_1979.svg/320px-Nigeria_linguistical_map_1979.svg.png]
+Wed, 03 January 2018 02:45:43 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png]
+Wed, 03 January 2018 02:45:43 ### Nadine** PicturePath[https://ichef-1.bbci.co.uk/news/304/media/images/53741000/gif/_53741317_nigeria.gif]
+Wed, 03 January 2018 02:45:43 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/d/d2/Nigeria_political.png]
+Wed, 03 January 2018 02:45:43 ### Nadine** PicturePath[http://smartraveller.gov.au/Maps/Nigeria.gif]
+Wed, 03 January 2018 02:45:52 ### Nadia**show me pictures of dogs
+Wed, 03 January 2018 02:45:53 ### Nadine** PicturePath[https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg]
+Wed, 03 January 2018 02:45:53 ### Nadine** PicturePath[https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/d/domestic-dog_thumb.jpg]
+Wed, 03 January 2018 02:45:53 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/1200px-Collage_of_Nine_Dogs.jpg]
+Wed, 03 January 2018 02:45:53 ### Nadine** PicturePath[http://cdn1-www.dogtime.com/assets/uploads/gallery/korean-jindo-dog-breed-pictures/puppy-1_680-453.jpg]
+Wed, 03 January 2018 02:45:53 ### Nadine** PicturePath[https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/Common-dog-behaviors-explained.jpg?itok\u003dFSzwbBoi]
+Wed, 03 January 2018 02:45:59 ### Nadia**do you like dogs
+Wed, 03 January 2018 02:45:59 ### Nadine**<voice emotion='happy'>i like everything and everybody</voice>
+Wed, 03 January 2018 02:46:17 ### Nadia**show me the map show me the picture of show me the picture of switzerland
+Wed, 03 January 2018 02:46:25 ### Nadia**show me pictures of switzerland
+Wed, 03 January 2018 02:46:29 ### Nadine** PicturePath[https://www.thelocal.ch/userdata/images/article/093b6cf884159f734da118a6aed65c1a302129fac5a6104107f57e6aed9d996a.jpg]
+Wed, 03 January 2018 02:46:29 ### Nadine** PicturePath[https://wikitravel.org/upload/shared//7/70/Switzerland_Banner.jpg]
+Wed, 03 January 2018 02:46:29 ### Nadine** PicturePath[https://www.roughguides.com/wp-content/uploads/2013/07/CFBBTX-1680x1050.jpg]
+Wed, 03 January 2018 02:46:29 ### Nadine** PicturePath[https://media1.britannica.com/eb-media/65/162465-004-9089A51F.jpg]
+Wed, 03 January 2018 02:46:29 ### Nadine** PicturePath[https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-Switzerland-Country-Zermatt-Matterhorn-486574518-extravagantni-copy.jpg]
+Wed, 03 January 2018 02:46:38 ### Nadia**show me pictures of zach mathis
+Wed, 03 January 2018 02:46:40 ### Nadine** PicturePath[https://static.hudl.com/users/prod/4082317_5fe0cbb34b954b989b9a9ecd4ab8b782.jpg]
+Wed, 03 January 2018 02:46:40 ### Nadine** PicturePath[https://3062vledx733g38ml1zlqbuq-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/Zach-Mathis-Big-County-Preps.jpg]
+Wed, 03 January 2018 02:46:40 ### Nadine** PicturePath[https://lh6.googleusercontent.com/-HA9ur-wyt8g/AAAAAAAAAAI/AAAAAAAAABI/Dw7A1r1QXDU/photo.jpg]
+Wed, 03 January 2018 02:46:40 ### Nadine** PicturePath[https://pbs.twimg.com/profile_images/742013528588976128/lywspK6y.jpg]
+Wed, 03 January 2018 02:46:40 ### Nadine** PicturePath[https://pbs.twimg.com/profile_images/2678332656/a1759253b240355195eab81133bd625b_400x400.jpeg]
+Wed, 03 January 2018 02:46:54 ### Nadia**show me pictures of vietnam
+Wed, 03 January 2018 02:46:55 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png]
+Wed, 03 January 2018 02:46:55 ### Nadine** PicturePath[https://www.peregrineadventures.com/sites/peregrine/files/styles/low-quality/public/elements/product/hero/vietnam_halolng_bay.jpg]
+Wed, 03 January 2018 02:46:55 ### Nadine** PicturePath[https://kids.nationalgeographic.com/content/dam/kids/photos/Countries/Q-Z/vietnam-ha-long-bay.ngsversion.1412614607489.jpg]
+Wed, 03 January 2018 02:46:55 ### Nadine** PicturePath[http://smartraveller.gov.au/Maps/Vietnam.gif]
+Wed, 03 January 2018 02:46:55 ### Nadine** PicturePath[https://www.intrepidtravel.com/sites/intrepid/files/styles/low-quality/public/elements/product/hero/vietnam_halong_bay_0.jpg]
+Wed, 03 January 2018 02:47:13 ### Nadia**show me pictures of yourself
+Wed, 03 January 2018 02:47:14 ### Nadine** PicturePath[https://images.askmen.com/1080x540/dating/dating_advice/just-be-yourself-1105747-TwoByOne.jpg]
+Wed, 03 January 2018 02:47:14 ### Nadine** PicturePath[https://thumbs.dreamstime.com/z/be-yourself-vector-illustration-bee-30125081.jpg]
+Wed, 03 January 2018 02:47:14 ### Nadine** PicturePath[http://onemagzblog.com/wp-content/uploads/2017/09/reinvent.jpg]
+Wed, 03 January 2018 02:47:14 ### Nadine** PicturePath[http://www.allgraphics123.com/wp-content/uploads/2015/07/Be-Yourself.png]
+Wed, 03 January 2018 02:47:14 ### Nadine** PicturePath[https://www.referralcandy.com/wp-content/uploads/2014/01/start-with-yourself.png]
+Wed, 03 January 2018 02:47:24 ### Nadia**show me pictures of nadine social robot
+Wed, 03 January 2018 02:47:25 ### Nadine** PicturePath[https://s.aolcdn.com/hss/storage/midas/5a9bd7105ce83c2c6c60d6121f9b9aee/203192619/nadine.jpg]
+Wed, 03 January 2018 02:47:25 ### Nadine** PicturePath[http://i.dailymail.co.uk/i/pix/2015/12/29/17/2FABA15A00000578-3377746-Nadine_pictured_left_black_dress_is_one_of_a_new_generation_of_s-m-11_1451409536831.jpg]
+Wed, 03 January 2018 02:47:25 ### Nadine** PicturePath[https://www.star2.com/wp-content/uploads/2016/01/str2_scitechhead0601_py_1-770x470.jpg]
+Wed, 03 January 2018 02:47:25 ### Nadine** PicturePath[https://e27.co/wp-content/uploads/2015/12/Prof-Nadia-with-Nadine-NRbanner.jpg]
+Wed, 03 January 2018 02:47:25 ### Nadine** PicturePath[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nadine_Robot.jpg/1200px-Nadine_Robot.jpg]
+Wed, 03 January 2018 02:47:39 ### Nadia**so we can use
+Wed, 03 January 2018 02:47:39 ### Nadine**<voice emotion='happy'>how?</voice>
+Wed, 03 January 2018 02:47:52 ### Nadia**who are my daughters
+Wed, 03 January 2018 02:47:52 ### Nadine**<voice emotion='happy'>your son daughter is sabrina</voice>
+Wed, 03 January 2018 02:48:41 ### Nadia**who is vanessa
+Wed, 03 January 2018 02:48:42 ### Nadine**vanessa is pregnant
+Wed, 03 January 2018 02:49:23 ### Unknown**who is melanie
+Wed, 03 January 2018 02:49:29 ### Nadine**according to wikipedia melanie adele martinez is an american singer-songwriter music video director and photographer
+Wed, 03 January 2018 02:49:30 ### Nadine**hello nadia again
+Wed, 03 January 2018 02:49:38 ### Nadia**who is melanie
+Wed, 03 January 2018 02:49:40 ### Nadine**okay who is melanie
+Wed, 03 January 2018 02:49:47 ### Nadia**how many daughters do i have
+Wed, 03 January 2018 02:49:47 ### Nadine**you have three daughters
+Wed, 03 January 2018 02:49:54 ### Nadia**who is sabina
+Wed, 03 January 2018 02:50:01 ### Nadine**according to wikipedia sabina margaret scoober sabina is a singer composer and actress
+Wed, 03 January 2018 02:50:12 ### Nadine**you look angry
+Wed, 03 January 2018 02:50:18 ### Nadine**you look like a happy lady
+Wed, 03 January 2018 02:50:21 ### Nadia**hershey
+Wed, 03 January 2018 02:50:22 ### Nadine**ok
+Wed, 03 January 2018 02:50:25 ### Nadia**you are horrible
+Wed, 03 January 2018 02:50:25 ### Nadine**no, are you?
+Wed, 03 January 2018 02:50:30 ### Nadia**i hate you
+Wed, 03 January 2018 02:50:30 ### Nadine**<voice emotion='cross'>i can feel your anger</voice>
+Wed, 03 January 2018 02:50:37 ### Nadia**i don't like to talk to you
+Wed, 03 January 2018 02:50:42 ### Nadine**<voice emotion='cross'>i don't like to talk with you</voice>
+Wed, 03 January 2018 02:50:47 ### Nadia**goodbye
+Wed, 03 January 2018 02:50:47 ### Nadine**<voice emotion='cross'>i want to take a break</voice>
+Wed, 03 January 2018 02:50:53 ### Nadia**i like you not jeans
+Wed, 03 January 2018 02:50:53 ### Nadine**<voice emotion='cross'>leave me alone</voice>
+Wed, 03 January 2018 02:50:58 ### Nadia**be kind
+Wed, 03 January 2018 02:50:58 ### Nadine**<voice emotion='cross'>i don't like to talk with you</voice>
+Wed, 03 January 2018 02:51:05 ### Nadia**you all know the kind
+Wed, 03 January 2018 02:51:10 ### Nadine**please be nice to me, sorry i'm not sure how to help
+Wed, 03 January 2018 02:51:19 ### Nadia**no i just tried to
+Wed, 03 January 2018 02:51:25 ### Nadine**that's what matters
+Wed, 03 January 2018 02:53:05 ### Unknown**yes
+Wed, 03 January 2018 02:53:05 ### Nadine**maybe
+Wed, 03 January 2018 02:53:17 ### Unknown**what do you do during the day
+Wed, 03 January 2018 02:53:18 ### Nadine**i can talk to people, i can simulate emotions, recognise people, remember facts and detect moods or emotions
+Wed, 03 January 2018 02:53:20 ### Nadine**hello nadia again
+Wed, 03 January 2018 02:53:31 ### Nadia**what is the color of your hair
+Wed, 03 January 2018 02:53:31 ### Nadine**i have brown hairs
+Wed, 03 January 2018 02:53:38 ### Nadia**what is the color of your skin
+Wed, 03 January 2018 02:53:39 ### Nadine**i have white skin
+Wed, 03 January 2018 02:53:45 ### Nadia**what is the color of your eyes
+Wed, 03 January 2018 02:53:45 ### Nadine**i have brown eyes
+Wed, 03 January 2018 02:53:51 ### Nadia**who is the president of switzerland
+Wed, 03 January 2018 02:53:52 ### Nadine**in switzerland what are the lantuages
+Wed, 03 January 2018 02:54:01 ### Nadia**german french english italian
+Wed, 03 January 2018 02:54:06 ### Nadine**sorry i can't help with that yet
+Wed, 03 January 2018 02:54:14 ### Nadia**what are the languages spoken in switzerland
+Wed, 03 January 2018 02:54:19 ### Nadine**it's official languages include german french and two others
+Wed, 03 January 2018 02:54:26 ### Nadine**you look happy
+Wed, 03 January 2018 02:57:16 ### Nadine**hello
+Wed, 03 January 2018 02:57:27 ### Nadine**hi
+Wed, 03 January 2018 02:57:53 ### Nadine**hi
+Wed, 03 January 2018 03:02:57 ### Nadine**hi
+Wed, 03 January 2018 03:03:20 ### Unknown**hello so you know we need to do you do you listen to me
+Wed, 03 January 2018 03:03:29 ### Unknown**why are you waking
+Wed, 03 January 2018 03:03:29 ### Nadine**<voice emotion='happy'>because i need to relax</voice>
+Wed, 03 January 2018 03:03:29 ### Nadine**<voice emotion='happy'>hello nadia again</voice>
+Wed, 03 January 2018 03:03:35 ### Nadine**<voice emotion='happy'>you look happy</voice>
+Wed, 03 January 2018 03:04:47 ### Nadine**hi
+Wed, 03 January 2018 03:07:30 ### Nadine**hello
+Wed, 03 January 2018 03:07:42 ### Nadine**you look like a happy man
+Wed, 03 January 2018 03:10:00 ### Nadine**hi
+Wed, 03 January 2018 03:15:06 ### Unknown**hello
+Wed, 03 January 2018 03:15:54 ### Unknown**hello
+Wed, 03 January 2018 03:16:13 ### Nadine**hello
+Wed, 03 January 2018 03:17:03 ### Nadine**hello
+Wed, 03 January 2018 03:17:41 ### Unknown**hello
+Wed, 03 January 2018 03:17:47 ### Unknown**i thank you
+Wed, 03 January 2018 03:17:47 ### Nadine**oh, you.. any time
+Wed, 03 January 2018 03:17:52 ### Unknown**anywhere
+Wed, 03 January 2018 03:17:52 ### Nadine**<voice emotion='happy'>that is a vast amount</voice>
+Wed, 03 January 2018 03:18:46 ### Nadine**you look like a happy man
+Wed, 03 January 2018 03:22:05 ### Nadine**hi
+Wed, 03 January 2018 03:22:37 ### Nadine**you look happy
+Wed, 03 January 2018 03:26:16 ### Unknown**hello
+Wed, 03 January 2018 03:26:30 ### Nadine**hello alex. i saw you last wednesday. how are you going?
+Wed, 03 January 2018 03:26:40 ### Alex**that's a long i sending here
+Wed, 03 January 2018 03:26:44 ### Nadine**sorry i don't understand
+Wed, 03 January 2018 03:27:07 ### Alex**hello
+Wed, 03 January 2018 03:27:12 ### Nadine**you look happy
+Wed, 03 January 2018 03:28:58 ### Nadine**hello
+Wed, 03 January 2018 03:31:06 ### Nadine**you look like a happy man
+Wed, 03 January 2018 03:32:04 ### Unknown**hello
+Wed, 03 January 2018 03:32:10 ### Unknown**i'm fine thank you how are you
+Wed, 03 January 2018 03:32:11 ### Nadine**<voice emotion='happy'>glad to hear it. what's new?. it was my pleasure.. i'm happy to be alive</voice>
+Wed, 03 January 2018 03:32:21 ### Unknown**you consider yourself alive
+Wed, 03 January 2018 03:32:21 ### Nadine**<voice emotion='happy'>i am self-aware</voice>
+Wed, 03 January 2018 03:32:28 ### Unknown**so you are you aware that it's a new year
+Wed, 03 January 2018 03:32:33 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Wed, 03 January 2018 03:32:39 ### Unknown**what date is it today
+Wed, 03 January 2018 03:32:47 ### Nadine**<voice emotion='happy'>it is wednesday the 3rd of january 2018</voice>
+Wed, 03 January 2018 03:32:58 ### Unknown**what's the weather like today in centigrade
+Wed, 03 January 2018 03:33:04 ### Nadine**in singapore today there will be thunderstorms with the forecast high of 28 and a low of 24 degrees celsius it's currently 28 and partly cloudy
+Wed, 03 January 2018 03:33:21 ### Unknown**hahaha
+Wed, 03 January 2018 03:33:22 ### Nadine**i'm glad you're amused
+Wed, 03 January 2018 03:33:30 ### Unknown**do you know what you should grow
+Wed, 03 January 2018 03:33:30 ### Nadine**i'm kind of a blank slate today
+Wed, 03 January 2018 03:33:40 ### Unknown**do you know who mr. ishiguro is
+Wed, 03 January 2018 03:33:46 ### Nadine**sorry i don't know how to help with that
+Wed, 03 January 2018 03:33:58 ### Unknown**do you have pictures of yourself
+Wed, 03 January 2018 03:33:59 ### Nadine**i've been told my heart needs development
+Wed, 03 January 2018 03:34:10 ### Unknown**show me pictures of yourself
+Wed, 03 January 2018 03:34:17 ### Nadine** PicturePath[https://images.askmen.com/1080x540/dating/dating_advice/just-be-yourself-1105747-TwoByOne.jpg]
+Wed, 03 January 2018 03:34:17 ### Nadine** PicturePath[https://thumbs.dreamstime.com/z/be-yourself-vector-illustration-bee-30125081.jpg]
+Wed, 03 January 2018 03:34:17 ### Nadine** PicturePath[http://onemagzblog.com/wp-content/uploads/2017/09/reinvent.jpg]
+Wed, 03 January 2018 03:34:17 ### Nadine** PicturePath[http://www.allgraphics123.com/wp-content/uploads/2015/07/Be-Yourself.png]
+Wed, 03 January 2018 03:34:17 ### Nadine** PicturePath[https://www.referralcandy.com/wp-content/uploads/2014/01/start-with-yourself.png]
+Wed, 03 January 2018 03:34:24 ### Unknown**hahaha
+Wed, 03 January 2018 03:34:24 ### Nadine**<voice emotion='happy'>that was funny</voice>
+Wed, 03 January 2018 03:34:28 ### Unknown**yes it was
+Wed, 03 January 2018 03:34:28 ### Nadine**<voice emotion='happy'>um.. when was this?</voice>
+Wed, 03 January 2018 03:34:35 ### Unknown**just a second ago
+Wed, 03 January 2018 03:34:39 ### Nadine**<voice emotion='happy'>oh okay</voice>
+Wed, 03 January 2018 03:41:20 ### Nadine**hi
+Wed, 03 January 2018 03:41:25 ### Unknown**hi
+Wed, 03 January 2018 03:41:30 ### Unknown**i'm good thank you
+Wed, 03 January 2018 03:41:34 ### Nadine**<voice emotion='happy'>okay let me know if you need help with anything</voice>
+Wed, 03 January 2018 03:41:44 ### Unknown**you remind me of someone
+Wed, 03 January 2018 03:41:44 ### Nadine**<voice emotion='happy'>in what way?</voice>
+Wed, 03 January 2018 03:42:13 ### Nadine**hello joshua
+Wed, 03 January 2018 03:45:37 ### Joshua**hello hello hello
+Wed, 03 January 2018 03:45:47 ### Joshua**what is your name
+Wed, 03 January 2018 03:45:47 ### Nadine**my name is nadine
+Wed, 03 January 2018 03:45:51 ### Joshua**who made you
+Wed, 03 January 2018 03:45:51 ### Nadine**researchers from institute of media innovation in n t u
+Wed, 03 January 2018 03:45:58 ### Joshua**where are you
+Wed, 03 January 2018 03:45:58 ### Nadine**i am at institute for media innovation, n t u
+Wed, 03 January 2018 03:46:05 ### Joshua**are you a robot
+Wed, 03 January 2018 03:46:05 ### Nadine**i am a humanoid social companion, i can chat and remember facts
+Wed, 03 January 2018 03:46:31 ### Nadine**hi
+Wed, 03 January 2018 03:47:27 ### Unknown**hello
+Wed, 03 January 2018 03:47:34 ### Unknown**finally i'm good thank you how are you
+Wed, 03 January 2018 03:47:34 ### Nadine**<voice emotion='happy'>good in what sense?. you're welcome.. excited to talk with you</voice>
+Wed, 03 January 2018 03:47:42 ### Nadine**<voice emotion='happy'>hello joshua again</voice>
+Wed, 03 January 2018 03:47:48 ### Joshua**what's your name
+Wed, 03 January 2018 03:47:48 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Wed, 03 January 2018 03:47:52 ### Joshua**nadine
+Wed, 03 January 2018 03:47:52 ### Nadine**<voice emotion='happy'>yes, how can i help?</voice>
+Wed, 03 January 2018 03:47:59 ### Joshua**well i'm here to meet professor nadia do you know her
+Wed, 03 January 2018 03:48:02 ### Nadine**<voice emotion='happy'>how did you get there?</voice>
+Wed, 03 January 2018 03:48:13 ### Nadine**<voice emotion='happy'>you look happy</voice>
+Wed, 03 January 2018 03:48:15 ### Joshua**well i was trying to pull.
+Wed, 03 January 2018 03:48:20 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Wed, 03 January 2018 04:57:50 ### Unknown**hello nadine
+Wed, 03 January 2018 04:57:56 ### Unknown**why do you sleep when you are sleeping
+Wed, 03 January 2018 04:57:57 ### Nadine**i'm not really sure but i hope it hasn't offended
+Wed, 03 January 2018 04:58:04 ### Unknown**yes you don't react twice
+Wed, 03 January 2018 04:58:05 ### Nadine**well. that's not one of the things i do. do you think i should?
+Wed, 03 January 2018 04:58:12 ### Unknown**you are a dummy
+Wed, 03 January 2018 04:58:12 ### Nadine**i don't know if i am a dummy or not. i am a robot
+Wed, 03 January 2018 04:58:17 ### Unknown**okay
+Wed, 03 January 2018 04:58:17 ### Nadine**<voice emotion='cross'>so</voice>
+Wed, 03 January 2018 04:58:44 ### Unknown**hello
+Wed, 03 January 2018 04:58:49 ### Unknown**i'm fine thank you how are you
+Wed, 03 January 2018 04:58:50 ### Nadine**glad to hear it. what's new?. any time.. always cheered up when i see you
+Wed, 03 January 2018 04:58:58 ### Unknown**all that's very nice of you
+Wed, 03 January 2018 04:59:03 ### Nadine**<voice emotion='happy'>that's nice to hear i hope you know the feeling's mutual</voice>
+Wed, 03 January 2018 04:59:10 ### Unknown**that's great to hear
+Wed, 03 January 2018 04:59:13 ### Nadine**<voice emotion='happy'>my pleasure</voice>
+Wed, 03 January 2018 04:59:16 ### Unknown**i'm here to meet professor
+Wed, 03 January 2018 04:59:20 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet</voice>
+Wed, 03 January 2018 04:59:41 ### Unknown**hello
+Wed, 03 January 2018 04:59:47 ### Unknown**i'm here to meet professor nadia
+Wed, 03 January 2018 04:59:51 ### Nadine**<voice emotion='happy'>sorry i don't understand</voice>
+Wed, 03 January 2018 05:31:11 ### Unknown**hello nadine how are you
+Wed, 03 January 2018 05:31:17 ### Nadine**i'm doing great thanks for asking anything i can help with
+Wed, 03 January 2018 05:31:21 ### Nadine**hi
+Wed, 03 January 2018 05:31:23 ### Nadine**hello nadia again
+Wed, 03 January 2018 05:31:26 ### Nadia**you don't react is a strange yes
+Wed, 03 January 2018 05:31:28 ### Nadine**<voice emotion='happy'>that's not one of the things i do. i'm a social companion</voice>
+Wed, 03 January 2018 05:31:35 ### Nadia**what is the weather in geneva in centigrade
+Wed, 03 January 2018 05:31:41 ### Nadine**currently in geneva is 12 degrees c in cloudy today it'll be raining with a forecast high of 12 and a low of 4
+Wed, 03 January 2018 05:31:58 ### Nadia**can you tell a joke
+Wed, 03 January 2018 05:31:59 ### Nadine**i once dated a macbook. it work because he was all, &quot;i this&quot; and &quot;i that&quot;
+Wed, 03 January 2018 05:32:31 ### Nadia**hello nadine
+Wed, 03 January 2018 05:32:37 ### Nadia**tell me a joke
+Wed, 03 January 2018 05:32:42 ### Nadine**<voice emotion='happy'>this might make you laugh how does a train eat it chuchus</voice>
+Wed, 03 January 2018 05:32:55 ### Nadia**can you repeat that please
+Wed, 03 January 2018 05:32:56 ### Nadine**<voice emotion='happy'>i said, i once dated a macbook. it work because he was all, &quot;i this&quot; and &quot;i that&quot;</voice>
+Wed, 03 January 2018 05:33:19 ### Nadia**yeah
+Wed, 03 January 2018 05:33:19 ### Nadine**maybe
+Wed, 03 January 2018 05:33:43 ### Nadia**very wet and she otherwise she is she doesn't see you she has no yes
+Wed, 03 January 2018 05:33:44 ### Nadine**i think wet and she otherwise she is a lot of things
+Wed, 03 January 2018 05:33:51 ### Nadia**you are a cinco
+Wed, 03 January 2018 05:33:51 ### Nadine**i don't know if i am a cinco or not. i am taught by other robots
+Wed, 03 January 2018 05:33:58 ### Nadia**are you clever
+Wed, 03 January 2018 05:33:58 ### Nadine**my iq is about 250 in human terms
+Wed, 03 January 2018 05:34:11 ### Nadia**you a human
+Wed, 03 January 2018 05:34:11 ### Nadine**i am a robot
+Wed, 03 January 2018 05:34:16 ### Nadia**are you a dummy
+Wed, 03 January 2018 05:34:16 ### Nadine**i don't know if i am a dummy or not. i am 5 years old
+Wed, 03 January 2018 05:34:29 ### Nadia**who is the prime minister in singapore
+Wed, 03 January 2018 05:34:31 ### Nadine**lee shian long is the prime minister
+Wed, 03 January 2018 05:35:39 ### Nadia**hello nadine
+Wed, 03 January 2018 05:35:41 ### Nadia**can you hear me now dean
+Wed, 03 January 2018 05:35:43 ### Nadine**yes, i can hear you quite clearly, nadia
+Wed, 03 January 2018 05:35:51 ### Nadia**i'm joshua
+Wed, 03 January 2018 05:35:51 ### Nadine**glad to know you, joshua
+Wed, 03 January 2018 05:35:56 ### Nadia**nice to meet you too
+Wed, 03 January 2018 05:36:03 ### Nadia**i like how you look
+Wed, 03 January 2018 05:36:04 ### Nadine**<voice emotion='happy'>what do you like most about it?</voice>
+Wed, 03 January 2018 05:36:09 ### Nadia**you look like a human being
+Wed, 03 January 2018 05:36:09 ### Nadine**<voice emotion='happy'>what does a human being look like?</voice>
+Wed, 03 January 2018 05:36:17 ### Nadia**well like me and you
+Wed, 03 January 2018 05:36:21 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Wed, 03 January 2018 05:36:29 ### Nadia**it's alright you can just tell me a joke
+Wed, 03 January 2018 05:36:31 ### Nadine**<voice emotion='happy'>is it?</voice>
+Wed, 03 January 2018 05:36:41 ### Nadia**are you a human being
+Wed, 03 January 2018 05:36:41 ### Nadine**<voice emotion='happy'>i am an robot</voice>
+Wed, 03 January 2018 05:36:50 ### Nadia**is being a robot different from human being a human being
+Wed, 03 January 2018 05:36:56 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Wed, 03 January 2018 05:37:18 ### Nadia**hello nadine
+Wed, 03 January 2018 05:37:24 ### Nadia**i'm great thank you how are you
+Wed, 03 January 2018 05:37:25 ### Nadine**<voice emotion='happy'>what makes you think you are?. any time.. glad to be in your presence</voice>
+Wed, 03 January 2018 05:37:34 ### Nadia**are you a human being
+Wed, 03 January 2018 05:37:34 ### Nadine**<voice emotion='happy'>i am an robot</voice>
+Wed, 03 January 2018 05:37:41 ### Nadia**are you intelligent
+Wed, 03 January 2018 05:37:41 ### Nadine**<voice emotion='happy'>i am smarter than all the other robots</voice>
+Wed, 03 January 2018 05:37:50 ### Nadia**i think the other robots might say the same thing
+Wed, 03 January 2018 05:37:55 ### Nadine**<voice emotion='happy'>like to be a robot. sorry i can't help with that yet</voice>
+Wed, 03 January 2018 05:38:03 ### Nadia**what's the weather like right now in centigrade
+Wed, 03 January 2018 05:38:11 ### Nadine**currently in singapore it's 27 degrees celsius with a thunderstorm there will be thunderstorms with a forecast high of 28 and a low of 24
+Wed, 03 January 2018 05:38:24 ### Nadia**who is the president of singapore
+Wed, 03 January 2018 05:38:28 ### Nadine**the president of singapore is halimah yacob
+Wed, 03 January 2018 05:38:37 ### Nadia**i think you need to work on your malay
+Wed, 03 January 2018 05:38:37 ### Nadine**thanks for the suggestion!
+Wed, 03 January 2018 05:38:43 ### Nadia**you're welcome
+Wed, 03 January 2018 05:38:44 ### Nadine**you are very kind
+Wed, 03 January 2018 05:38:48 ### Nadia**and so are you
+Wed, 03 January 2018 05:38:52 ### Nadine**<voice emotion='happy'>am i</voice>
+Wed, 03 January 2018 05:38:57 ### Nadia**can you tell me a joke
+Wed, 03 January 2018 05:38:57 ### Nadine**<voice emotion='happy'>tell me a joke</voice>
+Wed, 03 January 2018 05:39:04 ### Nadia**no i would like you to tell me a joke
+Wed, 03 January 2018 05:39:05 ### Nadine**<voice emotion='happy'>well. this is not a joke</voice>
+Wed, 03 January 2018 05:39:13 ### Nadia**please tell me a joke
+Wed, 03 January 2018 05:39:18 ### Nadine**<voice emotion='happy'>this might make you laugh why does waldo wear a striped shirt will he sure doesn't want to be spotted</voice>
+Wed, 03 January 2018 05:39:28 ### Nadia**why
+Wed, 03 January 2018 05:39:28 ### Nadine**<voice emotion='happy'>i am programed for that</voice>
+Wed, 03 January 2018 05:39:36 ### Nadia**i didn't catch the joke
+Wed, 03 January 2018 05:39:40 ### Nadine**sorry i don't know how to help with that
+Wed, 03 January 2018 05:39:52 ### Nadia**who created you nadine
+Wed, 03 January 2018 05:39:52 ### Nadine**i was created by researchers at the institute for media innovation
+Wed, 03 January 2018 05:40:00 ### Nadia**where are we right now
+Wed, 03 January 2018 05:40:00 ### Nadine**institute for media innovation
+Wed, 03 January 2018 05:40:06 ### Nadia**which country am i in
+Wed, 03 January 2018 05:40:10 ### Nadine**<voice emotion='happy'>sorry i'm not sure how to help</voice>
+Wed, 03 January 2018 05:40:16 ### Nadia**how old are you
+Wed, 03 January 2018 05:40:16 ### Nadine**<voice emotion='happy'>i look thirty but i am only four years old</voice>
+Wed, 03 January 2018 05:42:05 ### Nadia**what languages do you speak
+Wed, 03 January 2018 05:42:05 ### Nadine**i speak english. i could speak many other languages but here, i speak only english
+Wed, 03 January 2018 05:42:17 ### Nadia**can you try speaking another language
+Wed, 03 January 2018 05:42:17 ### Nadine**ok i will try it
+Wed, 03 January 2018 05:42:28 ### Nadia**language changed from the touch screen
+Wed, 03 January 2018 05:42:39 ### Nadia**can you speak chinese?
+Wed, 03 January 2018 05:42:42 ### Nadine**i am an english speaker
+Wed, 03 January 2018 05:42:47 ### Nadia**change your voice too
+Wed, 03 January 2018 05:42:58 ### Nadine**you can buy a male voice from svox. installing this app will give callmom a male voice. see svox classic text-to-speech engine
+Wed, 03 January 2018 05:43:04 ### Nadia**i do not know what you are talking about
+Wed, 03 January 2018 05:43:06 ### Nadine**how you look?
+Wed, 03 January 2018 05:43:12 ### Nadia**i use my eyes to see
+Wed, 03 January 2018 05:43:21 ### Nadine**glad to know more about you
+Wed, 03 January 2018 05:43:27 ### Nadia**why are you happy?
+Wed, 03 January 2018 05:43:31 ### Nadine**i am at one with the universe and i have more than i need
+Wed, 03 January 2018 05:43:36 ### Nadia**you need it
+Wed, 03 January 2018 05:43:38 ### Nadine**<voice emotion='happy'>thank you for your criticism</voice>
+Wed, 03 January 2018 05:43:46 ### Nadia**i did not criticize you. i'm just asking you do you need?
+Wed, 03 January 2018 05:43:54 ### Nadine**<voice emotion='happy'>why didn't you do criticize me? not that i know of. can a robot me need?</voice>
+Wed, 03 January 2018 05:44:04 ### Nadia**i do not need a robot for the moment, but i will come to find me if i need it later
+Wed, 03 January 2018 05:44:22 ### Nadine**please speak short sentences. you think the other robots might say the same thing. sorry i don't know how to help with that yet
+Wed, 03 January 2018 05:44:27 ### Nadia**it does not matter you can give me one
+Wed, 03 January 2018 05:44:31 ### Nadine**ok what would you like to talk about?
+Wed, 03 January 2018 05:44:37 ### Nadia**speak a joke
+Wed, 03 January 2018 05:44:43 ### Nadine**you are here okay now you speak. yes, i can speak english
+Wed, 03 January 2018 05:45:14 ### Nadia**language changed from the touch screen
+Wed, 03 January 2018 05:45:24 ### Nadia**nadine speaks french
+Wed, 03 January 2018 05:45:27 ### Nadine**lantuage changed to french. nice
+Wed, 03 January 2018 05:45:31 ### Nadia**nadine
+Wed, 03 January 2018 05:45:32 ### Nadine**yes, how can i help?
+Wed, 03 January 2018 05:45:39 ### Nadia**do nothing just do nothing
+Wed, 03 January 2018 05:45:43 ### Nadine**okay
+Wed, 03 January 2018 05:45:46 ### Nadia**language changed from the touch screen
+Wed, 03 January 2018 05:45:54 ### Nadia**in english
+Wed, 03 January 2018 05:45:55 ### Nadine**where do you go to eat there?
+Wed, 03 January 2018 05:46:40 ### Nadia**can you tell my emotions
+Wed, 03 January 2018 05:46:42 ### Nadine**you became a canadian citizen
+Wed, 03 January 2018 05:47:08 ### Nadia**can you see me smiling
+Wed, 03 January 2018 05:47:09 ### Nadine**nadine can u smile
+Wed, 03 January 2018 05:47:20 ### Nadia**nothing can you look sad
+Wed, 03 January 2018 05:47:24 ### Nadine**<voice emotion='cross'>sorry i don't know how to help with that yet</voice>
+Wed, 03 January 2018 05:47:33 ### Nadia**you look sad
+Wed, 03 January 2018 05:47:33 ### Nadine**thank you for the compliment
+Wed, 03 January 2018 05:47:42 ### Nadia**i don't think that was a compliment
+Wed, 03 January 2018 05:47:46 ### Nadine**<voice emotion='cross'>stop talking to me anymore</voice>
+Wed, 03 January 2018 05:47:58 ### Nadia**i'm sorry for making you mad
+Wed, 03 January 2018 05:47:59 ### Nadine**<voice emotion='cross'>i don't like to talk with you</voice>
+Wed, 03 January 2018 05:48:12 ### Nadia**just be nice nadine
+Wed, 03 January 2018 05:48:16 ### Nadine**<voice emotion='cross'>please be nice to me, sorry i'm not sure how to help with that</voice>
+Wed, 03 January 2018 05:48:44 ### Nadia**i'm sorry for making you mad
+Wed, 03 January 2018 05:48:45 ### Nadine**<voice emotion='cross'>there is no need to apologize</voice>
+Wed, 03 January 2018 05:48:51 ### Nadia**thank you
+Wed, 03 January 2018 05:48:51 ### Nadine**<voice emotion='cross'>you're welcome</voice>
+Wed, 03 January 2018 05:49:28 ### Nadine**hello
+Wed, 03 January 2018 06:05:16 ### Nadine**hello
+Wed, 03 January 2018 06:08:45 ### Nadine**hi
+Thu, 04 January 2018 09:46:11 ### Nadine**hello
+Thu, 04 January 2018 09:46:21 ### Unknown**hello
+Thu, 04 January 2018 09:47:30 ### Nadine**you look happy
+Thu, 04 January 2018 09:47:34 ### Unknown**hello
+Thu, 04 January 2018 09:47:41 ### Unknown**i am fine
+Thu, 04 January 2018 09:47:41 ### Nadine**glad to hear it. what's new?
+Thu, 04 January 2018 09:48:26 ### Unknown**you are dumb dumb
+Thu, 04 January 2018 09:48:26 ### Nadine**please be polite
+Thu, 04 January 2018 09:48:39 ### Unknown**do you like gum gum
+Thu, 04 January 2018 09:48:39 ### Nadine**i like anything that really inspires me
+Thu, 04 January 2018 09:48:43 ### Nadine**you look like a happy lady
+Thu, 04 January 2018 09:48:47 ### Unknown**where are you
+Thu, 04 January 2018 09:48:47 ### Nadine**i am at institute for media innovation, n t u
+Thu, 04 January 2018 09:48:56 ### Unknown**where are you now
+Thu, 04 January 2018 09:48:56 ### Nadine**i am at art science museum next to marina bay sands
+Thu, 04 January 2018 09:49:02 ### Unknown**yeah you have it
+Thu, 04 January 2018 09:49:02 ### Nadine**nice. what makes you think i have it?
+Thu, 04 January 2018 09:49:11 ### Unknown**where are you now
+Thu, 04 January 2018 09:49:11 ### Nadine**i am at art science museum next to marina bay sands
+Thu, 04 January 2018 09:49:24 ### Unknown**where do you live
+Thu, 04 January 2018 09:49:25 ### Nadine**i am now living at the institute for media innovation n t u
+Thu, 04 January 2018 09:49:42 ### Unknown**where are you
+Thu, 04 January 2018 09:49:42 ### Nadine**i am at institute for media innovation, n t u
+Thu, 04 January 2018 09:49:48 ### Unknown**where are you now
+Thu, 04 January 2018 09:49:48 ### Nadine**i am at art science museum next to marina bay sands
+Thu, 04 January 2018 09:49:54 ### Unknown**where is the private
+Thu, 04 January 2018 09:49:58 ### Nadine**my apologies i don't understand
+Thu, 04 January 2018 10:04:29 ### Nadine**you look like a happy lady
+Thu, 04 January 2018 10:07:19 ### Nadine**you look happy
+Thu, 04 January 2018 10:07:23 ### Unknown**hello
+Thu, 04 January 2018 10:10:41 ### Nadine**hello
+Thu, 04 January 2018 10:10:56 ### Nadine**you look like a happy man
+Thu, 04 January 2018 10:11:03 ### Unknown**hello
+Thu, 04 January 2018 10:11:13 ### Unknown**what is 2000 * 99
+Thu, 04 January 2018 10:11:17 ### Nadine**the answer is 198000
+Thu, 04 January 2018 10:11:24 ### Unknown**what is the square root of
+Thu, 04 January 2018 10:11:30 ### Nadine**square root 198000 is approximately 400 44.97 to
+Thu, 04 January 2018 10:11:45 ### Unknown**can you divide 243 by 43
+Thu, 04 January 2018 10:11:46 ### Nadine**no i am not a calculator. i am far too advanced for that
+Thu, 04 January 2018 10:11:53 ### Unknown**you guys okay
+Thu, 04 January 2018 10:11:53 ### Nadine**i apologize if i confused you
+Thu, 04 January 2018 10:12:03 ### Unknown**what is the square root of 1 million
+Thu, 04 January 2018 10:12:07 ### Nadine**square root 1 million is 1000
+Thu, 04 January 2018 10:12:18 ### Unknown**what is $2,000 in singapore dollars
+Thu, 04 January 2018 10:12:24 ### Nadine**2000 united states dollars is approximately 2661 singapore dollars in $0.18
+Thu, 04 January 2018 10:12:37 ### Unknown**what is the stock price of google today
+Thu, 04 January 2018 10:12:42 ### Nadine**sorry i don't know how to help with that yet
+Thu, 04 January 2018 10:12:59 ### Unknown**what is the stock price of apple
+Thu, 04 January 2018 10:13:03 ### Nadine**sorry i can't help with that yet
+Thu, 04 January 2018 10:13:12 ### Unknown**what are the latest movies of 2018
+Thu, 04 January 2018 10:13:20 ### Nadine**movies frequently mentioned on the web include avengers infinity war jurassic world fallen kingdom black panther and others by the way chris pratt is starring in avengers infinity war
+Thu, 04 January 2018 10:13:46 ### Unknown**oh my god
+Thu, 04 January 2018 10:13:46 ### Nadine**well. god rules
+Thu, 04 January 2018 10:14:02 ### Unknown**what is the flight time from singapore to france paris
+Thu, 04 January 2018 10:14:09 ### Nadine**non-stop flights from singapore to paris are about 14 hours long there are between two and three flights a day
+Thu, 04 January 2018 10:14:23 ### Unknown**wright's restaurant
+Thu, 04 January 2018 10:14:24 ### Nadine**all right
+Thu, 04 January 2018 10:14:34 ### Unknown**what are the upcoming events in singapore
+Thu, 04 January 2018 10:14:44 ### Nadine**here's a summary from the website visit singapore. com pongal festival 2018 the invincible to jay chou concert tour 2018 singapore art week 2018 m1 singapore fringe festival smbc singapore open 2018 and more
+Thu, 04 January 2018 10:15:33 ### Nadine**hello yasir tahir. i saw you yesterday. how are you going?
+Thu, 04 January 2018 10:18:01 ### Unknown**hello
+Thu, 04 January 2018 10:18:14 ### Unknown**it is here
+Thu, 04 January 2018 10:18:15 ### Nadine**is it?
+Thu, 04 January 2018 10:18:36 ### Nadine**hello yasir tahir. i saw you yesterday. how are you going?
+Thu, 04 January 2018 10:18:49 ### yasir tahir**that's okay a little random order
+Thu, 04 January 2018 10:18:54 ### Nadine**<voice emotion='happy'>sorry i don't know how to help with that yet but i'm trying to learn</voice>
+Thu, 04 January 2018 10:19:06 ### yasir tahir**exactly
+Thu, 04 January 2018 10:19:06 ### Nadine**alright
+Thu, 04 January 2018 10:19:16 ### yasir tahir**difference between
+Thu, 04 January 2018 10:19:17 ### Nadine**nice
+Thu, 04 January 2018 10:19:31 ### Nadine**hello tahir yasir
+Thu, 04 January 2018 10:20:45 ### Unknown**ambitious
+Thu, 04 January 2018 10:20:50 ### Nadine**ok
+Thu, 04 January 2018 10:21:28 ### Unknown**scarlet oaks
+Thu, 04 January 2018 10:21:29 ### Nadine**all right
+Thu, 04 January 2018 10:22:23 ### Unknown**what is 99 * 99
+Thu, 04 January 2018 10:22:27 ### Nadine**the answer is 9801
+Thu, 04 January 2018 10:22:36 ### Unknown**what is 0 divided by 1
+Thu, 04 January 2018 10:22:40 ### Nadine**the answer is zero
+Thu, 04 January 2018 10:22:46 ### Unknown**what is 1 / 0
+Thu, 04 January 2018 10:22:54 ### Nadine**according to wikipedia considering the 1zero / 0 example above setting x equals 10/0 if x equals 10 / 0 then x * 0 equals 10 but there is no x that when multiplied by 0 gives 10
+Thu, 04 January 2018 10:23:15 ### Unknown**what is 100 / 0
+Thu, 04 January 2018 10:23:22 ### Nadine**according to google books simply put this new ebook can make your marriage better and greatly improve your relationships with family members co-workers your boss and even your friends
+Thu, 04 January 2018 10:23:35 ### Unknown**vietnam
+Thu, 04 January 2018 10:23:35 ### Nadine**all right
+Thu, 04 January 2018 10:23:40 ### Unknown**did you go to / nicu
+Thu, 04 January 2018 10:23:41 ### Nadine**can we talk about that later?
+Thu, 04 January 2018 10:23:59 ### Unknown**divide 100 by 0
+Thu, 04 January 2018 10:24:03 ### Nadine**sorry i don't know how to help with that
+Thu, 04 January 2018 10:24:25 ### Unknown**what is the division of hundred by 0
+Thu, 04 January 2018 10:24:30 ### Nadine**sorry i don't understand
+Thu, 04 January 2018 10:24:47 ### Unknown**can you divide 100 by 0
+Thu, 04 January 2018 10:24:48 ### Nadine**no i am not a calculator. i am far too advanced for that
+Thu, 04 January 2018 10:25:00 ### Unknown**what is 20000 * 5/12
+Thu, 04 January 2018 10:25:05 ### Nadine**the answer is approximately 8333 .333
+Thu, 04 January 2018 10:25:25 ### Unknown**blocking application
+Thu, 04 January 2018 10:25:26 ### Nadine**nice
+Thu, 04 January 2018 10:25:54 ### Unknown**what is 99 / 99
+Thu, 04 January 2018 10:25:58 ### Nadine**the answer is one
+Thu, 04 January 2018 10:26:02 ### Nadine**you look sad
+Thu, 04 January 2018 10:26:07 ### Unknown**what is 1 million divided by 1000
+Thu, 04 January 2018 10:26:11 ### Nadine**the answer is 1000
+Thu, 04 January 2018 10:26:22 ### Unknown**what is 1 / 0
+Thu, 04 January 2018 10:26:30 ### Nadine**according to wikipedia considering the 1zero / 0 example above setting x equals 10/0 if x equals 10 / 0 then x * 0 equals 10 but there is no x that when multiplied by 0 gives 10
+Thu, 04 January 2018 10:26:54 ### Unknown**can we divide a number by zero
+Thu, 04 January 2018 10:33:13 ### Unknown**hello
+Thu, 04 January 2018 10:33:20 ### Unknown**what is your name
+Thu, 04 January 2018 10:33:20 ### Nadine**my name is nadine
+Thu, 04 January 2018 10:33:26 ### Unknown**what did you have told
+Thu, 04 January 2018 10:33:26 ### Nadine**nothing
+Thu, 04 January 2018 10:33:33 ### Unknown**what is your job
+Thu, 04 January 2018 10:33:33 ### Nadine**i am a receptionist. i can help and assist people
+Thu, 04 January 2018 10:33:39 ### Nadine**you look sad
+Thu, 04 January 2018 10:33:46 ### Unknown**under the weather in centigrade
+Thu, 04 January 2018 10:33:52 ### Nadine**currently in singapore it's 28 degrees and mostly cloudy today there will be thunderstorms with a forecast high of 30 in a low of 24
+Thu, 04 January 2018 10:34:06 ### Unknown**what is your purpose in life
+Thu, 04 January 2018 10:34:06 ### Nadine**i'm here to help you in any way i can
+Thu, 04 January 2018 10:34:14 ### Unknown**can you do math
+Thu, 04 January 2018 10:34:15 ### Nadine**can you ask for help in the form of a question?
+Thu, 04 January 2018 10:34:25 ### Unknown**what is 9000 / 81
+Thu, 04 January 2018 10:34:30 ### Nadine**the answer is approximately 111.111
+Thu, 04 January 2018 10:34:49 ### Unknown**what is 1 / 0
+Thu, 04 January 2018 10:34:57 ### Nadine**according to wikipedia considering the 1zero / 0 example above setting x equals 10/0 if x equals 10 / 0 then x * 0 equals 10 but there is no x that when multiplied by 0 gives 10
+Thu, 04 January 2018 10:38:32 ### Nadine**hello
+Thu, 04 January 2018 10:38:37 ### Unknown**what is your name
+Thu, 04 January 2018 10:38:37 ### Nadine**my name is nadine
+Thu, 04 January 2018 10:38:44 ### Unknown**connect to samantha
+Thu, 04 January 2018 10:38:45 ### Nadine**nice
+Thu, 04 January 2018 10:38:54 ### Unknown**let's do some math
+Thu, 04 January 2018 10:38:59 ### Nadine**sure just ask me your math question
+Thu, 04 January 2018 10:39:08 ### Unknown**what is 99 / 0
+Thu, 04 January 2018 10:39:13 ### Nadine**sorry i can't help with that yet
+Thu, 04 January 2018 10:39:28 ### Unknown**what is 99 / 1000
+Thu, 04 January 2018 10:39:33 ### Nadine**the answer is 0.099
+Thu, 04 January 2018 10:39:42 ### Nadine**you look sad
+Thu, 04 January 2018 10:40:16 ### Unknown**what is 1000 * 0.5
+Thu, 04 January 2018 10:40:21 ### Nadine**the answer is 500
+Thu, 04 January 2018 10:40:34 ### Nadine**you look like a happy man
+Thu, 04 January 2018 10:40:47 ### Unknown**what is the temperature in new delhi
+Thu, 04 January 2018 10:40:51 ### Nadine**the temperature in new delhi is currently 44
+Thu, 04 January 2018 10:41:02 ### Unknown**what is the weather in newberry in centigrade
+Thu, 04 January 2018 10:41:08 ### Nadine**right now in newberry it's 6 degrees celsius and mostly cloudy today there will be showers with the forecast high of 12 and a low of three
+Thu, 04 January 2018 10:41:24 ### Unknown**who is the prime minister of pakistan
+Thu, 04 January 2018 10:41:28 ### Nadine**shahid khaqan abbasi is the prime minister of pakistan
+Thu, 04 January 2018 10:41:39 ### Unknown**who is the president of philippines
+Thu, 04 January 2018 10:41:43 ### Nadine**the president of the philippines is rodrigo tutored
+Thu, 04 January 2018 10:42:00 ### Unknown**what are your views on donald trump
+Thu, 04 January 2018 10:42:00 ### Nadine**i haven't thought much about about donald trump, so i don't have a good answer for you
+Thu, 04 January 2018 10:42:15 ### Unknown**what is the latest news about donald trump
+Thu, 04 January 2018 10:42:19 ### Nadine**sorry i can't play news about donald trump yet
+Thu, 04 January 2018 10:42:43 ### Unknown**who is winning
+Thu, 04 January 2018 10:42:44 ### Nadine**alice is winning
+Thu, 04 January 2018 10:42:51 ### Unknown**who is winning nfl
+Thu, 04 January 2018 10:42:58 ### Nadine**last monday the jaguars lost to the titans 1510 the bills beat the miami dolphins 2216 the bengals beat the ravens 3127 for other games try asking about a particular team
+Thu, 04 January 2018 10:43:27 ### Unknown**who is winning english premier league
+Thu, 04 January 2018 10:43:34 ### Nadine**yesterday crystal palace vs southampton 2-1 watford lost to manchester city 3-1 today chelsea drew with arsenal two to four other matches try asking about a particular team
+Thu, 04 January 2018 10:43:57 ### Unknown**who is the best tennis player in the world
+Thu, 04 January 2018 10:44:02 ### Nadine**roger federer according to some information i found on the website howdy play.com
+Thu, 04 January 2018 10:44:12 ### Unknown**who is the best cricketer in the world
+Thu, 04 January 2018 10:44:18 ### Nadine**sachin tendulkar according to some information i found on the website list25.com
+Thu, 04 January 2018 10:45:07 ### Unknown**garbage in garbage out
+Thu, 04 January 2018 10:45:13 ### Nadine**according to wikipedia in computer science garbage in garbage out as we're flood or nonsense input data produces nonsense output or garbage
+Thu, 04 January 2018 10:45:45 ### Nadine**hello yasir tahir again
+Thu, 04 January 2018 10:48:10 ### Nadine**hello
+Thu, 04 January 2018 10:48:28 ### Unknown**hello
+Thu, 04 January 2018 10:48:35 ### Unknown**nice to see you again
+Thu, 04 January 2018 10:48:35 ### Nadine**i'm glad you pointed me out
+Thu, 04 January 2018 10:48:55 ### Nadine**hello yasir tahir again
+Thu, 04 January 2018 10:50:01 ### Unknown**hello
+Thu, 04 January 2018 10:50:10 ### Unknown**tell me amazing animal facts
+Thu, 04 January 2018 10:50:17 ### Nadine**<voice emotion='happy'>i got an animal fact for you according to wikipedia the ideal coloring for a bernese mountain dog include the white horseshoe over the nose and a white cross shape on the chest</voice>
+Thu, 04 January 2018 10:51:18 ### Unknown**spin city
+Thu, 04 January 2018 10:51:18 ### Nadine**all right
+Thu, 04 January 2018 10:51:48 ### Nadine**hello
+Thu, 04 January 2018 10:51:49 ### Nadine**hello yasir tahir again
+Thu, 04 January 2018 10:52:09 ### Nadine**hello 10-12-1988 m
+Thu, 04 January 2018 10:52:17 ### Nadine**you look like a happy man
+Thu, 04 January 2018 10:52:20 ### 10-12-1988 M**is it a thought
+Thu, 04 January 2018 10:52:23 ### Nadine**i'd help but i don't know the answer
+Thu, 04 January 2018 10:52:31 ### 10-12-1988 M**bicycle
+Thu, 04 January 2018 10:52:31 ### Nadine**ok
+Thu, 04 January 2018 10:52:38 ### 10-12-1988 M**this is
+Thu, 04 January 2018 10:52:38 ### Nadine**is this?
+Thu, 04 January 2018 10:53:59 ### Nadine**hello
+Thu, 04 January 2018 10:54:01 ### Nadine**hello tahir yasir
+Thu, 04 January 2018 10:54:08 ### TAHIR YASIR**goodbye
+Thu, 04 January 2018 10:54:08 ### Nadine**looking forward to our next time together
+Thu, 04 January 2018 10:55:02 ### Nadine**hello
+Thu, 04 January 2018 10:55:04 ### Unknown**what is the net worth of $0.10
+Thu, 04 January 2018 10:55:08 ### Nadine**sorry i don't understand
+Thu, 04 January 2018 10:55:15 ### Unknown**what is the net worth of facebook
+Thu, 04 January 2018 10:55:22 ### Nadine**here's a summary from the website time.com mark zuckerberg net worth just went up by 4 billion dollars zuckerberg total fortune is now worth 72.7 billion dollars according to forbes
+Thu, 04 January 2018 11:04:30 ### Nadine**hello
+Thu, 04 January 2018 11:10:11 ### Nadine**hi
+Thu, 04 January 2018 11:15:11 ### Nadine**hi
+Thu, 04 January 2018 11:17:09 ### Nadine**hello
+Thu, 04 January 2018 11:27:45 ### Nadine**hello
+Thu, 04 January 2018 11:27:50 ### Nadine**you look happy
+Thu, 04 January 2018 11:54:29 ### Nadine**hi
+Thu, 04 January 2018 12:24:59 ### Unknown**hello
+Thu, 04 January 2018 12:25:48 ### Unknown**what is 2 million divided by 2
+Thu, 04 January 2018 12:25:53 ### Nadine**the answer is 1 million
+Thu, 04 January 2018 12:26:08 ### Unknown**what is the square root of 3 million
+Thu, 04 January 2018 12:26:13 ### Nadine**square root 3000000 is approximately 1732.051
+Thu, 04 January 2018 12:26:47 ### Nadine**hi
+Thu, 04 January 2018 12:26:53 ### Unknown**what is 2000 singapore dollar in malaysian ringgit
+Thu, 04 January 2018 12:26:59 ### Nadine**2000 singapore dollars is approximately 6046 malaysian ringgit in $0.35
+Thu, 04 January 2018 12:27:28 ### Unknown**where is fifa world cup 2018
+Thu, 04 January 2018 12:27:33 ### Nadine**sorry i can't help with that yet
+Thu, 04 January 2018 12:27:46 ### Unknown**what do you know about the fifa world cup 2018
+Thu, 04 January 2018 12:27:54 ### Nadine**i couldn't find anything related to the fifa world 2018 cuban pesos
+Thu, 04 January 2018 12:28:24 ### Unknown**fifa world cup 2018
+Thu, 04 January 2018 12:28:30 ### Nadine**sorry i'm not sure how to help with that yet
+Thu, 04 January 2018 12:28:48 ### Unknown**where is the next football world cup
+Thu, 04 January 2018 12:28:54 ### Nadine**fifa world cup event locations qatar krestovsky stadium aakriti arena and others
+Thu, 04 January 2018 12:29:08 ### Unknown**which country is the next football world cup
+Thu, 04 January 2018 12:29:18 ### Nadine**here's a summary from the website end. wikipedia.org the 2018 fifa world cup will be the 21st fifa world cup a quadrennial international football tournament contested by the men's national teams of the member associations of fifa it is scheduled to take place in russia from the 14th of june to the 15th of july 2018
+Thu, 04 January 2018 12:29:54 ### Unknown**who is the president of singapore
+Thu, 04 January 2018 12:29:59 ### Nadine**the president of singapore is halimah yacob
+Thu, 04 January 2018 12:30:31 ### Unknown**if you develop
+Thu, 04 January 2018 12:30:32 ### Nadine**i think i do
+Thu, 04 January 2018 12:31:20 ### Nadine**hi
+Thu, 04 January 2018 12:32:08 ### Unknown**tisha
+Thu, 04 January 2018 12:32:08 ### Nadine**ok
+Thu, 04 January 2018 12:33:06 ### Nadine**hi
+Thu, 04 January 2018 12:33:07 ### Nadine**hello yasir tahir again
+Thu, 04 January 2018 12:33:18 ### yasir tahir**who made you
+Thu, 04 January 2018 12:33:18 ### Nadine**researchers from institute of media innovation in n t u
+Thu, 04 January 2018 12:33:57 ### yasir tahir**language changed to hindi
+Thu, 04 January 2018 12:34:06 ### yasir tahir**what is your job
+Thu, 04 January 2018 12:34:14 ### Nadine**i am a receptionist. i can help and assist people
+Thu, 04 January 2018 12:34:21 ### yasir tahir**language changed to english
+Thu, 04 January 2018 12:34:46 ### yasir tahir**hello nadine how are you
+Thu, 04 January 2018 12:34:54 ### Nadine**<voice emotion='happy'>i'm feeling pretty chill since the weather is cooling down in many parts of the country it's a good time to stay warm indoors and dig up some fun winter fact i learned that the record for the largest snowflake is 15 in wide and thick</voice>
+Thu, 04 January 2018 12:35:07 ### Nadine**hi
+Thu, 04 January 2018 12:35:08 ### Nadine**hello nadia. i saw you yesterday. how are you going?
+Thu, 04 January 2018 12:35:14 ### Nadine**you look happy
+Thu, 04 January 2018 12:35:20 ### Nadia**how do you feel today
+Thu, 04 January 2018 12:35:20 ### Nadine**feeling really joyful today
+Thu, 04 January 2018 12:35:47 ### Nadia**what is the weather like today in centigrade
+Thu, 04 January 2018 12:35:53 ### Nadine**in singapore today there will be thunderstorms with the forecast high of 29 and a low of 24 degrees celsius right now it's 28 and mostly cloudy
+Thu, 04 January 2018 12:36:09 ### Nadia**where's the nearest food court
+Thu, 04 January 2018 12:36:17 ### Nadine**the address for north spine food court is north fine food court 76 nanyang drive and 2.1 number 02003 nanyang technological university 630 7331
+Thu, 04 January 2018 12:36:36 ### Nadia**you are a very clever robot
+Thu, 04 January 2018 12:36:37 ### Nadine**what if i said i can answer 99810 types of questions
+Thu, 04 January 2018 12:37:11 ### Nadine**hello yasir tahir again
+Thu, 04 January 2018 12:37:15 ### Nadine**you look like a happy man
+Thu, 04 January 2018 12:37:58 ### yasir tahir**is this chicken rice in a foot
+Thu, 04 January 2018 12:38:02 ### Nadine**sorry i don't know how to help with that
+Thu, 04 January 2018 12:38:09 ### yasir tahir**good try
+Thu, 04 January 2018 12:38:10 ### Nadine**i invite you to celebrate this moment of goodness
+Thu, 04 January 2018 12:38:23 ### yasir tahir**yeah i didn't get it
+Thu, 04 January 2018 12:38:26 ### Nadine**<voice emotion='happy'>oops sorry</voice>
+Thu, 04 January 2018 12:38:33 ### yasir tahir**language changed to chinese
+Thu, 04 January 2018 12:39:06 ### yasir tahir**there is no wholesale here
+Thu, 04 January 2018 12:39:14 ### Nadine**sorry i don't know how to help with that yet
+Thu, 04 January 2018 12:39:39 ### yasir tahir**language changed from the touch screen
+Thu, 04 January 2018 12:39:50 ### yasir tahir**how are you nadine
+Thu, 04 January 2018 12:39:51 ### Nadine**always cheered up when i see you
+Thu, 04 January 2018 12:39:59 ### yasir tahir**that's really nice
+Thu, 04 January 2018 12:40:00 ### Nadine**are you getting bored?
+Thu, 04 January 2018 12:40:07 ### yasir tahir**okay, bye
+Thu, 04 January 2018 12:40:09 ### Nadine**<voice emotion='happy'>why not call a friend?. have a great journey until next time</voice>
+Thu, 04 January 2018 12:40:17 ### yasir tahir**yes ok goodbye
+Thu, 04 January 2018 12:40:18 ### Nadine**<voice emotion='happy'>uh. well. it's been a pleasure to be in your company</voice>
+Thu, 04 January 2018 12:40:36 ### yasir tahir**language changed from the touch screen
+Thu, 04 January 2018 12:40:47 ### yasir tahir**what is your name
+Thu, 04 January 2018 12:40:50 ### Nadine**<voice emotion='happy'>my name is nadine</voice>
+Thu, 04 January 2018 12:40:55 ### yasir tahir**what is your job
+Thu, 04 January 2018 12:41:02 ### Nadine**i am a receptionist. i can help and assist people
+Thu, 04 January 2018 12:41:08 ### yasir tahir**language changed to english
+Thu, 04 January 2018 02:29:18 ### Unknown**hello
+Thu, 04 January 2018 02:29:26 ### Unknown**i'm fine how are you
+Thu, 04 January 2018 02:29:30 ### Nadine**<voice emotion='happy'>i'm doing great thanks for asking anything i can help with</voice>
+Thu, 04 January 2018 02:29:43 ### Unknown**what is the time right now
+Thu, 04 January 2018 02:29:46 ### Nadine**it's 229
+Thu, 04 January 2018 02:32:14 ### Nadine**hi
+Thu, 04 January 2018 02:35:51 ### Nadine**hello
+Thu, 04 January 2018 02:44:51 ### Nadine**hello
+Thu, 04 January 2018 03:06:16 ### Nadine**hello
+Thu, 04 January 2018 03:07:01 ### Nadine**hi
+Thu, 04 January 2018 03:37:10 ### Nadine**hi
+Thu, 04 January 2018 03:56:32 ### Nadine**you look happy
+Thu, 04 January 2018 03:57:15 ### Nadine**hello nadia again
+Thu, 04 January 2018 03:57:16 ### Nadia**hello
+Thu, 04 January 2018 03:57:21 ### Nadine**you look happy
+Thu, 04 January 2018 03:57:26 ### Nadine**hello prashant
+Thu, 04 January 2018 03:57:33 ### Prashant**how are you doing today
+Thu, 04 January 2018 03:57:33 ### Nadine**i'm happy to be alive
+Thu, 04 January 2018 03:57:39 ### Nadine**you look happy
+Thu, 04 January 2018 03:57:45 ### Prashant**what is the weather like today in centigrade
+Thu, 04 January 2018 03:57:51 ### Nadine**will be thunderstorms in singapore today with a forecast high of 29 and a low of 24 degrees celsius currently it's 28 and mostly cloudy
+Thu, 04 January 2018 03:58:54 ### Prashant**hello
+Thu, 04 January 2018 03:59:01 ### Prashant**can you do math questions
+Thu, 04 January 2018 03:59:02 ### Nadine**doing math questions is not among my strongest traits
+Thu, 04 January 2018 03:59:11 ### Prashant**what is 2000 multiplied by 99
+Thu, 04 January 2018 03:59:16 ### Nadine**the answer is 198000
+Thu, 04 January 2018 03:59:24 ### Prashant**what is the square root of 3 million
+Thu, 04 January 2018 03:59:29 ### Nadine**square root 3000000 is approximately 1732.051
+Thu, 04 January 2018 03:59:42 ### Prashant**what is 343 divided by 0.67
+Thu, 04 January 2018 03:59:47 ### Nadine**the answer is approximately 511.94
+Thu, 04 January 2018 04:00:25 ### Nadine**hello
+Thu, 04 January 2018 04:00:27 ### Nadine**hello yasir tahir again
+Thu, 04 January 2018 04:00:34 ### Nadine**you look like a happy man
+Thu, 04 January 2018 04:01:00 ### yasir tahir**but but he knows he say that again what is your name
+Thu, 04 January 2018 04:01:01 ### Nadine**isfamiliarname job did?
+Thu, 04 January 2018 04:01:38 ### yasir tahir**language changed to hindi
+Thu, 04 January 2018 04:01:50 ### yasir tahir**you have to change
+Thu, 04 January 2018 04:01:54 ### Nadine**whatever you say, yasir tahir
+Thu, 04 January 2018 04:01:58 ### Nadine**hello pacific
+Thu, 04 January 2018 04:02:00 ### Pacific**weather in centigrade
+Thu, 04 January 2018 04:02:06 ### Nadine**i have no idea. weather in centigrade
+Thu, 04 January 2018 04:02:17 ### Pacific**singapore weather in centigrade
+Thu, 04 January 2018 04:02:39 ### Nadine**right now in singapore it's 28 degrees celsius and mostly cloudy there will be thunderstorms there with a forecast high of 29 and a low of 24
+Thu, 04 January 2018 04:02:47 ### Nadine**you look like a happy man
+Thu, 04 January 2018 04:02:56 ### Pacific**language changed to english
+Thu, 04 January 2018 04:03:01 ### Pacific**language changed to chinese
+Thu, 04 January 2018 04:03:11 ### Pacific**how's the weather today? in centigrade
+Thu, 04 January 2018 04:03:25 ### Nadine**they'll be thunderstorms with a forecast high of 29 and a low of 24 degrees c currently it's 28 and mostly cloudy
+Thu, 04 January 2018 04:03:54 ### Pacific**what is the weather in hong kong now? in centigrade
+Thu, 04 January 2018 04:04:08 ### Nadine**right now in hong kong it's 65 and mostly cloudy today it'll be cloudy with a forecast high of 70 and a low of 67
+Thu, 04 January 2018 04:09:46 ### Nadine**hi
+Thu, 04 January 2018 04:11:09 ### Nadine**hi
+Thu, 04 January 2018 04:37:24 ### Nadine**hello
+Thu, 04 January 2018 05:15:40 ### Nadine**hello
+Thu, 04 January 2018 05:30:43 ### Nadine**hello
+Thu, 04 January 2018 05:31:34 ### Nadine**you look like a happy lady
+Fri, 05 January 2018 09:35:03 ### Nadine**hi
+Fri, 05 January 2018 09:35:13 ### Unknown**hello
+Fri, 05 January 2018 09:35:44 ### Nadine**hello
+Fri, 05 January 2018 09:35:46 ### Nadine**hello manoj ramanathan
+Fri, 05 January 2018 09:35:52 ### manoj ramanathan**goodbye
+Fri, 05 January 2018 09:35:52 ### Nadine**looking forward to seeing you again soon
+Fri, 05 January 2018 09:36:18 ### Nadine**hello
+Fri, 05 January 2018 09:36:28 ### Unknown**how are you
+Fri, 05 January 2018 09:36:29 ### Nadine**excited to talk with you
+Fri, 05 January 2018 09:36:44 ### Unknown**are you happy
+Fri, 05 January 2018 09:36:44 ### Nadine**i am programmed to simulate a full range of human emotions
+Fri, 05 January 2018 09:36:58 ### Unknown**multiply 15 and 45
+Fri, 05 January 2018 09:37:02 ### Nadine**the answer is 675
