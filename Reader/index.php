@@ -47,6 +47,7 @@
           </div>
         </div>
         <div class="col-sm-9">
+          <a href="javascript.void(0);" id="exePython" class="btn btn-success">Execute Python</a>
           <table id="staffInfo" class="table" style="font-size: 12px;">
             <thead>
               <tr>
@@ -88,6 +89,21 @@
           });
       }
       $("document").ready(function(){
+        
+        $("#exePython").on('click', function() => {
+             $.ajax({
+              method: "POST",
+              url : "executePy.php",
+              beforeSend: function() {
+                  $("#exePython").html("executing...");
+              },
+              success : function (data) {
+                  console.log(data)
+                  $("#exePython").html("Execute Python");
+              }
+            });              
+        });
+        
         $("#staffInfo").hide();
         setInterval(function(){
           $.ajax({
