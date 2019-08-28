@@ -47,7 +47,7 @@
           </div>
         </div>
         <div class="col-sm-9">
-          <a href="javascript.void(0);" id="exePython" class="btn btn-success">Execute Python</a>
+          <a href="javascript:void(0);" id="exePython" class="btn btn-success">Execute Python</a>
           <table id="staffInfo" class="table" style="font-size: 12px;">
             <thead>
               <tr>
