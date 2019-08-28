@@ -90,7 +90,7 @@
       }
       $("document").ready(function(){
         
-        $("#exePython").on('click', function() => {
+        $("#exePython").on('click', () => {
              $.ajax({
               method: "POST",
               url : "executePy.php",
