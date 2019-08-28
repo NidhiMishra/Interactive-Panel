@@ -98,7 +98,8 @@
                   $("#exePython").html("executing...");
               },
               success : function (data) {
-                  console.log(data)
+                  console.log(data);
+                  alert(data);
                   $("#exePython").html("Execute Python");
               }
             });              
